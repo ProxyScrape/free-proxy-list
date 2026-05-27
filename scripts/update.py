@@ -4,7 +4,8 @@ Refresh the free-proxy-list mirror from the ProxyScrape v4 public API.
 Writes:
   proxies/all/data.{txt,json,csv}
   proxies/protocols/{http,https,socks4,socks5}/data.{txt,json,csv}
-  proxies/countries/{ISO}/data.{txt,json,csv}    (ISO-3166 alpha-2, lowercased)
+  proxies/countries/{ISO}/data.{txt,json,csv}                 (ISO-3166 alpha-2, lowercased)
+  proxies/countries/{ISO}/{protocol}/data.{txt,json,csv}      (only when non-empty)
   proxies/stats.json
 
 The "all" shard is fetched in one call (with a generous limit). Protocol and

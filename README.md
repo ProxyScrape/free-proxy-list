@@ -51,8 +51,14 @@ proxies/
 │   └── socks5/                     protocol=socks5
 ├── countries/
 │   ├── us/                         lowercase ISO-3166 alpha-2 codes
-│   ├── de/
+│   │   ├── data.{txt,json,csv}     all US proxies (mixed protocols)
+│   │   ├── http/data.{txt,json,csv}
+│   │   ├── https/data.{txt,json,csv}    http && ssl=true subset
+│   │   ├── socks4/data.{txt,json,csv}
+│   │   └── socks5/data.{txt,json,csv}
+│   ├── de/                         same shape as us/
 │   └── …                           up to ~180 country shards depending on the run
+│                                   protocol subshards only emitted when non-empty
 └── stats.json                      summary: total count, per-protocol counts, country list
 ```
 
@@ -123,8 +129,11 @@ Each file is mirrored on jsDelivr for fast, global, cached access:
 | HTTPS only | `…/proxies/protocols/https/data.txt` |
 | SOCKS4 only | `…/proxies/protocols/socks4/data.txt` |
 | SOCKS5 only | `…/proxies/protocols/socks5/data.txt` |
-| Per country | `…/proxies/countries/<iso-alpha-2>/data.txt` (lowercase) |
+| Per country (all protocols) | `…/proxies/countries/<iso-alpha-2>/data.txt` |
+| Per country + protocol | `…/proxies/countries/<iso-alpha-2>/<protocol>/data.txt` |
 | Stats | `…/proxies/stats.json` |
+
+Country code is lowercase ISO-3166 alpha-2 (`us`, `de`, `gb`, …). Protocol is one of `http`, `https`, `socks4`, `socks5`. A country-protocol shard only exists if that combination has at least one proxy in the current run — `404` from jsDelivr is the canonical "no proxies of this kind right now" signal.
 
 Pin to a specific commit if you need reproducibility:
 
@@ -139,6 +148,9 @@ https://cdn.jsdelivr.net/gh/proxyscrape/free-proxy-list@<commit-sha>/proxies/all
 ```bash
 # Plain text list of all proxies
 curl https://cdn.jsdelivr.net/gh/proxyscrape/free-proxy-list@main/proxies/all/data.txt
+
+# Just US SOCKS5 proxies (no client-side filtering needed)
+curl https://cdn.jsdelivr.net/gh/proxyscrape/free-proxy-list@main/proxies/countries/us/socks5/data.txt
 
 # Pick a random elite German proxy via jq
 curl -s https://cdn.jsdelivr.net/gh/proxyscrape/free-proxy-list@main/proxies/countries/de/data.json \
