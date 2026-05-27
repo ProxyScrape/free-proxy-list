@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://proxyscrape.com">
+    <img src="https://cdn.proxyscrape.com/img/logo/dark_text_logo.svg" alt="ProxyScrape" height="72">
+  </a>
+</p>
+
 # ProxyScrape Free Proxy List
 
 > Free HTTP, HTTPS, SOCKS4 and SOCKS5 proxies — auto-refreshed every 5 minutes from the [ProxyScrape v4 API](https://docs.proxyscrape.com/api-reference/public-api/get-proxy-list).
