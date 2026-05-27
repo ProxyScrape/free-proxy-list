@@ -46,7 +46,7 @@ proxies/
 ├── countries/
 │   ├── us/                         lowercase ISO-3166 alpha-2 codes
 │   ├── de/
-│   └── …                           ~80–100 country shards depending on the run
+│   └── …                           up to ~180 country shards depending on the run
 └── stats.json                      summary: total count, per-protocol counts, country list
 ```
 
@@ -187,6 +187,21 @@ python3 scripts/update.py
 
 No dependencies — Python 3.10+, stdlib only.
 
+## Other free tools from ProxyScrape
+
+If you're working with proxies, you probably want more than just a list. These are all free, no account required:
+
+| Tool | What it does |
+|---|---|
+| 🛠 **[Online Proxy Checker](https://proxyscrape.com/online-proxy-checker)** | Paste up to 5,000 proxies in your browser. Tests HTTP, HTTPS, SOCKS4 and SOCKS5 in one run, reports protocol, latency, country and anonymity level. No install. |
+| 🖥 **[Desktop Proxy Checker](https://proxyscrape.com/proxy-checker)** | Free, open-source (MIT), runs locally. Unlimited proxy count, up to 1,850 concurrent threads, custom judge servers, blacklist filtering, check history. Windows + macOS. |
+| 🧩 **[Browser Extension](https://proxyscrape.com/proxy-manager-browser-extension)** | Switch proxies per tab from a Chrome / Firefox / Edge extension. Quick proxy rotation while browsing. |
+| 🔌 **[Public API](https://docs.proxyscrape.com/api-reference/public-api/get-proxy-list)** | The live version of this dataset — same data, updated every minute, with query-time filters this static mirror doesn't have. |
+
+## ⭐ Star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=proxyscrape/free-proxy-list&type=Date)](https://star-history.com/#proxyscrape/free-proxy-list&Date)
+
 ## Caveats — read this if you actually plan to use these
 
 These are **public, free proxies**. That means:
@@ -205,7 +220,6 @@ Code in this repository — including `scripts/update.py` and the workflow — i
 ## Links
 
 - 🌐 Website: [proxyscrape.com/free-proxy-list](https://proxyscrape.com/free-proxy-list)
-- 🔌 API docs: [docs.proxyscrape.com](https://docs.proxyscrape.com/api-reference/public-api/get-proxy-list)
-- 🛠 Free proxy checker (online): [proxyscrape.com/online-proxy-checker](https://proxyscrape.com/online-proxy-checker)
-- 🖥 Free proxy checker (desktop, open source): [proxyscrape.com/proxy-checker](https://proxyscrape.com/proxy-checker)
+- 🛠 Other free tools: see [§ Other free tools from ProxyScrape](#other-free-tools-from-proxyscrape) above
 - 💬 Discord: [discord.gg/scrape](https://discord.gg/scrape)
+- 🐦 X: [@proxyscrape](https://twitter.com/proxyscrape)
