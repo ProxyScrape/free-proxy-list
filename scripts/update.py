@@ -122,11 +122,30 @@ def fetch_page(skip: int) -> dict[str, Any]:
 
 
 def fetch_all() -> list[dict[str, Any]]:
-    """Page through the API until nextpage is false (or MAX_PAGES safety)."""
+    """Page through the API until nextpage is false (or MAX_PAGES safety).
+
+    The upstream API has a deep-pagination issue where requests beyond
+    skip ≈ 10,000 currently return 500 due to a query-ordering bug
+    (orderBy applied after skip/limit). If we hit that wall partway
+    through, we keep whatever was fetched from successful pages rather
+    than aborting the entire run. A snapshot of ~10k proxies is still
+    useful — better than failing the workflow and shipping no update.
+    First-page failures are real outages and re-raise.
+    """
     out: list[dict[str, Any]] = []
     skip = 0
     for page in range(MAX_PAGES):
-        payload = fetch_page(skip)
+        try:
+            payload = fetch_page(skip)
+        except SystemExit as err:
+            if not out:
+                raise
+            print(
+                f"[update] Pagination ended at page {page + 1} (skip={skip}) — {err}. "
+                f"Keeping {len(out)} proxies fetched so far.",
+                file=sys.stderr,
+            )
+            break
         proxies = payload.get("proxies")
         if not isinstance(proxies, list):
             raise SystemExit("API response missing 'proxies' array")
@@ -136,7 +155,10 @@ def fetch_all() -> list[dict[str, Any]]:
         if not payload.get("nextpage"):
             break
         skip += PAGE_SIZE
-        print(f"[update] Page {page + 1}: {len(proxies)} (running total {len(out)})", file=sys.stderr)
+        print(
+            f"[update] Page {page + 1}: {len(proxies)} (running total {len(out)})",
+            file=sys.stderr,
+        )
         time.sleep(REQUEST_DELAY_S)
     return out
 
@@ -221,7 +243,26 @@ def main() -> None:
     raw = fetch_all()
     rows = [flatten(p) for p in raw]
     rows = [r for r in rows if r["ip"] and r["port"] and r["protocol"]]
-    print(f"[update] Fetched {len(rows)} proxies", file=sys.stderr)
+
+    # Dedupe on (protocol, ip, port). Upstream pagination currently isn't
+    # stable (orderBy is applied after skip/limit server-side), so the same
+    # proxy can appear on multiple pages. Keeping the first occurrence is
+    # fine — all duplicates carry identical identifying fields.
+    seen: set[tuple[str, str, Any]] = set()
+    deduped: list[dict[str, Any]] = []
+    for r in rows:
+        key = (r["protocol"], r["ip"], r["port"])
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(r)
+    if len(deduped) != len(rows):
+        print(
+            f"[update] Deduped {len(rows) - len(deduped)} duplicate proxies",
+            file=sys.stderr,
+        )
+    rows = deduped
+    print(f"[update] Final unique proxy count: {len(rows)}", file=sys.stderr)
 
     # All
     write_shard(os.path.join(PROXIES_ROOT, "all"), rows)
