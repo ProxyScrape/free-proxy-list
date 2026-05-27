@@ -1,0 +1,55 @@
+name: Update proxy list
+
+on:
+  schedule:
+    # Every 5 minutes. GitHub may delay scheduled workflows under load — the
+    # real upstream cadence is "every minute" on the API, this mirror is a
+    # 5-minute snapshot.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update.py"
+      - ".github/workflows/update.yml"
+
+# Cancel any older in-flight run if a new tick arrives while the previous one
+# is still going — keeps the history clean and avoids fighting over the same
+# files on slow API responses.
+concurrency:
+  group: update-proxy-list
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh proxy data
+        run: python scripts/update.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes — upstream list is unchanged this tick."
+            exit 0
+          fi
+          TS=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          git add proxies/
+          git commit -m "chore(data): automatic update — $TS"
+          git push
