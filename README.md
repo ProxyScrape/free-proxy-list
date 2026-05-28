@@ -197,13 +197,48 @@ curl 'https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies
 4. Shards by protocol and country and writes `data.{txt,json,csv}` for each
 5. Writes `proxies/stats.json` with the summary
 
-The [`.github/workflows/update.yml`](.github/workflows/update.yml) action runs the script on a 5-minute cron, commits any changes, and pushes. Run it locally too:
+A 5-minute cron on a ProxyScrape-controlled server drives [`scripts/update-and-push.sh`](scripts/update-and-push.sh), which pulls, runs the updater, commits, and pushes. The [GitHub Actions workflow](.github/workflows/update.yml) keeps `workflow_dispatch` and push triggers for manual / emergency runs, but the scheduled cron there is disabled — GitHub's scheduler is too unreliable at 5-minute cadence (we saw 30–60+ minute first-run delays and uneven cadence afterwards).
+
+Run the updater locally:
 
 ```bash
 python3 scripts/update.py
 ```
 
 No dependencies — Python 3.10+, stdlib only.
+
+### Server cron setup
+
+If you want to mirror this dataset yourself or run a fork, the wrapper is drop-in:
+
+```bash
+# 1. Clone the repo on the server
+git clone https://github.com/proxyscrape/free-proxy-list.git /srv/free-proxy-list
+cd /srv/free-proxy-list
+
+# 2. Verify the wrapper runs end-to-end (no commit if there are no changes)
+./scripts/update-and-push.sh
+
+# 3. Install the cron — every 5 minutes
+crontab -e
+```
+
+Add this line:
+
+```cron
+*/5 * * * * /srv/free-proxy-list/scripts/update-and-push.sh >> /var/log/free-proxy-list.log 2>&1
+```
+
+The wrapper:
+- Resolves the repo root from its own location, so `REPO_DIR` is only needed if you symlink the script elsewhere
+- Uses `flock` so a slow tick can't collide with the next one — overlapping crontab firings safely skip
+- Pulls with `--rebase --autostash` first, so concurrent edits (by humans or other servers) stay compatible
+- Only commits + pushes if `proxies/` actually changed
+- Exits non-zero on real failures so cron's `MAILTO` surfaces them
+
+Git push needs credentials available to the cron user. Two common patterns:
+- **Deploy key**: generate an SSH key, add the public half to the repo's Deploy keys (with write access), point the `origin` remote at `git@github.com:proxyscrape/free-proxy-list.git`
+- **Fine-grained PAT**: store in `~/.git-credentials` for the cron user, use HTTPS remote
 
 ## Other free tools from ProxyScrape
 

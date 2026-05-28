@@ -1,11 +1,13 @@
 name: Update proxy list
 
+# The scheduled cron was removed in favor of a server-side cron driving
+# scripts/update-and-push.sh (see README "Server cron setup"). GitHub
+# Actions' scheduler is too unreliable at the documented 5-minute minimum —
+# in practice we saw first-run delays of 30–60+ minutes and uneven cadence
+# afterward. The manual dispatch and push triggers remain as a fallback so
+# the workflow can still be invoked from the GitHub UI if the server cron
+# is down.
 on:
-  schedule:
-    # Every 5 minutes. GitHub may delay scheduled workflows under load — the
-    # real upstream cadence is "every minute" on the API, this mirror is a
-    # 5-minute snapshot.
-    - cron: "*/5 * * * *"
   workflow_dispatch:
   push:
     branches: [main]
