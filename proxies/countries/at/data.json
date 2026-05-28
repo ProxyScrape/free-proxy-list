@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "193.233.129.235",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "193.233.128.128",
+    "port": 3128,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 81.25,
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 48.04,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 10885.5,
-    "last_checked": 1779970788.2103436
-  },
-  {
-    "protocol": "socks4",
-    "ip": "83.215.25.66",
-    "port": 9050,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Zell am See",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 25.43,
-    "asn": "AS8445",
-    "isp": "SALZBURG-AG",
-    "latency_ms": 14717.76,
-    "last_checked": 1779970758.5263329
+    "latency_ms": 9234.3,
+    "last_checked": 1779971295.5644655
   },
   {
     "protocol": "http",
@@ -41,8 +26,23 @@
     "uptime_percent": 68.23,
     "asn": "AS12605",
     "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 7293.11,
-    "last_checked": 1779970736.9013567
+    "latency_ms": 9649.25,
+    "last_checked": 1779971291.8285701
+  },
+  {
+    "protocol": "socks5",
+    "ip": "83.215.25.66",
+    "port": 9050,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Zell am See",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.77,
+    "asn": "AS8445",
+    "isp": "SALZBURG-AG",
+    "latency_ms": 2013.73,
+    "last_checked": 1779971113.5980349
   },
   {
     "protocol": "socks5",
@@ -53,10 +53,10 @@
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 74.48,
+    "uptime_percent": 74.49,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 10292.91,
-    "last_checked": 1779970641.4131646
+    "latency_ms": 10928.1,
+    "last_checked": 1779971027.863016
   }
 ]
