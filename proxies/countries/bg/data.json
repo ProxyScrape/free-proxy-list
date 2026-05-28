@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "31.211.142.115",
-    "port": 8192,
+    "protocol": "http",
+    "ip": "5.104.183.25",
+    "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Pleven",
+    "city": "Svoge",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 24.7,
+    "asn": "AS205331",
+    "isp": "Wi-Max Network Ltd.",
+    "latency_ms": 1743.18,
+    "last_checked": 1779958779.2276804
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.160.97.49",
+    "port": 4145,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Rousse",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 56.67,
-    "asn": "AS197897",
-    "isp": "5KOM",
-    "latency_ms": 3410.64,
-    "last_checked": 1779957321.4789858
+    "uptime_percent": 9.48,
+    "asn": "AS205352",
+    "isp": "Kabelnet LTD",
+    "latency_ms": 297.98,
+    "last_checked": 1779958765.8855796
   },
   {
     "protocol": "socks4",
@@ -23,26 +38,11 @@
     "city": "Razlog",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 15.55,
+    "uptime_percent": 15.56,
     "asn": "AS199702",
     "isp": "VIM TV Ltd",
-    "latency_ms": 174.23,
-    "last_checked": 1779958322.5833702
-  },
-  {
-    "protocol": "http",
-    "ip": "213.169.33.12",
-    "port": 8001,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 18.44,
-    "asn": "AS8717",
-    "isp": "A1 Bulgaria EAD",
-    "latency_ms": 2971.66,
-    "last_checked": 1779958242.424256
+    "latency_ms": 191.95,
+    "last_checked": 1779958807.7538245
   },
   {
     "protocol": "http",
@@ -56,7 +56,7 @@
     "uptime_percent": 13.22,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 11003.04,
-    "last_checked": 1779958171.855854
+    "latency_ms": 5721.84,
+    "last_checked": 1779958775.7718332
   }
 ]
