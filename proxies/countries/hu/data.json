@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "31.46.33.59",
-    "port": 53281,
+    "protocol": "socks4",
+    "ip": "84.2.239.42",
+    "port": 4153,
     "country": "Hungary",
     "country_code": "HU",
-    "city": "Tiszafüred",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 11.87,
+    "city": "Hajdúnánás",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 10.59,
     "asn": "AS5483",
-    "isp": "htc",
-    "latency_ms": 4215.09,
-    "last_checked": 1780011494.3040566
+    "isp": "Magyar Telekom",
+    "latency_ms": 1269.84,
+    "last_checked": 1780012155.4150357
+  },
+  {
+    "protocol": "http",
+    "ip": "38.180.109.24",
+    "port": 3128,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Budapest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 48.16,
+    "asn": "AS9009",
+    "isp": "M247 Europe SRL",
+    "latency_ms": 57.88,
+    "last_checked": 1780012145.8798869
+  },
+  {
+    "protocol": "http",
+    "ip": "84.0.139.125",
+    "port": 8080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Berettyóújfalu",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 80.0,
+    "asn": "AS5483",
+    "isp": "Magyar Telekom",
+    "latency_ms": 8292.23,
+    "last_checked": 1780012107.925496
   }
 ]
