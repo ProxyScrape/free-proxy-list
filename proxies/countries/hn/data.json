@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "181.115.75.102",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "181.115.67.3",
+    "port": 999,
     "country": "Honduras",
     "country_code": "HN",
     "city": "San Pedro Sula",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 10.2,
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.69,
     "asn": "AS14754",
     "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-    "latency_ms": 7821.88,
-    "last_checked": 1779982167.5647316
+    "latency_ms": 5956.53,
+    "last_checked": 1779982757.3978066
+  },
+  {
+    "protocol": "http",
+    "ip": "38.188.186.47",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Comayagua",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.93,
+    "asn": "AS263725",
+    "isp": "Multicable De Honduras",
+    "latency_ms": 6426.85,
+    "last_checked": 1779982719.0572762
   },
   {
     "protocol": "http",
@@ -22,11 +37,11 @@
     "country_code": "HN",
     "city": "Tegucigalpa",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 13.98,
     "asn": "AS7727",
     "isp": "Hondutel",
-    "latency_ms": 4900.65,
-    "last_checked": 1779982064.2560828
+    "latency_ms": 1465.3,
+    "last_checked": 1779982653.6767912
   }
 ]
