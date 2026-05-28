@@ -281,18 +281,33 @@ def main() -> None:
             by_proto.get(proto, []),
         )
 
-    # Per country (only emit shards for countries that actually have proxies)
+    # Per country, with per-protocol breakdown nested inside each country dir.
+    # Protocol subshards are only emitted when non-empty — a 404 on
+    # countries/zz/socks5/data.txt is the canonical "no SOCKS5 in ZZ" signal,
+    # and avoids cluttering the tree with empty files in low-volume countries.
     by_country: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for r in rows:
         cc = r["country_code"]
         if not cc or len(cc) != 2:
             continue
         by_country[cc].append(r)
+
+    country_protocol_subshards = 0
     for cc, country_rows in by_country.items():
-        write_shard(
-            os.path.join(PROXIES_ROOT, "countries", cc.lower()),
-            country_rows,
-        )
+        country_dir = os.path.join(PROXIES_ROOT, "countries", cc.lower())
+        write_shard(country_dir, country_rows)
+
+        country_by_proto: dict[str, list[dict[str, Any]]] = defaultdict(list)
+        for r in country_rows:
+            country_by_proto[r["protocol"]].append(r)
+            if r["protocol"] == "http" and r["ssl"]:
+                country_by_proto["https"].append(r)
+        for proto in PROTOCOL_SHARDS:
+            proto_rows = country_by_proto.get(proto, [])
+            if not proto_rows:
+                continue
+            write_shard(os.path.join(country_dir, proto), proto_rows)
+            country_protocol_subshards += 1
 
     # Stats summary committed alongside the data so README badges and
     # downstream consumers can read counts without parsing data.json.
@@ -301,13 +316,14 @@ def main() -> None:
         "by_protocol": {p: len(by_proto.get(p, [])) for p in PROTOCOL_SHARDS},
         "countries": sorted(by_country.keys()),
         "country_count": len(by_country),
+        "country_protocol_shards": country_protocol_subshards,
     }
     with open(os.path.join(PROXIES_ROOT, "stats.json"), "w", encoding="utf-8") as f:
         f.write(json.dumps(stats, indent=2) + "\n")
 
     print(
         f"[update] Wrote shards: 1 all, {len(PROTOCOL_SHARDS)} protocols, "
-        f"{len(by_country)} countries.",
+        f"{len(by_country)} countries, {country_protocol_subshards} country-protocol subshards.",
         file=sys.stderr,
     )
 
