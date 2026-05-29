@@ -1,63 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "220.128.223.136",
-    "port": 8085,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "New Taipei City",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 5.36,
-    "asn": "AS3462",
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 762.91,
-    "last_checked": 1780074554.3134954
-  },
-  {
-    "protocol": "http",
-    "ip": "220.134.5.4",
-    "port": 8080,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "New Taipei City",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 8.4,
-    "asn": "AS3462",
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 7830.96,
-    "last_checked": 1780074512.0720046
-  },
-  {
-    "protocol": "socks5",
-    "ip": "112.105.12.235",
-    "port": 1111,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taichung",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 18.45,
-    "asn": "AS18049",
-    "isp": "TINP",
-    "latency_ms": 19746.75,
-    "last_checked": 1780074462.3065557
-  },
-  {
-    "protocol": "http",
     "ip": "122.117.203.252",
     "port": 3128,
     "country": "Taiwan",
     "country_code": "TW",
     "city": "Kaohsiung",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 15.0,
     "asn": "AS3462",
     "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 12778.68,
-    "last_checked": 1780074431.6404014
+    "latency_ms": 10721.71,
+    "last_checked": 1780075143.5075622
   },
   {
     "protocol": "socks5",
@@ -71,7 +26,22 @@
     "uptime_percent": 98.3,
     "asn": "AS135377",
     "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "latency_ms": 1818.56,
-    "last_checked": 1780074384.5196183
+    "latency_ms": 1546.46,
+    "last_checked": 1780075059.2816625
+  },
+  {
+    "protocol": "socks5",
+    "ip": "112.105.12.58",
+    "port": 1111,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taichung",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 18.96,
+    "asn": "AS18049",
+    "isp": "TINP",
+    "latency_ms": 11349.87,
+    "last_checked": 1780075043.3721395
   }
 ]
