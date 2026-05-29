@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "193.233.128.128",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "193.233.129.235",
+    "port": 1080,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 46.54,
+    "uptime_percent": 81.72,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 9737.2,
-    "last_checked": 1780051705.3089635
+    "latency_ms": 13175.88,
+    "last_checked": 1780052383.7804463
+  },
+  {
+    "protocol": "socks4",
+    "ip": "83.215.25.66",
+    "port": 9050,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Zell am See",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.29,
+    "asn": "AS8445",
+    "isp": "SALZBURG-AG",
+    "latency_ms": 14414.07,
+    "last_checked": 1780052372.837262
+  },
+  {
+    "protocol": "http",
+    "ip": "81.10.234.234",
+    "port": 80,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Unterweitersdorf",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 68.34,
+    "asn": "AS12605",
+    "isp": "LIWEST Kabelmedien GmbH",
+    "latency_ms": 13860.85,
+    "last_checked": 1780052322.14096
   },
   {
     "protocol": "http",
@@ -22,12 +52,12 @@
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 47.45,
+    "ssl": false,
+    "uptime_percent": 47.53,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 9957.59,
-    "last_checked": 1780051648.351895
+    "latency_ms": 5735.14,
+    "last_checked": 1780052257.3477812
   },
   {
     "protocol": "socks5",
@@ -38,25 +68,10 @@
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 75.29,
+    "uptime_percent": 75.32,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 12201.8,
-    "last_checked": 1780051443.3340266
-  },
-  {
-    "protocol": "socks5",
-    "ip": "83.215.25.66",
-    "port": 9050,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Zell am See",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 14.96,
-    "asn": "AS8445",
-    "isp": "SALZBURG-AG",
-    "latency_ms": 16343.09,
-    "last_checked": 1780051243.3224976
+    "latency_ms": 13060.59,
+    "last_checked": 1780052223.7628329
   }
 ]
