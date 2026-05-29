@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.191.239.248",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Wetzikon",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 90.05,
-    "asn": "AS264617",
-    "isp": "Geronimo Ramirez Computer Network",
-    "latency_ms": 84.34,
-    "last_checked": 1780093795.3112032
-  },
-  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -26,8 +11,8 @@
     "uptime_percent": 86.02,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3149.27,
-    "last_checked": 1780093758.2991807
+    "latency_ms": 50.51,
+    "last_checked": 1780094397.7518487
   },
   {
     "protocol": "http",
@@ -38,11 +23,26 @@
     "city": "Bern",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 66.4,
+    "uptime_percent": 66.41,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 2772.93,
-    "last_checked": 1780093756.5983074
+    "latency_ms": 2000.74,
+    "last_checked": 1780094387.0061483
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 78.02,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 3355.74,
+    "last_checked": 1780094304.961538
   },
   {
     "protocol": "socks5",
@@ -53,10 +53,25 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 76.03,
+    "uptime_percent": 76.06,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 11641.56,
-    "last_checked": 1780093673.158783
+    "latency_ms": 1216.03,
+    "last_checked": 1780094111.3833492
+  },
+  {
+    "protocol": "http",
+    "ip": "185.191.239.248",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wetzikon",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 90.07,
+    "asn": "AS264617",
+    "isp": "Geronimo Ramirez Computer Network",
+    "latency_ms": 113.43,
+    "last_checked": 1780094377.0072484
   }
 ]
