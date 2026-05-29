@@ -1,36 +1,48 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,8.212.168.170,2067,Philippines,PH,Manila,elite,true,1.64,AS45102,"Alibaba (US) Technology Co., Ltd.",3504.24,1780036189.9867985
-socks4,8.212.168.170,20,Philippines,PH,Manila,elite,true,1.19,AS45102,"Alibaba (US) Technology Co., Ltd.",3546.05,1780036189.8752115
-socks4,8.212.168.170,1081,Philippines,PH,Manila,elite,true,1.66,AS45102,"Alibaba (US) Technology Co., Ltd.",3843.41,1780036189.482287
-socks4,8.212.168.170,808,Philippines,PH,Manila,elite,true,1.22,AS45102,"Alibaba (US) Technology Co., Ltd.",6449.75,1780036187.2560866
-http,112.203.113.66,8082,Philippines,PH,Quezon City,transparent,false,68.07,AS9299,Philippine Long Distance Telephone Co.,2543.71,1780036168.2494404
-socks5,103.239.201.50,58765,Philippines,PH,San Juan,elite,true,47.31,AS17970,Sky Cable Corporation,4242.47,1780036165.3024433
-http,120.28.216.166,8082,Philippines,PH,Cagayan de Oro,transparent,false,10.67,AS132199,Globe Telecom,6092.34,1780036142.9264848
-http,120.28.199.66,8085,Philippines,PH,Davao City,transparent,false,13.59,AS132199,Globe Telecom,6952.31,1780036139.2999966
-http,203.177.237.153,8080,Philippines,PH,Iloilo City,transparent,false,8.01,AS132199,Globe Telecom,5550.89,1780036135.4278429
-http,180.191.233.145,8080,Philippines,PH,Kauran,transparent,true,18.39,AS4775,Globe Telecom,959.46,1780036129.6173122
-http,180.191.59.56,8081,Philippines,PH,Tarlac City,transparent,false,7.98,AS132199,Globe Telecom,646.08,1780036128.756937
-http,124.6.164.229,8085,Philippines,PH,Lahug,transparent,false,10.43,AS132199,INNOVE,10297.44,1780036116.5404701
-http,120.28.220.41,8082,Philippines,PH,Cagayan de Oro,transparent,false,7.66,AS132199,Globe Telecom,1679.29,1780036112.8159883
-http,222.127.68.126,8080,Philippines,PH,Lahug,transparent,false,9.13,AS132199,INNOVE,3282.96,1780036111.5950258
-http,119.93.83.106,8082,Philippines,PH,Pasig,transparent,false,10.35,AS9299,Philippine Long Distance Telephone Co.,16394.96,1780036096.6362865
-http,58.69.250.43,8082,Philippines,PH,San Fernando,transparent,false,13.83,AS9299,Philippine Long Distance Telephone Co.,4966.31,1780036089.881779
-http,122.2.48.121,8080,Philippines,PH,Makati City,transparent,true,33.57,AS9299,Philippine Long Distance Telephone Co.,5895.51,1780036089.5268872
-socks5,103.239.200.226,11,Philippines,PH,San Juan,elite,true,54.31,AS17970,Sky Cable Corporation,1226.47,1780036069.8638673
-http,122.54.226.24,8085,Philippines,PH,Pasay,transparent,false,13.71,AS9299,Philippine Long Distance Telephone Co.,15175.08,1780036055.3558533
-http,38.10.90.132,8084,Philippines,PH,Iloilo City,transparent,false,7.49,AS136244,Cogent Communications,4914.66,1780036051.2446141
-http,58.69.125.145,8081,Philippines,PH,Manila,transparent,false,7.46,AS9299,Philippine Long Distance Telephone Co.,5802.34,1780036047.2559133
-http,180.191.0.171,8082,Philippines,PH,Cabanatuan City,transparent,false,32.26,AS132199,Globe Telecom,3578.35,1780036043.1525977
-http,180.191.124.188,5555,Philippines,PH,Cagayan de Oro,transparent,false,41.26,AS4775,Globe Telecom,3630.49,1780036042.517301
-http,58.69.217.221,5050,Philippines,PH,Quezon City,transparent,false,18.22,AS9299,Philippine Long Distance Telephone Co.,2360.11,1780036041.1719456
-http,180.194.92.43,8082,Philippines,PH,Bacolod City,transparent,false,33.4,AS9299,Philippine Long Distance Telephone Co.,3723.98,1780036040.279839
-http,180.191.234.200,9292,Philippines,PH,Monkayo,transparent,false,50.0,AS4775,Globe Telecom,4065.91,1780036034.652042
-http,49.151.191.227,8082,Philippines,PH,Clark Freeport Zone,transparent,false,47.26,AS9299,Philippine Long Distance Telephone Co.,7822.62,1780036034.3959293
-socks5,8.212.168.170,80,Philippines,PH,Manila,elite,true,2.4,AS45102,"Alibaba (US) Technology Co., Ltd.",6394.36,1780036028.7928472
-http,38.10.90.118,8084,Philippines,PH,Iloilo City,transparent,false,7.43,AS136244,Cogent Communications,3412.65,1780036012.9398906
-socks5,8.212.168.170,102,Philippines,PH,Manila,elite,true,2.44,AS45102,"Alibaba (US) Technology Co., Ltd.",7671.05,1780036008.2410207
-http,112.198.179.39,8000,Philippines,PH,Carmona,transparent,false,32.71,AS132199,Globe Telecom,1546.24,1780036002.7750294
-socks5,8.212.165.164,37,Philippines,PH,Manila,elite,true,1.82,AS45102,"Alibaba (US) Technology Co., Ltd.",9440.13,1780035797.2754443
-socks5,103.239.201.49,58765,Philippines,PH,San Juan,elite,true,13.8,AS17970,Sky Cable Corporation,19374.75,1780035632.3921597
-socks5,8.220.136.174,8086,Philippines,PH,Manila,elite,true,1.69,AS45102,"Alibaba (US) Technology Co., Ltd.",6407.49,1780035630.1231236
-socks5,8.220.141.8,51,Philippines,PH,Manila,elite,true,2.55,AS45102,"Alibaba (US) Technology Co., Ltd.",13975.19,1780035412.384356
+http,49.151.191.167,8082,Philippines,PH,Clark Freeport Zone,transparent,true,51.34,AS9299,Philippine Long Distance Telephone Co.,1607.65,1780036798.5880072
+http,180.191.228.85,5050,Philippines,PH,Mandaue City,transparent,false,24.42,AS4775,Globe Telecom,3160.15,1780036782.5221586
+http,180.190.186.166,8085,Philippines,PH,Lahug,transparent,false,10.34,AS132199,Globe Telecom,4650.69,1780036782.3306324
+http,119.93.87.65,8080,Philippines,PH,Pasig,transparent,true,8.2,AS9299,Philippine Long Distance Telephone Co.,4373.75,1780036776.5559134
+http,222.127.156.134,8082,Philippines,PH,San Juan,transparent,false,10.1,AS132199,Globe Telecom,11187.25,1780036776.2641404
+http,122.52.234.54,8081,Philippines,PH,Makati City,transparent,false,9.72,AS9299,Philippine Long Distance Telephone Co.,5242.35,1780036768.5069315
+http,124.107.173.219,8082,Philippines,PH,Talugtug,transparent,false,19.37,AS9299,Philippine Long Distance Telephone Co.,3563.17,1780036767.5975268
+socks4,8.220.136.174,8192,Philippines,PH,Manila,elite,true,1.09,AS45102,"Alibaba (US) Technology Co., Ltd.",3383.07,1780036767.4853022
+http,49.147.107.185,8082,Philippines,PH,Iloilo City,transparent,false,15.75,AS9299,Philippine Long Distance Telephone Co.,1924.51,1780036766.7512836
+http,58.69.125.145,8081,Philippines,PH,Manila,transparent,false,7.46,AS9299,Philippine Long Distance Telephone Co.,5041.83,1780036762.7358713
+socks4,8.220.136.174,8008,Philippines,PH,Manila,elite,true,0.89,AS45102,"Alibaba (US) Technology Co., Ltd.",10590.46,1780036760.4892766
+socks4,8.220.136.174,4145,Philippines,PH,Manila,elite,true,0.89,AS45102,"Alibaba (US) Technology Co., Ltd.",10516.16,1780036760.301654
+http,119.92.188.29,8080,Philippines,PH,Pasay,transparent,false,6.26,AS9299,Philippine Long Distance Telephone Co.,7318.51,1780036756.9478402
+http,49.151.187.254,8082,Philippines,PH,Clark Freeport Zone,transparent,false,41.21,AS9299,Philippine Long Distance Telephone Co.,3056.8,1780036750.8266423
+http,115.147.39.121,8181,Philippines,PH,General Trias,transparent,true,9.42,AS9299,Philippine Long Distance Telephone Co.,5567.28,1780036750.1580565
+http,115.147.53.238,8082,Philippines,PH,Manila,transparent,true,40.22,AS9299,Philippine Long Distance Telephone Co.,2098.34,1780036747.227869
+http,122.54.226.24,8085,Philippines,PH,Pasay,transparent,false,13.72,AS9299,Philippine Long Distance Telephone Co.,7921.92,1780036742.4046226
+http,112.198.128.171,8083,Philippines,PH,Nasugbu,transparent,true,13.99,AS132199,Globe Telecom,3535.19,1780036738.215858
+http,120.28.193.225,8080,Philippines,PH,Cagayan de Oro,transparent,true,5.71,AS132199,Globe Telecom,7784.15,1780036735.7074633
+http,49.151.189.147,8082,Philippines,PH,Clark Freeport Zone,transparent,true,42.85,AS9299,Philippine Long Distance Telephone Co.,9049.43,1780036732.8719227
+http,122.54.226.216,8082,Philippines,PH,Pasay,transparent,false,9.51,AS9299,Philippine Long Distance Telephone Co.,5986.5,1780036729.417937
+http,103.167.116.141,8087,Philippines,PH,Santa Maria,transparent,false,19.45,AS142285,KEITH.NET INCORPORATED,650.78,1780036727.394633
+http,122.3.126.95,8081,Philippines,PH,Paranaque City,transparent,false,9.45,AS9299,Philippine Long Distance Telephone Co.,2353.17,1780036727.3586082
+http,119.92.252.190,8082,Philippines,PH,Pasig,transparent,false,23.29,AS9299,Philippine Long Distance Telephone Co.,3686.46,1780036724.3563225
+http,124.105.69.124,8081,Philippines,PH,Makati City,transparent,true,6.41,AS9299,Philippine Long Distance Telephone Co.,8376.99,1780036722.3481371
+http,180.191.1.195,8081,Philippines,PH,Cabanatuan City,transparent,false,21.13,AS132199,Globe Telecom,10359.58,1780036721.7683916
+http,180.191.233.145,8080,Philippines,PH,Kauran,transparent,true,18.39,AS4775,Globe Telecom,2454.93,1780036718.7045283
+http,180.191.2.16,8081,Philippines,PH,Cabanatuan City,transparent,true,8.46,AS132199,Globe Telecom,2931.87,1780036718.4056163
+http,120.28.212.240,5050,Philippines,PH,Davao City,transparent,false,8.04,AS132199,Globe Telecom,10120.06,1780036717.9158607
+http,112.203.213.104,8082,Philippines,PH,Quezon City,transparent,true,39.55,AS9299,Philippine Long Distance Telephone Co.,5295.67,1780036715.6515722
+http,180.191.231.47,8080,Philippines,PH,Mandaue City,transparent,false,22.9,AS4775,Globe Telecom,5416.01,1780036703.2137716
+http,180.191.124.163,8888,Philippines,PH,Cagayan de Oro,transparent,false,22.47,AS4775,Globe Telecom,20051.99,1780036702.1204946
+http,115.147.61.241,8082,Philippines,PH,Makati City,elite,true,38.01,AS9299,Philippine Long Distance Telephone Co.,8713.07,1780036698.7627723
+http,38.10.90.132,8084,Philippines,PH,Iloilo City,transparent,false,7.5,AS136244,Cogent Communications,7702.1,1780036697.4158778
+http,120.28.220.41,8082,Philippines,PH,Cagayan de Oro,transparent,false,7.66,AS132199,Globe Telecom,3660.7,1780036685.8998542
+http,122.2.48.121,8080,Philippines,PH,Makati City,transparent,false,33.59,AS9299,Philippine Long Distance Telephone Co.,16563.93,1780036684.6674626
+http,124.107.71.252,8082,Philippines,PH,Pasay,transparent,true,12.31,AS9299,Philippine Long Distance Telephone Co.,660.38,1780036679.8745298
+http,180.191.21.49,8081,Philippines,PH,Cabanatuan City,transparent,false,13.62,AS132199,Globe Telecom,926.11,1780036668.38785
+http,122.52.108.244,8082,Philippines,PH,Olongapo City,transparent,false,12.21,AS9299,Philippine Long Distance Telephone Co.,2476.06,1780036663.2490664
+socks5,103.239.201.50,58765,Philippines,PH,San Juan,elite,true,47.31,AS17970,Sky Cable Corporation,2546.66,1780036310.7346194
+socks4,161.49.100.131,1080,Philippines,PH,Pasig,elite,true,39.36,AS17639,Converge Information and Communications Technology Solutions,1033.17,1780036793.4247007
+http,163.223.111.22,8082,Philippines,PH,Ramon,transparent,true,45.23,AS153695,Kuya J Network Seven Infinity IT Solutions,6146.07,1780036756.9260228
+http,195.86.215.2,3128,Philippines,PH,Manila,anonymous,true,9.54,AS984,Octopus Web Solution Inc,8678.87,1780036748.9156127
+http,45.195.249.154,8080,Philippines,PH,Koronadal,transparent,false,39.41,AS154267,Soon Bodywerkz Auto Pte. LTD,2683.8,1780036722.935563
+http,161.248.190.83,8080,Philippines,PH,Trento,transparent,false,10.29,AS135028,Gemstar Cable TV - Agusan Del SUR,1736.79,1780036717.263867
+socks5,103.239.200.226,11,Philippines,PH,San Juan,elite,true,54.31,AS17970,Sky Cable Corporation,1175.97,1780036673.195117
+http,103.84.177.154,8083,Philippines,PH,Iloilo City,transparent,false,6.66,AS136244,"Panay Broadband / Buenavista Cable TV., Inc.",5230.6,1780036654.7321532
