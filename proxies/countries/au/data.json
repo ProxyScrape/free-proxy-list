@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "168.138.9.147",
     "port": 1080,
     "country": "Australia",
@@ -8,11 +8,11 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.87,
+    "uptime_percent": 29.54,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 3756.13,
-    "last_checked": 1780084138.4494576
+    "latency_ms": 5935.03,
+    "last_checked": 1780084790.9842865
   },
   {
     "protocol": "http",
@@ -26,22 +26,52 @@
     "uptime_percent": 94.54,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 559.08,
-    "last_checked": 1780084123.4408653
+    "latency_ms": 510.88,
+    "last_checked": 1780084737.4133525
   },
   {
-    "protocol": "http",
-    "ip": "139.99.237.62",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "170.64.170.204",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 90.78,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 2241.84,
+    "last_checked": 1780084709.8936594
+  },
+  {
+    "protocol": "http",
+    "ip": "180.181.215.232",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 48.76,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 12302.74,
-    "last_checked": 1780084099.1519241
+    "uptime_percent": 39.67,
+    "asn": "AS4764",
+    "isp": "Wideband Networks Pty Ltd",
+    "latency_ms": 1879.94,
+    "last_checked": 1780084695.6528454
+  },
+  {
+    "protocol": "http",
+    "ip": "159.196.182.72",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 28.43,
+    "asn": "AS4764",
+    "isp": "Wideband Networks Pty Ltd",
+    "latency_ms": 7601.06,
+    "last_checked": 1780084691.6976
   }
 ]
