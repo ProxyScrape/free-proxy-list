@@ -1,18 +1,48 @@
 [
   {
     "protocol": "http",
-    "ip": "96.1.101.113",
+    "ip": "192.99.8.15",
+    "port": 8850,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 99.23,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 221.18,
+    "last_checked": 1780021780.256682
+  },
+  {
+    "protocol": "http",
+    "ip": "192.99.44.178",
+    "port": 3128,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.97,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 13040.68,
+    "last_checked": 1780021771.4049437
+  },
+  {
+    "protocol": "http",
+    "ip": "216.8.173.253",
     "port": 80,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Ottawa",
+    "city": "Windsor",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 21.51,
-    "asn": "AS852",
-    "isp": "TELUS Communications Inc.",
-    "latency_ms": 13036.69,
-    "last_checked": 1780021126.4174085
+    "ssl": true,
+    "uptime_percent": 11.53,
+    "asn": "AS7057",
+    "isp": "Managed Network Systems Inc.",
+    "latency_ms": 240.5,
+    "last_checked": 1780021740.6586578
   },
   {
     "protocol": "http",
@@ -26,23 +56,8 @@
     "uptime_percent": 4.12,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 248.59,
-    "last_checked": 1780021125.8616605
-  },
-  {
-    "protocol": "http",
-    "ip": "192.99.8.15",
-    "port": 8850,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 99.23,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 228.97,
-    "last_checked": 1780021123.1497142
+    "latency_ms": 8248.97,
+    "last_checked": 1780021640.3933396
   },
   {
     "protocol": "http",
@@ -53,10 +68,25 @@
     "city": "Beauharnois",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 20.14,
+    "uptime_percent": 20.15,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 914.49,
-    "last_checked": 1780021098.0199556
+    "latency_ms": 9264.95,
+    "last_checked": 1780021627.3158586
+  },
+  {
+    "protocol": "http",
+    "ip": "96.1.101.113",
+    "port": 80,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Ottawa",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 21.52,
+    "asn": "AS852",
+    "isp": "TELUS Communications Inc.",
+    "latency_ms": 6011.78,
+    "last_checked": 1780021701.2569475
   }
 ]
