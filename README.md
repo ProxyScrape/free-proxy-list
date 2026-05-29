@@ -9,7 +9,7 @@
 > Free HTTP, HTTPS, SOCKS4 and SOCKS5 proxies — auto-refreshed every 5 minutes from the [ProxyScrape v4 API](https://docs.proxyscrape.com/api-reference/public-api/get-proxy-list?utm_source=github&utm_medium=repo&utm_campaign=free-proxy-list-mirror&utm_content=api-docs).
 
 <p align="center" id="star-cta-top">
-  <b>⭐ If this saves you time, <a href="https://github.com/proxyscrape/free-proxy-list">give the repo a star</a> — it helps other developers find it. ⭐</b>
+  <b>⭐ If this saves you time, hit the <kbd>★ Star</kbd> button in the top-right — it helps other developers find this repo. ⭐</b>
 </p>
 
 [![Total proxies](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fproxyscrape%2Ffree-proxy-list%40main%2Fproxies%2Fbadges%2Ftotal.json)](https://github.com/proxyscrape/free-proxy-list)
