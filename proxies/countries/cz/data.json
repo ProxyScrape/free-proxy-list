@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 81.29,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 9104.09,
-    "last_checked": 1780064330.4067478
-  },
-  {
-    "protocol": "http",
-    "ip": "78.108.103.87",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
+    "city": "Kryry",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 40.76,
-    "asn": "AS8251",
-    "isp": "Neutral Free eXchange members - FreeTel alternate",
-    "latency_ms": 8094.61,
-    "last_checked": 1780064323.556123
+    "ssl": true,
+    "uptime_percent": 38.86,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 76.09,
+    "last_checked": 1780064998.40253
   },
   {
     "protocol": "http",
@@ -41,8 +26,23 @@
     "uptime_percent": 64.73,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 12269.36,
-    "last_checked": 1780064315.328456
+    "latency_ms": 4820.75,
+    "last_checked": 1780064985.76777
+  },
+  {
+    "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 81.29,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 7889.56,
+    "last_checked": 1780064971.4896405
   },
   {
     "protocol": "http",
@@ -52,11 +52,41 @@
     "country_code": "CZ",
     "city": "Pilsen",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 37.97,
+    "ssl": true,
+    "uptime_percent": 37.96,
     "asn": "AS197296",
     "isp": "United Networks SE",
-    "latency_ms": 1784.85,
-    "last_checked": 1780064218.221146
+    "latency_ms": 1539.8,
+    "last_checked": 1780064967.591872
+  },
+  {
+    "protocol": "http",
+    "ip": "78.108.103.87",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 40.76,
+    "asn": "AS8251",
+    "isp": "Neutral Free eXchange members - FreeTel alternate",
+    "latency_ms": 12570.84,
+    "last_checked": 1780064954.8104422
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Strážnice",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 10.86,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 5262.63,
+    "last_checked": 1780064952.5835814
   }
 ]
