@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "77.110.110.95",
+    "port": 9050,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 6.96,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 364.78,
+    "last_checked": 1780034097.3001645
+  },
+  {
+    "protocol": "socks4",
     "ip": "83.215.25.66",
     "port": 9050,
     "country": "Austria",
@@ -8,26 +23,26 @@
     "city": "Zell am See",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 27.55,
+    "uptime_percent": 27.58,
     "asn": "AS8445",
     "isp": "SALZBURG-AG",
-    "latency_ms": 13283.64,
-    "last_checked": 1780033439.186479
+    "latency_ms": 13768.47,
+    "last_checked": 1780034085.7414312
   },
   {
-    "protocol": "socks4",
-    "ip": "193.233.129.235",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "193.233.128.134",
+    "port": 3128,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 81.78,
+    "uptime_percent": 47.68,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 14885.75,
-    "last_checked": 1780033433.3980324
+    "latency_ms": 9234.44,
+    "last_checked": 1780034007.7035115
   },
   {
     "protocol": "http",
@@ -38,10 +53,55 @@
     "city": "Unterweitersdorf",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 68.3,
+    "uptime_percent": 68.31,
     "asn": "AS12605",
     "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 1311.67,
-    "last_checked": 1780033361.3784904
+    "latency_ms": 13848.6,
+    "last_checked": 1780033974.1299162
+  },
+  {
+    "protocol": "socks5",
+    "ip": "193.233.129.235",
+    "port": 1080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 75.29,
+    "asn": "AS210644",
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 14716.26,
+    "last_checked": 1780033820.1728084
+  },
+  {
+    "protocol": "socks4",
+    "ip": "193.233.129.235",
+    "port": 1080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 81.77,
+    "asn": "AS210644",
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 14712.74,
+    "last_checked": 1780034081.2773468
+  },
+  {
+    "protocol": "http",
+    "ip": "193.233.128.128",
+    "port": 3128,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 46.58,
+    "asn": "AS210644",
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 11646.75,
+    "last_checked": 1780033978.3839395
   }
 ]
