@@ -50,7 +50,7 @@ python3 scripts/update.py
 
 # Stage only the data we publish. The script also writes stats.json under
 # proxies/, so a single `git add proxies/` covers everything we care about.
-git add proxies/
+git add proxies/ README.md
 
 if git diff --cached --quiet; then
     log "No changes — upstream list is unchanged this tick"

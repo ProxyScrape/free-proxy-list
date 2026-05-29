@@ -9,11 +9,6 @@ name: Update proxy list
 # is down.
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - "scripts/update.py"
-      - ".github/workflows/update.yml"
 
 # Cancel any older in-flight run if a new tick arrives while the previous one
 # is still going — keeps the history clean and avoids fighting over the same
