@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "45.144.49.156",
     "port": 1080,
     "country": "Poland",
@@ -8,11 +8,11 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 66.48,
+    "uptime_percent": 53.33,
     "asn": "AS49791",
     "isp": "3hcloud",
-    "latency_ms": 166.64,
-    "last_checked": 1780132465.7775433
+    "latency_ms": 206.51,
+    "last_checked": 1780133093.3007472
   },
   {
     "protocol": "socks4",
@@ -26,8 +26,23 @@
     "uptime_percent": 15.82,
     "asn": "AS42673",
     "isp": "Skyware Sp. z o.o.",
-    "latency_ms": 204.24,
-    "last_checked": 1780132461.8559592
+    "latency_ms": 1220.75,
+    "last_checked": 1780133083.6774945
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.32.4.65",
+    "port": 4153,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Chociwel",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 7.08,
+    "asn": "AS60645",
+    "isp": "AS Consulting Sp. z o. o.",
+    "latency_ms": 3138.39,
+    "last_checked": 1780133076.3223114
   },
   {
     "protocol": "socks4",
@@ -41,53 +56,38 @@
     "uptime_percent": 11.32,
     "asn": "AS206957",
     "isp": "PHU Kario-Sat Sp. z o.o.",
-    "latency_ms": 141.52,
-    "last_checked": 1780132460.1544628
+    "latency_ms": 1181.27,
+    "last_checked": 1780133070.2386422
   },
   {
-    "protocol": "socks4",
-    "ip": "185.32.4.126",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "185.21.36.249",
+    "port": 8080,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Chociwel",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 29.32,
-    "asn": "AS60645",
-    "isp": "AS Consulting Sp. z o. o.",
-    "latency_ms": 118.3,
-    "last_checked": 1780132459.4017572
+    "city": "Chojnice",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 39.9,
+    "asn": "AS199250",
+    "isp": "Ckpartnet Network",
+    "latency_ms": 6826.01,
+    "last_checked": 1780133055.340308
   },
   {
-    "protocol": "socks4",
-    "ip": "94.40.127.166",
-    "port": 4145,
+    "protocol": "http",
+    "ip": "83.238.125.220",
+    "port": 8000,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Torun",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 3.83,
-    "asn": "AS20960",
-    "isp": "TK Telekom sp. z o.o.",
-    "latency_ms": 3137.97,
-    "last_checked": 1780132456.5798888
-  },
-  {
-    "protocol": "socks4",
-    "ip": "185.32.6.121",
-    "port": 4153,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Ińsko",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 11.45,
-    "asn": "AS60645",
-    "isp": "AS Consulting Sp. z o. o.",
-    "latency_ms": 123.12,
-    "last_checked": 1780132439.0122871
+    "city": "Wroclaw",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 37.87,
+    "asn": "AS12741",
+    "isp": "Netia SA",
+    "latency_ms": 752.0,
+    "last_checked": 1780133051.3931108
   },
   {
     "protocol": "http",
@@ -101,23 +101,8 @@
     "uptime_percent": 98.96,
     "asn": "AS51436",
     "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 56.09,
-    "last_checked": 1780132426.5528953
-  },
-  {
-    "protocol": "http",
-    "ip": "83.238.125.219",
-    "port": 8000,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Wroclaw",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.97,
-    "asn": "AS12741",
-    "isp": "Netia SA",
-    "latency_ms": 8189.68,
-    "last_checked": 1780132409.4762719
+    "latency_ms": 48.39,
+    "last_checked": 1780133048.9728203
   },
   {
     "protocol": "http",
@@ -131,11 +116,26 @@
     "uptime_percent": 9.08,
     "asn": "AS12876",
     "isp": "Scaleway SAS",
-    "latency_ms": 9826.02,
-    "last_checked": 1780132399.624894
+    "latency_ms": 13418.92,
+    "last_checked": 1780132987.8934467
   },
   {
-    "protocol": "socks5",
+    "protocol": "http",
+    "ip": "91.150.189.122",
+    "port": 30389,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Rzeszów",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 5.42,
+    "asn": "AS42673",
+    "isp": "Skyware Sp. z o.o.",
+    "latency_ms": 12911.23,
+    "last_checked": 1780132929.405708
+  },
+  {
+    "protocol": "socks4",
     "ip": "45.144.49.156",
     "port": 1080,
     "country": "Poland",
@@ -143,26 +143,11 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 53.31,
+    "uptime_percent": 66.5,
     "asn": "AS49791",
     "isp": "3hcloud",
-    "latency_ms": 703.65,
-    "last_checked": 1780132385.5509386
-  },
-  {
-    "protocol": "http",
-    "ip": "185.28.250.90",
-    "port": 8090,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Jerzmanowice",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 16.97,
-    "asn": "AS206910",
-    "isp": "BESTCONNECT",
-    "latency_ms": 4824.91,
-    "last_checked": 1780132376.7600834
+    "latency_ms": 142.94,
+    "last_checked": 1780133092.761272
   },
   {
     "protocol": "socks5",
@@ -173,11 +158,11 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.33,
+    "uptime_percent": 33.5,
     "asn": "",
     "isp": "Ace Data Centers II",
-    "latency_ms": 818.54,
-    "last_checked": 1780132216.908506
+    "latency_ms": 305.75,
+    "last_checked": 1780132786.3969882
   },
   {
     "protocol": "socks4",
@@ -191,7 +176,7 @@
     "uptime_percent": 4.52,
     "asn": "AS8364",
     "isp": "Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",
-    "latency_ms": 97.91,
-    "last_checked": 1780132484.1693223
+    "latency_ms": 3115.9,
+    "last_checked": 1780133096.2746627
   }
 ]
