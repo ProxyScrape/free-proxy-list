@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 10.78,
+    "asn": "AS14754",
+    "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+    "latency_ms": 1736.38,
+    "last_checked": 1780168772.301036
+  },
+  {
+    "protocol": "http",
+    "ip": "138.0.228.120",
+    "port": 8080,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 4.25,
+    "asn": "AS263725",
+    "isp": "Multicable De Honduras",
+    "latency_ms": 9639.68,
+    "last_checked": 1780168703.8078632
+  },
+  {
     "protocol": "http",
     "ip": "181.78.44.63",
     "port": 999,
@@ -7,26 +37,11 @@
     "country_code": "HN",
     "city": "La Unión",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 54.3,
     "asn": "AS52468",
     "isp": "Ufinet Honduras",
-    "latency_ms": 4408.84,
-    "last_checked": 1780168138.6205192
-  },
-  {
-    "protocol": "http",
-    "ip": "179.49.113.225",
-    "port": 999,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "Comayagua",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 10.75,
-    "asn": "AS262234",
-    "isp": "Asociacion De Servicio De Internet S. De RL",
-    "latency_ms": 9897.27,
-    "last_checked": 1780168063.688235
+    "latency_ms": 4508.8,
+    "last_checked": 1780168700.9668398
   }
 ]
