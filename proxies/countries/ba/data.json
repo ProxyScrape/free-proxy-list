@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "45.15.178.39",
-    "port": 3128,
+    "port": 1080,
     "country": "Bosnia and Herzegovina",
     "country_code": "BA",
     "city": "Sarajevo",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 37.06,
+    "ssl": true,
+    "uptime_percent": 66.37,
     "asn": "AS209847",
     "isp": "WorkTitans B.V.",
-    "latency_ms": 3689.31,
-    "last_checked": 1780115904.527911
+    "latency_ms": 1456.6,
+    "last_checked": 1780116569.3008678
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.15.178.39",
+    "port": 1080,
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "city": "Sarajevo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 53.23,
+    "asn": "AS209847",
+    "isp": "WorkTitans B.V.",
+    "latency_ms": 8094.03,
+    "last_checked": 1780116479.7238824
   }
 ]
