@@ -1,18 +1,63 @@
 [
   {
     "protocol": "socks4",
-    "ip": "159.148.146.65",
-    "port": 5678,
+    "ip": "31.170.17.141",
+    "port": 4153,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Sātiņi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 3.91,
+    "asn": "AS42099",
+    "isp": "DNET ITRisinajumi Ltd.",
+    "latency_ms": 1155.09,
+    "last_checked": 1780109081.9047685
+  },
+  {
+    "protocol": "http",
+    "ip": "195.13.164.73",
+    "port": 8080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 37.28,
+    "asn": "AS12578",
+    "isp": "SIA Tet",
+    "latency_ms": 4688.52,
+    "last_checked": 1780109048.2740839
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.237.219.119",
+    "port": 1080,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 60.39,
-    "asn": "AS2588",
-    "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 3160.46,
-    "last_checked": 1780108775.82329
+    "uptime_percent": 50.2,
+    "asn": "AS50979",
+    "isp": "Green Floid LLC",
+    "latency_ms": 196.5,
+    "last_checked": 1780109018.613463
+  },
+  {
+    "protocol": "socks5",
+    "ip": "169.40.6.114",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.26,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 1627.24,
+    "last_checked": 1780108788.4926734
   },
   {
     "protocol": "socks5",
@@ -28,20 +73,5 @@
     "isp": "RETN Limited",
     "latency_ms": 4095.4,
     "last_checked": 1780108665.2841144
-  },
-  {
-    "protocol": "socks5",
-    "ip": "169.40.6.114",
-    "port": 1080,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 45.23,
-    "asn": "AS42532",
-    "isp": "SIA VEESP",
-    "latency_ms": 665.16,
-    "last_checked": 1780108488.4583995
   }
 ]
