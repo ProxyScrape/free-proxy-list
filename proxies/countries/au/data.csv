@@ -1,5 +1,8 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.55,AS14061,"DigitalOcean, LLC",516.54,1780145977.8057892
-http,139.99.237.62,80,Australia,AU,Sydney,elite,false,48.87,AS16276,OVH SAS,885.05,1780145920.5919504
-http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,false,38.78,AS4764,Wideband Networks Pty Ltd,5922.14,1780145873.5583246
-http,159.196.182.72,8080,Australia,AU,Melbourne,transparent,false,28.14,AS4764,Wideband Networks Pty Ltd,5129.89,1780145843.3186784
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,40.31,AS31898,Oracle Corporation,4404.17,1780146562.4078872
+http,139.99.237.62,80,Australia,AU,Sydney,elite,false,48.88,AS16276,OVH SAS,809.42,1780146552.6020813
+socks5,170.64.170.204,1080,Australia,AU,Sydney,elite,true,90.88,AS14061,"DigitalOcean, LLC",2813.05,1780146548.788173
+http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.55,AS14061,"DigitalOcean, LLC",514.86,1780146520.3476098
+http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,false,38.79,AS4764,Wideband Networks Pty Ltd,10040.93,1780146489.8506296
+http,163.128.198.18,8080,Australia,AU,Brisbane,transparent,false,33.16,,ERX,9543.27,1780146391.4924674
+socks5,103.248.47.230,1080,Australia,AU,Kurnell,elite,true,47.47,AS133417,Dicker Data Ltd,5872.9,1780146577.920275
