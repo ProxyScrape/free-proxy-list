@@ -1,35 +1,141 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks5,45.89.111.19,1082,United Kingdom,GB,City of London,elite,true,83.78,AS209847,WorkTitans B.V.,156.13,1780180199.0728607
-socks5,185.218.3.94,9481,United Kingdom,GB,Coventry,elite,true,15.2,AS209847,WorkTitans B.V.,964.08,1780180193.5020335
-socks5,185.218.3.94,9448,United Kingdom,GB,Coventry,elite,true,13.59,AS209847,WorkTitans B.V.,8507.59,1780180189.9522486
-socks5,185.218.3.94,9181,United Kingdom,GB,Coventry,elite,true,46.36,AS209847,WorkTitans B.V.,2501.54,1780180186.340846
-socks5,185.218.3.94,9508,United Kingdom,GB,Coventry,elite,true,15.29,AS209847,WorkTitans B.V.,15089.72,1780180180.2677233
-socks5,185.218.3.94,9464,United Kingdom,GB,Coventry,elite,true,17.96,AS209847,WorkTitans B.V.,14022.67,1780180178.519929
-socks5,91.90.121.44,9050,United Kingdom,GB,Stretford,elite,true,23.02,AS9009,M247 Europe SRL,16094.69,1780180176.8368247
-socks5,81.168.119.85,443,United Kingdom,GB,Maidenhead,elite,true,96.49,AS20860,Iomart Cloud Services Limited,1728.13,1780180176.4151123
-socks5,185.218.3.94,9482,United Kingdom,GB,Coventry,elite,true,16.24,AS209847,WorkTitans B.V.,1504.12,1780180167.6314988
-socks5,45.89.111.19,1081,United Kingdom,GB,City of London,elite,true,85.59,AS209847,WorkTitans B.V.,434.5,1780180164.0703864
-socks5,94.131.122.129,1082,United Kingdom,GB,Holborn,elite,true,35.18,AS209847,WorkTitans B.V.,19683.16,1780180161.6520536
-socks5,185.218.3.94,9500,United Kingdom,GB,Coventry,elite,true,12.57,AS209847,WorkTitans B.V.,4967.14,1780180156.9184713
-socks5,185.218.3.94,9296,United Kingdom,GB,Coventry,elite,true,25.24,AS209847,WorkTitans B.V.,16133.8,1780180152.343903
-socks5,185.218.3.94,9414,United Kingdom,GB,Coventry,elite,true,13.16,AS209847,WorkTitans B.V.,19347.44,1780180151.255001
-socks5,185.218.3.94,9444,United Kingdom,GB,Coventry,elite,true,11.8,AS209847,WorkTitans B.V.,4511.68,1780180151.0225961
-socks5,45.89.111.179,1081,United Kingdom,GB,City of London,elite,true,93.1,AS209847,WorkTitans B.V.,282.63,1780180145.9823241
-socks5,185.218.3.94,9234,United Kingdom,GB,Coventry,elite,true,13.54,AS209847,WorkTitans B.V.,10433.58,1780180141.0372436
-socks5,185.218.3.94,9427,United Kingdom,GB,Coventry,elite,true,24.85,AS209847,WorkTitans B.V.,19191.68,1780180140.659852
-socks5,185.218.3.94,9549,United Kingdom,GB,Coventry,elite,true,16.94,AS209847,WorkTitans B.V.,20419.8,1780180135.3811064
-socks5,185.218.3.94,9108,United Kingdom,GB,Coventry,elite,true,66.67,AS209847,WorkTitans B.V.,22542.8,1780180132.9925544
-socks5,185.218.3.94,9443,United Kingdom,GB,Coventry,elite,true,8.87,AS209847,WorkTitans B.V.,13897.7,1780180132.1758308
-socks5,185.218.3.94,9126,United Kingdom,GB,Coventry,elite,true,14.45,AS209847,WorkTitans B.V.,22960.42,1780180128.4950461
-socks5,86.21.239.166,9050,United Kingdom,GB,Birmingham,elite,true,23.94,AS5089,Virgin Media Limited,5908.25,1780180121.7364328
-socks5,185.218.3.94,9114,United Kingdom,GB,Coventry,elite,true,30.51,AS209847,WorkTitans B.V.,15983.23,1780180120.411974
-socks5,185.218.3.94,9416,United Kingdom,GB,Coventry,elite,true,16.18,AS209847,WorkTitans B.V.,4973.82,1780180118.5658092
-socks5,185.218.3.94,9249,United Kingdom,GB,Coventry,elite,true,18.38,AS209847,WorkTitans B.V.,15266.71,1780180117.94561
-socks5,185.218.3.94,9200,United Kingdom,GB,Coventry,elite,true,18.99,AS209847,WorkTitans B.V.,12525.83,1780180113.523103
-socks5,45.89.111.179,1082,United Kingdom,GB,City of London,elite,true,98.3,AS209847,WorkTitans B.V.,830.92,1780180107.2614021
-socks5,46.101.36.247,9050,United Kingdom,GB,Slough,elite,true,30.61,AS14061,"DigitalOcean, LLC",9983.0,1780180087.6578724
-socks5,185.218.3.94,9399,United Kingdom,GB,Coventry,elite,true,11.45,AS209847,WorkTitans B.V.,4571.81,1780180059.928494
-socks5,212.58.132.5,1080,United Kingdom,GB,London,elite,true,99.7,AS8757,"NSFOCUS, Inc.",1213.15,1780180178.0827885
-socks5,94.131.122.129,1081,United Kingdom,GB,Holborn,elite,true,32.31,AS209847,WorkTitans B.V.,9684.7,1780180170.4405289
-socks5,94.131.122.125,1081,United Kingdom,GB,Holborn,elite,true,37.21,AS209847,WorkTitans B.V.,15520.09,1780180165.4591744
-socks5,57.129.144.178,40000,United Kingdom,GB,Bexley,elite,true,50.48,AS16276,OVH SAS,189.98,1780180172.5768304
+socks5,45.89.111.179,1081,United Kingdom,GB,City of London,elite,true,94.87,AS209847,WorkTitans B.V.,428.5,1780180793.478935
+socks5,91.107.122.209,1080,United Kingdom,GB,Bromley,elite,true,23.04,AS29182,JSC IOT,2580.72,1780180791.1219985
+socks5,185.218.3.94,9114,United Kingdom,GB,Coventry,elite,true,31.03,AS209847,WorkTitans B.V.,6042.29,1780180789.4168293
+socks5,8.211.195.173,100,United Kingdom,GB,London,elite,true,1.97,AS45102,"Alibaba (US) Technology Co., Ltd.",9239.32,1780180786.0458672
+socks5,8.211.195.173,9797,United Kingdom,GB,London,elite,true,1.82,AS45102,"Alibaba (US) Technology Co., Ltd.",9429.38,1780180785.8879855
+socks5,185.218.3.94,9210,United Kingdom,GB,Coventry,elite,true,11.2,AS209847,WorkTitans B.V.,22111.87,1780180763.2420657
+socks5,81.168.119.85,443,United Kingdom,GB,Maidenhead,elite,true,96.5,AS20860,Iomart Cloud Services Limited,1179.73,1780180757.624
+socks5,46.101.36.247,9050,United Kingdom,GB,Slough,elite,true,30.68,AS14061,"DigitalOcean, LLC",9889.79,1780180753.1544566
+socks5,89.169.10.248,1080,United Kingdom,GB,City of London,elite,true,33.13,AS212706,ZTV-CORP,1650.99,1780180748.8284988
+socks5,8.211.194.78,4002,United Kingdom,GB,London,elite,true,2.63,AS45102,"Alibaba (US) Technology Co., Ltd.",7832.95,1780180745.3321526
+socks5,8.211.194.78,80,United Kingdom,GB,London,elite,true,2.32,AS45102,"Alibaba (US) Technology Co., Ltd.",8180.2,1780180744.9906833
+socks5,8.211.194.78,111,United Kingdom,GB,London,elite,true,2.41,AS45102,"Alibaba (US) Technology Co., Ltd.",6053.09,1780180744.929157
+socks5,8.211.194.78,81,United Kingdom,GB,London,elite,true,2.72,AS45102,"Alibaba (US) Technology Co., Ltd.",6045.68,1780180744.294932
+socks5,45.89.111.179,1082,United Kingdom,GB,City of London,elite,true,98.39,AS209847,WorkTitans B.V.,246.28,1780180743.4004016
+socks5,185.218.3.94,9317,United Kingdom,GB,Coventry,elite,true,18.9,AS209847,WorkTitans B.V.,12468.03,1780180740.7315426
+socks5,45.89.111.19,1081,United Kingdom,GB,City of London,elite,true,85.94,AS209847,WorkTitans B.V.,220.63,1780180736.6595457
+socks5,192.252.210.233,4145,United Kingdom,GB,London,elite,true,89.9,AS46562,Performive LLC,1429.09,1780180735.5413613
+socks5,185.218.3.94,9549,United Kingdom,GB,Coventry,elite,true,17.1,AS209847,WorkTitans B.V.,1161.24,1780180735.3802335
+socks5,94.131.122.125,1082,United Kingdom,GB,Holborn,elite,true,39.04,AS209847,WorkTitans B.V.,308.46,1780180735.2691844
+socks5,185.218.3.94,9298,United Kingdom,GB,Coventry,elite,true,15.77,AS209847,WorkTitans B.V.,14260.2,1780180733.4818935
+socks5,185.218.3.94,9181,United Kingdom,GB,Coventry,elite,true,46.84,AS209847,WorkTitans B.V.,9329.2,1780180720.5269365
+socks5,94.131.122.125,1081,United Kingdom,GB,Holborn,elite,true,37.25,AS209847,WorkTitans B.V.,221.33,1780180720.5091183
+socks5,45.89.111.19,1082,United Kingdom,GB,City of London,elite,true,83.97,AS209847,WorkTitans B.V.,2160.37,1780180717.5440292
+socks5,86.21.239.166,9050,United Kingdom,GB,Birmingham,elite,true,23.96,AS5089,Virgin Media Limited,18297.76,1780180705.6888082
+socks5,185.218.3.94,9481,United Kingdom,GB,Coventry,elite,true,15.45,AS209847,WorkTitans B.V.,6737.26,1780180685.7354867
+socks5,206.123.156.238,4222,United Kingdom,GB,City of London,elite,true,12.03,AS213790,Limited Network LTD,928.89,1780180801.051505
+socks5,206.123.156.238,4384,United Kingdom,GB,City of London,elite,true,29.1,AS213790,Limited Network LTD,2957.01,1780180797.928803
+socks5,206.123.156.238,4404,United Kingdom,GB,City of London,elite,true,21.65,AS213790,Limited Network LTD,868.06,1780180797.2790556
+socks5,206.123.156.238,6071,United Kingdom,GB,City of London,elite,true,7.29,AS213790,Limited Network LTD,1585.85,1780180795.3451629
+socks5,206.123.156.238,5866,United Kingdom,GB,City of London,elite,true,9.39,AS213790,Limited Network LTD,1277.46,1780180795.086648
+socks5,206.123.156.238,5709,United Kingdom,GB,City of London,elite,true,20.67,AS213790,Limited Network LTD,780.98,1780180793.7993028
+socks5,206.123.156.238,4816,United Kingdom,GB,City of London,elite,true,20.93,AS213790,Limited Network LTD,8912.77,1780180793.4311452
+socks5,94.131.122.128,1082,United Kingdom,GB,Holborn,elite,true,38.82,AS209847,WorkTitans B.V.,2779.26,1780180793.3393395
+socks5,206.123.156.238,4544,United Kingdom,GB,City of London,elite,true,16.11,AS213790,Limited Network LTD,1018.03,1780180792.8105736
+socks5,206.123.156.238,4474,United Kingdom,GB,City of London,elite,true,33.61,AS213790,Limited Network LTD,1282.95,1780180792.187896
+socks5,206.123.156.238,5242,United Kingdom,GB,City of London,elite,true,30.51,AS213790,Limited Network LTD,3676.6,1780180791.5430887
+socks5,206.123.156.238,5944,United Kingdom,GB,City of London,elite,true,9.29,AS213790,Limited Network LTD,843.58,1780180790.7667806
+socks5,206.123.156.238,4200,United Kingdom,GB,City of London,elite,true,12.37,AS213790,Limited Network LTD,8474.85,1780180789.5979717
+socks5,206.123.156.238,5292,United Kingdom,GB,City of London,elite,true,21.36,AS213790,Limited Network LTD,3727.14,1780180789.520565
+socks5,206.123.156.238,4695,United Kingdom,GB,City of London,elite,true,6.97,AS213790,Limited Network LTD,2143.61,1780180788.9270055
+socks5,206.123.156.238,4776,United Kingdom,GB,City of London,elite,true,23.75,AS213790,Limited Network LTD,5439.63,1780180788.842485
+socks5,206.123.156.238,4712,United Kingdom,GB,City of London,elite,true,21.81,AS213790,Limited Network LTD,8659.21,1780180788.7795687
+socks5,206.123.156.238,5361,United Kingdom,GB,City of London,elite,true,18.33,AS213790,Limited Network LTD,744.61,1780180788.5405126
+socks5,206.123.156.238,4781,United Kingdom,GB,City of London,elite,true,18.53,AS213790,Limited Network LTD,1267.89,1780180787.9018517
+socks5,206.123.156.238,4044,United Kingdom,GB,City of London,elite,true,16.87,AS213790,Limited Network LTD,7436.95,1780180786.384639
+socks5,206.123.156.238,5216,United Kingdom,GB,City of London,elite,true,18.97,AS213790,Limited Network LTD,4084.16,1780180784.5481412
+socks5,206.123.156.238,4061,United Kingdom,GB,City of London,elite,true,15.38,AS213790,Limited Network LTD,2242.31,1780180784.5148435
+socks5,206.123.156.238,5574,United Kingdom,GB,City of London,elite,true,14.22,AS213790,Limited Network LTD,5828.83,1780180783.138118
+socks5,206.123.156.238,4975,United Kingdom,GB,City of London,elite,true,20.65,AS213790,Limited Network LTD,745.73,1780180782.9438374
+socks5,206.123.156.238,5454,United Kingdom,GB,City of London,elite,true,29.72,AS213790,Limited Network LTD,4644.51,1780180782.8086963
+socks5,206.123.156.238,4639,United Kingdom,GB,City of London,elite,true,24.79,AS213790,Limited Network LTD,5180.21,1780180782.0956042
+socks5,206.123.156.238,4355,United Kingdom,GB,City of London,elite,true,21.67,AS213790,Limited Network LTD,1600.82,1780180781.9717307
+socks5,206.123.156.238,4836,United Kingdom,GB,City of London,elite,true,22.24,AS213790,Limited Network LTD,1342.3,1780180781.459844
+socks5,206.123.156.238,5992,United Kingdom,GB,City of London,elite,true,19.64,AS213790,Limited Network LTD,2197.1,1780180781.0350904
+socks5,206.123.156.238,4790,United Kingdom,GB,City of London,elite,true,13.27,AS213790,Limited Network LTD,12074.74,1780180780.8255463
+socks5,206.123.156.238,5766,United Kingdom,GB,City of London,elite,true,12.31,AS213790,Limited Network LTD,945.55,1780180780.5338383
+socks5,206.123.156.238,4373,United Kingdom,GB,City of London,elite,true,17.39,AS213790,Limited Network LTD,9553.62,1780180780.336388
+socks5,206.123.156.238,5016,United Kingdom,GB,City of London,elite,true,23.52,AS213790,Limited Network LTD,571.73,1780180780.0393236
+socks5,206.123.156.238,4886,United Kingdom,GB,City of London,elite,true,34.86,AS213790,Limited Network LTD,6959.86,1780180779.4509988
+socks5,206.123.156.238,4884,United Kingdom,GB,City of London,elite,true,34.52,AS213790,Limited Network LTD,5232.84,1780180779.4190593
+socks5,206.123.156.238,5386,United Kingdom,GB,City of London,elite,true,11.98,AS213790,Limited Network LTD,1806.33,1780180775.8235912
+socks5,206.123.156.238,6254,United Kingdom,GB,City of London,elite,true,19.28,AS213790,Limited Network LTD,4008.64,1780180775.7022564
+socks5,206.123.156.238,5107,United Kingdom,GB,City of London,elite,true,20.69,AS213790,Limited Network LTD,3089.84,1780180775.5612907
+socks5,94.131.122.129,1081,United Kingdom,GB,Holborn,elite,true,32.36,AS209847,WorkTitans B.V.,17478.34,1780180774.2771332
+socks5,206.123.156.238,4938,United Kingdom,GB,City of London,elite,true,21.91,AS213790,Limited Network LTD,16334.02,1780180773.602727
+socks5,206.123.156.238,4750,United Kingdom,GB,City of London,elite,true,20.74,AS213790,Limited Network LTD,4029.92,1780180772.9831736
+socks5,206.123.156.238,5052,United Kingdom,GB,City of London,elite,true,18.73,AS213790,Limited Network LTD,813.24,1780180772.7173827
+socks5,206.123.156.238,4264,United Kingdom,GB,City of London,elite,true,10.83,AS213790,Limited Network LTD,2723.04,1780180772.2888038
+socks5,206.123.156.238,4888,United Kingdom,GB,City of London,elite,true,13.33,AS213790,Limited Network LTD,7254.78,1780180770.8897426
+socks5,206.123.156.238,4472,United Kingdom,GB,City of London,elite,true,18.27,AS213790,Limited Network LTD,2458.62,1780180770.0184126
+socks5,206.123.156.238,4718,United Kingdom,GB,City of London,elite,true,15.97,AS213790,Limited Network LTD,9130.63,1780180769.7376387
+socks5,206.123.156.238,4186,United Kingdom,GB,City of London,elite,true,24.11,AS213790,Limited Network LTD,2196.0,1780180768.4281743
+socks5,206.123.156.238,4777,United Kingdom,GB,City of London,elite,true,29.33,AS213790,Limited Network LTD,4087.91,1780180766.8489528
+socks5,206.123.156.238,4379,United Kingdom,GB,City of London,elite,true,32.8,AS213790,Limited Network LTD,4914.16,1780180766.6642761
+socks5,206.123.156.238,4819,United Kingdom,GB,City of London,elite,true,25.47,AS213790,Limited Network LTD,6244.6,1780180765.9593418
+socks5,206.123.156.238,5418,United Kingdom,GB,City of London,elite,true,24.84,AS213790,Limited Network LTD,3489.71,1780180763.9096205
+socks5,206.123.156.238,5080,United Kingdom,GB,City of London,elite,true,20.61,AS213790,Limited Network LTD,20413.78,1780180763.9015818
+socks5,206.123.156.238,4229,United Kingdom,GB,City of London,elite,true,14.03,AS213790,Limited Network LTD,1443.27,1780180763.670538
+socks5,206.123.156.238,4989,United Kingdom,GB,City of London,elite,true,29.51,AS213790,Limited Network LTD,2519.82,1780180761.476704
+socks5,206.123.156.238,4853,United Kingdom,GB,City of London,elite,true,29.05,AS213790,Limited Network LTD,3131.09,1780180760.992535
+socks5,206.123.156.238,5203,United Kingdom,GB,City of London,elite,true,18.24,AS213790,Limited Network LTD,7567.76,1780180760.803823
+socks5,206.123.156.238,4340,United Kingdom,GB,City of London,elite,true,21.16,AS213790,Limited Network LTD,6843.97,1780180756.899493
+socks5,206.123.156.238,4436,United Kingdom,GB,City of London,elite,true,18.88,AS213790,Limited Network LTD,3909.43,1780180756.8906453
+socks5,206.123.156.238,5049,United Kingdom,GB,City of London,elite,true,16.37,AS213790,Limited Network LTD,2264.89,1780180755.0990765
+socks5,206.123.156.238,4475,United Kingdom,GB,City of London,elite,true,28.91,AS213790,Limited Network LTD,1108.37,1780180751.9135861
+socks5,206.123.156.238,4926,United Kingdom,GB,City of London,elite,true,14.37,AS213790,Limited Network LTD,7134.61,1780180750.679933
+socks5,206.123.156.238,4400,United Kingdom,GB,City of London,elite,true,8.32,AS213790,Limited Network LTD,3034.89,1780180750.0266886
+socks5,206.123.156.238,5054,United Kingdom,GB,City of London,elite,true,29.33,AS213790,Limited Network LTD,5928.67,1780180748.37038
+socks5,206.123.156.238,6021,United Kingdom,GB,City of London,elite,true,14.67,AS213790,Limited Network LTD,4378.28,1780180748.355707
+socks5,206.123.156.238,5653,United Kingdom,GB,City of London,elite,true,17.22,AS213790,Limited Network LTD,6006.99,1780180746.965071
+socks5,206.123.156.238,4852,United Kingdom,GB,City of London,elite,true,17.71,AS213790,Limited Network LTD,4886.2,1780180746.4370823
+socks5,206.123.156.238,4181,United Kingdom,GB,City of London,elite,true,31.04,AS213790,Limited Network LTD,4945.02,1780180745.9259582
+socks5,206.123.156.238,4577,United Kingdom,GB,City of London,elite,true,24.26,AS213790,Limited Network LTD,2090.78,1780180744.194506
+socks5,206.123.156.238,6099,United Kingdom,GB,City of London,elite,true,17.42,AS213790,Limited Network LTD,6836.53,1780180744.046963
+socks5,206.123.156.238,5356,United Kingdom,GB,City of London,elite,true,21.48,AS213790,Limited Network LTD,5158.89,1780180743.7371855
+socks5,206.123.156.238,5382,United Kingdom,GB,City of London,elite,true,25.29,AS213790,Limited Network LTD,2189.96,1780180743.1611562
+socks5,206.123.156.238,4045,United Kingdom,GB,City of London,elite,true,25.9,AS213790,Limited Network LTD,4215.74,1780180743.1049867
+socks5,206.123.156.238,4494,United Kingdom,GB,City of London,elite,true,16.1,AS213790,Limited Network LTD,6984.09,1780180740.3122923
+socks5,206.123.156.238,5413,United Kingdom,GB,City of London,elite,true,11.35,AS213790,Limited Network LTD,2664.7,1780180739.6820729
+socks5,206.123.156.238,4580,United Kingdom,GB,City of London,elite,true,21.12,AS213790,Limited Network LTD,395.63,1780180735.1668901
+socks5,206.123.156.238,5830,United Kingdom,GB,City of London,elite,true,9.95,AS213790,Limited Network LTD,644.39,1780180734.2611303
+socks5,206.123.156.238,4011,United Kingdom,GB,City of London,elite,true,19.21,AS213790,Limited Network LTD,6229.4,1780180733.9060872
+socks5,206.123.156.238,5084,United Kingdom,GB,City of London,elite,true,19.7,AS213790,Limited Network LTD,4406.01,1780180733.8645985
+socks5,206.123.156.238,5042,United Kingdom,GB,City of London,elite,true,14.58,AS213790,Limited Network LTD,357.7,1780180733.6745093
+socks5,206.123.156.238,4458,United Kingdom,GB,City of London,elite,true,28.58,AS213790,Limited Network LTD,10870.62,1780180733.0775824
+socks5,206.123.156.238,4893,United Kingdom,GB,City of London,elite,true,11.05,AS213790,Limited Network LTD,1657.18,1780180732.292938
+socks5,206.123.156.238,4405,United Kingdom,GB,City of London,elite,true,22.79,AS213790,Limited Network LTD,8866.86,1780180730.3720973
+socks5,206.123.156.238,4924,United Kingdom,GB,City of London,elite,true,10.71,AS213790,Limited Network LTD,1346.84,1780180727.543498
+socks5,94.131.122.128,1081,United Kingdom,GB,Holborn,elite,true,35.08,AS209847,WorkTitans B.V.,3784.61,1780180727.52514
+socks5,206.123.156.238,5105,United Kingdom,GB,City of London,elite,true,16.49,AS213790,Limited Network LTD,20479.15,1780180726.5677226
+socks5,212.58.132.5,1080,United Kingdom,GB,London,elite,true,99.7,AS8757,"NSFOCUS, Inc.",1875.23,1780180725.8194408
+socks5,206.123.156.238,5118,United Kingdom,GB,City of London,elite,true,15.19,AS213790,Limited Network LTD,4464.83,1780180724.2830284
+socks5,206.123.156.238,5707,United Kingdom,GB,City of London,elite,true,19.15,AS213790,Limited Network LTD,6385.55,1780180723.9556994
+socks5,206.123.156.238,4255,United Kingdom,GB,City of London,elite,true,14.46,AS213790,Limited Network LTD,1018.63,1780180722.6881948
+socks5,206.123.156.238,5296,United Kingdom,GB,City of London,elite,true,11.75,AS213790,Limited Network LTD,1939.43,1780180722.6525493
+socks5,206.123.156.238,5001,United Kingdom,GB,City of London,elite,true,19.91,AS213790,Limited Network LTD,1962.51,1780180722.5271635
+socks5,206.123.156.238,4175,United Kingdom,GB,City of London,elite,true,13.98,AS213790,Limited Network LTD,4467.04,1780180722.0852628
+socks5,206.123.156.238,4212,United Kingdom,GB,City of London,elite,true,13.22,AS213790,Limited Network LTD,7296.6,1780180721.9197125
+socks5,206.123.156.238,5048,United Kingdom,GB,City of London,elite,true,14.95,AS213790,Limited Network LTD,2418.23,1780180720.7308974
+socks5,206.123.156.238,5600,United Kingdom,GB,City of London,elite,true,25.77,AS213790,Limited Network LTD,327.9,1780180720.5912566
+socks5,206.123.156.238,4575,United Kingdom,GB,City of London,elite,true,17.76,AS213790,Limited Network LTD,15021.97,1780180719.7064974
+socks5,206.123.156.238,4590,United Kingdom,GB,City of London,elite,true,16.9,AS213790,Limited Network LTD,4758.72,1780180718.8028426
+socks5,206.123.156.238,4326,United Kingdom,GB,City of London,elite,true,24.13,AS213790,Limited Network LTD,14396.89,1780180718.6761649
+socks5,206.123.156.238,4746,United Kingdom,GB,City of London,elite,true,14.2,AS213790,Limited Network LTD,8157.22,1780180718.5033576
+socks5,206.123.156.238,4800,United Kingdom,GB,City of London,elite,true,30.89,AS213790,Limited Network LTD,5505.17,1780180716.9004235
+socks5,206.123.156.238,4220,United Kingdom,GB,City of London,elite,true,20.43,AS213790,Limited Network LTD,14957.52,1780180716.1624587
+socks5,206.123.156.238,5339,United Kingdom,GB,City of London,elite,true,41.32,AS213790,Limited Network LTD,3819.6,1780180712.1042695
+socks5,206.123.156.238,4979,United Kingdom,GB,City of London,elite,true,23.62,AS213790,Limited Network LTD,7476.7,1780180712.006883
+socks5,206.123.156.238,5140,United Kingdom,GB,City of London,elite,true,26.56,AS213790,Limited Network LTD,4051.45,1780180710.8055642
+socks5,206.123.156.238,5808,United Kingdom,GB,City of London,elite,true,27.1,AS213790,Limited Network LTD,4866.02,1780180710.5213737
+socks5,206.123.156.238,5352,United Kingdom,GB,City of London,elite,true,14.2,AS213790,Limited Network LTD,4127.74,1780180708.6245282
+socks5,206.123.156.238,4752,United Kingdom,GB,City of London,elite,true,24.4,AS213790,Limited Network LTD,7767.14,1780180700.8328044
+socks5,206.123.156.238,5028,United Kingdom,GB,City of London,elite,true,27.3,AS213790,Limited Network LTD,5227.12,1780180698.810237
+socks5,206.123.156.238,4922,United Kingdom,GB,City of London,elite,true,13.52,AS213790,Limited Network LTD,6113.42,1780180696.749741
+socks5,206.123.156.238,4145,United Kingdom,GB,City of London,elite,true,8.83,AS213790,Limited Network LTD,6654.83,1780180686.7045662
+socks5,206.123.156.238,4644,United Kingdom,GB,City of London,elite,true,29.57,AS213790,Limited Network LTD,4004.86,1780180675.9393017
+socks5,94.131.122.129,1082,United Kingdom,GB,Holborn,elite,true,35.21,AS209847,WorkTitans B.V.,3182.99,1780180661.2061107
+socks5,206.123.156.238,5288,United Kingdom,GB,City of London,elite,true,18.51,AS213790,Limited Network LTD,12665.81,1780180653.6396105
+socks5,206.123.156.238,4932,United Kingdom,GB,City of London,elite,true,14.68,AS213790,Limited Network LTD,12708.64,1780180619.9661248
+socks5,57.129.144.178,40000,United Kingdom,GB,Bexley,elite,true,50.52,AS16276,OVH SAS,611.79,1780180800.1034243
