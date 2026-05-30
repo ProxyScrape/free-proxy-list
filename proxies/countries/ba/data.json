@@ -1,33 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "77.77.210.90",
-    "port": 21056,
-    "country": "Bosnia and Herzegovina",
-    "country_code": "BA",
-    "city": "Sarajevo",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 7.3,
-    "asn": "AS42560",
-    "isp": "TELEMACH BH",
-    "latency_ms": 6692.39,
-    "last_checked": 1780141772.6299255
-  },
-  {
-    "protocol": "http",
+    "protocol": "socks5",
     "ip": "45.15.178.39",
-    "port": 3128,
+    "port": 1080,
     "country": "Bosnia and Herzegovina",
     "country_code": "BA",
     "city": "Sarajevo",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 37.07,
+    "ssl": true,
+    "uptime_percent": 55.69,
     "asn": "AS209847",
     "isp": "WorkTitans B.V.",
-    "latency_ms": 287.13,
-    "last_checked": 1780141712.4051268
+    "latency_ms": 159.51,
+    "last_checked": 1780142397.7296953
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.15.178.39",
+    "port": 1080,
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "city": "Sarajevo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 67.11,
+    "asn": "AS209847",
+    "isp": "WorkTitans B.V.",
+    "latency_ms": 121.68,
+    "last_checked": 1780142395.9363763
   },
   {
     "protocol": "socks4",
@@ -41,7 +41,37 @@
     "uptime_percent": 10.76,
     "asn": "AS20875",
     "isp": "JP HT d.d. Mostar",
-    "latency_ms": 136.33,
-    "last_checked": 1780141802.9270267
+    "latency_ms": 134.01,
+    "last_checked": 1780142390.368665
+  },
+  {
+    "protocol": "http",
+    "ip": "45.15.178.39",
+    "port": 3128,
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "city": "Sarajevo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.1,
+    "asn": "AS209847",
+    "isp": "WorkTitans B.V.",
+    "latency_ms": 113.52,
+    "last_checked": 1780142388.9805448
+  },
+  {
+    "protocol": "http",
+    "ip": "77.77.210.90",
+    "port": 21056,
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "city": "Sarajevo",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 7.3,
+    "asn": "AS42560",
+    "isp": "TELEMACH BH",
+    "latency_ms": 5229.1,
+    "last_checked": 1780142260.7835193
   }
 ]
