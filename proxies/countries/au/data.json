@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks5",
     "ip": "170.64.170.204",
-    "port": 8080,
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 94.56,
+    "ssl": true,
+    "uptime_percent": 90.89,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 900.09,
-    "last_checked": 1780152530.2035358
+    "latency_ms": 2320.01,
+    "last_checked": 1780153137.268789
   },
   {
     "protocol": "http",
@@ -26,37 +26,22 @@
     "uptime_percent": 48.88,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 786.91,
-    "last_checked": 1780152528.8387136
+    "latency_ms": 554.82,
+    "last_checked": 1780153114.6261163
   },
   {
-    "protocol": "socks5",
+    "protocol": "http",
     "ip": "170.64.170.204",
-    "port": 1080,
+    "port": 8080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 90.89,
+    "ssl": false,
+    "uptime_percent": 94.56,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1750.88,
-    "last_checked": 1780152506.1314902
-  },
-  {
-    "protocol": "http",
-    "ip": "203.23.238.21",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Canberra",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 40.39,
-    "asn": "AS18390",
-    "isp": "Spintel Pty Ltd",
-    "latency_ms": 14477.32,
-    "last_checked": 1780152567.0439723
+    "latency_ms": 1699.04,
+    "last_checked": 1780153083.7056394
   }
 ]
