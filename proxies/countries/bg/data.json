@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "109.160.97.49",
-    "port": 4145,
+    "protocol": "http",
+    "ip": "46.55.143.145",
+    "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Rousse",
+    "city": "Kardzhali",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 10.78,
+    "asn": "AS51582",
+    "isp": "DCC",
+    "latency_ms": 3414.79,
+    "last_checked": 1780207149.6488066
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pleven",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 10.07,
-    "asn": "AS205352",
-    "isp": "Kabelnet LTD",
-    "latency_ms": 251.29,
-    "last_checked": 1780206510.9705858
+    "uptime_percent": 57.14,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 2662.94,
+    "last_checked": 1780207082.6396174
   },
   {
     "protocol": "http",
@@ -22,26 +37,11 @@
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 36.57,
+    "ssl": true,
+    "uptime_percent": 36.64,
     "asn": "AS31083",
     "isp": "Telepoint Ltd",
-    "latency_ms": 6647.03,
-    "last_checked": 1780206426.5164833
-  },
-  {
-    "protocol": "socks4",
-    "ip": "212.50.19.150",
-    "port": 4153,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 9.06,
-    "asn": "AS8717",
-    "isp": "Spectrum NET",
-    "latency_ms": 266.83,
-    "last_checked": 1780206605.3942695
+    "latency_ms": 6748.69,
+    "last_checked": 1780207047.0335984
   }
 ]
