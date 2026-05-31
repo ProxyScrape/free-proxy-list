@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "217.78.239.5",
-    "port": 4555,
+    "protocol": "socks4",
+    "ip": "144.31.170.253",
+    "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Tallinn",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 15.55,
-    "asn": "AS211211",
-    "isp": "IT-Develop DOO",
-    "latency_ms": 4863.93,
-    "last_checked": 1780210410.6310058
+    "ssl": true,
+    "uptime_percent": 34.74,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 4002.14,
+    "last_checked": 1780210776.4852972
+  },
+  {
+    "protocol": "socks5",
+    "ip": "144.31.170.253",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.84,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 2752.92,
+    "last_checked": 1780210772.578395
   },
   {
     "protocol": "socks4",
@@ -23,26 +38,11 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 68.07,
+    "uptime_percent": 68.08,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 193.39,
-    "last_checked": 1780210512.4748971
-  },
-  {
-    "protocol": "http",
-    "ip": "5.45.126.165",
-    "port": 13215,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 36.25,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 7618.38,
-    "last_checked": 1780210473.991104
+    "latency_ms": 432.63,
+    "last_checked": 1780210783.4000187
   },
   {
     "protocol": "socks5",
@@ -53,10 +53,10 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 71.66,
+    "uptime_percent": 71.7,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 1486.34,
-    "last_checked": 1780210455.3186858
+    "latency_ms": 938.46,
+    "last_checked": 1780210744.1824841
   }
 ]
