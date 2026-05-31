@@ -1,32 +1,47 @@
 [
   {
     "protocol": "http",
-    "ip": "154.0.153.87",
-    "port": 8080,
-    "country": "Tanzania",
-    "country_code": "TZ",
-    "city": "Mwanza",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 25.06,
-    "asn": "AS36909",
-    "isp": "Habari Node Public Limited",
-    "latency_ms": 3995.93,
-    "last_checked": 1780202370.889942
-  },
-  {
-    "protocol": "http",
     "ip": "41.93.63.66",
     "port": 8080,
     "country": "Tanzania",
     "country_code": "TZ",
     "city": "Dar es Salaam",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 14.11,
     "asn": "AS37182",
     "isp": "Tanzania Education And Research Network",
-    "latency_ms": 11416.65,
-    "last_checked": 1780202578.3731692
+    "latency_ms": 12377.49,
+    "last_checked": 1780203149.4870026
+  },
+  {
+    "protocol": "socks5",
+    "ip": "165.16.192.205",
+    "port": 1080,
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "city": "Dar es Salaam",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 18.76,
+    "asn": "AS327792",
+    "isp": "CSS",
+    "latency_ms": 1160.97,
+    "last_checked": 1780203293.9727736
+  },
+  {
+    "protocol": "socks5",
+    "ip": "165.16.192.81",
+    "port": 1080,
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "city": "Dar es Salaam",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.09,
+    "asn": "AS327792",
+    "isp": "CSS",
+    "latency_ms": 1717.17,
+    "last_checked": 1780203286.0300784
   }
 ]
