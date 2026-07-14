@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "45.85.93.15",
+    "port": 4567,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.57,
+    "asn": "AS199058",
+    "isp": "Serva ONE LTD",
+    "latency_ms": 1945.63,
+    "last_checked": 1784060091.5428126
+  },
+  {
+    "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
     "country": "Switzerland",
@@ -11,23 +26,38 @@
     "uptime_percent": 88.03,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 9514.03,
-    "last_checked": 1784059477.9315271
+    "latency_ms": 7922.0,
+    "last_checked": 1784060076.0447998
   },
   {
-    "protocol": "socks4",
-    "ip": "195.225.116.14",
-    "port": 4145,
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Wädenswil",
+    "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 30.04,
-    "asn": "AS48971",
-    "isp": "netz116",
-    "latency_ms": 1094.66,
-    "last_checked": 1784059450.3732827
+    "uptime_percent": 74.44,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 3178.14,
+    "last_checked": 1784060030.8598783
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 86.46,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 2583.3,
+    "last_checked": 1784060026.2125158
   },
   {
     "protocol": "http",
@@ -37,26 +67,11 @@
     "country_code": "CH",
     "city": "Bern",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 69.86,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 525.03,
-    "last_checked": 1784059437.8050883
-  },
-  {
-    "protocol": "socks4",
-    "ip": "5.101.85.133",
-    "port": 9050,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 56.25,
-    "asn": "AS63023",
-    "isp": "GTHost",
-    "latency_ms": 4486.21,
-    "last_checked": 1784059434.3252237
+    "latency_ms": 11145.6,
+    "last_checked": 1784059975.95591
   }
 ]
