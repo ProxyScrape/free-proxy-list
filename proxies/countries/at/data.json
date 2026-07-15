@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "193.233.161.21",
-    "port": 3128,
+    "port": 1080,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 28.56,
+    "ssl": true,
+    "uptime_percent": 39.72,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 505.69,
-    "last_checked": 1784158318.9874055
+    "latency_ms": 3196.6,
+    "last_checked": 1784159074.905583
+  },
+  {
+    "protocol": "http",
+    "ip": "193.233.128.128",
+    "port": 3128,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 37.89,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 3938.61,
+    "last_checked": 1784159067.6838477
   },
   {
     "protocol": "http",
@@ -23,26 +38,11 @@
     "city": "Vienna",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 37.89,
+    "uptime_percent": 37.9,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 5584.75,
-    "last_checked": 1784158476.8361802
-  },
-  {
-    "protocol": "socks4",
-    "ip": "185.196.178.238",
-    "port": 60606,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Längenfeld",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 9.03,
-    "asn": "AS206091",
-    "isp": "Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG",
-    "latency_ms": 54.79,
-    "last_checked": 1784158455.254177
+    "latency_ms": 6805.32,
+    "last_checked": 1784159083.4028795
   },
   {
     "protocol": "socks4",
@@ -53,10 +53,10 @@
     "city": "Kindberg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 62.79,
+    "uptime_percent": 62.81,
     "asn": "AS13292",
     "isp": "BK DAT",
-    "latency_ms": 1702.91,
-    "last_checked": 1784158502.5389774
+    "latency_ms": 1674.74,
+    "last_checked": 1784159102.5635033
   }
 ]
