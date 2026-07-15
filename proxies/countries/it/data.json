@@ -1,33 +1,48 @@
 [
   {
     "protocol": "http",
+    "ip": "87.121.148.126",
+    "port": 49200,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Palazzago",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 67.66,
+    "asn": "AS210218",
+    "isp": "Open Fiber S.P.A.",
+    "latency_ms": 83.62,
+    "last_checked": 1784159364.1107395
+  },
+  {
+    "protocol": "http",
+    "ip": "79.52.233.34",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rome",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 33.28,
+    "asn": "AS3269",
+    "isp": "INTERBUSINESS",
+    "latency_ms": 5594.97,
+    "last_checked": 1784159354.8095222
+  },
+  {
+    "protocol": "http",
     "ip": "188.11.179.26",
     "port": 8443,
     "country": "Italy",
     "country_code": "IT",
     "city": "Crispi Cavour",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 13.88,
     "asn": "AS3269",
     "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
-    "latency_ms": 4629.58,
-    "last_checked": 1784159067.5638843
-  },
-  {
-    "protocol": "socks4",
-    "ip": "5.59.248.134",
-    "port": 8081,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Pomezia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.32,
-    "asn": "AS212271",
-    "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 3011.94,
-    "last_checked": 1784159050.9705846
+    "latency_ms": 3576.31,
+    "last_checked": 1784159162.102996
   },
   {
     "protocol": "socks4",
@@ -41,23 +56,38 @@
     "uptime_percent": 87.15,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 87.76,
-    "last_checked": 1784159097.6811771
+    "latency_ms": 6810.1,
+    "last_checked": 1784159396.3304913
   },
   {
-    "protocol": "socks5",
-    "ip": "149.62.186.244",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "2.115.212.62",
+    "port": 48293,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Milan",
+    "city": "Furnari",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 85.59,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 81.77,
-    "last_checked": 1784159094.5113735
+    "uptime_percent": 48.48,
+    "asn": "AS3269",
+    "isp": "Telecom Italia S.p.A",
+    "latency_ms": 1714.18,
+    "last_checked": 1784159377.3104184
+  },
+  {
+    "protocol": "http",
+    "ip": "93.187.26.218",
+    "port": 58080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Siena",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 28.9,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 1293.64,
+    "last_checked": 1784159350.4958925
   },
   {
     "protocol": "http",
@@ -67,27 +97,12 @@
     "country_code": "IT",
     "city": "Milan",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 23.14,
     "asn": "AS44092",
     "isp": "Mywic Costumers",
-    "latency_ms": 3216.72,
-    "last_checked": 1784159057.8763568
-  },
-  {
-    "protocol": "http",
-    "ip": "93.187.26.134",
-    "port": 58080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Siena",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 31.51,
-    "asn": "AS43960",
-    "isp": "Consorzio Terrecablate",
-    "latency_ms": 4113.3,
-    "last_checked": 1784159022.4116557
+    "latency_ms": 5328.18,
+    "last_checked": 1784159348.6638367
   },
   {
     "protocol": "http",
@@ -97,12 +112,27 @@
     "country_code": "IT",
     "city": "Milan",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 23.59,
     "asn": "AS44092",
     "isp": "Mywic Costumers",
-    "latency_ms": 4837.74,
-    "last_checked": 1784159008.5558736
+    "latency_ms": 9228.77,
+    "last_checked": 1784159338.254755
+  },
+  {
+    "protocol": "http",
+    "ip": "93.187.25.12",
+    "port": 58080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Siena",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 28.99,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 3213.6,
+    "last_checked": 1784159238.7327435
   },
   {
     "protocol": "socks5",
@@ -116,8 +146,8 @@
     "uptime_percent": 99.85,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 263.91,
-    "last_checked": 1784159098.405639
+    "latency_ms": 508.27,
+    "last_checked": 1784159376.3600423
   },
   {
     "protocol": "http",
@@ -131,7 +161,7 @@
     "uptime_percent": 29.19,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 174.14,
-    "last_checked": 1784159025.5038126
+    "latency_ms": 3477.11,
+    "last_checked": 1784159198.364104
   }
 ]
