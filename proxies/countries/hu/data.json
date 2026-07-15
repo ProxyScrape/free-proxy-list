@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "89.135.59.71",
-    "port": 8090,
+    "protocol": "socks4",
+    "ip": "89.132.170.211",
+    "port": 4145,
     "country": "Hungary",
     "country_code": "HU",
-    "city": "Pusztavacs",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 5.76,
+    "city": "Nagykanizsa",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.92,
     "asn": "AS21334",
     "isp": "One Hungary Ltd.",
-    "latency_ms": 7189.36,
-    "last_checked": 1784152102.3326466
+    "latency_ms": 151.13,
+    "last_checked": 1784152760.9612007
+  },
+  {
+    "protocol": "http",
+    "ip": "31.46.33.59",
+    "port": 53281,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Tiszafüred",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.94,
+    "asn": "AS5483",
+    "isp": "htc",
+    "latency_ms": 14094.49,
+    "last_checked": 1784152703.843879
   },
   {
     "protocol": "http",
@@ -22,11 +37,26 @@
     "country_code": "HU",
     "city": "Érd",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 29.53,
+    "ssl": true,
+    "uptime_percent": 29.64,
     "asn": "AS20845",
     "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
-    "latency_ms": 4594.63,
-    "last_checked": 1784152085.3184028
+    "latency_ms": 103.59,
+    "last_checked": 1784152683.4155943
+  },
+  {
+    "protocol": "http",
+    "ip": "45.130.240.238",
+    "port": 8080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Budapest",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 26.95,
+    "asn": "AS47169",
+    "isp": "Pro-M Zrt.",
+    "latency_ms": 11345.66,
+    "last_checked": 1784152762.901596
   }
 ]
