@@ -1,4 +1,8 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,85.187.224.21,8080,Bulgaria,BG,Kardzhali,transparent,false,17.01,AS199173,Technolux Ltd,3975.72,1784114383.2001755
-http,82.137.90.192,80,Bulgaria,BG,Haskovo,elite,false,48.03,AS8866,Bulgarian Telecommunications Company Plc.,12388.39,1784114354.3657
-http,213.169.33.3,8001,Bulgaria,BG,Sofia,transparent,false,14.55,AS8717,A1 Bulgaria EAD,13895.74,1784114336.8118854
+socks4,185.205.210.154,1085,Bulgaria,BG,Sofia,elite,true,42.38,AS44901,Belcloud LTD,413.13,1784114989.2150285
+http,185.205.210.154,8085,Bulgaria,BG,Sofia,elite,true,25.52,AS44901,Belcloud LTD,465.12,1784114987.4974616
+socks4,109.160.97.49,4145,Bulgaria,BG,Rousse,elite,true,15.35,AS205352,Kabelnet LTD,278.22,1784114973.8988543
+socks4,46.10.198.10,4153,Bulgaria,BG,Sofia,elite,true,49.27,AS8866,Vivacom Bulgaria EAD,1179.03,1784114973.880474
+socks5,185.205.210.154,1085,Bulgaria,BG,Sofia,elite,true,32.07,AS44901,Belcloud LTD,653.26,1784114973.6961653
+http,85.187.224.21,8080,Bulgaria,BG,Kardzhali,transparent,false,17.02,AS199173,Technolux Ltd,155.31,1784114963.8243704
+http,193.68.115.14,8080,Bulgaria,BG,Ablanitsa,transparent,false,7.9,AS48584,Sarnica-Net LTD,10695.1,1784114943.0055373
