@@ -1,36 +1,60 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,5.255.124.154,3128,The Netherlands,NL,Dronten,elite,true,15.43,AS60404,The Infrastructure Group B.V.,96.29,1784136844.5337029
-http,89.110.124.45,8888,The Netherlands,NL,Amsterdam,transparent,true,30.03,AS216071,Servers Tech Fzco,8154.47,1784136831.2631106
-http,145.220.226.145,8080,The Netherlands,NL,Utrecht,elite,true,85.31,AS1101,SURFnet III d,11009.1,1784136819.6564372
-http,145.220.226.6,8080,The Netherlands,NL,Utrecht,elite,true,85.48,AS1101,SURFnet III d,11088.3,1784136818.8202477
-http,145.220.226.170,8080,The Netherlands,NL,Utrecht,elite,true,85.44,AS1101,SURFnet III d,12182.73,1784136818.4814568
-http,145.220.226.158,8080,The Netherlands,NL,Utrecht,elite,true,85.43,AS1101,SURFnet III d,12959.45,1784136817.7101283
-http,145.220.226.70,8080,The Netherlands,NL,Utrecht,elite,true,85.13,AS1101,SURFnet III d,12957.55,1784136817.7061074
-http,188.166.12.117,3128,The Netherlands,NL,Amsterdam,transparent,true,37.96,AS14061,"DigitalOcean, LLC",9928.47,1784136816.8659651
-http,145.220.226.206,8080,The Netherlands,NL,Utrecht,elite,true,85.32,AS1101,SURFnet III d,15259.63,1784136815.4070563
-http,89.124.80.251,1080,The Netherlands,NL,Amsterdam,elite,true,94.11,AS216071,Servers Tech Fzco,961.06,1784136813.4433646
-http,143.244.196.234,3128,The Netherlands,NL,Amsterdam,transparent,true,4.93,AS14061,"DigitalOcean, LLC",8872.77,1784136812.5082786
-http,85.158.145.47,8080,The Netherlands,NL,Meppel,elite,true,84.06,AS212025,Cukman Kresimir,4639.09,1784136807.5493505
-http,81.90.29.194,10808,The Netherlands,NL,Amsterdam,elite,true,93.86,AS215540,Global Connectivity Solutions LLP,133.42,1784136802.6317384
-http,145.220.226.40,8080,The Netherlands,NL,Utrecht,elite,true,85.44,AS1101,SURFnet III d,4547.47,1784136796.9029062
-http,139.28.240.202,1081,The Netherlands,NL,Amsterdam,elite,true,66.12,AS215540,Global Connectivity Solutions LLP,10134.75,1784136785.6051755
-http,185.200.176.134,8080,The Netherlands,NL,Amsterdam,elite,true,18.24,AS216154,Clodo Cloud Service CO. L.L.C,8239.7,1784136784.1481144
-http,139.28.240.200,1082,The Netherlands,NL,Amsterdam,elite,true,64.2,AS215540,Global Connectivity Solutions LLP,7345.56,1784136776.2598042
-http,191.44.125.6,8080,The Netherlands,NL,Amsterdam,transparent,true,32.21,AS216472,High Speed For Internet Services L.L.C,7341.41,1784136759.2393956
-http,77.239.108.24,3128,The Netherlands,NL,Amsterdam,elite,true,48.02,AS215590,DpkgSoft International Limited,6378.14,1784136705.8213592
-http,139.28.240.200,1081,The Netherlands,NL,Amsterdam,elite,true,64.05,AS215540,Global Connectivity Solutions LLP,2130.07,1784136698.4672334
-http,139.28.240.201,1081,The Netherlands,NL,Amsterdam,elite,true,70.42,AS215540,Global Connectivity Solutions LLP,10148.73,1784136674.0697303
-http,145.220.226.240,8080,The Netherlands,NL,Utrecht,elite,true,85.27,AS1101,SURFnet III d,3636.39,1784136664.5806837
-http,145.220.226.180,8080,The Netherlands,NL,Utrecht,elite,true,85.49,AS1101,SURFnet III d,9681.27,1784136651.884013
-http,145.220.226.1,8080,The Netherlands,NL,Utrecht,elite,true,85.74,AS1101,SURFnet III d,11662.49,1784136649.6499062
-http,153.80.240.37,1080,The Netherlands,NL,Eygelshoven,elite,true,89.0,AS215540,Global Connectivity Solutions LLP,7133.67,1784136868.0030942
-http,104.248.81.109,3128,The Netherlands,NL,Amsterdam,transparent,true,12.06,AS14061,"DigitalOcean, LLC",12221.11,1784136863.771781
-http,151.242.88.126,3128,The Netherlands,NL,Amsterdam,transparent,true,33.4,AS57043,Hostkey B.V.,18163.25,1784136861.9080236
-http,153.80.240.37,8080,The Netherlands,NL,Eygelshoven,elite,true,88.96,AS215540,Global Connectivity Solutions LLP,3122.27,1784136840.3019547
-http,160.238.65.5,3128,The Netherlands,NL,Amsterdam,transparent,true,35.87,AS142019,GZ REMITTANCE (CHINA) INDUSTRY LIMITED,105.59,1784136805.7244775
-http,150.251.137.156,8118,The Netherlands,NL,Amsterdam,elite,true,26.09,AS216139,Iron Hosting Centre LTD,4739.21,1784136800.8303316
-http,185.18.52.170,3128,The Netherlands,NL,Rotterdam,elite,true,24.21,AS16003,Fornex Hosting S.L.,11175.86,1784136780.1728735
-http,151.248.19.97,8080,The Netherlands,NL,Leersum,transparent,true,26.06,AS41960,Nextpertise B.V.,4453.21,1784136763.5305552
-http,206.189.99.113,8888,The Netherlands,NL,Amsterdam,transparent,true,27.42,AS14061,"DigitalOcean, LLC",6801.65,1784136879.3359916
-http,212.34.134.99,82,The Netherlands,NL,Amsterdam,elite,true,45.11,AS216071,Servers Tech Fzco,87.34,1784136815.3839197
-http,212.118.38.225,3128,The Netherlands,NL,Amsterdam,anonymous,true,31.88,AS216071,Servers Tech Fzco,12094.26,1784136769.9855335
+http,191.44.125.14,8080,The Netherlands,NL,Amsterdam,transparent,true,38.06,AS216472,High Speed For Internet Services L.L.C,5598.64,1784137485.8972385
+http,191.44.125.13,8080,The Netherlands,NL,Amsterdam,transparent,true,35.51,AS216472,High Speed For Internet Services L.L.C,4121.55,1784137465.2942698
+http,147.45.187.104,8080,The Netherlands,NL,Amsterdam,elite,true,21.06,AS210976,"Timeweb, LLP",4417.66,1784137459.707738
+http,77.239.108.24,3128,The Netherlands,NL,Amsterdam,elite,true,48.03,AS215590,DpkgSoft International Limited,1714.74,1784137452.6872308
+http,138.124.67.235,1082,The Netherlands,NL,Amsterdam,elite,true,84.97,AS215540,GCS SER,1110.38,1784137448.4457777
+http,145.220.226.171,8080,The Netherlands,NL,Utrecht,elite,true,85.4,AS1101,SURFnet III d,8666.44,1784137417.5348964
+http,145.220.226.85,8080,The Netherlands,NL,Utrecht,elite,true,85.48,AS1101,SURFnet III d,5293.6,1784137411.948814
+http,145.220.226.120,8080,The Netherlands,NL,Utrecht,elite,true,85.1,AS1101,SURFnet III d,6473.26,1784137409.060072
+http,145.220.226.78,8080,The Netherlands,NL,Utrecht,elite,true,85.36,AS1101,SURFnet III d,6900.9,1784137408.632739
+http,130.49.185.133,3128,The Netherlands,NL,Naaldwijk,elite,true,16.23,AS199884,"RACKTECH CO., LTD.",3350.89,1784137407.9531717
+http,145.220.226.28,8080,The Netherlands,NL,Utrecht,elite,true,85.24,AS1101,SURFnet III d,17621.52,1784137407.8889096
+http,145.220.226.198,8080,The Netherlands,NL,Utrecht,elite,true,85.24,AS1101,SURFnet III d,8748.16,1784137406.7639928
+http,139.28.240.200,1081,The Netherlands,NL,Amsterdam,elite,true,64.06,AS215540,Global Connectivity Solutions LLP,13173.04,1784137406.4023025
+http,145.220.226.0,8080,The Netherlands,NL,Utrecht,elite,true,85.19,AS1101,SURFnet III d,11944.25,1784137405.2565854
+http,145.220.226.112,8080,The Netherlands,NL,Utrecht,elite,true,85.31,AS1101,SURFnet III d,3116.8,1784137403.4504216
+http,145.220.226.144,8080,The Netherlands,NL,Utrecht,elite,true,85.26,AS1101,SURFnet III d,3321.48,1784137403.16907
+http,145.220.226.158,8080,The Netherlands,NL,Utrecht,elite,true,85.42,AS1101,SURFnet III d,4223.91,1784137402.26872
+http,145.220.226.94,8080,The Netherlands,NL,Utrecht,elite,true,85.43,AS1101,SURFnet III d,528.36,1784137402.0884693
+http,145.220.226.62,8080,The Netherlands,NL,Utrecht,elite,true,85.37,AS1101,SURFnet III d,1979.52,1784137400.639807
+http,145.220.226.231,8080,The Netherlands,NL,Utrecht,elite,true,85.46,AS1101,SURFnet III d,11759.14,1784137400.6048944
+http,145.220.226.100,8080,The Netherlands,NL,Utrecht,elite,true,85.46,AS1101,SURFnet III d,2673.9,1784137399.9452329
+http,145.220.226.88,8080,The Netherlands,NL,Utrecht,elite,true,85.16,AS1101,SURFnet III d,2714.98,1784137399.914444
+http,145.220.226.159,8080,The Netherlands,NL,Utrecht,elite,true,85.3,AS1101,SURFnet III d,2797.26,1784137399.8248568
+http,85.158.145.47,8080,The Netherlands,NL,Meppel,elite,true,84.05,AS212025,Cukman Kresimir,5974.94,1784137399.6485496
+http,145.220.226.148,8080,The Netherlands,NL,Utrecht,elite,true,85.53,AS1101,SURFnet III d,5081.29,1784137397.5414946
+http,145.220.226.80,8080,The Netherlands,NL,Utrecht,elite,true,85.22,AS1101,SURFnet III d,4548.16,1784137397.3094893
+http,145.220.226.72,8080,The Netherlands,NL,Utrecht,elite,true,85.66,AS1101,SURFnet III d,6161.52,1784137397.2182431
+http,145.220.226.135,8080,The Netherlands,NL,Utrecht,elite,true,85.34,AS1101,SURFnet III d,6051.26,1784137395.5980802
+http,145.220.226.116,8080,The Netherlands,NL,Utrecht,elite,true,85.5,AS1101,SURFnet III d,10782.36,1784137391.6008983
+http,145.220.226.125,8080,The Netherlands,NL,Utrecht,elite,true,85.47,AS1101,SURFnet III d,5381.58,1784137390.8407674
+http,145.220.226.92,8080,The Netherlands,NL,Utrecht,elite,true,85.38,AS1101,SURFnet III d,5286.37,1784137390.796643
+http,145.220.226.182,8080,The Netherlands,NL,Utrecht,elite,true,84.89,AS1101,SURFnet III d,1331.19,1784137389.8829274
+http,145.220.226.242,8080,The Netherlands,NL,Utrecht,elite,true,85.3,AS1101,SURFnet III d,6004.65,1784137389.741837
+http,145.220.226.49,8080,The Netherlands,NL,Utrecht,elite,true,85.44,AS1101,SURFnet III d,7671.61,1784137388.050023
+http,145.220.226.118,8080,The Netherlands,NL,Utrecht,elite,true,85.71,AS1101,SURFnet III d,7862.89,1784137387.876028
+http,145.220.226.221,8080,The Netherlands,NL,Utrecht,elite,true,85.31,AS1101,SURFnet III d,6777.94,1784137386.4612463
+http,145.220.226.233,8080,The Netherlands,NL,Utrecht,elite,true,85.85,AS1101,SURFnet III d,7602.51,1784137385.4240873
+http,139.28.240.202,1081,The Netherlands,NL,Amsterdam,elite,true,66.15,AS215540,Global Connectivity Solutions LLP,3114.36,1784137383.5741403
+http,145.220.226.38,8080,The Netherlands,NL,Utrecht,elite,true,85.55,AS1101,SURFnet III d,8247.54,1784137382.9548728
+http,145.220.226.226,8080,The Netherlands,NL,Utrecht,elite,true,85.52,AS1101,SURFnet III d,10655.34,1784137378.0318089
+http,145.220.226.194,8080,The Netherlands,NL,Utrecht,elite,true,85.18,AS1101,SURFnet III d,10743.24,1784137375.3288405
+http,145.220.226.170,8080,The Netherlands,NL,Utrecht,elite,true,85.43,AS1101,SURFnet III d,11258.53,1784137374.8172908
+http,145.220.226.102,8080,The Netherlands,NL,Utrecht,elite,true,85.31,AS1101,SURFnet III d,8182.61,1784137374.5358355
+http,145.220.226.237,8080,The Netherlands,NL,Utrecht,elite,true,85.37,AS1101,SURFnet III d,9998.31,1784137372.7146237
+http,145.220.226.32,8080,The Netherlands,NL,Utrecht,elite,true,85.82,AS1101,SURFnet III d,16392.95,1784137369.679904
+http,145.220.226.21,8080,The Netherlands,NL,Utrecht,elite,true,85.21,AS1101,SURFnet III d,16737.4,1784137366.0535853
+http,145.220.226.172,8080,The Netherlands,NL,Utrecht,elite,true,85.44,AS1101,SURFnet III d,17367.15,1784137365.3440495
+http,145.220.226.252,8080,The Netherlands,NL,Utrecht,elite,true,85.59,AS1101,SURFnet III d,5124.44,1784137322.4602423
+http,145.220.226.29,8080,The Netherlands,NL,Utrecht,elite,true,85.3,AS1101,SURFnet III d,4494.41,1784137320.820371
+http,145.220.226.225,8080,The Netherlands,NL,Utrecht,elite,true,85.53,AS1101,SURFnet III d,7231.22,1784137320.3495514
+http,145.220.226.89,8080,The Netherlands,NL,Utrecht,elite,true,85.69,AS1101,SURFnet III d,8568.31,1784137316.7400424
+http,146.103.104.197,8888,The Netherlands,NL,Amsterdam,elite,true,18.54,AS216071,Servers Tech Fzco,4580.37,1784137316.3838382
+http,145.220.226.136,8080,The Netherlands,NL,Utrecht,elite,true,85.66,AS1101,SURFnet III d,10510.8,1784137315.5600579
+http,145.220.226.35,8080,The Netherlands,NL,Utrecht,elite,true,85.68,AS1101,SURFnet III d,5660.1,1784137315.2648385
+http,145.220.226.75,8080,The Netherlands,NL,Utrecht,elite,true,85.57,AS1101,SURFnet III d,5765.4,1784137305.7333114
+http,145.220.226.247,8080,The Netherlands,NL,Utrecht,elite,true,85.72,AS1101,SURFnet III d,7164.59,1784137304.9087298
+http,153.80.240.37,1080,The Netherlands,NL,Eygelshoven,elite,true,89.0,AS215540,Global Connectivity Solutions LLP,64.38,1784137497.8708804
+http,185.18.52.170,3128,The Netherlands,NL,Rotterdam,elite,true,24.26,AS16003,Fornex Hosting S.L.,8097.84,1784137326.002145
+http,212.118.38.225,3128,The Netherlands,NL,Amsterdam,anonymous,true,31.88,AS216071,Servers Tech Fzco,15431.36,1784137430.6399598
