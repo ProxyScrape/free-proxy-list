@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "45.229.56.64",
+    "ip": "45.229.58.33",
     "port": 999,
     "country": "Panama",
     "country_code": "PA",
     "city": "La Chorrera",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 5.94,
+    "ssl": true,
+    "uptime_percent": 7.33,
     "asn": "AS266692",
-    "isp": "Geek Networks",
-    "latency_ms": 3140.67,
-    "last_checked": 1784173655.5642564
+    "isp": "GEEK NETWORKS, S.A",
+    "latency_ms": 2383.68,
+    "last_checked": 1784174369.5068781
+  },
+  {
+    "protocol": "socks4",
+    "ip": "190.140.31.195",
+    "port": 9900,
+    "country": "Panama",
+    "country_code": "PA",
+    "city": "Panama City",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 3.89,
+    "asn": "AS18809",
+    "isp": "Cable Onda",
+    "latency_ms": 1880.54,
+    "last_checked": 1784174348.4398935
   },
   {
     "protocol": "http",
@@ -22,11 +37,11 @@
     "country_code": "PA",
     "city": "Panama City",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 17.11,
     "asn": "AS52468",
     "isp": "Ufinet Panama S.A.",
-    "latency_ms": 10977.05,
-    "last_checked": 1784173638.2918153
+    "latency_ms": 5062.37,
+    "last_checked": 1784174345.4064395
   }
 ]
