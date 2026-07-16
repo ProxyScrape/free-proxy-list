@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "93.184.4.254",
+    "protocol": "socks4",
+    "ip": "31.168.143.90",
     "port": 1080,
     "country": "Israel",
     "country_code": "IL",
-    "city": "Dolev",
+    "city": "Rehovot",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 25.92,
-    "asn": "AS47253",
-    "isp": "BCI Telecommunication & Advanced Technology Company",
-    "latency_ms": 7528.86,
-    "last_checked": 1784213077.2689133
+    "uptime_percent": 62.41,
+    "asn": "AS8551",
+    "isp": "BEZEQ-INTERNATIONAL",
+    "latency_ms": 7566.24,
+    "last_checked": 1784213653.689544
   },
   {
     "protocol": "http",
@@ -22,12 +22,12 @@
     "country_code": "IL",
     "city": "Ramat Gan",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 66.17,
+    "ssl": true,
+    "uptime_percent": 66.2,
     "asn": "AS1680",
     "isp": "013 Netvision Network",
-    "latency_ms": 277.96,
-    "last_checked": 1784213006.4761078
+    "latency_ms": 302.97,
+    "last_checked": 1784213646.299376
   },
   {
     "protocol": "http",
@@ -37,11 +37,26 @@
     "country_code": "IL",
     "city": "Herzliya",
     "anonymity": "anonymous",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 3.26,
     "asn": "AS1680",
     "isp": "Cellcom Fixed Line Communication L.P",
-    "latency_ms": 6067.82,
-    "last_checked": 1784212972.077261
+    "latency_ms": 9709.2,
+    "last_checked": 1784213620.7250874
+  },
+  {
+    "protocol": "socks5",
+    "ip": "93.184.4.254",
+    "port": 1080,
+    "country": "Israel",
+    "country_code": "IL",
+    "city": "Dolev",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.93,
+    "asn": "AS47253",
+    "isp": "BCI Telecommunication & Advanced Technology Company",
+    "latency_ms": 7668.09,
+    "last_checked": 1784213596.8386643
   }
 ]
