@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "217.16.136.160",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "95.140.118.34",
+    "port": 1080,
     "country": "Serbia",
     "country_code": "RS",
-    "city": "Niš",
+    "city": "Belgrade",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 78.58,
-    "asn": "AS197423",
-    "isp": "Jotel",
-    "latency_ms": 294.52,
-    "last_checked": 1784202490.521619
+    "ssl": true,
+    "uptime_percent": 44.2,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Network",
+    "latency_ms": 159.39,
+    "last_checked": 1784203147.3668163
+  },
+  {
+    "protocol": "socks4",
+    "ip": "91.150.77.58",
+    "port": 56921,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.85,
+    "asn": "AS8400",
+    "isp": "TELEKOM SRBIJA a.d.",
+    "latency_ms": 3164.12,
+    "last_checked": 1784203133.312382
   },
   {
     "protocol": "http",
@@ -26,7 +41,22 @@
     "uptime_percent": 26.54,
     "asn": "AS13092",
     "isp": "Akademska mreza Republike Srbije - AMRES",
-    "latency_ms": 3753.66,
-    "last_checked": 1784202464.4192035
+    "latency_ms": 11426.39,
+    "last_checked": 1784203113.7298155
+  },
+  {
+    "protocol": "http",
+    "ip": "217.16.136.160",
+    "port": 80,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Niš",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 78.6,
+    "asn": "AS197423",
+    "isp": "Jotel",
+    "latency_ms": 154.23,
+    "last_checked": 1784203100.85516
   }
 ]
