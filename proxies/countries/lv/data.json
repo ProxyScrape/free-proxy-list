@@ -1,18 +1,48 @@
 [
   {
     "protocol": "http",
-    "ip": "185.113.139.149",
-    "port": 3128,
+    "ip": "45.130.212.97",
+    "port": 8119,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
-    "anonymity": "transparent",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 13.71,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 5493.25,
+    "last_checked": 1784263104.554287
+  },
+  {
+    "protocol": "socks5",
+    "ip": "195.135.255.98",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 94.68,
-    "asn": "AS41745",
-    "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 605.32,
-    "last_checked": 1784262579.7715151
+    "uptime_percent": 77.67,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 7440.25,
+    "last_checked": 1784263104.4401343
+  },
+  {
+    "protocol": "socks4",
+    "ip": "85.31.96.14",
+    "port": 9150,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.36,
+    "asn": "AS43513",
+    "isp": "Sia Nano IT",
+    "latency_ms": 2355.78,
+    "last_checked": 1784263098.1448672
   },
   {
     "protocol": "socks4",
@@ -26,7 +56,37 @@
     "uptime_percent": 59.45,
     "asn": "AS2588",
     "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 1173.67,
-    "last_checked": 1784262594.9722888
+    "latency_ms": 1151.95,
+    "last_checked": 1784263142.9575193
+  },
+  {
+    "protocol": "http",
+    "ip": "155.212.224.2",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 27.27,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 10932.75,
+    "last_checked": 1784263103.134397
+  },
+  {
+    "protocol": "http",
+    "ip": "185.113.139.149",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 94.71,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 464.76,
+    "last_checked": 1784263079.8652859
   }
 ]
