@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "89.169.15.132",
-    "port": 2080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallin",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 54.78,
-    "asn": "AS41745",
-    "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 2243.3,
-    "last_checked": 1784293179.2600436
-  },
-  {
-    "protocol": "http",
     "ip": "5.181.23.213",
     "port": 8443,
     "country": "Estonia",
@@ -23,11 +8,26 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 27.4,
+    "uptime_percent": 48.87,
     "asn": "",
     "isp": "WorkTitans B.V",
-    "latency_ms": 826.78,
-    "last_checked": 1784293173.4733753
+    "latency_ms": 655.1,
+    "last_checked": 1784293788.08821
+  },
+  {
+    "protocol": "http",
+    "ip": "89.169.15.132",
+    "port": 2080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallin",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 63.8,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 4252.46,
+    "last_checked": 1784293774.4358828
   },
   {
     "protocol": "socks4",
@@ -38,29 +38,14 @@
     "city": "Parksepa",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 61.5,
+    "uptime_percent": 61.51,
     "asn": "AS202652",
     "isp": "SkyLive Telecom ldt",
-    "latency_ms": 3275.65,
-    "last_checked": 1784293167.0879314
+    "latency_ms": 3284.99,
+    "last_checked": 1784293768.8812654
   },
   {
-    "protocol": "http",
-    "ip": "89.169.15.132",
-    "port": 2080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallin",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 63.83,
-    "asn": "AS41745",
-    "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 5258.99,
-    "last_checked": 1784293162.7059717
-  },
-  {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "5.45.125.201",
     "port": 1080,
     "country": "Estonia",
@@ -68,26 +53,11 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 67.23,
+    "uptime_percent": 63.76,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 158.61,
-    "last_checked": 1784293154.300506
-  },
-  {
-    "protocol": "socks4",
-    "ip": "5.181.23.213",
-    "port": 8443,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 48.86,
-    "asn": "",
-    "isp": "WorkTitans B.V",
-    "latency_ms": 502.73,
-    "last_checked": 1784293148.3163748
+    "latency_ms": 3298.46,
+    "last_checked": 1784293753.79655
   },
   {
     "protocol": "socks5",
@@ -98,11 +68,41 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 42.01,
+    "uptime_percent": 42.02,
     "asn": "",
     "isp": "WorkTitans B.V",
-    "latency_ms": 898.59,
-    "last_checked": 1784293144.4904974
+    "latency_ms": 673.18,
+    "last_checked": 1784293750.8623776
+  },
+  {
+    "protocol": "http",
+    "ip": "5.101.114.63",
+    "port": 8880,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 8.78,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 7837.8,
+    "last_checked": 1784293743.4959023
+  },
+  {
+    "protocol": "http",
+    "ip": "5.181.23.213",
+    "port": 8443,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.42,
+    "asn": "",
+    "isp": "WorkTitans B.V",
+    "latency_ms": 553.2,
+    "last_checked": 1784293721.7809603
   },
   {
     "protocol": "socks5",
@@ -116,7 +116,22 @@
     "uptime_percent": 90.17,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 195.8,
-    "last_checked": 1784293038.506558
+    "latency_ms": 201.91,
+    "last_checked": 1784293704.0185654
+  },
+  {
+    "protocol": "http",
+    "ip": "217.78.239.5",
+    "port": 4555,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 15.89,
+    "asn": "AS211211",
+    "isp": "IT-Develop DOO",
+    "latency_ms": 1164.15,
+    "last_checked": 1784293658.3653245
   }
 ]
