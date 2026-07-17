@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "5.45.118.209",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "5.181.23.213",
+    "port": 8443,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 48.61,
+    "asn": "",
+    "isp": "WorkTitans B.V",
+    "latency_ms": 826.96,
+    "last_checked": 1784281197.699519
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.165",
+    "port": 13215,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 90.15,
+    "uptime_percent": 38.63,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 332.7,
-    "last_checked": 1784280564.5668366
+    "latency_ms": 2861.79,
+    "last_checked": 1784281196.6143546
   },
   {
     "protocol": "socks4",
@@ -26,38 +41,8 @@
     "uptime_percent": 67.2,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 182.69,
-    "last_checked": 1784280556.4242303
-  },
-  {
-    "protocol": "socks5",
-    "ip": "5.181.23.213",
-    "port": 8443,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 41.87,
-    "asn": "",
-    "isp": "WorkTitans B.V",
-    "latency_ms": 1891.77,
-    "last_checked": 1784280549.4488657
-  },
-  {
-    "protocol": "http",
-    "ip": "5.45.126.165",
-    "port": 13215,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 38.62,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 20514.19,
-    "last_checked": 1784280506.5681098
+    "latency_ms": 8361.26,
+    "last_checked": 1784281189.5523024
   },
   {
     "protocol": "http",
@@ -68,10 +53,40 @@
     "city": "Tallin",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 65.31,
+    "uptime_percent": 65.45,
     "asn": "AS41745",
     "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 6500.86,
-    "last_checked": 1784280450.997011
+    "latency_ms": 3130.4,
+    "last_checked": 1784281131.6070027
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.45.125.201",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 63.73,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 436.72,
+    "last_checked": 1784281096.6212697
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.45.118.209",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 90.15,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 777.26,
+    "last_checked": 1784281069.3420258
   }
 ]
