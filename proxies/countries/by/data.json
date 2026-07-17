@@ -1,21 +1,6 @@
 [
   {
-    "protocol": "http",
-    "ip": "178.172.217.166",
-    "port": 10849,
-    "country": "Belarus",
-    "country_code": "BY",
-    "city": "Urechcha",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 85.52,
-    "asn": "AS60591",
-    "isp": "Support Chain LLC",
-    "latency_ms": 3232.0,
-    "last_checked": 1784306367.830342
-  },
-  {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "80.249.81.179",
     "port": 9050,
     "country": "Belarus",
@@ -23,10 +8,25 @@
     "city": "Minsk",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 29.43,
+    "uptime_percent": 34.0,
     "asn": "AS12406",
     "isp": "Business network jv",
-    "latency_ms": 7953.15,
-    "last_checked": 1784306295.4263093
+    "latency_ms": 5825.95,
+    "last_checked": 1784306634.5612655
+  },
+  {
+    "protocol": "http",
+    "ip": "178.172.217.166",
+    "port": 10849,
+    "country": "Belarus",
+    "country_code": "BY",
+    "city": "Urechcha",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 85.71,
+    "asn": "AS60591",
+    "isp": "Support Chain LLC",
+    "latency_ms": 194.29,
+    "last_checked": 1784306633.5336769
   }
 ]
