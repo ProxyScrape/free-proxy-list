@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "109.164.35.23",
-    "port": 8888,
+    "protocol": "socks4",
+    "ip": "109.69.211.18",
+    "port": 1080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Humpolec",
+    "city": "Přerov",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 18.44,
-    "asn": "AS44489",
-    "isp": "STARNET, s.r.o.",
-    "latency_ms": 188.09,
-    "last_checked": 1784330338.8810306
+    "ssl": true,
+    "uptime_percent": 59.05,
+    "asn": "AS196815",
+    "isp": "LAN servis s.r.o",
+    "latency_ms": 154.55,
+    "last_checked": 1784330979.3195815
+  },
+  {
+    "protocol": "http",
+    "ip": "185.73.103.23",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Karlovy Vary",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 8.18,
+    "asn": "AS201476",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 2769.18,
+    "last_checked": 1784330898.5460572
   },
   {
     "protocol": "http",
@@ -26,22 +41,37 @@
     "uptime_percent": 23.9,
     "asn": "AS42189",
     "isp": "DOBRISNET",
-    "latency_ms": 7359.18,
-    "last_checked": 1784330304.821684
+    "latency_ms": 940.56,
+    "last_checked": 1784330811.62923
   },
   {
     "protocol": "http",
-    "ip": "193.179.52.197",
-    "port": 3128,
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Strážnice",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.61,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 1035.31,
+    "last_checked": 1784330811.3987956
+  },
+  {
+    "protocol": "http",
+    "ip": "90.181.120.18",
+    "port": 8082,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Prague",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 32.25,
-    "asn": "AS13036",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 3069.42,
-    "last_checked": 1784330265.7178128
+    "uptime_percent": 30.16,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 11570.73,
+    "last_checked": 1784330977.3714223
   }
 ]
