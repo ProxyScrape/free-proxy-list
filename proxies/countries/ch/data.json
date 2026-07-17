@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.59.122.132",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Bern",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 70.5,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 86.42,
-    "last_checked": 1784321950.3334773
-  },
-  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -26,8 +11,23 @@
     "uptime_percent": 88.05,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1679.22,
-    "last_checked": 1784321944.1132205
+    "latency_ms": 4363.52,
+    "last_checked": 1784322573.2256236
+  },
+  {
+    "protocol": "http",
+    "ip": "45.59.122.132",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Bern",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 70.5,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 62.36,
+    "last_checked": 1784322563.8179593
   },
   {
     "protocol": "http",
@@ -37,12 +37,12 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 74.58,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 4841.7,
-    "last_checked": 1784321943.5592573
+    "latency_ms": 4321.88,
+    "last_checked": 1784322532.4478881
   },
   {
     "protocol": "socks5",
@@ -56,7 +56,22 @@
     "uptime_percent": 86.43,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 5062.31,
-    "last_checked": 1784321910.3968623
+    "latency_ms": 2357.82,
+    "last_checked": 1784322525.7930484
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 16.13,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 13750.2,
+    "last_checked": 1784322524.5079372
   }
 ]
