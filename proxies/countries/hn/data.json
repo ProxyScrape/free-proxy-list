@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "181.115.67.3",
+    "ip": "181.115.65.196",
     "port": 999,
     "country": "Honduras",
     "country_code": "HN",
     "city": "San Pedro Sula",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.19,
+    "ssl": true,
+    "uptime_percent": 4.9,
     "asn": "AS14754",
     "isp": "Telgua",
-    "latency_ms": 9464.93,
-    "last_checked": 1784393871.5161664
+    "latency_ms": 3509.49,
+    "last_checked": 1784394497.2673469
+  },
+  {
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 16.49,
+    "asn": "AS14754",
+    "isp": "Telgua",
+    "latency_ms": 2758.0,
+    "last_checked": 1784394483.0586655
   },
   {
     "protocol": "http",
@@ -22,11 +37,11 @@
     "country_code": "HN",
     "city": "Florida",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 36.18,
+    "ssl": false,
+    "uptime_percent": 36.4,
     "asn": "AS264696",
     "isp": "CABLEMAR",
-    "latency_ms": 3352.71,
-    "last_checked": 1784393864.311031
+    "latency_ms": 4365.78,
+    "last_checked": 1784394573.9674802
   }
 ]
