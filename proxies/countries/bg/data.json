@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.104.183.29",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "185.205.210.154",
+    "port": 1088,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Svoge",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 65.21,
+    "asn": "AS44901",
+    "isp": "Belcloud LTD",
+    "latency_ms": 4753.0,
+    "last_checked": 1784405353.8651958
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.205.210.154",
+    "port": 1088,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 64.0,
+    "asn": "AS44901",
+    "isp": "Belcloud LTD",
+    "latency_ms": 15942.37,
+    "last_checked": 1784405339.6225474
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.3",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 14.81,
-    "asn": "AS205331",
-    "isp": "Wi-Max Network Ltd.",
-    "latency_ms": 8463.25,
-    "last_checked": 1784404747.3267636
+    "uptime_percent": 14.63,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 7317.93,
+    "last_checked": 1784405345.56586
   }
 ]
