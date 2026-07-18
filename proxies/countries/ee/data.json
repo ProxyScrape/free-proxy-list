@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.45.127.203",
-    "port": 9090,
+    "protocol": "socks4",
+    "ip": "5.45.125.201",
+    "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 18.62,
+    "ssl": true,
+    "uptime_percent": 67.26,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 3348.57,
-    "last_checked": 1784397241.3449237
+    "latency_ms": 5225.67,
+    "last_checked": 1784397855.2093208
+  },
+  {
+    "protocol": "socks4",
+    "ip": "89.169.15.132",
+    "port": 2080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallin",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 51.17,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 3204.33,
+    "last_checked": 1784397848.5257304
+  },
+  {
+    "protocol": "socks5",
+    "ip": "89.169.15.132",
+    "port": 2080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallin",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 48.49,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 5845.26,
+    "last_checked": 1784397755.7658787
   }
 ]
