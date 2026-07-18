@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.45.126.165",
-    "port": 13215,
+    "protocol": "socks4",
+    "ip": "5.45.125.201",
+    "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 38.68,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 67.26,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 4303.32,
-    "last_checked": 1784396049.9613845
+    "latency_ms": 2240.86,
+    "last_checked": 1784396669.3225057
   },
   {
     "protocol": "socks5",
@@ -23,40 +23,10 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 90.43,
+    "uptime_percent": 90.44,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 1215.63,
-    "last_checked": 1784396043.7714698
-  },
-  {
-    "protocol": "socks4",
-    "ip": "185.157.111.3",
-    "port": 5678,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tartu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 60.8,
-    "asn": "AS202652",
-    "isp": "SkyLive Telecom ldt",
-    "latency_ms": 1267.35,
-    "last_checked": 1784396024.3527393
-  },
-  {
-    "protocol": "http",
-    "ip": "89.169.15.132",
-    "port": 2080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallin",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 59.02,
-    "asn": "AS41745",
-    "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 8425.13,
-    "last_checked": 1784395884.5798874
+    "latency_ms": 3246.71,
+    "last_checked": 1784396625.658337
   }
 ]
