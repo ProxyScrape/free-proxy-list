@@ -1,32 +1,49 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,89.145.186.194,4153,Türkiye,TR,Istanbul,elite,true,59.89,AS198325,Yeni Telekom Internet Hizmetleri Ltd. Sirketi,231.99,1784357986.2574856
-socks4,185.22.186.249,1080,Turkey,TR,Şişli,elite,true,86.19,AS34619,Cizgi Telekom,478.03,1784357981.784105
-socks4,176.236.37.132,1080,Türkiye,TR,Istanbul,elite,true,20.51,AS34984,Superonline Iletisim Hizmetleri A.S.,3328.84,1784357972.4688447
-socks5,93.113.63.11,1080,Turkey,TR,Denizli,elite,true,77.71,AS51559,Netinternet Datacenter,1463.32,1784357968.4470415
-socks5,185.22.186.249,1080,Turkey,TR,Şişli,elite,true,80.54,AS34619,Cizgi Telekom,308.5,1784357967.609958
-http,78.187.12.21,3310,Türkiye,TR,Antalya,elite,true,97.64,AS9121,Turk Telekomunikasyon A.S,2108.53,1784357960.4979544
-http,78.186.23.55,3310,Turkey,TR,Kızıltoprak,elite,true,96.41,AS9121,Turk Telekomunikasyon A.S,763.59,1784357956.3514874
-http,176.88.166.197,8080,Türkiye,TR,Kilis,transparent,false,27.42,AS34984,Superonline Iletisim Hizmetleri A.S.,4550.36,1784357954.432484
-http,188.132.249.144,8080,Turkey,TR,Kilis,transparent,false,30.16,AS216472,High Speed For Internet Services L.L.C,2634.91,1784357950.4922085
-http,188.132.249.99,8080,Turkey,TR,Kilis,transparent,false,26.32,AS216472,High Speed For Internet Services L.L.C,5960.63,1784357929.32357
-http,131.222.247.180,8080,Türkiye,TR,Antakya,transparent,true,29.78,AS216472,High Speed For Internet Services L.L.C,2509.84,1784357919.8918736
-http,131.222.251.56,8080,Türkiye,TR,Antakya,transparent,false,31.65,AS216472,High Speed For Internet Services L.L.C,12949.46,1784357904.8497007
-http,109.224.242.6,8080,Turkey,TR,Antakya,transparent,true,24.2,AS216472,High Speed For Internet Services L.L.C,1651.73,1784357903.4201655
-http,194.124.36.130,8080,Türkiye,TR,Antakya,transparent,false,14.98,AS202561,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.,9602.08,1784357898.9394147
-http,131.222.251.254,8080,Türkiye,TR,Antakya,transparent,false,43.75,AS216472,High Speed For Internet Services L.L.C,6460.55,1784357890.9964373
-http,176.88.65.187,8080,Türkiye,TR,Kilis,transparent,true,22.53,AS34984,Superonline Iletisim Hizmetleri A.S.,7562.02,1784357881.671633
-http,176.88.166.171,8080,Türkiye,TR,Istanbul,transparent,true,24.99,AS34984,Superonline Iletisim Hizmetleri A.S.,4775.74,1784357838.2787418
-http,195.62.50.4,8080,Turkey,TR,Istanbul,transparent,false,23.66,AS216472,High Speed For Internet Services L.L.C,2719.62,1784357829.741126
-http,131.222.253.76,8080,Türkiye,TR,Antakya,transparent,true,36.2,AS216472,High Speed For Internet Services L.L.C,2868.96,1784357988.828537
-http,131.222.252.181,8080,Türkiye,TR,Antakya,transparent,true,45.66,AS216472,High Speed For Internet Services L.L.C,3457.44,1784357973.6087475
-http,212.252.73.18,8080,Türkiye,TR,Istanbul,transparent,true,25.77,AS34984,Superonline Iletisim Hizmetleri A.S.,230.13,1784357954.536017
-http,212.252.71.20,8080,Turkey,TR,Kilis,transparent,false,25.64,AS34984,GUNEYDOGUTELEKOM,1588.2,1784357947.832826
-http,195.62.50.30,8080,Turkey,TR,Istanbul,transparent,false,25.14,AS216472,High Speed For Internet Services L.L.C,3320.98,1784357939.3142402
-http,149.86.151.202,8085,Türkiye,TR,Selçuklu,transparent,false,35.14,AS208972,Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi,252.24,1784357937.7340372
-http,149.86.151.172,8080,Türkiye,TR,Selçuklu,transparent,false,14.14,AS208972,Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi,6027.35,1784357926.2468786
-http,95.3.69.222,8080,Türkiye,TR,Istanbul,transparent,true,98.46,AS9121,Turk Telekomunikasyon Anonim Sirketi,265.2,1784357890.8695655
-http,131.222.250.218,8080,Türkiye,TR,Antakya,transparent,false,28.42,AS216472,High Speed For Internet Services L.L.C,6342.09,1784357858.5878181
-http,131.222.251.245,8080,Türkiye,TR,Antakya,transparent,false,39.08,AS216472,High Speed For Internet Services L.L.C,12912.7,1784357847.709954
-http,212.252.73.44,8080,Türkiye,TR,Istanbul,transparent,false,43.01,AS34984,GUNEYDOGUTELEKOM,6832.35,1784357826.8621047
-http,131.222.251.70,8080,Türkiye,TR,Antakya,transparent,false,31.27,AS216472,High Speed For Internet Services L.L.C,250.02,1784357823.459008
-http,64.49.15.225,143,Türkiye,TR,Istanbul,transparent,true,13.47,AS213535,YottaSrc Cloud & Hosting Services,14184.77,1784357805.2316072
+socks5,77.223.142.37,10001,Turkey,TR,Bornova,elite,true,23.69,AS43391,Netdirekt A.S.,1977.57,1784358600.2831092
+socks4,185.22.186.249,1080,Turkey,TR,Şişli,elite,true,86.21,AS34619,Cizgi Telekom,704.7,1784358598.94499
+http,78.186.23.55,3310,Turkey,TR,Kızıltoprak,elite,true,96.53,AS9121,Turk Telekomunikasyon A.S,816.54,1784358594.5481374
+socks4,88.247.31.164,4153,Türkiye,TR,Çankaya,elite,true,58.79,AS9121,Turk Telekomunikasyon A.S,255.69,1784358590.3487258
+socks4,176.236.37.132,1080,Türkiye,TR,Istanbul,elite,true,20.51,AS34984,Superonline Iletisim Hizmetleri A.S.,274.2,1784358589.6749537
+http,109.224.242.26,8080,Türkiye,TR,Reyhanlı,transparent,true,12.49,AS216472,High Speed For Internet Services L.L.C,2457.42,1784358580.7177606
+http,185.248.15.159,8080,Türkiye,TR,Istanbul,transparent,true,27.98,AS204457,Atlantis Telekomunikasyon Bilisim Hizmetleri San. Tic. Ltd,3116.42,1784358576.247969
+http,188.132.249.99,8080,Turkey,TR,Kilis,transparent,true,26.34,AS216472,High Speed For Internet Services L.L.C,7496.52,1784358572.3239172
+http,194.124.36.130,8080,Türkiye,TR,Antakya,transparent,true,14.98,AS202561,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.,5818.4,1784358572.1434448
+http,109.224.242.38,8080,Turkey,TR,Antakya,transparent,false,23.64,AS216472,High Speed For Internet Services L.L.C,10320.5,1784358552.511457
+http,81.8.59.178,8080,Turkey,TR,Turgutlu,transparent,false,27.91,AS15924,Vodafone Net DSL,6623.88,1784358552.360085
+http,176.88.166.197,8080,Türkiye,TR,Kilis,transparent,false,27.43,AS34984,Superonline Iletisim Hizmetleri A.S.,1260.62,1784358551.8415833
+http,5.188.190.218,80,Türkiye,TR,Istanbul,elite,false,94.02,AS202422,G-Core Labs S.A.,180.78,1784358548.9416616
+http,176.235.182.69,8080,Türkiye,TR,Kilis,transparent,false,27.45,AS34984,Superonline Iletisim Hizmetleri A.S.,1302.61,1784358544.657988
+http,176.88.166.171,8080,Türkiye,TR,Istanbul,transparent,true,24.99,AS34984,Superonline Iletisim Hizmetleri A.S.,2501.73,1784358539.4718633
+http,195.62.50.39,8080,Turkey,TR,Istanbul,transparent,true,11.39,AS216472,High Speed For Internet Services L.L.C,1314.16,1784358534.4849021
+http,78.135.93.101,3128,Turkey,TR,Osmangazi,elite,true,14.33,AS214036,"Ultahost, Inc.",1366.66,1784358527.7447994
+socks5,185.22.186.249,1080,Turkey,TR,Şişli,elite,true,80.57,AS34619,Cizgi Telekom,1533.86,1784358519.624304
+http,109.224.242.151,8080,Turkey,TR,Antakya,transparent,true,10.97,AS216472,High Speed For Internet Services L.L.C,4221.48,1784358514.1560218
+http,195.62.50.6,8080,Turkey,TR,Istanbul,transparent,false,18.85,AS216472,High Speed For Internet Services L.L.C,4055.74,1784358473.478245
+http,85.29.58.229,8080,Turkey,TR,Beyoğlu,transparent,false,31.62,AS34984,Superonline Iletisim Hizmetleri A.S.,842.82,1784358467.4410882
+http,191.44.125.6,8080,Türkiye,TR,Antakya,transparent,false,33.14,AS216472,High Speed For Internet Services L.L.C,2761.82,1784358458.357549
+http,188.132.249.144,8080,Turkey,TR,Kilis,transparent,true,30.17,AS216472,High Speed For Internet Services L.L.C,7387.18,1784358456.995272
+http,62.248.100.249,3310,Turkey,TR,Umraniye,elite,false,47.62,AS9121,Uydunet,6154.03,1784358440.4331617
+http,176.88.168.107,8080,Türkiye,TR,Kilis,transparent,true,21.02,AS34984,Superonline Iletisim Hizmetleri A.S.,1301.85,1784358429.8917968
+http,195.62.50.20,8080,Turkey,TR,Istanbul,transparent,true,23.71,AS216472,High Speed For Internet Services L.L.C,870.87,1784358424.0588737
+http,195.62.50.2,8080,Turkey,TR,Istanbul,transparent,false,18.51,AS216472,High Speed For Internet Services L.L.C,3250.22,1784358408.328049
+http,85.29.58.227,8080,Turkey,TR,Beyoğlu,transparent,false,28.88,AS34984,Superonline Iletisim Hizmetleri A.S.,6289.12,1784358399.5741556
+http,95.3.69.222,8080,Türkiye,TR,Istanbul,transparent,true,98.46,AS9121,Turk Telekomunikasyon Anonim Sirketi,244.82,1784358603.3053317
+http,195.175.29.38,9090,Türkiye,TR,Istanbul,transparent,false,5.8,AS9121,Turk Telekomunikasyon A.S,6990.1,1784358581.564199
+http,212.252.39.100,8080,Turkey,TR,Malıköy,transparent,true,23.66,AS34984,Superonline Iletisim Hizmetleri A.S.,273.94,1784358575.948738
+http,131.222.252.71,8080,Türkiye,TR,Antakya,transparent,false,27.71,AS216472,High Speed For Internet Services L.L.C,5237.17,1784358565.9961255
+http,64.49.15.225,3128,Türkiye,TR,Istanbul,transparent,true,24.38,AS213535,YottaSrc Cloud & Hosting Services,756.07,1784358564.3561134
+http,185.135.99.14,8080,Türkiye,TR,Mersin,transparent,false,18.21,AS43242,ARINET SECURITY & INTERNET CONSULTANCY LTD,1324.17,1784358561.8797872
+http,195.62.50.30,8080,Turkey,TR,Istanbul,transparent,false,25.14,AS216472,High Speed For Internet Services L.L.C,5026.65,1784358560.9607856
+socks5,103.83.87.75,9090,Türkiye,TR,Istanbul,elite,true,69.87,AS44382,"Fiba Cloud Operation Company, LLC",9211.38,1784358546.2829843
+http,131.222.251.61,8080,Türkiye,TR,Antakya,transparent,false,28.11,AS216472,High Speed For Internet Services L.L.C,9653.98,1784358539.330144
+http,131.222.252.181,8080,Türkiye,TR,Antakya,transparent,false,45.67,AS216472,High Speed For Internet Services L.L.C,3667.13,1784358527.6720164
+http,195.62.50.12,8080,Turkey,TR,Istanbul,transparent,true,24.85,AS216472,High Speed For Internet Services L.L.C,3343.99,1784358520.4440494
+http,212.252.73.17,8080,Türkiye,TR,Istanbul,transparent,true,23.74,AS34984,Superonline Iletisim Hizmetleri A.S.,7549.36,1784358511.6582878
+http,195.62.50.25,8080,Turkey,TR,Istanbul,transparent,false,16.33,AS216472,High Speed For Internet Services L.L.C,5097.76,1784358510.755944
+http,131.222.252.102,8080,Türkiye,TR,Antakya,transparent,false,28.87,AS216472,High Speed For Internet Services L.L.C,3417.42,1784358500.8838267
+http,131.222.251.70,8080,Türkiye,TR,Antakya,transparent,false,31.29,AS216472,High Speed For Internet Services L.L.C,1233.99,1784358499.0020854
+http,131.222.251.50,8080,Türkiye,TR,Antakya,transparent,false,27.97,AS216472,High Speed For Internet Services L.L.C,3617.51,1784358493.6609373
+http,131.222.247.59,8080,Türkiye,TR,Antakya,elite,false,18.52,AS216472,High Speed For Internet Services L.L.C,8549.87,1784358464.8799849
+http,64.49.15.225,143,Türkiye,TR,Istanbul,transparent,true,13.52,AS213535,YottaSrc Cloud & Hosting Services,551.68,1784358445.7078354
+http,131.222.247.180,8080,Türkiye,TR,Antakya,transparent,false,29.79,AS216472,High Speed For Internet Services L.L.C,7432.4,1784358442.8845506
+http,131.222.251.90,8080,Türkiye,TR,Antakya,transparent,false,15.38,AS216472,High Speed For Internet Services L.L.C,10319.98,1784358425.608866
