@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "194.135.81.158",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "78.63.115.20",
+    "port": 8899,
     "country": "Lithuania",
     "country_code": "LT",
     "city": "Vilnius",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.6,
+    "asn": "AS8764",
+    "isp": "Telia Lietuva",
+    "latency_ms": 3196.25,
+    "last_checked": 1784455735.8050978
+  },
+  {
+    "protocol": "socks4",
+    "ip": "93.93.61.153",
+    "port": 1080,
+    "country": "Lithuania",
+    "country_code": "LT",
+    "city": "Vilnius",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.97,
+    "asn": "AS44613",
+    "isp": "AB \"Ogmios Centras\"",
+    "latency_ms": 1146.16,
+    "last_checked": 1784455735.5475166
+  },
+  {
+    "protocol": "http",
+    "ip": "88.119.139.237",
+    "port": 53281,
+    "country": "Lithuania",
+    "country_code": "LT",
+    "city": "Klaipėda",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 51.78,
-    "asn": "AS212531",
-    "isp": "UAB \"Interneto vizija\"",
-    "latency_ms": 17816.46,
-    "last_checked": 1784455079.5210936
+    "uptime_percent": 8.51,
+    "asn": "AS8764",
+    "isp": "Telia Lietuva",
+    "latency_ms": 3652.02,
+    "last_checked": 1784455688.1233094
   }
 ]
