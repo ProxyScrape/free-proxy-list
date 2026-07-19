@@ -1,21 +1,21 @@
 [
   {
-    "protocol": "http",
-    "ip": "217.78.239.5",
-    "port": 4555,
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Tallinn",
+    "city": "Tartu",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 15.87,
-    "asn": "AS211211",
-    "isp": "IT-Develop DOO",
-    "latency_ms": 9363.62,
-    "last_checked": 1784444331.5922115
+    "ssl": true,
+    "uptime_percent": 60.03,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 209.58,
+    "last_checked": 1784444940.4396052
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "89.169.15.132",
     "port": 2080,
     "country": "Estonia",
@@ -23,10 +23,40 @@
     "city": "Tallin",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 48.71,
+    "uptime_percent": 45.63,
     "asn": "AS41745",
     "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 1178.15,
-    "last_checked": 1784444317.495651
+    "latency_ms": 1228.87,
+    "last_checked": 1784444915.1529703
+  },
+  {
+    "protocol": "http",
+    "ip": "89.169.15.132",
+    "port": 2080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallin",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.29,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 11417.82,
+    "last_checked": 1784444904.5683208
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.45.125.201",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 64.09,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 4595.99,
+    "last_checked": 1784444894.559724
   }
 ]
