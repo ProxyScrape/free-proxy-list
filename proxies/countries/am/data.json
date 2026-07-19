@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.77.252.205",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "130.193.123.34",
+    "port": 5678,
     "country": "Armenia",
     "country_code": "AM",
     "city": "Yerevan",
-    "anonymity": "transparent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.91,
+    "asn": "AS49800",
+    "isp": "GNC",
+    "latency_ms": 275.69,
+    "last_checked": 1784485486.2865832
+  },
+  {
+    "protocol": "http",
+    "ip": "170.168.102.55",
+    "port": 3128,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 12.5,
-    "asn": "AS44395",
-    "isp": "Ucom Mobile Network",
-    "latency_ms": 550.89,
-    "last_checked": 1784484808.1972814
+    "uptime_percent": 24.88,
+    "asn": "AS48207",
+    "isp": "GLB Bulut Teknolojisi Limited Sirketi",
+    "latency_ms": 9481.84,
+    "last_checked": 1784485374.874806
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.142.195.110",
+    "port": 995,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.31,
+    "asn": "AS215929",
+    "isp": "Data Campus Limited",
+    "latency_ms": 15559.15,
+    "last_checked": 1784485441.047761
   }
 ]
