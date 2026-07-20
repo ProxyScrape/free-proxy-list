@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "185.190.154.121",
+    "port": 4145,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.21,
+    "asn": "AS8400",
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 1170.54,
+    "last_checked": 1784506736.2132246
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.245.110.145",
+    "port": 4145,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.15,
+    "asn": "AS15958",
+    "isp": "CETIN Ltd. Belgrade",
+    "latency_ms": 3190.31,
+    "last_checked": 1784506735.3892365
+  },
+  {
     "protocol": "http",
     "ip": "217.16.136.160",
     "port": 80,
@@ -8,11 +38,11 @@
     "city": "Niš",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 75.8,
+    "uptime_percent": 75.81,
     "asn": "AS197423",
     "isp": "Jotel",
-    "latency_ms": 12107.89,
-    "last_checked": 1784506110.671461
+    "latency_ms": 4917.57,
+    "last_checked": 1784506720.6306267
   },
   {
     "protocol": "http",
@@ -22,26 +52,41 @@
     "country_code": "RS",
     "city": "Belgrade",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 12.51,
     "asn": "AS28964",
     "isp": "ORIONTELEKOM",
-    "latency_ms": 8588.65,
-    "last_checked": 1784506069.3865592
+    "latency_ms": 9910.78,
+    "last_checked": 1784506694.5162125
   },
   {
-    "protocol": "socks4",
-    "ip": "95.140.118.34",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "77.46.138.233",
+    "port": 8080,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Oraovica",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 2.65,
+    "asn": "AS8400",
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 4997.45,
+    "last_checked": 1784506670.9505107
+  },
+  {
+    "protocol": "http",
+    "ip": "95.140.113.74",
+    "port": 6666,
     "country": "Serbia",
     "country_code": "RS",
     "city": "Belgrade",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 41.97,
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 40.15,
     "asn": "AS9125",
     "isp": "Orion Telekom Network",
-    "latency_ms": 1158.12,
-    "last_checked": 1784506166.4935882
+    "latency_ms": 3178.07,
+    "last_checked": 1784506636.4183993
   }
 ]
