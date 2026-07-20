@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "89.36.161.56",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 30.39,
+    "asn": "AS56630",
+    "isp": "Melbikomas UAB",
+    "latency_ms": 14196.97,
+    "last_checked": 1784506061.9901915
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.176.220.23",
+    "port": 9050,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.86,
+    "asn": "AS39845",
+    "isp": "2 Cloud Ltd",
+    "latency_ms": 21042.48,
+    "last_checked": 1784506184.312574
+  },
+  {
+    "protocol": "http",
     "ip": "185.113.139.149",
     "port": 3128,
     "country": "Latvia",
@@ -8,40 +38,10 @@
     "city": "Riga",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 90.65,
+    "uptime_percent": 90.67,
     "asn": "AS41745",
     "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 387.12,
-    "last_checked": 1784505514.4194002
-  },
-  {
-    "protocol": "http",
-    "ip": "89.36.161.56",
-    "port": 3128,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 30.39,
-    "asn": "AS56630",
-    "isp": "Melbikomas UAB",
-    "latency_ms": 10573.56,
-    "last_checked": 1784505481.5039814
-  },
-  {
-    "protocol": "socks5",
-    "ip": "195.135.255.98",
-    "port": 1080,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 76.44,
-    "asn": "AS42532",
-    "isp": "SIA VEESP",
-    "latency_ms": 3259.73,
-    "last_checked": 1784505443.048743
+    "latency_ms": 464.26,
+    "last_checked": 1784506108.5811996
   }
 ]
