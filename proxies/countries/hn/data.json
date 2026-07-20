@@ -1,18 +1,63 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "181.115.75.102",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "38.7.24.17",
+    "port": 8080,
     "country": "Honduras",
     "country_code": "HN",
     "city": "San Pedro Sula",
-    "anonymity": "elite",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 4.44,
+    "asn": "AS263725",
+    "isp": "Multicable De Honduras",
+    "latency_ms": 7920.73,
+    "last_checked": 1784580519.3472614
+  },
+  {
+    "protocol": "http",
+    "ip": "179.49.113.230",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Comayagua",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.11,
+    "asn": "AS262234",
+    "isp": "Asociacion De Servicio De Internet S. De RL",
+    "latency_ms": 7994.46,
+    "last_checked": 1784580502.150673
+  },
+  {
+    "protocol": "http",
+    "ip": "179.49.113.225",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.13,
+    "asn": "AS262234",
+    "isp": "Asociacion De Servicio De Internet S. De RL",
+    "latency_ms": 9228.09,
+    "last_checked": 1784580449.943938
+  },
+  {
+    "protocol": "http",
+    "ip": "181.119.190.196",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "La Esperanza",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 16.69,
-    "asn": "AS14754",
-    "isp": "Telgua",
-    "latency_ms": 775.85,
-    "last_checked": 1784579950.2978034
+    "uptime_percent": 33.99,
+    "asn": "AS52468",
+    "isp": "Ufinet Panama S.A.",
+    "latency_ms": 4311.12,
+    "last_checked": 1784580395.23446
   },
   {
     "protocol": "http",
@@ -22,11 +67,11 @@
     "country_code": "HN",
     "city": "Florida",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.19,
+    "ssl": true,
+    "uptime_percent": 25.2,
     "asn": "AS264696",
     "isp": "CABLEMAR",
-    "latency_ms": 3823.14,
-    "last_checked": 1784579953.000157
+    "latency_ms": 13940.03,
+    "last_checked": 1784580568.995849
   }
 ]
