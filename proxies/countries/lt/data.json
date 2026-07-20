@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "88.119.139.237",
-    "port": 53281,
+    "protocol": "socks4",
+    "ip": "93.93.61.153",
+    "port": 1080,
     "country": "Lithuania",
     "country_code": "LT",
-    "city": "Klaipėda",
+    "city": "Vilnius",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.34,
+    "asn": "AS44613",
+    "isp": "AB \"Ogmios Centras\"",
+    "latency_ms": 3165.31,
+    "last_checked": 1784586573.9374259
+  },
+  {
+    "protocol": "http",
+    "ip": "194.135.81.158",
+    "port": 3128,
+    "country": "Lithuania",
+    "country_code": "LT",
+    "city": "Vilnius",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 8.53,
-    "asn": "AS8764",
-    "isp": "Telia Lietuva",
-    "latency_ms": 3993.51,
-    "last_checked": 1784585951.743857
+    "ssl": true,
+    "uptime_percent": 52.01,
+    "asn": "AS212531",
+    "isp": "UAB \"Interneto vizija\"",
+    "latency_ms": 11019.24,
+    "last_checked": 1784586559.0858645
   },
   {
     "protocol": "socks5",
@@ -23,40 +38,10 @@
     "city": "Vilnius",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 41.47,
+    "uptime_percent": 41.48,
     "asn": "AS8764",
     "isp": "Telia Lietuva",
-    "latency_ms": 772.73,
-    "last_checked": 1784585763.851146
-  },
-  {
-    "protocol": "socks4",
-    "ip": "93.93.61.153",
-    "port": 1080,
-    "country": "Lithuania",
-    "country_code": "LT",
-    "city": "Vilnius",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 56.32,
-    "asn": "AS44613",
-    "isp": "AB \"Ogmios Centras\"",
-    "latency_ms": 7567.43,
-    "last_checked": 1784585976.7229037
-  },
-  {
-    "protocol": "socks5",
-    "ip": "185.193.25.181",
-    "port": 9050,
-    "country": "Lithuania",
-    "country_code": "LT",
-    "city": "Vilnius",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 29.53,
-    "asn": "AS62282",
-    "isp": "UAB Delska Lithuania",
-    "latency_ms": 20211.67,
-    "last_checked": 1784585940.7628071
+    "latency_ms": 1368.46,
+    "last_checked": 1784586479.3557954
   }
 ]
