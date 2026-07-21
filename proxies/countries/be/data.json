@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "109.131.153.93",
     "port": 9050,
     "country": "Belgium",
@@ -8,11 +8,26 @@
     "city": "Antwerp",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 81.82,
+    "uptime_percent": 83.08,
     "asn": "AS5432",
     "isp": "Proximus SA",
-    "latency_ms": 1957.91,
-    "last_checked": 1784600980.1675045
+    "latency_ms": 8491.06,
+    "last_checked": 1784601579.8154285
+  },
+  {
+    "protocol": "http",
+    "ip": "188.190.10.47",
+    "port": 1080,
+    "country": "Belgium",
+    "country_code": "BE",
+    "city": "Brussels",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 67.89,
+    "asn": "AS57169",
+    "isp": "EDIS GmbH",
+    "latency_ms": 12163.86,
+    "last_checked": 1784601555.706157
   },
   {
     "protocol": "http",
@@ -26,11 +41,11 @@
     "uptime_percent": 60.55,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 374.73,
-    "last_checked": 1784600974.4878678
+    "latency_ms": 14931.44,
+    "last_checked": 1784601551.3038826
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "109.131.153.93",
     "port": 9050,
     "country": "Belgium",
@@ -38,40 +53,10 @@
     "city": "Antwerp",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 84.05,
+    "uptime_percent": 84.0,
     "asn": "AS5432",
     "isp": "Proximus SA",
-    "latency_ms": 1089.74,
-    "last_checked": 1784600972.0129616
-  },
-  {
-    "protocol": "socks4",
-    "ip": "188.190.10.47",
-    "port": 1080,
-    "country": "Belgium",
-    "country_code": "BE",
-    "city": "Brussels",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 81.55,
-    "asn": "AS57169",
-    "isp": "EDIS GmbH",
-    "latency_ms": 18258.87,
-    "last_checked": 1784600966.1772346
-  },
-  {
-    "protocol": "socks5",
-    "ip": "188.190.10.47",
-    "port": 1080,
-    "country": "Belgium",
-    "country_code": "BE",
-    "city": "Brussels",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 74.54,
-    "asn": "AS57169",
-    "isp": "EDIS GmbH",
-    "latency_ms": 9043.08,
-    "last_checked": 1784600920.4096606
+    "latency_ms": 226.57,
+    "last_checked": 1784601432.5811675
   }
 ]
