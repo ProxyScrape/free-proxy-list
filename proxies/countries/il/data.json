@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "62.90.70.144",
-    "port": 7443,
+    "protocol": "socks4",
+    "ip": "31.168.143.90",
+    "port": 1080,
     "country": "Israel",
     "country_code": "IL",
-    "city": "Ramat Gan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 64.29,
-    "asn": "AS1680",
-    "isp": "013 Netvision Network",
-    "latency_ms": 14345.79,
-    "last_checked": 1784719724.4282587
+    "city": "Petah Tikva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.86,
+    "asn": "AS8551",
+    "isp": "BEZEQ-INTERNATIONAL",
+    "latency_ms": 283.39,
+    "last_checked": 1784720364.5017354
   },
   {
     "protocol": "http",
@@ -22,11 +22,26 @@
     "country_code": "IL",
     "city": "Haifa",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 26.88,
     "asn": "AS44709",
     "isp": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
-    "latency_ms": 7823.48,
-    "last_checked": 1784719723.4858532
+    "latency_ms": 7875.73,
+    "last_checked": 1784720297.5101092
+  },
+  {
+    "protocol": "http",
+    "ip": "62.90.70.144",
+    "port": 7443,
+    "country": "Israel",
+    "country_code": "IL",
+    "city": "Ramat Gan",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 64.29,
+    "asn": "AS1680",
+    "isp": "013 Netvision Network",
+    "latency_ms": 248.45,
+    "last_checked": 1784720284.1806262
   }
 ]
