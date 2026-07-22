@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "34.140.137.151",
-    "port": 80,
-    "country": "Belgium",
-    "country_code": "BE",
-    "city": "Brussels",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 60.71,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 68.77,
-    "last_checked": 1784699944.0495832
-  },
-  {
-    "protocol": "http",
-    "ip": "188.190.10.47",
-    "port": 1080,
-    "country": "Belgium",
-    "country_code": "BE",
-    "city": "Brussels",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 67.57,
-    "asn": "AS57169",
-    "isp": "EDIS GmbH",
-    "latency_ms": 10927.92,
-    "last_checked": 1784699930.7606976
-  },
-  {
     "protocol": "socks5",
     "ip": "188.190.10.47",
     "port": 1080,
@@ -41,7 +11,52 @@
     "uptime_percent": 74.87,
     "asn": "AS57169",
     "isp": "EDIS GmbH",
-    "latency_ms": 15426.22,
-    "last_checked": 1784699881.8419337
+    "latency_ms": 15086.65,
+    "last_checked": 1784700527.246531
+  },
+  {
+    "protocol": "socks4",
+    "ip": "188.190.10.47",
+    "port": 1080,
+    "country": "Belgium",
+    "country_code": "BE",
+    "city": "Brussels",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 81.43,
+    "asn": "AS57169",
+    "isp": "EDIS GmbH",
+    "latency_ms": 6261.17,
+    "last_checked": 1784700504.245125
+  },
+  {
+    "protocol": "http",
+    "ip": "188.190.10.47",
+    "port": 1080,
+    "country": "Belgium",
+    "country_code": "BE",
+    "city": "Brussels",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 67.58,
+    "asn": "AS57169",
+    "isp": "EDIS GmbH",
+    "latency_ms": 6976.14,
+    "last_checked": 1784700489.0995314
+  },
+  {
+    "protocol": "http",
+    "ip": "34.140.137.151",
+    "port": 80,
+    "country": "Belgium",
+    "country_code": "BE",
+    "city": "Brussels",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 60.71,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 72.12,
+    "last_checked": 1784700433.6386027
   }
 ]
