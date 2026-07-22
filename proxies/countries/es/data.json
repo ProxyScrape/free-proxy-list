@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "San Fernando de Henares",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.1,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 3392.96,
+    "last_checked": 1784740177.7533228
+  },
+  {
+    "protocol": "http",
+    "ip": "2.139.38.192",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.24,
+    "asn": "AS3352",
+    "isp": "RIMA (Red IP Multi Acceso)",
+    "latency_ms": 11525.6,
+    "last_checked": 1784740173.4130743
+  },
+  {
     "protocol": "http",
     "ip": "195.114.209.50",
     "port": 80,
@@ -11,53 +41,8 @@
     "uptime_percent": 66.72,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 5131.65,
-    "last_checked": 1784739579.139089
-  },
-  {
-    "protocol": "http",
-    "ip": "141.227.128.55",
-    "port": 3128,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 33.15,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 11421.21,
-    "last_checked": 1784739564.6247067
-  },
-  {
-    "protocol": "socks5",
-    "ip": "88.148.18.101",
-    "port": 1081,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Almoster",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 8.84,
-    "asn": "AS29119",
-    "isp": "Redfibra Comunicaciones S.L",
-    "latency_ms": 4584.89,
-    "last_checked": 1784739527.48343
-  },
-  {
-    "protocol": "http",
-    "ip": "81.0.49.104",
-    "port": 20500,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Valencia",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.68,
-    "asn": "AS15704",
-    "isp": "MasMovil Access Network",
-    "latency_ms": 8036.86,
-    "last_checked": 1784739512.4123278
+    "latency_ms": 5140.32,
+    "last_checked": 1784740167.8488243
   },
   {
     "protocol": "http",
@@ -71,23 +56,38 @@
     "uptime_percent": 7.76,
     "asn": "AS206276",
     "isp": "Citelia s.a.",
-    "latency_ms": 10048.87,
-    "last_checked": 1784739445.8345423
+    "latency_ms": 5121.76,
+    "last_checked": 1784740154.702341
   },
   {
-    "protocol": "http",
-    "ip": "2.139.38.192",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "65.20.105.241",
+    "port": 10001,
     "country": "Spain",
     "country_code": "ES",
     "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.08,
+    "asn": "AS20473",
+    "isp": "The Constant Company, LLC",
+    "latency_ms": 212.95,
+    "last_checked": 1784740154.2700698
+  },
+  {
+    "protocol": "http",
+    "ip": "85.85.186.84",
+    "port": 8080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Sant Cugat del Vallès",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 30.23,
-    "asn": "AS3352",
-    "isp": "RIMA (Red IP Multi Acceso)",
-    "latency_ms": 1833.08,
-    "last_checked": 1784739406.8685389
+    "uptime_percent": 36.16,
+    "asn": "AS15704",
+    "isp": "Xtra Telecom S.A.",
+    "latency_ms": 1679.85,
+    "last_checked": 1784740127.2715712
   },
   {
     "protocol": "socks5",
@@ -98,11 +98,26 @@
     "city": "Valencia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 56.6,
+    "uptime_percent": 56.59,
     "asn": "AS15704",
     "isp": "MasMovil Access Network",
-    "latency_ms": 3352.1,
-    "last_checked": 1784739361.4559133
+    "latency_ms": 2290.92,
+    "last_checked": 1784740119.6838834
+  },
+  {
+    "protocol": "http",
+    "ip": "81.0.49.104",
+    "port": 20500,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Valencia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.68,
+    "asn": "AS15704",
+    "isp": "MasMovil Access Network",
+    "latency_ms": 646.41,
+    "last_checked": 1784740108.3107505
   },
   {
     "protocol": "http",
@@ -116,7 +131,7 @@
     "uptime_percent": 77.56,
     "asn": "AS15704",
     "isp": "Xtra Telecom S.A",
-    "latency_ms": 141.78,
-    "last_checked": 1784739541.9987836
+    "latency_ms": 146.7,
+    "last_checked": 1784740166.5950491
   }
 ]
