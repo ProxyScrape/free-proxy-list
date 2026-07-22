@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "45.95.232.35",
-    "port": 1080,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 87.91,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 6446.01,
-    "last_checked": 1784756366.1714194
-  },
-  {
-    "protocol": "socks5",
     "ip": "5.101.85.133",
     "port": 9050,
     "country": "Switzerland",
@@ -23,11 +8,11 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 53.22,
+    "uptime_percent": 55.41,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 12959.82,
-    "last_checked": 1784756308.3166914
+    "latency_ms": 11674.08,
+    "last_checked": 1784756652.4942636
   },
   {
     "protocol": "socks5",
@@ -41,8 +26,23 @@
     "uptime_percent": 86.03,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 8310.67,
-    "last_checked": 1784756306.3892543
+    "latency_ms": 822.69,
+    "last_checked": 1784756652.4173167
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 16.55,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 15776.01,
+    "last_checked": 1784756634.2476175
   },
   {
     "protocol": "http",
@@ -52,11 +52,26 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 74.73,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 9351.65,
-    "last_checked": 1784756204.96583
+    "latency_ms": 5422.42,
+    "last_checked": 1784756610.1760323
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.101.85.133",
+    "port": 9050,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 53.22,
+    "asn": "AS63023",
+    "isp": "GTHost",
+    "latency_ms": 12095.95,
+    "last_checked": 1784756601.3606884
   }
 ]

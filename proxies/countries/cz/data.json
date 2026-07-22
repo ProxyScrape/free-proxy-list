@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "109.69.211.18",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Kojetín",
+    "city": "Třeboň",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 84.83,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 39.57,
+    "last_checked": 1784756603.4731987
+  },
+  {
+    "protocol": "socks5",
+    "ip": "91.184.250.2",
+    "port": 9050,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Veselí nad Lužnicí",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 56.03,
-    "asn": "AS196815",
-    "isp": "LAN servis s.r.o",
-    "latency_ms": 144.05,
-    "last_checked": 1784756351.366888
+    "uptime_percent": 27.72,
+    "asn": "AS62212",
+    "isp": "SmartApe OU",
+    "latency_ms": 24539.64,
+    "last_checked": 1784756597.820939
   },
   {
     "protocol": "http",
@@ -26,22 +41,7 @@
     "uptime_percent": 12.81,
     "asn": "AS42908",
     "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 2461.32,
-    "last_checked": 1784756334.3959224
-  },
-  {
-    "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Třeboň",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 84.83,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 40.82,
-    "last_checked": 1784756263.1790292
+    "latency_ms": 4801.5,
+    "last_checked": 1784756555.77183
   }
 ]
