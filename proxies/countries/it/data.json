@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "http",
+    "ip": "87.121.148.126",
+    "port": 49200,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Palazzago",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 70.36,
+    "asn": "AS210218",
+    "isp": "Open Fiber S.P.A.",
+    "latency_ms": 1031.51,
+    "last_checked": 1784771986.5361533
+  },
+  {
     "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
@@ -11,23 +26,8 @@
     "uptime_percent": 87.51,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 184.76,
-    "last_checked": 1784771681.3197591
-  },
-  {
-    "protocol": "http",
-    "ip": "185.191.106.41",
-    "port": 8081,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 24.1,
-    "asn": "AS44092",
-    "isp": "Mywic Costumers",
-    "latency_ms": 5507.92,
-    "last_checked": 1784771656.1599193
+    "latency_ms": 566.58,
+    "last_checked": 1784771973.7061439
   },
   {
     "protocol": "http",
@@ -37,12 +37,27 @@
     "country_code": "IT",
     "city": "Marsala",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.23,
+    "ssl": true,
+    "uptime_percent": 30.25,
     "asn": "AS12874",
     "isp": "Fastweb Networks",
-    "latency_ms": 6266.28,
-    "last_checked": 1784771625.783801
+    "latency_ms": 4183.88,
+    "last_checked": 1784771958.9937127
+  },
+  {
+    "protocol": "http",
+    "ip": "78.134.20.48",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Pitigliano",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 9.34,
+    "asn": "AS35612",
+    "isp": "NGI",
+    "latency_ms": 9028.59,
+    "last_checked": 1784771891.7852027
   },
   {
     "protocol": "socks5",
@@ -53,11 +68,11 @@
     "city": "Arezzo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 27.3,
+    "uptime_percent": 27.31,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 4285.91,
-    "last_checked": 1784771616.3075416
+    "latency_ms": 14360.33,
+    "last_checked": 1784771853.376592
   },
   {
     "protocol": "http",
@@ -71,23 +86,8 @@
     "uptime_percent": 23.53,
     "asn": "AS44092",
     "isp": "Mywic Costumers",
-    "latency_ms": 4657.98,
-    "last_checked": 1784771584.3523285
-  },
-  {
-    "protocol": "http",
-    "ip": "93.187.26.218",
-    "port": 58080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Siena",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 29.73,
-    "asn": "AS43960",
-    "isp": "Consorzio Terrecablate",
-    "latency_ms": 5457.93,
-    "last_checked": 1784771562.4716845
+    "latency_ms": 4894.33,
+    "last_checked": 1784771814.3002217
   },
   {
     "protocol": "http",
@@ -97,27 +97,12 @@
     "country_code": "IT",
     "city": "Rome",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 36.77,
     "asn": "AS3269",
     "isp": "INTERBUSINESS",
-    "latency_ms": 3129.05,
-    "last_checked": 1784771534.493651
-  },
-  {
-    "protocol": "socks4",
-    "ip": "212.43.119.1",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Teramo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 14.23,
-    "asn": "AS21034",
-    "isp": "Micso S.r.l.",
-    "latency_ms": 1221.74,
-    "last_checked": 1784771695.3886096
+    "latency_ms": 7106.71,
+    "last_checked": 1784771785.519826
   },
   {
     "protocol": "socks5",
@@ -131,37 +116,22 @@
     "uptime_percent": 99.83,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 364.22,
-    "last_checked": 1784771668.5937717
+    "latency_ms": 882.48,
+    "last_checked": 1784771988.565595
   },
   {
-    "protocol": "http",
-    "ip": "212.77.75.25",
-    "port": 3129,
+    "protocol": "socks5",
+    "ip": "149.62.186.244",
+    "port": 1080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Empoli",
+    "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 27.37,
-    "asn": "AS15691",
-    "isp": "Leonet srl Empoli",
-    "latency_ms": 4439.59,
-    "last_checked": 1784771659.4798212
-  },
-  {
-    "protocol": "http",
-    "ip": "149.86.203.217",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Santa Margherita d'Adige",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 5.78,
-    "asn": "AS60501",
-    "isp": "Sirius Technology SRL",
-    "latency_ms": 3376.95,
-    "last_checked": 1784771650.5677972
+    "uptime_percent": 86.2,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 640.75,
+    "last_checked": 1784771966.6692631
   }
 ]
