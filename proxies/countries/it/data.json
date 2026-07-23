@@ -1,6 +1,36 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "79.52.233.34",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rome",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 36.76,
+    "asn": "AS3269",
+    "isp": "INTERBUSINESS",
+    "latency_ms": 8634.64,
+    "last_checked": 1784778853.9491105
+  },
+  {
+    "protocol": "socks5",
+    "ip": "80.211.131.230",
+    "port": 9050,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.33,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A. Network",
+    "latency_ms": 16961.69,
+    "last_checked": 1784778828.145923
+  },
+  {
+    "protocol": "socks5",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -8,26 +38,11 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 87.52,
+    "uptime_percent": 86.23,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 115.93,
-    "last_checked": 1784778587.3709013
-  },
-  {
-    "protocol": "http",
-    "ip": "149.86.203.217",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Santa Margherita d'Adige",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 5.78,
-    "asn": "AS60501",
-    "isp": "Sirius Technology SRL",
-    "latency_ms": 3299.42,
-    "last_checked": 1784778554.656025
+    "latency_ms": 740.67,
+    "last_checked": 1784778903.597821
   },
   {
     "protocol": "socks5",
@@ -41,7 +56,37 @@
     "uptime_percent": 99.83,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 210.75,
-    "last_checked": 1784778550.1499186
+    "latency_ms": 312.08,
+    "last_checked": 1784778896.3018835
+  },
+  {
+    "protocol": "socks4",
+    "ip": "149.62.186.244",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 87.52,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 109.77,
+    "last_checked": 1784778888.9990745
+  },
+  {
+    "protocol": "http",
+    "ip": "212.77.75.25",
+    "port": 3129,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Empoli",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.4,
+    "asn": "AS15691",
+    "isp": "Leonet srl Empoli",
+    "latency_ms": 1639.41,
+    "last_checked": 1784778796.519165
   }
 ]
