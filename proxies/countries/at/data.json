@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.196.178.238",
-    "port": 60606,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Längenfeld",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 8.64,
-    "asn": "AS206091",
-    "isp": "Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG",
-    "latency_ms": 56.68,
-    "last_checked": 1784764743.1335504
-  },
-  {
-    "protocol": "http",
-    "ip": "62.60.238.191",
-    "port": 443,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 67.45,
-    "asn": "AS210644",
-    "isp": "Aeza International LTD",
-    "latency_ms": 17178.73,
-    "last_checked": 1784764719.4038823
-  },
-  {
     "protocol": "http",
     "ip": "193.233.128.134",
     "port": 3128,
@@ -37,12 +7,12 @@
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 39.38,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 7851.34,
-    "last_checked": 1784764636.0035014
+    "latency_ms": 6738.4,
+    "last_checked": 1784765372.690543
   },
   {
     "protocol": "http",
@@ -56,7 +26,37 @@
     "uptime_percent": 39.39,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 15116.79,
-    "last_checked": 1784764616.4388347
+    "latency_ms": 12930.02,
+    "last_checked": 1784765301.0398984
+  },
+  {
+    "protocol": "socks4",
+    "ip": "213.173.75.222",
+    "port": 5678,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Kindberg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.68,
+    "asn": "AS13292",
+    "isp": "BK DAT",
+    "latency_ms": 524.81,
+    "last_checked": 1784765403.6524925
+  },
+  {
+    "protocol": "http",
+    "ip": "62.60.238.191",
+    "port": 443,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 67.54,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 15088.32,
+    "last_checked": 1784765331.9365005
   }
 ]
