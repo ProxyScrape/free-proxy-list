@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "77.240.97.77",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Dobříš",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 24.15,
-    "asn": "AS42189",
-    "isp": "DOBRISNET",
-    "latency_ms": 5261.44,
-    "last_checked": 1784799547.882454
-  },
-  {
     "protocol": "socks4",
     "ip": "85.132.139.45",
     "port": 4153,
@@ -23,11 +8,26 @@
     "city": "Slavkov u Brna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 42.52,
+    "uptime_percent": 42.51,
     "asn": "AS205400",
     "isp": "GIN's network",
-    "latency_ms": 1105.54,
-    "last_checked": 1784799536.5692036
+    "latency_ms": 3103.67,
+    "last_checked": 1784800163.9656105
+  },
+  {
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.77,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 3157.28,
+    "last_checked": 1784800139.039489
   },
   {
     "protocol": "socks5",
@@ -38,25 +38,40 @@
     "city": "Veselí nad Lužnicí",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 29.38,
+    "uptime_percent": 29.46,
     "asn": "AS62212",
     "isp": "SmartApe OU",
-    "latency_ms": 10447.34,
-    "last_checked": 1784799532.158658
+    "latency_ms": 14662.27,
+    "last_checked": 1784800086.0510485
   },
   {
-    "protocol": "socks4",
-    "ip": "185.40.80.143",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "90.181.120.18",
+    "port": 8082,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Klatovy",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.85,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 3184.44,
+    "last_checked": 1784800069.4531808
+  },
+  {
+    "protocol": "http",
+    "ip": "109.164.35.23",
+    "port": 8888,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 6.01,
-    "asn": "AS210712",
-    "isp": "Airweb",
-    "latency_ms": 3105.71,
-    "last_checked": 1784799530.2292202
+    "ssl": false,
+    "uptime_percent": 15.67,
+    "asn": "AS44489",
+    "isp": "STARNET, s.r.o.",
+    "latency_ms": 3181.06,
+    "last_checked": 1784799998.5639024
   }
 ]
