@@ -1,37 +1,57 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,23.94.112.168,8080,United States,US,Los Angeles,elite,true,10.42,AS36352,HostPapa,339.95,1784826556.6223724
-http,64.23.188.3,3128,United States,US,Santa Clara,transparent,true,99.24,AS14061,"DigitalOcean, LLC",330.63,1784826554.271664
-http,150.238.75.122,3128,United States,US,Armonk,transparent,true,99.96,AS36351,IBM Cloud,342.28,1784826553.3947222
-http,178.130.47.42,1081,United States,US,Phoenix,elite,true,57.92,AS215540,Global Connectivity Solutions LLP,937.49,1784826551.947403
-http,50.205.246.13,8080,United States,US,Pembroke Pines,anonymous,true,94.85,AS20214,"Comcast Cable Communications, LLC",343.09,1784826550.2949371
-http,34.43.46.91,443,United States,US,Mountain View,elite,true,93.36,AS396982,Google LLC,207.43,1784826535.7138543
-http,172.171.83.26,8080,United States,US,Boydton,elite,true,96.62,AS8075,Microsoft,11920.05,1784826535.047919
-http,103.11.76.74,1081,United States,US,Los Angeles,elite,true,79.34,AS35916,UberGlobal Pty Ltd,12491.01,1784826533.3472087
-http,24.72.215.236,8246,United States,US,Fullerton,transparent,true,10.5,AS35986,Vyve Broadband,7597.69,1784826531.0048046
-http,50.205.246.13,80,United States,US,Pembroke Pines,anonymous,true,94.66,AS20214,"Comcast Cable Communications, LLC",349.64,1784826529.5587766
-http,157.254.194.57,1080,United States,US,New York,elite,true,98.89,AS399486,Ipxo LLC,203.1,1784826528.7556744
-http,38.55.145.46,1081,United States,US,Los Angeles,elite,true,84.57,AS400619,Cogent Communications,11948.34,1784826527.592039
-http,50.205.246.13,443,United States,US,Pembroke Pines,anonymous,true,94.76,AS20214,"Comcast Cable Communications, LLC",364.11,1784826523.0636623
-http,168.184.84.85,80,United States,US,Orlando,elite,true,87.68,AS2386,"AT&T Enterprises, LLC",299.89,1784826520.8258967
-http,15.204.151.142,3128,United States,US,Reston,transparent,true,10.49,AS16276,OVH SAS,2739.22,1784826519.4764109
-http,47.253.201.85,7890,United States,US,Charlottesville,elite,true,95.13,AS45102,Alibaba Cloud LLC,1242.49,1784826517.0887952
-http,34.43.46.91,80,United States,US,Mountain View,elite,true,93.53,AS396982,Google LLC,202.4,1784826514.4807303
-http,149.248.37.215,9000,United States,US,Kent,elite,true,26.94,AS20473,The Constant Company,20426.51,1784826513.6794944
-http,104.129.192.156,10624,United States,US,San Jose,elite,true,79.36,AS22616,"ZSCALER, INC.",7719.83,1784826512.8547907
-http,104.129.192.156,12192,United States,US,San Jose,elite,true,75.17,AS22616,"ZSCALER, INC.",8295.63,1784826501.4959035
-http,47.90.167.27,60000,United States,US,Henrico,elite,true,0.82,AS45102,Alibaba.com LLC,2183.71,1784826495.4478817
-http,47.252.41.213,443,United States,US,Henrico,anonymous,true,1.65,AS45102,Alibaba Cloud LLC,6042.95,1784826490.315854
-http,104.129.192.156,10928,United States,US,San Jose,elite,true,74.65,AS22616,"ZSCALER, INC.",5983.4,1784826486.6946995
-http,43.153.82.179,8888,United States,US,Santa Clara,transparent,true,26.52,AS132203,Shenzhen Tencent Computer Systems Company Limited,457.52,1784826483.1408598
-http,131.153.163.221,36750,United States,US,Ashburn,elite,true,5.91,AS19437,Secured Servers LLC,10198.57,1784826483.0185993
-http,47.89.184.18,3128,United States,US,Henrico,elite,true,82.32,AS45102,Alibaba.com LLC,201.98,1784826482.5002954
-http,64.112.184.210,3128,United States,US,Richmond,elite,true,99.96,AS14713,Hosted Backbone,225.84,1784826479.252281
-http,104.129.192.156,10121,United States,US,San Jose,elite,true,69.21,AS22616,"ZSCALER, INC.",12344.66,1784826470.9154735
-http,216.106.179.216,49284,United States,US,Dallas,elite,true,10.49,AS63023,GTHost,1621.53,1784826460.862076
-http,203.24.89.93,40001,United States,US,Los Angeles,elite,true,49.67,AS35916,Multacom Corporation,15022.54,1784826434.127117
-http,45.26.30.144,8888,United States,US,Friendswood,elite,true,40.9,AS7018,"AT&T Enterprises, LLC",11692.61,1784826426.500124
-http,104.129.192.156,11677,United States,US,San Jose,elite,true,75.27,AS22616,"ZSCALER, INC.",5185.51,1784826377.473016
-http,104.194.146.9,80,United States,US,Sheridan,elite,true,70.66,AS198983,FranTech Solutions,2363.37,1784826596.5464973
-http,168.184.84.85,443,United States,US,Orlando,elite,true,81.39,AS2386,"AT&T Enterprises, LLC",303.6,1784826592.3654823
-http,104.154.186.48,80,United States,US,Council Bluffs,anonymous,true,50.92,AS396982,Google LLC,355.38,1784826579.303334
-http,104.129.192.156,12008,United States,US,San Jose,elite,true,68.83,AS22616,"ZSCALER, INC.",7328.89,1784826484.3427477
+http,150.238.75.122,3128,United States,US,Armonk,transparent,true,99.96,AS36351,IBM Cloud,343.94,1784827159.3703258
+http,64.23.188.3,3128,United States,US,Santa Clara,transparent,true,99.24,AS14061,"DigitalOcean, LLC",332.18,1784827159.008884
+http,64.112.184.210,3128,United States,US,Richmond,elite,true,99.96,AS14713,Hosted Backbone,248.28,1784827156.2194805
+http,134.195.210.226,10808,United States,US,Los Angeles,elite,true,84.85,AS35916,Axedale,317.37,1784827155.9073565
+http,51.81.73.69,3128,United States,US,Reston,transparent,true,23.89,AS16276,OVH SAS,1051.69,1784827150.6887522
+http,146.190.60.147,8003,United States,US,Santa Clara,elite,true,18.15,AS14061,"DigitalOcean, LLC",384.02,1784827145.3995504
+http,45.153.4.154,3128,United States,US,Columbus,transparent,true,95.38,AS211826,Istqrar for Servers Services Ltd,58.8,1784827144.8573332
+http,50.205.246.13,80,United States,US,Pembroke Pines,anonymous,true,94.66,AS20214,"Comcast Cable Communications, LLC",351.07,1784827144.4876075
+http,216.106.179.216,49382,United States,US,Dallas,elite,true,21.33,AS63023,GTHost,9581.79,1784827140.2554438
+http,104.129.192.156,12008,United States,US,San Jose,elite,true,68.83,AS22616,"ZSCALER, INC.",5069.39,1784827139.7358897
+http,131.153.163.222,32291,United States,US,Ashburn,elite,true,10.68,AS19437,Secured Servers LLC,3775.68,1784827136.1764724
+http,104.129.192.156,10315,United States,US,San Jose,elite,true,75.1,AS22616,"ZSCALER, INC.",8810.61,1784827135.9364731
+http,34.43.46.91,443,United States,US,Mountain View,elite,true,93.35,AS396982,Google LLC,194.2,1784827135.0819576
+http,107.175.212.138,8080,United States,US,Buffalo,elite,true,62.11,AS36352,HostPapa,233.4,1784827133.6089406
+http,178.130.47.42,1082,United States,US,Phoenix,elite,true,56.54,AS215540,Global Connectivity Solutions LLP,497.81,1784827133.080801
+http,50.205.246.13,8080,United States,US,Pembroke Pines,anonymous,true,94.85,AS20214,"Comcast Cable Communications, LLC",347.6,1784827133.0803661
+http,147.45.60.249,1081,United States,US,Atlanta,elite,true,67.39,AS215540,Global Connectivity Solutions LLP,9296.02,1784827131.7931302
+http,34.43.46.91,80,United States,US,Mountain View,elite,true,93.53,AS396982,Google LLC,207.47,1784827130.5257773
+http,172.171.83.26,8080,United States,US,Boydton,elite,true,96.62,AS8075,Microsoft,1731.24,1784827129.7522318
+http,34.69.61.247,80,United States,US,Council Bluffs,anonymous,true,55.7,AS396982,Google LLC,340.81,1784827127.9507082
+http,157.230.178.216,8080,United States,US,North Bergen,anonymous,true,97.54,AS14061,"DigitalOcean, LLC",185.86,1784827127.0646408
+http,15.204.151.145,3128,United States,US,Reston,transparent,true,10.35,AS16276,OVH SAS,7828.11,1784827126.6279306
+http,104.129.192.156,9443,United States,US,San Jose,elite,true,77.44,AS22616,"ZSCALER, INC.",9749.55,1784827125.8561616
+http,104.194.148.204,80,United States,US,Sheridan,elite,true,72.85,AS198983,FranTech Solutions,2229.91,1784827125.076156
+http,50.205.246.13,443,United States,US,Pembroke Pines,anonymous,true,94.77,AS20214,"Comcast Cable Communications, LLC",335.21,1784827124.7826319
+http,104.129.192.156,12507,United States,US,San Jose,elite,true,63.1,AS22616,"ZSCALER, INC.",2581.49,1784827124.5438423
+http,146.190.60.147,8001,United States,US,Santa Clara,elite,true,24.35,AS14061,"DigitalOcean, LLC",8264.48,1784827116.4293985
+http,52.33.78.11,8080,United States,US,Portland,elite,true,83.53,AS16509,"Amazon.com, Inc.",363.35,1784827114.6745481
+http,38.55.145.46,1081,United States,US,Los Angeles,elite,true,84.57,AS400619,Cogent Communications,13292.55,1784827112.4249933
+http,104.154.186.48,80,United States,US,Council Bluffs,anonymous,true,50.92,AS396982,Google LLC,292.49,1784827087.8261409
+http,146.190.60.147,8016,United States,US,Santa Clara,elite,true,29.22,AS14061,"DigitalOcean, LLC",311.64,1784827081.9951608
+http,205.215.247.164,3128,United States,US,Baltimore,transparent,true,75.03,AS32829,"Port Networks, Inc.",643.99,1784827081.8872638
+http,104.194.148.188,3128,United States,US,Sheridan,transparent,true,87.17,AS198983,FranTech Solutions,8369.32,1784827079.9116428
+http,47.253.201.85,7890,United States,US,Charlottesville,elite,true,95.14,AS45102,Alibaba Cloud LLC,471.1,1784827064.3892286
+http,34.94.46.8,80,United States,US,Los Angeles,elite,true,87.65,AS396982,Google LLC,324.19,1784827056.6628833
+http,103.11.76.74,8081,United States,US,Los Angeles,elite,true,75.92,AS35916,UberGlobal Pty Ltd,4761.7,1784827050.1095052
+http,23.94.112.168,8080,United States,US,Los Angeles,elite,true,10.46,AS36352,HostPapa,2363.16,1784827047.4018943
+http,47.89.184.18,3128,United States,US,Henrico,elite,true,82.32,AS45102,Alibaba.com LLC,201.39,1784827030.3051908
+http,104.129.192.156,12872,United States,US,San Jose,elite,true,72.48,AS22616,"ZSCALER, INC.",5395.8,1784827021.4360492
+http,147.45.60.246,1081,United States,US,Atlanta,elite,true,71.25,AS215540,Global Connectivity Solutions LLP,3281.31,1784827011.3006546
+http,104.129.192.156,10625,United States,US,San Jose,elite,true,66.62,AS22616,"ZSCALER, INC.",4636.94,1784826997.1517909
+http,104.129.192.156,12460,United States,US,San Jose,elite,true,63.64,AS22616,"ZSCALER, INC.",10333.66,1784826996.4184012
+http,104.129.192.156,11515,United States,US,San Jose,elite,true,70.71,AS22616,"ZSCALER, INC.",2733.42,1784826994.0401025
+http,104.129.192.156,12749,United States,US,San Jose,elite,true,66.7,AS22616,"ZSCALER, INC.",9962.81,1784826986.825753
+http,147.45.60.241,1082,United States,US,Atlanta,elite,true,69.21,AS215540,Global Connectivity Solutions LLP,3525.67,1784826984.259976
+http,104.129.192.156,12266,United States,US,San Jose,elite,true,67.82,AS22616,"ZSCALER, INC.",5327.63,1784826981.4427168
+http,104.129.192.156,10359,United States,US,San Jose,elite,true,67.1,AS22616,"ZSCALER, INC.",6658.07,1784826980.1039107
+http,104.129.192.156,12264,United States,US,San Jose,elite,true,68.49,AS22616,"ZSCALER, INC.",6820.12,1784826979.934187
+http,104.129.192.156,10577,United States,US,San Jose,elite,true,67.46,AS22616,"ZSCALER, INC.",10349.59,1784826974.0298553
+http,104.129.192.156,12123,United States,US,San Jose,elite,true,71.93,AS22616,"ZSCALER, INC.",11715.91,1784826958.9178805
+http,165.138.86.202,8080,United States,US,Indianapolis,elite,true,99.73,AS11686,Zayo Bandwidth,369.56,1784827196.6315384
+http,149.248.37.215,9000,United States,US,Kent,elite,true,26.94,AS20473,The Constant Company,12845.34,1784827172.607909
+http,157.254.194.57,1080,United States,US,New York,elite,true,98.89,AS399486,Ipxo LLC,196.81,1784827169.353129
+http,104.129.192.156,10624,United States,US,San Jose,elite,true,79.35,AS22616,"ZSCALER, INC.",14462.42,1784827160.3244538
+http,168.184.84.85,443,United States,US,Orlando,elite,true,81.45,AS2386,"AT&T Enterprises, LLC",301.32,1784827142.3893805
+http,168.184.84.85,80,United States,US,Orlando,elite,true,87.71,AS2386,"AT&T Enterprises, LLC",302.63,1784827104.8590271
