@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "178.115.230.100",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "83.215.25.66",
+    "port": 9050,
     "country": "Austria",
     "country_code": "AT",
-    "city": "Salzburg",
-    "anonymity": "transparent",
+    "city": "Zell am See",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 9.94,
-    "asn": "AS25255",
-    "isp": "customers with static IP",
-    "latency_ms": 14880.24,
-    "last_checked": 1784887685.00369
+    "uptime_percent": 18.91,
+    "asn": "AS8445",
+    "isp": "SALZBURG-AG",
+    "latency_ms": 31236.35,
+    "last_checked": 1784888340.5307393
+  },
+  {
+    "protocol": "http",
+    "ip": "193.233.128.134",
+    "port": 3128,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 39.41,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 12725.14,
+    "last_checked": 1784888334.8998463
   },
   {
     "protocol": "http",
@@ -26,8 +41,8 @@
     "uptime_percent": 61.11,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 8449.91,
-    "last_checked": 1784887657.8736796
+    "latency_ms": 9551.45,
+    "last_checked": 1784888237.4766095
   },
   {
     "protocol": "socks4",
@@ -38,10 +53,25 @@
     "city": "Kindberg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 60.67,
+    "uptime_percent": 60.68,
     "asn": "AS13292",
     "isp": "BK DAT",
-    "latency_ms": 3204.29,
-    "last_checked": 1784887801.5207055
+    "latency_ms": 267.18,
+    "last_checked": 1784888372.7853963
+  },
+  {
+    "protocol": "socks5",
+    "ip": "95.163.176.131",
+    "port": 1080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.96,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 4100.84,
+    "last_checked": 1784888313.6333208
   }
 ]
