@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "78.63.115.20",
-    "port": 8899,
+    "protocol": "socks4",
+    "ip": "93.93.61.153",
+    "port": 1080,
     "country": "Lithuania",
     "country_code": "LT",
     "city": "Vilnius",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 41.62,
-    "asn": "AS8764",
-    "isp": "Telia Lietuva",
-    "latency_ms": 3216.34,
-    "last_checked": 1784898837.202488
+    "uptime_percent": 57.24,
+    "asn": "AS44613",
+    "isp": "AB \"Ogmios Centras\"",
+    "latency_ms": 7317.49,
+    "last_checked": 1784899468.9584677
+  },
+  {
+    "protocol": "http",
+    "ip": "194.135.81.158",
+    "port": 3128,
+    "country": "Lithuania",
+    "country_code": "LT",
+    "city": "Vilnius",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 52.23,
+    "asn": "AS212531",
+    "isp": "UAB \"Interneto vizija\"",
+    "latency_ms": 8915.87,
+    "last_checked": 1784899367.884261
   },
   {
     "protocol": "http",
@@ -22,30 +37,15 @@
     "country_code": "LT",
     "city": "Klaipėda",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 8.57,
     "asn": "AS8764",
     "isp": "Telia Lietuva",
-    "latency_ms": 2573.6,
-    "last_checked": 1784898731.0639842
+    "latency_ms": 3465.07,
+    "last_checked": 1784899336.7200098
   },
   {
     "protocol": "socks4",
-    "ip": "93.93.61.153",
-    "port": 1080,
-    "country": "Lithuania",
-    "country_code": "LT",
-    "city": "Vilnius",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 57.23,
-    "asn": "AS44613",
-    "isp": "AB \"Ogmios Centras\"",
-    "latency_ms": 1154.49,
-    "last_checked": 1784898903.3873837
-  },
-  {
-    "protocol": "socks5",
     "ip": "185.193.25.181",
     "port": 9050,
     "country": "Lithuania",
@@ -53,10 +53,10 @@
     "city": "Vilnius",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 29.88,
+    "uptime_percent": 24.62,
     "asn": "AS62282",
     "isp": "UAB Delska Lithuania",
-    "latency_ms": 16995.97,
-    "last_checked": 1784898869.1225917
+    "latency_ms": 23421.67,
+    "last_checked": 1784899476.3971844
   }
 ]
