@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "91.184.250.2",
-    "port": 9050,
+    "protocol": "socks4",
+    "ip": "109.69.211.18",
+    "port": 1080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Veselí nad Lužnicí",
+    "city": "Kojetín",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.17,
-    "asn": "AS62212",
-    "isp": "SmartApe OU",
-    "latency_ms": 685.92,
-    "last_checked": 1784854129.628563
+    "uptime_percent": 55.91,
+    "asn": "AS196815",
+    "isp": "LAN servis s.r.o",
+    "latency_ms": 347.14,
+    "last_checked": 1784854792.2603605
+  },
+  {
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.75,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 6735.72,
+    "last_checked": 1784854785.4164486
   },
   {
     "protocol": "http",
@@ -26,8 +41,8 @@
     "uptime_percent": 84.82,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 1052.41,
-    "last_checked": 1784854117.4914587
+    "latency_ms": 1139.51,
+    "last_checked": 1784854714.0786877
   },
   {
     "protocol": "http",
@@ -37,26 +52,11 @@
     "country_code": "CZ",
     "city": "Dobříš",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 24.19,
     "asn": "AS42189",
     "isp": "DOBRISNET",
-    "latency_ms": 3882.43,
-    "last_checked": 1784854104.31186
-  },
-  {
-    "protocol": "http",
-    "ip": "185.73.103.23",
-    "port": 3128,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Karlovy Vary",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 8.27,
-    "asn": "AS201476",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 10792.39,
-    "last_checked": 1784854071.893756
+    "latency_ms": 12456.29,
+    "last_checked": 1784854670.8086255
   }
 ]
