@@ -8,11 +8,11 @@
     "city": "Kojetín",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 57.76,
+    "uptime_percent": 57.78,
     "asn": "AS196815",
     "isp": "LAN servis s.r.o",
-    "latency_ms": 3170.5,
-    "last_checked": 1784966363.902876
+    "latency_ms": 1336.46,
+    "last_checked": 1784966993.8481295
   },
   {
     "protocol": "socks4",
@@ -23,26 +23,41 @@
     "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 41.42,
+    "uptime_percent": 41.45,
     "asn": "AS5610",
     "isp": "Telefonica O2 Czech Republic, a.s.",
-    "latency_ms": 145.19,
-    "last_checked": 1784966362.2523732
+    "latency_ms": 171.4,
+    "last_checked": 1784966987.2194371
   },
   {
-    "protocol": "socks5",
-    "ip": "91.184.250.2",
-    "port": 9050,
+    "protocol": "socks4",
+    "ip": "85.132.139.45",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Slavkov u Brna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.73,
+    "asn": "AS205400",
+    "isp": "GIN's network",
+    "latency_ms": 63.13,
+    "last_checked": 1784966981.5345905
+  },
+  {
+    "protocol": "http",
+    "ip": "91.184.248.13",
+    "port": 30128,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Veselí nad Lužnicí",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 37.26,
+    "ssl": false,
+    "uptime_percent": 48.48,
     "asn": "AS62212",
     "isp": "SmartApe OU",
-    "latency_ms": 16555.49,
-    "last_checked": 1784966330.4525473
+    "latency_ms": 260.97,
+    "last_checked": 1784966963.6694016
   },
   {
     "protocol": "http",
@@ -56,7 +71,22 @@
     "uptime_percent": 84.87,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 2896.05,
-    "last_checked": 1784966253.8683248
+    "latency_ms": 4730.47,
+    "last_checked": 1784966926.7198486
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.34,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 2581.53,
+    "last_checked": 1784966851.255866
   }
 ]
