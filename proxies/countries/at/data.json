@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "83.215.25.66",
+    "port": 9050,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Zell am See",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.92,
+    "asn": "AS8445",
+    "isp": "SALZBURG-AG",
+    "latency_ms": 19333.68,
+    "last_checked": 1785005070.5601034
+  },
+  {
+    "protocol": "http",
+    "ip": "178.115.230.100",
+    "port": 8080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Salzburg",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 10.12,
+    "asn": "AS25255",
+    "isp": "customers with static IP",
+    "latency_ms": 9108.72,
+    "last_checked": 1785005027.645539
+  },
+  {
     "protocol": "http",
     "ip": "62.60.238.191",
     "port": 443,
@@ -7,11 +37,26 @@
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 57.88,
+    "ssl": true,
+    "uptime_percent": 57.87,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 19686.9,
-    "last_checked": 1785004425.8295012
+    "latency_ms": 12395.46,
+    "last_checked": 1785004966.1039524
+  },
+  {
+    "protocol": "socks4",
+    "ip": "213.173.75.222",
+    "port": 5678,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Kindberg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 62.38,
+    "asn": "AS13292",
+    "isp": "BK DAT",
+    "latency_ms": 1235.76,
+    "last_checked": 1785005091.5897048
   }
 ]
