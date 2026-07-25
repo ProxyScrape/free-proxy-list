@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "185.193.25.181",
     "port": 9050,
     "country": "Lithuania",
@@ -8,11 +8,11 @@
     "city": "Vilnius",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 30.48,
+    "uptime_percent": 24.82,
     "asn": "AS62282",
     "isp": "UAB Delska Lithuania",
-    "latency_ms": 24985.43,
-    "last_checked": 1784990372.3359196
+    "latency_ms": 13586.21,
+    "last_checked": 1784990979.5972276
   },
   {
     "protocol": "http",
@@ -22,11 +22,41 @@
     "country_code": "LT",
     "city": "Vilnius",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 51.67,
+    "ssl": false,
+    "uptime_percent": 51.69,
     "asn": "AS212531",
     "isp": "UAB \"Interneto vizija\"",
-    "latency_ms": 1341.11,
-    "last_checked": 1784990350.0022452
+    "latency_ms": 7083.56,
+    "last_checked": 1784990963.2860317
+  },
+  {
+    "protocol": "http",
+    "ip": "88.119.139.237",
+    "port": 53281,
+    "country": "Lithuania",
+    "country_code": "LT",
+    "city": "Klaipėda",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.58,
+    "asn": "AS8764",
+    "isp": "Telia Lietuva",
+    "latency_ms": 2086.8,
+    "last_checked": 1784990887.3327749
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.193.25.181",
+    "port": 9050,
+    "country": "Lithuania",
+    "country_code": "LT",
+    "city": "Vilnius",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.49,
+    "asn": "AS62282",
+    "isp": "UAB Delska Lithuania",
+    "latency_ms": 20656.3,
+    "last_checked": 1784990973.4798896
   }
 ]
