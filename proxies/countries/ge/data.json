@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "85.117.32.166",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "80.241.251.54",
+    "port": 8080,
     "country": "Georgia",
     "country_code": "GE",
     "city": "Tbilisi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 48.39,
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 16.89,
+    "asn": "AS16010",
+    "isp": "Corporate",
+    "latency_ms": 9574.55,
+    "last_checked": 1784979524.52098
+  },
+  {
+    "protocol": "http",
+    "ip": "85.117.56.104",
+    "port": 8080,
+    "country": "Georgia",
+    "country_code": "GE",
+    "city": "Tbilisi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.01,
     "asn": "AS20771",
     "isp": "Caucasus Online Ltd.",
-    "latency_ms": 268.85,
-    "last_checked": 1784978973.2976282
+    "latency_ms": 6440.53,
+    "last_checked": 1784979520.4172843
   },
   {
     "protocol": "socks5",
@@ -23,10 +38,25 @@
     "city": "Tbilisi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 55.15,
+    "uptime_percent": 55.21,
     "asn": "AS44620",
     "isp": "Netlen Internet Hizmetleri Ltd. Sti.",
-    "latency_ms": 1014.8,
-    "last_checked": 1784978914.4930797
+    "latency_ms": 15192.16,
+    "last_checked": 1784979512.306553
+  },
+  {
+    "protocol": "http",
+    "ip": "85.117.56.43",
+    "port": 8080,
+    "country": "Georgia",
+    "country_code": "GE",
+    "city": "Tbilisi",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 13.42,
+    "asn": "AS20771",
+    "isp": "Caucasus Online Ltd.",
+    "latency_ms": 5246.69,
+    "last_checked": 1784979411.3800004
   }
 ]
