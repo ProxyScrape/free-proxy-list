@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.95.232.35",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "5.101.85.133",
+    "port": 9050,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 75.0,
+    "ssl": true,
+    "uptime_percent": 53.77,
+    "asn": "AS63023",
+    "isp": "GTHost",
+    "latency_ms": 5192.79,
+    "last_checked": 1784940547.3808177
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 87.97,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3751.48,
-    "last_checked": 1784939980.5565352
+    "latency_ms": 2135.25,
+    "last_checked": 1784940539.2530942
   },
   {
     "protocol": "socks5",
@@ -26,23 +41,8 @@
     "uptime_percent": 86.52,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1490.67,
-    "last_checked": 1784939972.5317125
-  },
-  {
-    "protocol": "socks5",
-    "ip": "5.101.85.133",
-    "port": 9050,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 53.76,
-    "asn": "AS63023",
-    "isp": "GTHost",
-    "latency_ms": 8454.12,
-    "last_checked": 1784939952.271363
+    "latency_ms": 2327.47,
+    "last_checked": 1784940511.5035167
   },
   {
     "protocol": "http",
@@ -53,26 +53,11 @@
     "city": "Zurich",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 36.98,
+    "uptime_percent": 36.97,
     "asn": "AS29691",
     "isp": "Nine Internet Solutions AG",
-    "latency_ms": 14817.89,
-    "last_checked": 1784939937.828001
-  },
-  {
-    "protocol": "http",
-    "ip": "45.59.122.132",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Bern",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 69.61,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 8282.92,
-    "last_checked": 1784939903.696244
+    "latency_ms": 7022.55,
+    "last_checked": 1784940496.5782366
   },
   {
     "protocol": "http",
@@ -83,10 +68,10 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 99.39,
+    "uptime_percent": 99.4,
     "asn": "AS264617",
     "isp": "Grupo Panaglobal 15 S.A",
-    "latency_ms": 466.93,
-    "last_checked": 1784939972.612334
+    "latency_ms": 5423.43,
+    "last_checked": 1784940405.1984553
   }
 ]
