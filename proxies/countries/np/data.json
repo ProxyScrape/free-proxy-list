@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "202.166.219.80",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "202.166.220.40",
+    "port": 8080,
     "country": "Nepal",
     "country_code": "NP",
     "city": "Kathmandu",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 12.59,
+    "uptime_percent": 30.8,
     "asn": "AS17501",
     "isp": "WorldLink Communications",
-    "latency_ms": 1011.62,
-    "last_checked": 1784986183.4673743
+    "latency_ms": 9155.68,
+    "last_checked": 1784986704.3754659
   },
   {
     "protocol": "http",
@@ -26,8 +26,8 @@
     "uptime_percent": 8.41,
     "asn": "AS45650",
     "isp": "Vianet Communications Pvt. Ltd",
-    "latency_ms": 7818.89,
-    "last_checked": 1784986166.0679142
+    "latency_ms": 7882.61,
+    "last_checked": 1784986680.731894
   },
   {
     "protocol": "http",
@@ -37,11 +37,41 @@
     "country_code": "NP",
     "city": "Gulariyā",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 52.53,
+    "ssl": true,
+    "uptime_percent": 52.55,
     "asn": "AS137580",
     "isp": "Everest Wireless Network pvt. ltd",
-    "latency_ms": 1520.03,
-    "last_checked": 1784986099.8839037
+    "latency_ms": 562.84,
+    "last_checked": 1784986640.4972198
+  },
+  {
+    "protocol": "http",
+    "ip": "103.167.229.147",
+    "port": 8080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Butwal",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 9.09,
+    "asn": "AS140072",
+    "isp": "Fiberworld Communication Pvt. Ltd",
+    "latency_ms": 3268.87,
+    "last_checked": 1784986580.3519332
+  },
+  {
+    "protocol": "socks4",
+    "ip": "202.166.219.80",
+    "port": 4153,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.59,
+    "asn": "AS17501",
+    "isp": "WorldLink Communications",
+    "latency_ms": 1271.43,
+    "last_checked": 1784986796.2831628
   }
 ]
