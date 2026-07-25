@@ -1,106 +1,72 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,177.253.136.162,5678,Colombia,CO,Medellín,elite,true,54.14,AS27831,Colombia Móvil,3914.1,1784948099.371633
-socks4,181.205.113.218,1080,Colombia,CO,Medellín,elite,true,56.99,AS27831,Colombia Móvil,967.26,1784948097.001389
-socks4,181.204.4.74,5678,Colombia,CO,Cartagena,elite,true,15.69,AS27831,EPM Telecomunicaciones S.A. E.S.P.,4073.15,1784948095.8162484
-http,179.1.113.113,999,Colombia,CO,Popayán,transparent,true,69.73,AS18678,Internexa S.a. E.S.P,3675.03,1784948092.3972492
-http,179.1.113.129,999,Colombia,CO,Popayán,transparent,true,69.79,AS18678,Internexa S.a. E.S.P,10168.53,1784948088.470264
-socks4,181.204.39.202,53740,Colombia,CO,Bucaramanga,elite,true,50.96,AS27831,Colombia Móvil,8239.62,1784948084.6320226
+socks4,181.49.22.141,1080,Colombia,CO,Bogotá,elite,true,47.25,AS14080,Telmex Colombia S.A.,782.43,1784948357.9212618
+socks4,181.205.113.218,1080,Colombia,CO,Medellín,elite,true,56.99,AS27831,Colombia Móvil,3099.03,1784948350.6932611
+socks4,190.145.54.142,1080,Colombia,CO,Bogotá,elite,true,58.73,AS14080,Telmex Colombia S.A.,7840.35,1784948347.3734047
+http,186.144.154.12,8080,Colombia,CO,Bogotá,transparent,true,36.46,AS10620,Telmex Colombia S.A.,1743.39,1784948345.8478942
+socks4,181.143.81.50,5678,Colombia,CO,Medellín,elite,true,17.86,AS13489,EPM Telecomunicaciones S.A. E.S.P.,3339.33,1784948345.3471
+socks4,181.204.39.202,53740,Colombia,CO,Bucaramanga,elite,true,50.96,AS27831,Colombia Móvil,4193.09,1784948342.4462726
+http,179.1.113.129,999,Colombia,CO,Popayán,transparent,true,69.79,AS18678,Internexa S.a. E.S.P,3116.42,1784948342.313699
+http,181.78.17.131,999,Colombia,CO,Andalucía,transparent,false,38.89,AS52468,IFX Networks Argentina S.R.L,1884.81,1784948341.6516647
+http,177.93.49.112,999,Colombia,CO,Puerto Gaitán,transparent,true,15.41,AS262186,TV AZTECA SUCURSAL COLOMBIA,5015.25,1784948336.9484923
+http,190.121.151.16,999,Colombia,CO,La Tebaida,transparent,false,38.87,AS27951,Media Commerce Partners S.A,3930.55,1784948335.9202774
+http,190.60.59.111,999,Colombia,CO,Remedios,transparent,true,32.76,AS52468,IFX NETWORKS COLOMBIA,1710.87,1784948335.654801
+http,38.51.243.189,999,Colombia,CO,Túquerres,transparent,false,13.21,AS272869,Intercomm de Narino,4598.88,1784948333.5638735
+http,190.217.17.10,999,Colombia,CO,Bogotá,transparent,false,35.32,AS3549,Level 3 Colombia S.A,6347.15,1784948333.4038458
+http,190.60.48.213,999,Colombia,CO,Soacha,transparent,true,7.36,AS52468,IFX NETWORKS COLOMBIA,9147.87,1784948330.6296606
+http,191.102.76.34,999,Colombia,CO,Ubalá,transparent,false,23.5,AS262186,TV AZTECA SUCURSAL COLOMBIA,6308.17,1784948330.306204
+http,38.19.238.161,999,Colombia,CO,Riosucio,transparent,false,15.56,AS274128,Cogent Communications,2866.23,1784948329.1351385
+http,177.93.44.108,999,Colombia,CO,Bogotá,transparent,false,25.84,AS262186,TV AZTECA SUCURSAL COLOMBIA,11083.65,1784948328.769249
+http,190.2.214.66,999,Colombia,CO,Puerto Gaitán,transparent,false,32.05,AS262186,TV AZTECA SUCURSAL COLOMBIA,4157.96,1784948327.6678116
+http,131.100.49.129,999,Colombia,CO,Florencia,transparent,false,4.07,AS270062,Fibernet TV SAS,7692.26,1784948326.3726861
+http,190.60.60.37,8080,Colombia,CO,Barranquilla,transparent,true,29.14,AS52468,IFX NETWORKS COLOMBIA,10524.06,1784948321.8432236
+http,170.239.205.31,999,Colombia,CO,Corozal,transparent,false,25.46,AS265629,FIBERNET,3553.43,1784948320.4878485
+http,181.48.162.142,999,Colombia,CO,Barranquilla,transparent,false,40.87,AS14080,Telmex Colombia S.A.,5295.77,1784948315.4992278
+http,186.96.97.202,999,Colombia,CO,Bogotá,transparent,true,5.07,AS262186,TV AZTECA SUCURSAL COLOMBIA,2091.06,1784948315.3623447
+http,181.78.79.11,999,Colombia,CO,Sabana de Torres,transparent,false,32.34,AS52468,IFX Networks Argentina S.R.L,2130.99,1784948312.7244253
+http,38.199.71.24,999,Colombia,CO,Totoró,transparent,false,32.31,AS269804,Sepcom Comunicaciones SAS,7923.96,1784948312.2763777
+http,38.191.214.250,999,Colombia,CO,Villavicencio,transparent,false,12.11,AS274237,Transporte De Internet Y Medios Tecnologicos S.A.S,6566.04,1784948311.8136504
+http,38.19.43.75,999,Colombia,CO,Pereira,transparent,false,28.86,AS270075,Super Redes,4005.98,1784948309.5132515
+http,190.60.34.250,999,Colombia,CO,Andalucía,transparent,true,47.13,AS52468,IFX NETWORKS COLOMBIA,5104.58,1784948300.5598383
+http,190.61.61.210,999,Colombia,CO,Villapinzón,transparent,false,6.93,AS52468,Ufinet Panama S.A.,1854.69,1784948299.7918694
+http,190.60.41.68,999,Colombia,CO,Bogotá,transparent,false,25.97,AS52468,IFX NETWORKS COLOMBIA,2447.4,1784948297.893515
+http,190.60.41.66,999,Colombia,CO,Bogotá,transparent,false,27.68,AS52468,IFX NETWORKS COLOMBIA,2538.94,1784948296.6811438
+http,24.152.58.22,999,Colombia,CO,Bucaramanga,transparent,false,12.14,AS267823,Atenea Telecomunicaciones,5064.57,1784948296.3450055
+http,186.180.19.122,8080,Colombia,CO,Bogotá,transparent,false,26.28,AS27831,Colombia Móvil,9958.72,1784948295.6799579
+http,38.19.42.176,999,Colombia,CO,Pereira,transparent,false,22.59,AS270075,Super Redes,6928.05,1784948289.052802
+http,186.31.135.202,999,Colombia,CO,Bogotá,transparent,false,42.95,AS19429,ETB - Colombia,6538.58,1784948288.260426
+http,181.225.107.53,999,Colombia,CO,Bogotá,transparent,false,30.09,AS262186,TV AZTECA SUCURSAL COLOMBIA,10033.04,1784948286.63208
+http,190.121.136.185,999,Colombia,CO,Cáqueza,transparent,false,17.22,AS27951,Media Commerce Partners S.A,5928.03,1784948281.9690306
+http,186.190.224.86,999,Colombia,CO,Puerto López,transparent,false,24.05,AS262186,TV AZTECA SUCURSAL COLOMBIA,3945.05,1784948278.7238874
+http,181.129.183.19,53281,Colombia,CO,Girón,elite,false,13.48,AS13489,EPM Telecomunicaciones S.A. E.S.P.,2894.13,1784948275.2171054
+http,200.69.83.203,999,Colombia,CO,Bogotá,anonymous,false,15.8,AS262186,TV AZTECA SUCURSAL COLOMBIA,4405.38,1784948269.8862438
+http,186.97.200.210,999,Colombia,CO,Medellín,transparent,false,14.41,AS27831,Colombia Móvil,1594.95,1784948269.6099997
+http,179.1.236.18,999,Colombia,CO,Santa Rosa del Sur,transparent,true,15.64,AS18678,Internexa S.a. E.S.P,13651.03,1784948268.0163867
+http,190.109.6.114,999,Colombia,CO,Tocancipá,transparent,false,16.18,AS262191,Liberty Networks De Colombia,11692.84,1784948267.7067075
+http,179.1.182.23,999,Colombia,CO,Aipe,transparent,false,21.6,AS18678,Internexa S.a. E.S.P,10555.7,1784948264.479358
+http,181.78.208.227,999,Colombia,CO,Bogotá,transparent,false,22.82,AS52468,IFX Networks Argentina S.R.L,7061.13,1784948261.9358351
+http,181.119.84.122,8080,Colombia,CO,Cali,transparent,false,26.42,AS52468,IFX Networks Argentina S.R.L,18552.17,1784948260.4388127
+http,190.61.40.85,999,Colombia,CO,Tarso,transparent,false,26.73,AS52468,Ufinet Panama S.A.,7829.41,1784948260.2679749
+http,181.204.81.179,999,Colombia,CO,Pereira,transparent,true,11.16,AS27831,EPM Telecomunicaciones S.A. E.S.P.,3548.17,1784948258.7588027
+http,179.1.113.113,999,Colombia,CO,Popayán,transparent,true,69.73,AS18678,Internexa S.a. E.S.P,5059.27,1784948255.2690065
+http,181.119.64.21,999,Colombia,CO,Buenos Aires,transparent,false,23.17,AS52468,IFX Networks Argentina S.R.L,3053.28,1784948241.7685483
+http,38.191.212.85,999,Colombia,CO,Cúcuta,transparent,false,14.84,AS273103,TV&MÁS S.A.S,2355.97,1784948239.0039222
+http,190.26.255.30,999,Colombia,CO,Bogotá,transparent,false,8.05,AS19429,ETB - Colombia,8814.96,1784948234.363191
+http,38.191.194.27,999,Colombia,CO,Popayán,transparent,true,28.24,AS273103,TV&MÁS S.A.S,3634.39,1784948233.7878804
+http,181.63.33.136,8080,Colombia,CO,Manizales,transparent,false,24.32,AS14080,Telmex Colombia S.A.,9903.89,1784948227.2806835
+http,181.119.84.220,8080,Colombia,CO,Cali,transparent,false,10.15,AS52468,IFX Networks Argentina S.R.L,5608.34,1784948226.3295176
+http,38.211.76.145,999,Colombia,CO,Florencia,transparent,false,25.27,AS270062,Cogent Communications,4417.88,1784948209.5955803
+http,191.102.107.237,999,Colombia,CO,Tadó,transparent,false,3.53,AS262186,TV AZTECA SUCURSAL COLOMBIA,4870.64,1784948191.9552648
+http,38.19.42.183,999,Colombia,CO,Pereira,transparent,false,27.1,AS270075,Super Redes,4552.16,1784948184.358182
+http,190.60.47.61,999,Colombia,CO,Barranquilla,transparent,false,11.7,AS52468,IFX NETWORKS COLOMBIA,2986.84,1784948181.5847104
+http,38.211.76.25,999,Colombia,CO,Florencia,transparent,true,19.48,AS270062,Cogent Communications,613.27,1784948177.195889
+http,38.19.41.208,999,Colombia,CO,Pereira,transparent,false,22.08,AS270075,Super Redes,8777.4,1784948174.3974946
 http,186.31.135.201,999,Colombia,CO,Bogotá,transparent,true,44.54,AS19429,ETB - Colombia,10194.03,1784948082.01183
-http,181.204.81.179,999,Colombia,CO,Pereira,transparent,true,11.16,AS27831,EPM Telecomunicaciones S.A. E.S.P.,4002.91,1784948081.338418
-http,186.96.111.214,999,Colombia,CO,Bogotá,transparent,true,38.4,AS262186,TV AZTECA SUCURSAL COLOMBIA,11752.51,1784948080.0519233
-http,181.174.228.16,999,Colombia,CO,Pitalito,transparent,false,26.19,AS265688,Sinergy Soluciones Integrales,1977.81,1784948078.377509
-http,190.107.23.150,8080,Colombia,CO,Ibague,transparent,true,37.81,AS27951,Media Commerce Partners S.A,2760.29,1784948075.2532685
-http,177.73.155.242,999,Colombia,CO,Morales,transparent,false,7.93,AS264646,Dobleclick Software E Ingeneria,12114.0,1784948072.9278464
-http,179.1.182.27,999,Colombia,CO,Villavieja,transparent,false,18.53,AS18678,Internexa S.a. E.S.P,9003.29,1784948072.5645454
-http,177.73.155.247,999,Colombia,CO,Caldono,transparent,false,14.57,AS264646,Dobleclick Software E Ingeneria,4406.61,1784948060.9110777
-http,181.129.252.124,999,Colombia,CO,Cali,transparent,false,27.5,AS13489,EPM Telecomunicaciones S.A. E.S.P.,10366.56,1784948059.1167388
-http,190.216.132.225,8080,Colombia,CO,Bogotá,transparent,false,13.03,AS272953,Level 3 Colombia S.A,6281.5,1784948058.9510744
-http,24.152.58.99,999,Colombia,CO,Bucaramanga,transparent,false,11.41,AS267823,Atenea Telecomunicaciones S.A.S,1381.23,1784948058.6078908
-http,177.73.155.245,999,Colombia,CO,Morales,transparent,false,8.05,AS264646,Dobleclick Software E Ingeneria,11521.45,1784948057.3118985
-http,38.19.43.44,999,Colombia,CO,Pereira,transparent,true,15.74,AS270075,Super Redes,9311.76,1784948057.237785
-http,38.199.67.10,999,Colombia,CO,Bogotá,transparent,false,26.42,AS273953,Cogent Communications,2285.41,1784948055.8410923
-socks4,181.143.81.50,5678,Colombia,CO,Medellín,elite,true,17.86,AS13489,EPM Telecomunicaciones S.A. E.S.P.,1045.82,1784948053.6454942
-http,38.19.43.2,999,Colombia,CO,Pereira,transparent,true,9.93,AS270075,Super Redes,2749.0,1784948052.78137
-http,190.60.37.145,999,Colombia,CO,Medellín,transparent,false,16.24,AS52468,IFX NETWORKS COLOMBIA,9803.58,1784948049.9208977
-http,181.48.162.142,999,Colombia,CO,Barranquilla,transparent,false,40.75,AS14080,Telmex Colombia S.A.,3995.98,1784948046.7178092
-http,181.119.86.178,999,Colombia,CO,Medellín,transparent,false,9.42,AS52468,IFX Networks Argentina S.R.L,3532.91,1784948046.4638808
-http,181.174.231.30,9992,Colombia,CO,Pitalito,transparent,false,14.4,AS265688,Sinergy Soluciones Integrales,5223.02,1784948045.9633045
-http,190.2.213.169,999,Colombia,CO,Sardinata,transparent,true,9.13,AS262186,TV AZTECA SUCURSAL COLOMBIA,2433.92,1784948044.307933
-http,8.243.69.144,999,Colombia,CO,Bogotá,transparent,false,30.85,AS3356,CTL Colombia,5842.22,1784948043.4691892
-socks4,181.49.22.141,1080,Colombia,CO,Bogotá,elite,true,47.25,AS14080,Telmex Colombia S.A.,7985.43,1784948038.0589716
-http,181.129.183.19,53281,Colombia,CO,Girón,elite,false,13.48,AS13489,EPM Telecomunicaciones S.A. E.S.P.,10517.92,1784948036.7484124
-http,190.60.39.197,999,Colombia,CO,San Pablo,transparent,false,15.69,AS52468,IFX NETWORKS COLOMBIA,6802.09,1784948036.4959211
-http,38.19.43.141,999,Colombia,CO,Pereira,transparent,false,19.9,AS270075,Super Redes,3365.6,1784948036.347922
-http,179.1.48.37,8080,Colombia,CO,Cali,transparent,false,12.96,AS18678,Internexa S.a. E.S.P,6428.93,1784948035.8478255
-http,190.121.157.41,999,Colombia,CO,Chinácota,transparent,false,12.39,AS27951,Media Commerce Partners S.A,7494.96,1784948034.6939707
-http,190.61.61.210,999,Colombia,CO,Villapinzón,transparent,false,6.93,AS52468,Ufinet Panama S.A.,3477.34,1784948033.7118645
-http,179.1.182.28,999,Colombia,CO,Medellín,transparent,true,18.91,AS18678,Internexa S.a. E.S.P,1743.48,1784948033.4118903
-http,190.121.151.16,999,Colombia,CO,La Tebaida,transparent,true,38.85,AS27951,Media Commerce Partners S.A,997.75,1784948031.9957328
-http,190.60.60.10,999,Colombia,CO,Barranquilla,transparent,true,29.09,AS52468,IFX NETWORKS COLOMBIA,2855.81,1784948031.7025356
-http,38.199.26.21,999,Colombia,CO,Armenia,transparent,false,16.98,AS272138,Cogent Communications,7171.2,1784948030.5639324
-http,186.31.135.202,999,Colombia,CO,Bogotá,transparent,false,42.95,AS19429,ETB - Colombia,7676.04,1784948030.3518083
-http,38.191.212.85,999,Colombia,CO,Cúcuta,transparent,false,14.83,AS273103,TV&MÁS S.A.S,2624.95,1784948027.085941
-http,181.78.79.11,999,Colombia,CO,Sabana de Torres,transparent,true,32.33,AS52468,IFX Networks Argentina S.R.L,10160.2,1784948026.6361103
-http,190.61.40.85,999,Colombia,CO,Tarso,transparent,false,26.73,AS52468,Ufinet Panama S.A.,9768.67,1784948024.4878545
-http,177.93.49.112,999,Colombia,CO,Puerto Gaitán,transparent,false,15.41,AS262186,TV AZTECA SUCURSAL COLOMBIA,2451.29,1784948019.6198502
-http,190.85.113.5,999,Colombia,CO,Bogotá,transparent,false,34.53,AS14080,Telmex Colombia S.A.,5369.59,1784948016.7386878
-http,190.60.50.13,999,Colombia,CO,Barrancabermeja,transparent,false,11.42,AS52468,IFX NETWORKS COLOMBIA,9359.47,1784948010.7558742
-http,170.239.205.31,999,Colombia,CO,Corozal,transparent,false,25.46,AS265629,FIBERNET,9197.64,1784948002.5398006
-http,181.204.81.178,999,Colombia,CO,Pereira,transparent,false,7.45,AS27831,EPM Telecomunicaciones S.A. E.S.P.,10650.89,1784948001.8370702
-http,181.119.67.156,999,Colombia,CO,Medellín,transparent,true,15.79,AS52468,IFX Networks Argentina S.R.L,5664.52,1784947999.37184
-http,181.78.17.131,999,Colombia,CO,Andalucía,transparent,true,38.89,AS52468,IFX Networks Argentina S.R.L,9987.78,1784947998.7303472
-http,24.152.58.100,999,Colombia,CO,Bucaramanga,transparent,false,11.63,AS267823,Atenea Telecomunicaciones S.A.S,2375.54,1784947981.2833397
-http,181.48.234.214,8080,Colombia,CO,Bogotá,transparent,false,10.53,AS14080,Telmex Colombia S.A.,3707.23,1784947973.6473763
-http,191.102.76.34,999,Colombia,CO,Ubalá,transparent,false,23.5,AS262186,TV AZTECA SUCURSAL COLOMBIA,1795.58,1784947972.7200441
-http,190.60.37.233,999,Colombia,CO,Medellín,transparent,false,19.56,AS52468,IFX NETWORKS COLOMBIA,4961.69,1784947971.6043754
-http,38.191.204.113,999,Colombia,CO,Granada,transparent,false,7.5,AS273134,Hola Telecomunicacines Colombia S.A.S,8298.53,1784947971.4078553
-http,190.60.39.230,999,Colombia,CO,San Alberto,transparent,false,10.18,AS52468,IFX NETWORKS COLOMBIA,6394.08,1784947966.3400686
-http,177.93.48.140,999,Colombia,CO,Lejanías,transparent,false,7.16,AS262186,TV AZTECA SUCURSAL COLOMBIA,11246.59,1784947965.706757
-http,190.242.46.52,999,Colombia,CO,Bucaramanga,transparent,false,15.63,AS262191,Liberty Networks De Colombia,6181.53,1784947962.8771405
-http,190.109.178.42,999,Colombia,CO,Medellín,transparent,false,24.08,AS13489,EPM Telecomunicaciones S.A. E.S.P.,6946.13,1784947962.7198465
-http,190.60.61.202,999,Colombia,CO,Barranquilla,transparent,false,12.89,AS52468,IFX NETWORKS COLOMBIA,4398.9,1784947962.5012937
-http,181.225.75.83,999,Colombia,CO,Bogotá,transparent,false,8.92,AS27951,Media Commerce Partners S.A,6951.49,1784947951.3518264
-http,181.78.233.10,80,Colombia,CO,Bogotá,transparent,false,12.37,AS52468,IFX Networks Argentina S.R.L,7323.33,1784947950.2523267
-http,186.190.224.86,999,Colombia,CO,Puerto López,transparent,false,24.05,AS262186,TV AZTECA SUCURSAL COLOMBIA,3002.05,1784947946.5038426
-http,186.144.154.12,8080,Colombia,CO,Bogotá,transparent,false,36.45,AS10620,Telmex Colombia S.A.,10072.9,1784947940.8159354
-http,190.60.48.214,999,Colombia,CO,Soacha,transparent,false,7.36,AS52468,IFX NETWORKS COLOMBIA,1980.88,1784947939.3639157
-http,190.60.37.147,999,Colombia,CO,Medellín,transparent,false,14.08,AS52468,IFX NETWORKS COLOMBIA,8833.9,1784947937.4873054
-http,191.103.216.234,8085,Colombia,CO,Tolú,elite,false,16.01,AS13489,EPM Telecomunicaciones S.A. E.S.P.,6730.4,1784947936.6921039
-http,190.14.240.133,999,Colombia,CO,Cali,transparent,false,36.69,AS27951,Media Commerce Partners S.A,6029.69,1784947935.722295
-http,190.14.224.244,999,Colombia,CO,Candelaria,transparent,false,17.31,AS27951,Media Commerce Partners S.A,6266.53,1784947934.2747703
-http,181.119.67.133,999,Colombia,CO,Medellín,transparent,false,11.3,AS52468,IFX Networks Argentina S.R.L,5877.07,1784947922.994313
-http,38.191.42.202,999,Colombia,CO,Cúcuta,transparent,false,7.82,AS273078,Servinet Comunicaciones S.A.S.,2477.57,1784947922.1500542
-http,138.121.15.230,999,Colombia,CO,Cartagena,transparent,true,10.92,AS262191,Liberty Networks De Colombia,564.3,1784947916.4579206
-http,181.204.39.202,26312,Colombia,CO,Bucaramanga,elite,false,7.38,AS27831,Colombia Móvil,3533.64,1784947914.2505963
-http,186.97.192.59,999,Colombia,CO,Medellín,transparent,true,30.31,AS27831,Colombia Móvil,2867.26,1784947902.5528038
-http,190.60.44.109,999,Colombia,CO,Cartagena,transparent,false,11.65,AS52468,IFX NETWORKS COLOMBIA,9045.46,1784947899.483448
-http,179.1.126.25,999,Colombia,CO,Quibdó,transparent,false,22.07,AS18678,Internexa S.a. E.S.P,4084.36,1784947899.295203
-http,181.119.86.177,999,Colombia,CO,Medellín,transparent,false,6.72,AS52468,IFX Networks Argentina S.R.L,2997.34,1784947891.8418422
-http,38.50.39.51,999,Colombia,CO,Villavicencio,transparent,false,21.4,AS274247,Solunet ISP,5483.59,1784947884.423785
-http,186.148.160.8,999,Colombia,CO,Bogotá,transparent,false,24.87,AS262186,TV AZTECA SUCURSAL COLOMBIA,1998.24,1784947875.0965111
-http,186.97.200.210,999,Colombia,CO,Medellín,transparent,true,14.41,AS27831,Colombia Móvil,1716.91,1784947868.686996
-socks4,201.184.177.10,4153,Colombia,CO,Envigado,elite,true,33.43,AS13489,EPM Telecomunicaciones S.A. E.S.P.,1038.78,1784948096.8646643
-socks5,149.130.182.81,1080,Colombia,CO,Cota,elite,true,94.67,AS31898,Oracle Corporation,1248.98,1784948076.7207687
-http,152.200.200.217,999,Colombia,CO,Sopó,transparent,false,20.42,AS3816,Colombia Telecomunicaciones S.a. ESP,4696.18,1784948060.9158998
-http,64.204.90.17,999,Colombia,CO,Río de Oro,transparent,true,43.5,AS273894,GTT Americas,4590.28,1784948050.8115
-http,38.19.42.176,999,Colombia,CO,Pereira,transparent,false,22.59,AS270075,Super Redes,4591.65,1784948050.5045168
-http,200.118.238.71,8080,Colombia,CO,Bogotá,transparent,true,7.7,AS14080,Telmex Colombia S.A.,3723.29,1784948035.2814546
-http,45.167.124.69,999,Colombia,CO,Popayán,transparent,true,30.9,AS269804,Sepcom Comunicaciones SAS,5123.54,1784948020.363495
-http,45.179.200.38,999,Colombia,CO,Bogotá,transparent,true,33.79,AS267919,NET&COM LTDA.,2451.92,1784948017.6601608
-http,38.211.76.203,999,Colombia,CO,Florencia,transparent,true,41.02,AS270062,Cogent Communications,1579.62,1784948001.6575785
-http,200.116.198.222,9812,Colombia,CO,Pereira,elite,false,5.49,AS13489,UNE EPM TELECOMUNICACIONES S.A,11329.84,1784947997.4439104
-http,209.14.113.2,999,Colombia,CO,Quebradanegra,transparent,false,6.93,AS262186,Cogent Communications,4285.82,1784947995.7730277
-http,38.199.66.10,999,Colombia,CO,Lebrija,transparent,false,24.41,AS273953,Cogent Communications,1186.23,1784947991.9606888
-http,38.19.41.208,999,Colombia,CO,Pereira,transparent,false,22.08,AS270075,Super Redes,6339.82,1784947984.8199933
-http,38.199.26.34,999,Colombia,CO,Armenia,transparent,false,25.59,AS272138,Cogent Communications,5084.18,1784947975.6432514
-http,200.69.83.203,999,Colombia,CO,Bogotá,anonymous,false,15.8,AS262186,TV AZTECA SUCURSAL COLOMBIA,3471.83,1784947975.0968254
-http,209.14.118.116,999,Colombia,CO,Aranzazu,transparent,false,18.17,AS262186,Cogent Communications,11221.06,1784947972.9794562
-http,45.167.124.33,999,Colombia,CO,Popayán,transparent,false,34.86,AS269804,Sepcom Comunicaciones SAS,3555.73,1784947971.2199144
-http,200.10.29.203,999,Colombia,CO,Villavicencio,transparent,false,15.89,AS270075,Super Redes S.A.S,4689.47,1784947967.3718324
-http,200.118.237.227,999,Colombia,CO,Montería,transparent,true,29.05,AS14080,Telmex Colombia S.A.,2127.23,1784947937.4828389
-http,38.19.41.225,999,Colombia,CO,Pereira,transparent,false,21.53,AS270075,Super Redes,8334.66,1784947928.503939
-http,38.19.40.9,8083,Colombia,CO,Pereira,transparent,true,56.71,AS270075,Super Redes,8728.99,1784947915.9777558
-http,38.191.211.253,999,Colombia,CO,Saravena,transparent,false,7.77,AS273850,Servicios De Telecomunicaciones E Informatica S.A.S.,12288.65,1784947906.9122946
-http,38.211.76.25,999,Colombia,CO,Florencia,transparent,true,19.48,AS270062,Cogent Communications,2029.01,1784947903.3198292
-http,38.199.26.20,999,Colombia,CO,Armenia,transparent,false,25.89,AS272138,Cogent Communications,9089.58,1784947880.3762698
-http,38.19.42.178,999,Colombia,CO,Pereira,transparent,true,22.66,AS270075,Super Redes,1798.94,1784947870.3062398
+http,191.103.216.234,8085,Colombia,CO,Tolú,elite,false,16.01,AS13489,EPM Telecomunicaciones S.A. E.S.P.,6854.9,1784948081.9989617
+socks5,149.130.182.81,1080,Colombia,CO,Cota,elite,true,94.67,AS31898,Oracle Corporation,2325.4,1784948369.9122791
+http,45.167.124.248,999,Colombia,CO,Popayán,transparent,true,12.18,AS269804,Sepcom Comunicaciones SAS,3353.08,1784948338.2997656
+http,209.14.118.116,999,Colombia,CO,Aranzazu,transparent,false,18.17,AS262186,Cogent Communications,10327.52,1784948328.4078684
+http,200.118.238.71,8080,Colombia,CO,Bogotá,transparent,false,7.7,AS14080,Telmex Colombia S.A.,18858.15,1784948292.4933052
+http,45.167.124.33,999,Colombia,CO,Popayán,transparent,false,34.89,AS269804,Sepcom Comunicaciones SAS,2573.35,1784948291.7776918
+http,152.200.200.217,999,Colombia,CO,Sopó,transparent,false,20.42,AS3816,Colombia Telecomunicaciones S.a. ESP,4085.47,1784948232.6592062
+http,209.14.112.97,999,Colombia,CO,Zipaquirá,transparent,false,6.78,AS262186,Cogent Communications,18452.19,1784948218.2748096
+http,38.9.213.10,999,Colombia,CO,Soledad,transparent,false,29.28,AS274172,Cogent Communications,5339.8,1784948184.8856714
