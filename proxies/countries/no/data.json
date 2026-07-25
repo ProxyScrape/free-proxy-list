@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "131.163.89.148",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "84.52.227.36",
+    "port": 9050,
     "country": "Norway",
     "country_code": "NO",
-    "city": "Lorenskog",
+    "city": "Trondheim",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 42.82,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 3663.4,
-    "last_checked": 1785014956.2322469
+    "uptime_percent": 49.45,
+    "asn": "AS34087",
+    "isp": "NTE Bredband",
+    "latency_ms": 11369.77,
+    "last_checked": 1785015511.7884247
   },
   {
     "protocol": "socks5",
@@ -23,10 +23,25 @@
     "city": "Trondheim",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 45.17,
+    "uptime_percent": 45.19,
     "asn": "AS34087",
     "isp": "NTE Bredband",
-    "latency_ms": 12785.88,
-    "last_checked": 1785014911.9779353
+    "latency_ms": 12591.75,
+    "last_checked": 1785015510.2649295
+  },
+  {
+    "protocol": "http",
+    "ip": "131.163.89.148",
+    "port": 3128,
+    "country": "Norway",
+    "country_code": "NO",
+    "city": "Lorenskog",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 42.82,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 15501.41,
+    "last_checked": 1785015458.5663335
   }
 ]
