@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.59.122.132",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Bern",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 69.4,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 8264.66,
-    "last_checked": 1785055745.7457902
-  },
-  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -26,8 +11,23 @@
     "uptime_percent": 88.07,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2487.23,
-    "last_checked": 1785055743.841603
+    "latency_ms": 3702.37,
+    "last_checked": 1785056032.268495
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 86.82,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 11148.6,
+    "last_checked": 1785056012.292639
   },
   {
     "protocol": "http",
@@ -38,10 +38,40 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 96.33,
+    "uptime_percent": 96.34,
     "asn": "AS264617",
     "isp": "Grupo Panaglobal 15 S.A",
-    "latency_ms": 1569.11,
-    "last_checked": 1785055701.3591242
+    "latency_ms": 6730.53,
+    "last_checked": 1785056008.2425008
+  },
+  {
+    "protocol": "http",
+    "ip": "45.59.122.132",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Bern",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 69.4,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 59.99,
+    "last_checked": 1785056004.96425
+  },
+  {
+    "protocol": "http",
+    "ip": "5.148.177.58",
+    "port": 8080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 33.92,
+    "asn": "AS29691",
+    "isp": "Nine Internet Solutions AG",
+    "latency_ms": 10452.34,
+    "last_checked": 1785055969.7915661
   }
 ]
