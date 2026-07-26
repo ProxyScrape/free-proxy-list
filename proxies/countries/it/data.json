@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
+    "ip": "149.62.186.244",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 87.93,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 3255.42,
+    "last_checked": 1785095054.8975568
+  },
+  {
+    "protocol": "http",
     "ip": "212.77.75.25",
-    "port": 1088,
+    "port": 3129,
     "country": "Italy",
     "country_code": "IT",
     "city": "Empoli",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 99.68,
+    "ssl": false,
+    "uptime_percent": 26.91,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 177.57,
-    "last_checked": 1785094782.3517976
+    "latency_ms": 3020.03,
+    "last_checked": 1785095051.8115363
   },
   {
     "protocol": "socks5",
@@ -26,11 +41,11 @@
     "uptime_percent": 87.7,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 6382.0,
-    "last_checked": 1785094762.5055
+    "latency_ms": 2205.91,
+    "last_checked": 1785095048.4251332
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "5.59.248.134",
     "port": 8081,
     "country": "Italy",
@@ -38,25 +53,40 @@
     "city": "Pomezia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 30.77,
+    "uptime_percent": 33.15,
     "asn": "AS212271",
     "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 664.81,
-    "last_checked": 1785094744.6812782
+    "latency_ms": 1765.94,
+    "last_checked": 1785095039.2773244
   },
   {
     "protocol": "socks5",
-    "ip": "77.81.230.90",
+    "ip": "212.77.75.25",
+    "port": 1088,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Empoli",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 99.68,
+    "asn": "AS15691",
+    "isp": "Leonet srl Empoli",
+    "latency_ms": 232.22,
+    "last_checked": 1785095006.2186153
+  },
+  {
+    "protocol": "socks5",
+    "ip": "80.211.131.230",
     "port": 9050,
     "country": "Italy",
     "country_code": "IT",
     "city": "Arezzo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 27.53,
+    "uptime_percent": 30.95,
     "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 14398.35,
-    "last_checked": 1785094700.7469342
+    "isp": "Aruba S.p.A. Network",
+    "latency_ms": 6658.16,
+    "last_checked": 1785094982.320148
   }
 ]
