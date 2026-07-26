@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "45.142.195.110",
-    "port": 995,
-    "country": "Armenia",
-    "country_code": "AM",
-    "city": "Yerevan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.79,
-    "asn": "AS215929",
-    "isp": "Data Campus Limited",
-    "latency_ms": 703.5,
-    "last_checked": 1785053055.7381659
-  },
-  {
     "protocol": "http",
     "ip": "2.56.206.46",
     "port": 80,
@@ -23,11 +8,11 @@
     "city": "Arinj",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 84.32,
+    "uptime_percent": 84.33,
     "asn": "AS216058",
     "isp": "Proitlab LLC",
-    "latency_ms": 389.88,
-    "last_checked": 1785053055.416174
+    "latency_ms": 335.52,
+    "last_checked": 1785053352.6061447
   },
   {
     "protocol": "http",
@@ -37,11 +22,26 @@
     "country_code": "AM",
     "city": "Yerevan",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 35.04,
+    "ssl": false,
+    "uptime_percent": 35.05,
     "asn": "AS201884",
     "isp": "ISP SUPPORT LLC",
-    "latency_ms": 12215.86,
-    "last_checked": 1785052863.0910532
+    "latency_ms": 14119.78,
+    "last_checked": 1785053343.1046188
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.142.195.110",
+    "port": 995,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.39,
+    "asn": "AS215929",
+    "isp": "Data Campus Limited",
+    "latency_ms": 8166.61,
+    "last_checked": 1785053374.4911287
   }
 ]
