@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "130.193.123.34",
+    "port": 5678,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.58,
+    "asn": "AS49800",
+    "isp": "GNC",
+    "latency_ms": 670.12,
+    "last_checked": 1785068998.8311017
+  },
+  {
     "protocol": "http",
     "ip": "2.56.206.46",
     "port": 80,
@@ -7,42 +22,12 @@
     "country_code": "AM",
     "city": "Arinj",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 84.31,
     "asn": "AS216058",
     "isp": "Proitlab LLC",
-    "latency_ms": 1690.34,
-    "last_checked": 1785068346.608553
-  },
-  {
-    "protocol": "socks4",
-    "ip": "45.142.195.110",
-    "port": 995,
-    "country": "Armenia",
-    "country_code": "AM",
-    "city": "Yerevan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.89,
-    "asn": "AS215929",
-    "isp": "Data Campus Limited",
-    "latency_ms": 697.33,
-    "last_checked": 1785068309.0506573
-  },
-  {
-    "protocol": "http",
-    "ip": "91.204.190.140",
-    "port": 81,
-    "country": "Armenia",
-    "country_code": "AM",
-    "city": "Yerevan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 10.35,
-    "asn": "AS42991",
-    "isp": "BioNet LLC",
-    "latency_ms": 5666.84,
-    "last_checked": 1785068292.6879323
+    "latency_ms": 289.51,
+    "last_checked": 1785068982.497132
   },
   {
     "protocol": "http",
@@ -53,10 +38,25 @@
     "city": "Yerevan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 35.15,
+    "uptime_percent": 35.16,
     "asn": "AS201884",
     "isp": "ISP SUPPORT LLC",
-    "latency_ms": 11596.88,
-    "last_checked": 1785068235.4135156
+    "latency_ms": 13478.47,
+    "last_checked": 1785068922.7325594
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.142.195.110",
+    "port": 995,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.58,
+    "asn": "AS215929",
+    "isp": "Data Campus Limited",
+    "latency_ms": 8513.02,
+    "last_checked": 1785068905.6978173
   }
 ]
