@@ -1,33 +1,63 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "45.95.232.35",
-    "port": 3128,
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 74.75,
+    "uptime_percent": 87.94,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 8988.46,
-    "last_checked": 1785101047.7302258
+    "latency_ms": 1087.54,
+    "last_checked": 1785101632.6956103
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 86.62,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 767.7,
+    "last_checked": 1785101631.5301569
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.85.93.15",
+    "port": 4567,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.02,
+    "asn": "AS199058",
+    "isp": "Serva ONE LTD",
+    "latency_ms": 408.28,
+    "last_checked": 1785101604.5247977
   },
   {
     "protocol": "http",
-    "ip": "45.59.122.132",
-    "port": 80,
+    "ip": "74.242.169.16",
+    "port": 3128,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Bern",
-    "anonymity": "elite",
+    "city": "Zurich",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 69.34,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 3029.99,
-    "last_checked": 1785100999.1004848
+    "uptime_percent": 16.77,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 14755.13,
+    "last_checked": 1785101584.2216065
   },
   {
     "protocol": "http",
@@ -38,10 +68,10 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 93.8,
+    "uptime_percent": 93.82,
     "asn": "AS264617",
     "isp": "Grupo Panaglobal 15 S.A",
-    "latency_ms": 4110.92,
-    "last_checked": 1785100985.3878567
+    "latency_ms": 3598.56,
+    "last_checked": 1785101520.3576133
   }
 ]
