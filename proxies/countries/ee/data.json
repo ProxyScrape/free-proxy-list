@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "185.36.140.74",
     "port": 1080,
     "country": "Estonia",
@@ -8,11 +8,11 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 75.27,
+    "uptime_percent": 75.37,
     "asn": "AS214790",
     "isp": "Brainoza OU",
-    "latency_ms": 12381.06,
-    "last_checked": 1785068988.809318
+    "latency_ms": 1241.62,
+    "last_checked": 1785069563.3427098
   },
   {
     "protocol": "socks4",
@@ -23,11 +23,26 @@
     "city": "Tartu",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 61.1,
+    "uptime_percent": 61.11,
     "asn": "AS202652",
     "isp": "SkyLive Telecom ldt",
-    "latency_ms": 3342.06,
-    "last_checked": 1785068979.1267288
+    "latency_ms": 504.85,
+    "last_checked": 1785069560.6651793
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.36.140.74",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 75.18,
+    "asn": "AS214790",
+    "isp": "Brainoza OU",
+    "latency_ms": 5245.76,
+    "last_checked": 1785069547.302287
   },
   {
     "protocol": "http",
@@ -37,41 +52,11 @@
     "country_code": "EE",
     "city": "Tallinn",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 16.07,
     "asn": "AS199144",
     "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 1670.63,
-    "last_checked": 1785068978.813578
-  },
-  {
-    "protocol": "socks5",
-    "ip": "185.36.140.74",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 75.22,
-    "asn": "AS214790",
-    "isp": "Brainoza OU",
-    "latency_ms": 8486.88,
-    "last_checked": 1785068950.200943
-  },
-  {
-    "protocol": "http",
-    "ip": "5.101.114.63",
-    "port": 8880,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 8.83,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 15845.61,
-    "last_checked": 1785068824.631111
+    "latency_ms": 9742.15,
+    "last_checked": 1785069472.0016134
   }
 ]
