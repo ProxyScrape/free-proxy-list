@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "138.197.148.194",
+    "port": 9050,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 18.04,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 12843.39,
+    "last_checked": 1785046146.8694184
+  },
+  {
     "protocol": "socks5",
     "ip": "51.222.13.193",
     "port": 10084,
@@ -11,38 +26,23 @@
     "uptime_percent": 84.9,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 4087.28,
-    "last_checked": 1785045576.1644862
+    "latency_ms": 1396.12,
+    "last_checked": 1785046122.0927398
   },
   {
-    "protocol": "socks4",
-    "ip": "51.222.12.245",
-    "port": 10084,
+    "protocol": "http",
+    "ip": "96.1.101.113",
+    "port": 80,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Beauharnois",
+    "city": "Ottawa",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 80.74,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 728.6,
-    "last_checked": 1785045572.5296035
-  },
-  {
-    "protocol": "socks5",
-    "ip": "51.222.12.245",
-    "port": 10084,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Beauharnois",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 79.38,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 1012.22,
-    "last_checked": 1785045562.5429425
+    "ssl": false,
+    "uptime_percent": 30.89,
+    "asn": "AS852",
+    "isp": "TELUS Communications Inc.",
+    "latency_ms": 5924.63,
+    "last_checked": 1785046108.6884687
   },
   {
     "protocol": "socks5",
@@ -53,26 +53,11 @@
     "city": "Montreal",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 92.42,
+    "uptime_percent": 92.41,
     "asn": "AS26832",
     "isp": "Rica Web Services",
-    "latency_ms": 665.87,
-    "last_checked": 1785045551.6951733
-  },
-  {
-    "protocol": "http",
-    "ip": "148.113.202.99",
-    "port": 3128,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Beauharnois",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 68.6,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 21555.15,
-    "last_checked": 1785045536.5520043
+    "latency_ms": 656.01,
+    "last_checked": 1785046098.2474263
   },
   {
     "protocol": "http",
@@ -86,7 +71,37 @@
     "uptime_percent": 39.53,
     "asn": "AS852",
     "isp": "TELUS Communications Inc.",
-    "latency_ms": 13130.73,
-    "last_checked": 1785045499.3198764
+    "latency_ms": 20464.47,
+    "last_checked": 1785046090.6920478
+  },
+  {
+    "protocol": "http",
+    "ip": "148.113.202.99",
+    "port": 3128,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Beauharnois",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 68.59,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 11202.16,
+    "last_checked": 1785046038.9777641
+  },
+  {
+    "protocol": "http",
+    "ip": "158.69.49.179",
+    "port": 8080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 24.38,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 9518.26,
+    "last_checked": 1785046140.9539669
   }
 ]
