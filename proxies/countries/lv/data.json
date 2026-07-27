@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "31.170.17.141",
+    "port": 4153,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Saldus",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 7.42,
+    "asn": "AS43513",
+    "isp": "DNET ITRisinajumi Ltd.",
+    "latency_ms": 1184.67,
+    "last_checked": 1785132871.5045962
+  },
+  {
+    "protocol": "socks5",
+    "ip": "195.135.255.98",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 79.84,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 8556.0,
+    "last_checked": 1785132859.2775338
+  },
+  {
     "protocol": "http",
     "ip": "31.58.79.229",
     "port": 3128,
@@ -7,27 +37,27 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 35.26,
+    "ssl": true,
+    "uptime_percent": 35.3,
     "asn": "AS56971",
     "isp": "CGI GLOBAL LIMITED",
-    "latency_ms": 5325.45,
-    "last_checked": 1785132544.0000358
+    "latency_ms": 9504.55,
+    "last_checked": 1785132825.7204733
   },
   {
     "protocol": "http",
-    "ip": "185.113.139.149",
-    "port": 3128,
+    "ip": "92.63.83.23",
+    "port": 3129,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 94.98,
-    "asn": "AS41745",
-    "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 152.15,
-    "last_checked": 1785132543.6040068
+    "uptime_percent": 33.49,
+    "asn": "AS44575",
+    "isp": "SIA \"MWTV\"",
+    "latency_ms": 16717.92,
+    "last_checked": 1785132776.5359251
   },
   {
     "protocol": "socks4",
@@ -41,7 +71,22 @@
     "uptime_percent": 58.69,
     "asn": "AS2588",
     "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 202.92,
-    "last_checked": 1785132593.8829498
+    "latency_ms": 249.73,
+    "last_checked": 1785132904.0458589
+  },
+  {
+    "protocol": "http",
+    "ip": "185.113.139.149",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 94.98,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 146.71,
+    "last_checked": 1785132808.2932768
   }
 ]
