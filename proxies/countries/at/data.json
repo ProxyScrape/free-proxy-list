@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks5",
-    "ip": "95.163.176.131",
-    "port": 1080,
+    "ip": "83.215.25.66",
+    "port": 9050,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Zell am See",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.42,
+    "asn": "AS8445",
+    "isp": "SALZBURG-AG",
+    "latency_ms": 12298.18,
+    "last_checked": 1785122896.4963267
+  },
+  {
+    "protocol": "http",
+    "ip": "193.233.128.128",
+    "port": 3128,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 44.77,
+    "uptime_percent": 39.58,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 3716.75,
-    "last_checked": 1785122385.6185234
+    "latency_ms": 10866.16,
+    "last_checked": 1785122825.0445104
   },
   {
     "protocol": "http",
@@ -22,11 +37,41 @@
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 39.54,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 13955.58,
-    "last_checked": 1785122274.0692194
+    "latency_ms": 12607.8,
+    "last_checked": 1785122761.6840153
+  },
+  {
+    "protocol": "socks5",
+    "ip": "95.163.176.131",
+    "port": 1080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.76,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 8120.77,
+    "last_checked": 1785122895.9998302
+  },
+  {
+    "protocol": "http",
+    "ip": "95.163.176.131",
+    "port": 8080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 10.74,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 10664.2,
+    "last_checked": 1785122888.2969801
   }
 ]
