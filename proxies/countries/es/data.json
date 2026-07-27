@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "65.20.105.241",
     "port": 10001,
     "country": "Spain",
@@ -8,41 +8,11 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 36.83,
+    "uptime_percent": 41.58,
     "asn": "AS20473",
     "isp": "The Constant Company, LLC",
-    "latency_ms": 3246.18,
-    "last_checked": 1785171252.4821606
-  },
-  {
-    "protocol": "socks4",
-    "ip": "83.56.15.57",
-    "port": 5678,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "San Fernando de Henares",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 31.84,
-    "asn": "AS3352",
-    "isp": "Telefonica de Espana SAU",
-    "latency_ms": 196.02,
-    "last_checked": 1785171233.5166557
-  },
-  {
-    "protocol": "http",
-    "ip": "185.226.195.249",
-    "port": 2222,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Dos Hermanas",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 23.45,
-    "asn": "AS211141",
-    "isp": "Pinkbear SLU",
-    "latency_ms": 3496.3,
-    "last_checked": 1785171180.8539312
+    "latency_ms": 10387.2,
+    "last_checked": 1785171576.4373467
   },
   {
     "protocol": "http",
@@ -56,8 +26,23 @@
     "uptime_percent": 66.9,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 5136.46,
-    "last_checked": 1785171172.4072797
+    "latency_ms": 12618.08,
+    "last_checked": 1785171494.3549798
+  },
+  {
+    "protocol": "http",
+    "ip": "2.139.38.192",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.58,
+    "asn": "AS3352",
+    "isp": "RIMA (Red IP Multi Acceso)",
+    "latency_ms": 7431.2,
+    "last_checked": 1785171382.4358954
   },
   {
     "protocol": "http",
@@ -71,7 +56,22 @@
     "uptime_percent": 78.53,
     "asn": "AS15704",
     "isp": "Xtra Telecom S.A",
-    "latency_ms": 132.44,
-    "last_checked": 1785171264.248795
+    "latency_ms": 143.0,
+    "last_checked": 1785171563.9573853
+  },
+  {
+    "protocol": "http",
+    "ip": "207.188.170.17",
+    "port": 8080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Barcelona",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 43.09,
+    "asn": "AS15704",
+    "isp": "Xtra Telecom S.A.",
+    "latency_ms": 8082.13,
+    "last_checked": 1785171495.510519
   }
 ]
