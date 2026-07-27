@@ -1,3 +1,5 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,103.18.205.162,8080,Australia,AU,Melbourne,anonymous,false,31.68,AS134371,Circle Network,2135.19,1785127978.8231344
-http,51.161.137.166,8080,Australia,AU,Sydney,elite,false,36.12,AS16276,OVH SAS,12750.33,1785127965.60646
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,39.28,AS31898,Oracle Corporation,14216.89,1785128385.7925315
+socks5,103.248.47.230,1080,Australia,AU,Sydney,elite,true,40.58,AS133417,Dicker Data Ltd,1709.42,1785128377.4377048
+http,103.249.237.158,8888,Australia,AU,Sydney,transparent,true,33.08,AS133159,Mammoth Media Pty Ltd,5989.41,1785128368.9515116
+socks5,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,38.69,AS31898,Oracle Corporation,5328.5,1785128358.3570063
