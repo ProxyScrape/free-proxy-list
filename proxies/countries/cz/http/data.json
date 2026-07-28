@@ -1,21 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "185.73.103.23",
-    "port": 3128,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Karlovy Vary",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 8.33,
-    "asn": "AS201476",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 4140.95,
-    "last_checked": 1785276565.379965
-  },
-  {
-    "protocol": "http",
     "ip": "147.231.163.133",
     "port": 80,
     "country": "Czechia",
@@ -26,8 +11,23 @@
     "uptime_percent": 85.03,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 39.46,
-    "last_checked": 1785276564.6394274
+    "latency_ms": 314.74,
+    "last_checked": 1785277195.51884
+  },
+  {
+    "protocol": "http",
+    "ip": "185.73.103.23",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Karlovy Vary",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.33,
+    "asn": "AS201476",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 10622.19,
+    "last_checked": 1785277167.374154
   },
   {
     "protocol": "http",
@@ -37,11 +37,26 @@
     "country_code": "CZ",
     "city": "Pilsen",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 29.15,
     "asn": "AS5610",
     "isp": "Telefonica O2 Czech Republic, a.s.",
-    "latency_ms": 5425.59,
-    "last_checked": 1785276553.5645003
+    "latency_ms": 7699.75,
+    "last_checked": 1785277164.6038585
+  },
+  {
+    "protocol": "http",
+    "ip": "91.139.78.174",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Břasy",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 16.51,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 16137.61,
+    "last_checked": 1785277140.2834406
   }
 ]
