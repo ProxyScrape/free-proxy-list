@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "85.132.139.45",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Slavkov u Brna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 43.81,
-    "asn": "AS205400",
-    "isp": "GIN's network",
-    "latency_ms": 7287.08,
-    "last_checked": 1785261261.4440768
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.36,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 1522.07,
+    "last_checked": 1785261530.5438197
   },
   {
     "protocol": "http",
@@ -26,8 +26,23 @@
     "uptime_percent": 85.02,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 1064.01,
-    "last_checked": 1785261225.2830143
+    "latency_ms": 40.93,
+    "last_checked": 1785261509.387481
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.69.211.18",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Kojetín",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.05,
+    "asn": "AS196815",
+    "isp": "LAN servis s.r.o",
+    "latency_ms": 1201.75,
+    "last_checked": 1785261502.6243756
   },
   {
     "protocol": "http",
@@ -41,7 +56,52 @@
     "uptime_percent": 13.04,
     "asn": "AS42908",
     "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 1481.57,
-    "last_checked": 1785261223.1157901
+    "latency_ms": 1159.18,
+    "last_checked": 1785261495.377545
+  },
+  {
+    "protocol": "http",
+    "ip": "185.100.196.188",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.97,
+    "asn": "AS200635",
+    "isp": "pragmatel s.r.o.",
+    "latency_ms": 8886.06,
+    "last_checked": 1785261438.789513
+  },
+  {
+    "protocol": "http",
+    "ip": "91.139.78.174",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Břasy",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 16.5,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 8680.49,
+    "last_checked": 1785261416.302295
+  },
+  {
+    "protocol": "socks5",
+    "ip": "91.184.250.2",
+    "port": 9050,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Veselí nad Lužnicí",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.64,
+    "asn": "AS62212",
+    "isp": "SmartApe OU",
+    "latency_ms": 6839.68,
+    "last_checked": 1785261503.8920193
   }
 ]
