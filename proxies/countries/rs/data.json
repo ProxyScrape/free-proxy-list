@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "95.140.113.74",
-    "port": 6666,
+    "protocol": "socks4",
+    "ip": "185.190.154.121",
+    "port": 4145,
     "country": "Serbia",
     "country_code": "RS",
     "city": "Belgrade",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 37.93,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.3,
+    "asn": "AS8400",
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 204.72,
+    "last_checked": 1785239989.8206725
+  },
+  {
+    "protocol": "socks4",
+    "ip": "95.140.118.34",
+    "port": 1080,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.42,
     "asn": "AS9125",
     "isp": "Orion Telekom Network",
-    "latency_ms": 1130.56,
-    "last_checked": 1785239373.982699
+    "latency_ms": 2304.35,
+    "last_checked": 1785239978.5038054
+  },
+  {
+    "protocol": "http",
+    "ip": "82.117.211.42",
+    "port": 8085,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Novi Sad",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 35.76,
+    "asn": "AS31042",
+    "isp": "Serbia BroadBand",
+    "latency_ms": 1569.41,
+    "last_checked": 1785239907.4280212
   },
   {
     "protocol": "http",
@@ -23,25 +53,10 @@
     "city": "Jagodina",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 70.15,
+    "uptime_percent": 70.16,
     "asn": "AS197423",
     "isp": "Jotel",
-    "latency_ms": 316.3,
-    "last_checked": 1785239316.7534833
-  },
-  {
-    "protocol": "http",
-    "ip": "109.111.242.134",
-    "port": 6666,
-    "country": "Serbia",
-    "country_code": "RS",
-    "city": "Belgrade",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 12.72,
-    "asn": "AS28964",
-    "isp": "Orion Telekom Tim d.o.o.Beograd",
-    "latency_ms": 4747.68,
-    "last_checked": 1785239308.7655265
+    "latency_ms": 771.58,
+    "last_checked": 1785239875.666862
   }
 ]
