@@ -1,18 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "31.130.154.118",
-    "port": 3128,
+    "ip": "82.115.60.51",
+    "port": 80,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 26.16,
-    "asn": "AS9123",
-    "isp": "JSC \"TIMEWEB\"",
-    "latency_ms": 1568.53,
-    "last_checked": 1785286195.8295465
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 54.68,
+    "asn": "AS200590",
+    "isp": "NLS Kazakhstan LLC",
+    "latency_ms": 747.65,
+    "last_checked": 1785286736.483305
   },
   {
     "protocol": "http",
@@ -26,23 +26,38 @@
     "uptime_percent": 21.61,
     "asn": "AS205431",
     "isp": "Netfire TEC",
-    "latency_ms": 5525.55,
-    "last_checked": 1785286186.2333405
+    "latency_ms": 15144.13,
+    "last_checked": 1785286719.3971133
   },
   {
-    "protocol": "http",
-    "ip": "82.115.60.51",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "85.198.91.145",
+    "port": 1081,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 54.68,
-    "asn": "AS200590",
-    "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 2455.62,
-    "last_checked": 1785286155.6336935
+    "ssl": true,
+    "uptime_percent": 36.77,
+    "asn": "AS57008",
+    "isp": "ITGLOBAL",
+    "latency_ms": 4386.06,
+    "last_checked": 1785286717.1264615
+  },
+  {
+    "protocol": "socks5",
+    "ip": "46.8.31.104",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Karaganda",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.67,
+    "asn": "AS203087",
+    "isp": "PE Fedinyak Sergey Vyacheslavovich",
+    "latency_ms": 4167.98,
+    "last_checked": 1785286690.2219737
   },
   {
     "protocol": "http",
@@ -56,38 +71,23 @@
     "uptime_percent": 26.74,
     "asn": "AS41798",
     "isp": "JSC Transtelecom",
-    "latency_ms": 5714.23,
-    "last_checked": 1785286151.4748478
+    "latency_ms": 9736.4,
+    "last_checked": 1785286570.7668629
   },
   {
-    "protocol": "socks5",
-    "ip": "85.198.91.145",
-    "port": 1081,
+    "protocol": "http",
+    "ip": "91.185.20.162",
+    "port": 8080,
     "country": "Kazakhstan",
     "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "elite",
+    "city": "Astana",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 36.76,
-    "asn": "AS57008",
-    "isp": "ITGLOBAL",
-    "latency_ms": 740.74,
-    "last_checked": 1785286118.5451791
-  },
-  {
-    "protocol": "socks5",
-    "ip": "213.148.11.81",
-    "port": 1080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 96.44,
-    "asn": "AS48988",
-    "isp": "Modern Server Solutions LLP",
-    "latency_ms": 796.13,
-    "last_checked": 1785286191.240075
+    "uptime_percent": 26.08,
+    "asn": "AS41798",
+    "isp": "TTC Network",
+    "latency_ms": 1122.3,
+    "last_checked": 1785286527.2686675
   },
   {
     "protocol": "http",
@@ -101,7 +101,37 @@
     "uptime_percent": 98.81,
     "asn": "AS29355",
     "isp": "Kcell JSC",
-    "latency_ms": 1649.68,
-    "last_checked": 1785286157.6887069
+    "latency_ms": 1879.89,
+    "last_checked": 1785286524.301291
+  },
+  {
+    "protocol": "socks5",
+    "ip": "213.148.11.81",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 96.45,
+    "asn": "AS48988",
+    "isp": "Modern Server Solutions LLP",
+    "latency_ms": 931.46,
+    "last_checked": 1785286786.790296
+  },
+  {
+    "protocol": "socks5",
+    "ip": "213.148.6.12",
+    "port": 7777,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.75,
+    "asn": "AS48988",
+    "isp": "Modern Server Solutions LLP",
+    "latency_ms": 1759.2,
+    "last_checked": 1785286778.598503
   }
 ]
