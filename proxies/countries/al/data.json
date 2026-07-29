@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.196.182.22",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "147.45.221.111",
+    "port": 1082,
     "country": "Albania",
     "country_code": "AL",
-    "city": "Krume",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.2,
-    "asn": "AS206088",
-    "isp": "shqiponjaisp.al LLC",
-    "latency_ms": 4107.79,
-    "last_checked": 1785358728.5185556
+    "city": "Labinot-Fushë",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 73.87,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 148.52,
+    "last_checked": 1785359372.1857004
+  },
+  {
+    "protocol": "socks5",
+    "ip": "147.45.221.111",
+    "port": 1082,
+    "country": "Albania",
+    "country_code": "AL",
+    "city": "Labinot-Fushë",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 70.57,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 138.26,
+    "last_checked": 1785359357.2048123
   },
   {
     "protocol": "http",
@@ -22,11 +37,26 @@
     "country_code": "AL",
     "city": "Tirana",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 7.76,
     "asn": "AS42313",
     "isp": "ONE ALBANIA SH.A.",
-    "latency_ms": 12860.82,
-    "last_checked": 1785358621.977797
+    "latency_ms": 10002.21,
+    "last_checked": 1785359338.8283627
+  },
+  {
+    "protocol": "http",
+    "ip": "79.106.165.246",
+    "port": 8989,
+    "country": "Albania",
+    "country_code": "AL",
+    "city": "Tirana",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.22,
+    "asn": "AS42313",
+    "isp": "ONE ALBANIA SH.A.",
+    "latency_ms": 7777.2,
+    "last_checked": 1785359251.4920223
   }
 ]
