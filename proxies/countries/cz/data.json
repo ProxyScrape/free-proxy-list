@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "185.82.238.42",
+    "ip": "109.164.35.23",
     "port": 8888,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Osík",
-    "anonymity": "transparent",
+    "city": "Prague",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 8.87,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 13089.89,
-    "last_checked": 1785402515.3174245
+    "uptime_percent": 16.61,
+    "asn": "AS44489",
+    "isp": "STARNET, s.r.o.",
+    "latency_ms": 162.42,
+    "last_checked": 1785403149.2134638
+  },
+  {
+    "protocol": "socks5",
+    "ip": "91.184.250.2",
+    "port": 9050,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Veselí nad Lužnicí",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.13,
+    "asn": "AS62212",
+    "isp": "SmartApe OU",
+    "latency_ms": 11967.69,
+    "last_checked": 1785403148.9396343
   },
   {
     "protocol": "http",
@@ -26,7 +41,22 @@
     "uptime_percent": 85.11,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 391.24,
-    "last_checked": 1785402487.7350674
+    "latency_ms": 1086.55,
+    "last_checked": 1785403134.160967
+  },
+  {
+    "protocol": "http",
+    "ip": "185.73.103.23",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Karlovy Vary",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.35,
+    "asn": "AS201476",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 3306.41,
+    "last_checked": 1785403105.6985898
   }
 ]
