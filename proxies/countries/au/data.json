@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "103.18.205.162",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
-    "anonymity": "anonymous",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.6,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 8245.97,
+    "last_checked": 1785437920.656804
+  },
+  {
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.66,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 17175.87,
+    "last_checked": 1785437886.8624985
+  },
+  {
+    "protocol": "http",
+    "ip": "51.161.137.166",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 31.85,
-    "asn": "AS134371",
-    "isp": "Circle Network",
-    "latency_ms": 5240.13,
-    "last_checked": 1785437293.5305147
+    "uptime_percent": 35.77,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 13779.72,
+    "last_checked": 1785437868.9711657
   }
 ]
