@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "168.138.9.147",
     "port": 1080,
     "country": "Australia",
@@ -8,11 +8,11 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.74,
+    "uptime_percent": 39.71,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 17399.72,
-    "last_checked": 1785417547.183794
+    "latency_ms": 9002.41,
+    "last_checked": 1785418149.3172185
   },
   {
     "protocol": "socks5",
@@ -23,25 +23,70 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 99.2,
+    "uptime_percent": 99.21,
     "asn": "AS141995",
     "isp": "Cogent Communications",
-    "latency_ms": 3851.44,
-    "last_checked": 1785417543.439129
+    "latency_ms": 9869.41,
+    "last_checked": 1785418148.314167
   },
   {
     "protocol": "http",
-    "ip": "203.23.238.21",
+    "ip": "159.196.182.72",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.52,
+    "asn": "AS4764",
+    "isp": "Aussie Broadband",
+    "latency_ms": 7717.92,
+    "last_checked": 1785418094.2133434
+  },
+  {
+    "protocol": "http",
+    "ip": "103.249.237.158",
+    "port": 8888,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 33.8,
+    "asn": "AS133159",
+    "isp": "Mammoth Media Pty Ltd",
+    "latency_ms": 16185.9,
+    "last_checked": 1785418066.996442
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
     "port": 80,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Canberra",
+    "city": "Burnside",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 26.93,
-    "asn": "AS18390",
-    "isp": "Spintel Pty Ltd",
-    "latency_ms": 4810.02,
-    "last_checked": 1785417467.360408
+    "uptime_percent": 9.26,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 18453.05,
+    "last_checked": 1785418049.2067716
+  },
+  {
+    "protocol": "http",
+    "ip": "46.250.241.229",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 39.63,
+    "asn": "AS141995",
+    "isp": "Contabo Asia Private Limited",
+    "latency_ms": 505.0,
+    "last_checked": 1785417988.430315
   }
 ]
