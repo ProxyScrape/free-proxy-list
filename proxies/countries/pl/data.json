@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "88.218.206.170",
-    "port": 5432,
+    "protocol": "socks4",
+    "ip": "37.131.164.94",
+    "port": 59341,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Łęczyca",
+    "city": "Strzelce Krajeńskie",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 52.0,
-    "asn": "AS215467",
-    "isp": "Skhron OU",
-    "latency_ms": 5612.98,
-    "last_checked": 1785438548.3627112
+    "uptime_percent": 15.19,
+    "asn": "AS35745",
+    "isp": "KSU Provector Mariusz Dziakowicz",
+    "latency_ms": 1240.46,
+    "last_checked": 1785439200.8226998
+  },
+  {
+    "protocol": "socks4",
+    "ip": "91.150.189.122",
+    "port": 60647,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Rzeszów",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.69,
+    "asn": "AS42673",
+    "isp": "Skyware Sp. z o.o.",
+    "latency_ms": 3221.19,
+    "last_checked": 1785439197.277348
   },
   {
     "protocol": "socks4",
@@ -26,38 +41,23 @@
     "uptime_percent": 8.04,
     "asn": "AS8364",
     "isp": "Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",
-    "latency_ms": 138.08,
-    "last_checked": 1785438547.3078923
+    "latency_ms": 237.6,
+    "last_checked": 1785439195.7531648
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "88.218.206.170",
-    "port": 5432,
+    "port": 22,
     "country": "Poland",
     "country_code": "PL",
     "city": "Łęczyca",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 61.38,
+    "uptime_percent": 54.49,
     "asn": "AS215467",
     "isp": "Skhron OU",
-    "latency_ms": 13471.93,
-    "last_checked": 1785438540.3416681
-  },
-  {
-    "protocol": "socks5",
-    "ip": "77.83.246.110",
-    "port": 2000,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 78.74,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1145.79,
-    "last_checked": 1785438531.056652
+    "latency_ms": 13617.11,
+    "last_checked": 1785439186.2978582
   },
   {
     "protocol": "http",
@@ -71,8 +71,8 @@
     "uptime_percent": 98.91,
     "asn": "AS51436",
     "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 49.38,
-    "last_checked": 1785438486.2883313
+    "latency_ms": 48.88,
+    "last_checked": 1785439168.9939024
   },
   {
     "protocol": "socks4",
@@ -86,8 +86,23 @@
     "uptime_percent": 29.57,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 9913.73,
-    "last_checked": 1785438478.520561
+    "latency_ms": 5671.71,
+    "last_checked": 1785439161.6134543
+  },
+  {
+    "protocol": "socks4",
+    "ip": "77.83.246.110",
+    "port": 2000,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 82.62,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 432.44,
+    "last_checked": 1785439156.708209
   },
   {
     "protocol": "socks5",
@@ -98,10 +113,40 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 23.97,
+    "uptime_percent": 23.98,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 9354.7,
-    "last_checked": 1785438474.78289
+    "latency_ms": 10147.31,
+    "last_checked": 1785439152.18349
+  },
+  {
+    "protocol": "http",
+    "ip": "78.9.234.55",
+    "port": 8080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Wroclaw",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.2,
+    "asn": "AS12741",
+    "isp": "Netia SA",
+    "latency_ms": 1160.06,
+    "last_checked": 1785439150.8228035
+  },
+  {
+    "protocol": "http",
+    "ip": "78.9.232.205",
+    "port": 8080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Świnoujście",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 10.31,
+    "asn": "AS12741",
+    "isp": "Netia SA",
+    "latency_ms": 8099.11,
+    "last_checked": 1785439028.8679633
   }
 ]
