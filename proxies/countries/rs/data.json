@@ -1,6 +1,36 @@
 [
   {
     "protocol": "socks4",
+    "ip": "217.169.223.18",
+    "port": 1080,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 16.28,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Client Network",
+    "latency_ms": 1143.82,
+    "last_checked": 1785384584.893329
+  },
+  {
+    "protocol": "socks4",
+    "ip": "91.150.77.58",
+    "port": 56921,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Požarevac",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.03,
+    "asn": "AS8400",
+    "isp": "TELEKOM SRBIJA a.d.",
+    "latency_ms": 1192.13,
+    "last_checked": 1785384579.4612339
+  },
+  {
+    "protocol": "socks4",
     "ip": "95.140.118.34",
     "port": 1080,
     "country": "Serbia",
@@ -8,11 +38,11 @@
     "city": "Belgrade",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 48.08,
+    "uptime_percent": 48.07,
     "asn": "AS9125",
     "isp": "Orion Telekom Network",
-    "latency_ms": 7360.65,
-    "last_checked": 1785383945.6218586
+    "latency_ms": 1280.99,
+    "last_checked": 1785384559.9103463
   },
   {
     "protocol": "http",
@@ -23,10 +53,25 @@
     "city": "Jagodina",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 70.81,
+    "uptime_percent": 70.83,
     "asn": "AS197423",
     "isp": "Jotel",
-    "latency_ms": 163.13,
-    "last_checked": 1785383853.4831388
+    "latency_ms": 3495.03,
+    "last_checked": 1785384532.7531118
+  },
+  {
+    "protocol": "http",
+    "ip": "95.140.113.74",
+    "port": 6666,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 37.81,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Network",
+    "latency_ms": 2583.86,
+    "last_checked": 1785384505.3811471
   }
 ]
