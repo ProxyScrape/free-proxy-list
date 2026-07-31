@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 34.58,
-    "asn": "AS4764",
-    "isp": "Aussie Fibre Pty Ltd",
-    "latency_ms": 10879.69,
-    "last_checked": 1785464345.443404
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.59,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 11496.57,
+    "last_checked": 1785464890.896605
+  },
+  {
+    "protocol": "http",
+    "ip": "108.61.213.218",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 69.86,
+    "asn": "AS20473",
+    "isp": "Choopa",
+    "latency_ms": 499.96,
+    "last_checked": 1785464878.4424162
   },
   {
     "protocol": "http",
@@ -26,7 +41,7 @@
     "uptime_percent": 39.49,
     "asn": "AS141995",
     "isp": "Contabo Asia Private Limited",
-    "latency_ms": 6109.23,
-    "last_checked": 1785464323.9829574
+    "latency_ms": 8571.74,
+    "last_checked": 1785464843.9013977
   }
 ]
