@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "95.163.176.131",
     "port": 1080,
     "country": "Austria",
@@ -8,25 +8,40 @@
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 42.52,
+    "uptime_percent": 40.39,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 1439.23,
-    "last_checked": 1785540000.229325
+    "latency_ms": 4013.44,
+    "last_checked": 1785540579.9958801
   },
   {
     "protocol": "http",
-    "ip": "95.163.176.131",
-    "port": 8080,
+    "ip": "62.60.238.191",
+    "port": 443,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 11.4,
+    "uptime_percent": 49.84,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 17273.01,
-    "last_checked": 1785539959.6078055
+    "latency_ms": 20436.37,
+    "last_checked": 1785540439.601974
+  },
+  {
+    "protocol": "http",
+    "ip": "193.233.128.128",
+    "port": 3128,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 39.97,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 12280.71,
+    "last_checked": 1785540437.7718718
   }
 ]
