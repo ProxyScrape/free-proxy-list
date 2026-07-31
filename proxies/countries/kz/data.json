@@ -1,21 +1,6 @@
 [
   {
-    "protocol": "http",
-    "ip": "2.78.60.10",
-    "port": 3129,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 98.82,
-    "asn": "AS29355",
-    "isp": "Kcell JSC",
-    "latency_ms": 942.8,
-    "last_checked": 1785524092.8882887
-  },
-  {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "46.8.31.104",
     "port": 1080,
     "country": "Kazakhstan",
@@ -23,26 +8,41 @@
     "city": "Karaganda",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 34.07,
+    "uptime_percent": 36.67,
     "asn": "AS203087",
     "isp": "PE Fedinyak Sergey Vyacheslavovich",
-    "latency_ms": 7594.11,
-    "last_checked": 1785524088.6755462
+    "latency_ms": 3857.34,
+    "last_checked": 1785524360.8484116
   },
   {
-    "protocol": "http",
-    "ip": "94.131.92.155",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "85.198.91.145",
+    "port": 1081,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 91.12,
-    "asn": "AS208795",
-    "isp": "\"Cloud Services Kazakhstan\" LLP",
-    "latency_ms": 5915.81,
-    "last_checked": 1785524085.2304094
+    "uptime_percent": 35.95,
+    "asn": "AS57008",
+    "isp": "ITGLOBAL",
+    "latency_ms": 2416.5,
+    "last_checked": 1785524326.44288
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.215.160.123",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.21,
+    "asn": "AS205516",
+    "isp": "NLS ASTANA LLP",
+    "latency_ms": 7908.56,
+    "last_checked": 1785524316.6031737
   },
   {
     "protocol": "http",
@@ -56,7 +56,37 @@
     "uptime_percent": 55.88,
     "asn": "AS200590",
     "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 415.49,
-    "last_checked": 1785523997.2721472
+    "latency_ms": 750.85,
+    "last_checked": 1785524293.3430307
+  },
+  {
+    "protocol": "http",
+    "ip": "2.78.60.10",
+    "port": 3129,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 98.82,
+    "asn": "AS29355",
+    "isp": "Kcell JSC",
+    "latency_ms": 926.91,
+    "last_checked": 1785524265.611252
+  },
+  {
+    "protocol": "http",
+    "ip": "94.131.92.155",
+    "port": 3128,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 91.13,
+    "asn": "AS208795",
+    "isp": "\"Cloud Services Kazakhstan\" LLP",
+    "latency_ms": 8850.36,
+    "last_checked": 1785524258.7770452
   }
 ]
