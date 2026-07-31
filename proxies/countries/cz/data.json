@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.40.80.143",
-    "port": 4153,
+    "protocol": "socks5",
+    "ip": "91.184.250.2",
+    "port": 9050,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Klatovy",
+    "city": "Veselí nad Lužnicí",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 6.09,
-    "asn": "AS210712",
-    "isp": "Airweb",
-    "latency_ms": 7174.16,
-    "last_checked": 1785462215.1533535
+    "uptime_percent": 37.46,
+    "asn": "AS62212",
+    "isp": "SmartApe OU",
+    "latency_ms": 20025.38,
+    "last_checked": 1785462551.730706
+  },
+  {
+    "protocol": "http",
+    "ip": "109.164.35.23",
+    "port": 8888,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 16.9,
+    "asn": "AS44489",
+    "isp": "STARNET, s.r.o.",
+    "latency_ms": 1168.63,
+    "last_checked": 1785462523.6820397
   },
   {
     "protocol": "http",
@@ -26,23 +41,23 @@
     "uptime_percent": 85.15,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 39.36,
-    "last_checked": 1785462210.591034
+    "latency_ms": 1127.38,
+    "last_checked": 1785462523.6479685
   },
   {
     "protocol": "http",
-    "ip": "77.240.97.77",
-    "port": 8080,
+    "ip": "90.181.120.18",
+    "port": 8082,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Dobříš",
+    "city": "Pilsen",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 24.46,
-    "asn": "AS42189",
-    "isp": "DOBRISNET",
-    "latency_ms": 10531.68,
-    "last_checked": 1785462208.9378834
+    "ssl": false,
+    "uptime_percent": 29.45,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 15982.18,
+    "last_checked": 1785462510.6335895
   },
   {
     "protocol": "http",
@@ -52,11 +67,41 @@
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 36.07,
+    "ssl": false,
+    "uptime_percent": 36.1,
     "asn": "AS200635",
     "isp": "pragmatel s.r.o.",
-    "latency_ms": 4654.25,
-    "last_checked": 1785462161.6860452
+    "latency_ms": 1703.67,
+    "last_checked": 1785462472.6150298
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.46,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 3176.0,
+    "last_checked": 1785462442.4633715
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Uherské Hradiště",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.12,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 3176.53,
+    "last_checked": 1785462412.6774676
   }
 ]
