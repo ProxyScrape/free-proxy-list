@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.44,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 1151.8,
+    "last_checked": 1785628454.1973314
+  },
+  {
     "protocol": "http",
     "ip": "193.179.52.197",
     "port": 3128,
@@ -8,25 +23,40 @@
     "city": "Prague",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 29.99,
+    "uptime_percent": 30.0,
     "asn": "AS13036",
     "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 1642.85,
-    "last_checked": 1785627818.5079577
+    "latency_ms": 426.97,
+    "last_checked": 1785628442.7719657
   },
   {
-    "protocol": "socks5",
-    "ip": "91.184.250.2",
-    "port": 9050,
+    "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Veselí nad Lužnicí",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 35.21,
-    "asn": "AS62212",
-    "isp": "SmartApe OU",
-    "latency_ms": 21683.66,
-    "last_checked": 1785627796.6946964
+    "city": "Třeboň",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 85.24,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 1919.41,
+    "last_checked": 1785628390.3289387
+  },
+  {
+    "protocol": "http",
+    "ip": "185.82.238.42",
+    "port": 8888,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Osík",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.93,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 10629.28,
+    "last_checked": 1785628280.3398995
   }
 ]
