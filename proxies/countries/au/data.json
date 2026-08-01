@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "203.23.238.21",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Canberra",
-    "anonymity": "anonymous",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.41,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 1652.13,
+    "last_checked": 1785570535.0975788
+  },
+  {
+    "protocol": "http",
+    "ip": "103.249.237.158",
+    "port": 8888,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 26.79,
-    "asn": "AS18390",
-    "isp": "Spintel Pty Ltd",
-    "latency_ms": 8152.35,
-    "last_checked": 1785569924.8118463
+    "uptime_percent": 33.48,
+    "asn": "AS133159",
+    "isp": "Mammoth Media Pty Ltd",
+    "latency_ms": 14607.69,
+    "last_checked": 1785570525.656801
   },
   {
     "protocol": "http",
@@ -26,7 +41,37 @@
     "uptime_percent": 34.48,
     "asn": "AS4764",
     "isp": "Aussie Fibre Pty Ltd",
-    "latency_ms": 4127.96,
-    "last_checked": 1785569895.4318259
+    "latency_ms": 10657.71,
+    "last_checked": 1785570506.2545216
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Burnside",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 10.05,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 4387.1,
+    "last_checked": 1785570488.516795
+  },
+  {
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.32,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 10412.55,
+    "last_checked": 1785570481.4693313
   }
 ]
