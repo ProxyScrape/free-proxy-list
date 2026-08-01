@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.104.174.199",
-    "port": 23500,
+    "protocol": "socks4",
+    "ip": "185.205.210.154",
+    "port": 1085,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Dobrich",
+    "city": "Sofia",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 4.9,
-    "asn": "AS57344",
-    "isp": "DobrudjaCable Ltd.",
-    "latency_ms": 12824.55,
-    "last_checked": 1785571114.890726
+    "ssl": true,
+    "uptime_percent": 26.93,
+    "asn": "AS44901",
+    "isp": "Belcloud LTD",
+    "latency_ms": 6817.27,
+    "last_checked": 1785571788.6579313
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.3",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 14.97,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 7146.12,
+    "last_checked": 1785571784.8428514
   },
   {
     "protocol": "http",
@@ -26,22 +41,37 @@
     "uptime_percent": 6.06,
     "asn": "AS8866",
     "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 3848.0,
-    "last_checked": 1785571093.2983396
+    "latency_ms": 3244.65,
+    "last_checked": 1785571752.6268175
   },
   {
     "protocol": "http",
-    "ip": "213.169.33.3",
+    "ip": "213.169.33.12",
     "port": 8001,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 14.97,
+    "ssl": true,
+    "uptime_percent": 21.71,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 2697.44,
-    "last_checked": 1785571059.6323652
+    "latency_ms": 3490.88,
+    "last_checked": 1785571719.8097818
+  },
+  {
+    "protocol": "http",
+    "ip": "193.68.115.14",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Hadzhidimovo",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 8.19,
+    "asn": "AS48584",
+    "isp": "Sarnica-Net LTD",
+    "latency_ms": 7522.87,
+    "last_checked": 1785571705.586707
   }
 ]
