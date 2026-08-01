@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "217.16.136.160",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "95.140.118.34",
+    "port": 1080,
     "country": "Serbia",
     "country_code": "RS",
-    "city": "Jagodina",
+    "city": "Belgrade",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 69.22,
-    "asn": "AS197423",
-    "isp": "Jotel",
-    "latency_ms": 6631.31,
-    "last_checked": 1785582577.5522738
+    "ssl": true,
+    "uptime_percent": 46.35,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Network",
+    "latency_ms": 130.08,
+    "last_checked": 1785583205.5914826
+  },
+  {
+    "protocol": "http",
+    "ip": "109.111.242.134",
+    "port": 6666,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 12.9,
+    "asn": "AS28964",
+    "isp": "Orion Telekom Tim d.o.o.Beograd",
+    "latency_ms": 7968.55,
+    "last_checked": 1785583186.7310631
   }
 ]
