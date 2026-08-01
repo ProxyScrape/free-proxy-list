@@ -1,37 +1,61 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,54.165.248.109,3128,United States,US,Ashburn,transparent,true,100.0,AS14618,"Amazon.com, Inc.",228.22,1785568724.800898
-http,146.190.60.147,8016,United States,US,Santa Clara,elite,true,27.85,AS14061,"DigitalOcean, LLC",321.42,1785568714.9351566
-http,104.154.186.48,80,United States,US,Council Bluffs,anonymous,true,50.43,AS396982,Google LLC,327.61,1785568713.3911965
-http,107.174.180.234,8118,United States,US,Santa Clara,elite,true,56.25,AS36352,ColoCrossing,366.45,1785568708.900611
-http,34.43.46.91,443,United States,US,Mountain View,elite,true,91.7,AS396982,Google LLC,200.96,1785568707.9471655
-http,34.43.46.91,80,United States,US,Mountain View,elite,true,91.87,AS396982,Google LLC,213.81,1785568698.4928844
-http,131.153.163.130,8881,United States,US,Ashburn,elite,true,13.44,AS19437,Secured Servers LLC,6370.08,1785568692.719199
-http,47.89.184.18,3128,United States,US,Henrico,elite,true,82.49,AS45102,Alibaba.com LLC,195.53,1785568689.2884367
-http,104.129.192.156,9401,United States,US,San Jose,elite,true,63.48,AS22616,"ZSCALER, INC.",12353.87,1785568685.695937
-http,216.106.179.216,49514,United States,US,Dallas,elite,true,64.59,AS63023,GTHost,342.26,1785568677.0129387
-http,104.194.146.9,80,United States,US,Sheridan,elite,true,68.71,AS198983,FranTech Solutions,3763.85,1785568673.68336
-http,131.153.163.130,34785,United States,US,Ashburn,elite,true,18.87,AS19437,Secured Servers LLC,5575.64,1785568672.3375962
-http,43.153.82.179,8888,United States,US,Santa Clara,transparent,true,35.14,AS132203,Shenzhen Tencent Computer Systems Company Limited,303.61,1785568668.9469655
-http,131.153.163.130,35860,United States,US,Ashburn,elite,true,18.16,AS19437,Secured Servers LLC,2684.27,1785568664.640435
-http,146.190.60.147,8010,United States,US,Santa Clara,elite,true,21.51,AS14061,"DigitalOcean, LLC",415.83,1785568658.5386798
-http,199.168.131.234,8080,United States,US,Lapel,transparent,true,33.11,AS14333,"On-Ramp Indiana, Inc.",1282.4,1785568657.6116297
-http,34.134.231.117,3129,United States,US,Council Bluffs,anonymous,true,94.9,AS396982,Google LLC,1179.51,1785568657.1456852
-http,104.194.148.188,3128,United States,US,Sheridan,transparent,true,86.93,AS198983,FranTech Solutions,9536.62,1785568655.442645
-http,104.194.148.204,80,United States,US,Sheridan,elite,true,71.14,AS198983,FranTech Solutions,3255.83,1785568647.6601095
-http,104.129.192.156,10221,United States,US,San Jose,elite,true,58.18,AS22616,"ZSCALER, INC.",3056.81,1785568646.9958303
-http,104.129.192.156,10758,United States,US,San Jose,elite,true,59.09,AS22616,"ZSCALER, INC.",6157.48,1785568644.003934
-http,104.129.192.156,11745,United States,US,San Jose,elite,true,73.34,AS22616,"ZSCALER, INC.",15431.82,1785568643.6398346
-http,104.129.192.156,12166,United States,US,San Jose,elite,true,72.34,AS22616,"ZSCALER, INC.",12306.3,1785568633.6999314
-http,34.69.61.247,80,United States,US,Council Bluffs,anonymous,true,52.39,AS396982,Google LLC,332.01,1785568632.5849829
-http,104.129.192.156,10762,United States,US,San Jose,elite,true,69.61,AS22616,"ZSCALER, INC.",13820.52,1785568632.1840184
-http,170.106.188.46,5432,United States,US,Santa Clara,elite,true,11.71,AS132203,Tencent Cloud Computing (Beijing) Co,5503.44,1785568631.8555396
-http,47.252.18.37,3129,United States,US,Henrico,elite,true,1.07,AS45102,Alibaba Cloud LLC,2182.55,1785568630.3659043
-http,104.129.192.156,11466,United States,US,San Jose,elite,true,61.62,AS22616,"ZSCALER, INC.",15722.34,1785568630.2598379
-http,131.153.163.130,38062,United States,US,Ashburn,elite,true,7.13,AS19437,Secured Servers LLC,16102.25,1785568617.6025553
-http,47.85.195.135,1080,United States,US,Henrico,elite,true,80.4,AS45102,Alibaba.com LLC,224.93,1785568616.4200592
-http,104.129.192.156,10395,United States,US,San Jose,elite,true,73.94,AS22616,"ZSCALER, INC.",9798.86,1785568589.2504392
-http,104.129.192.156,12264,United States,US,San Jose,elite,true,64.01,AS22616,"ZSCALER, INC.",13609.78,1785568585.4978592
-http,104.129.192.156,10300,United States,US,San Jose,elite,true,76.5,AS22616,"ZSCALER, INC.",15476.7,1785568583.6065447
-http,204.186.254.106,8080,United States,US,Kunkletown,transparent,true,12.19,AS3737,PenTeleData Inc,8858.19,1785568577.4003367
-http,192.73.243.65,3128,United States,US,Miami,transparent,true,11.06,AS36236,"NetActuate, Inc",9910.42,1785568570.2678852
-http,104.129.192.156,10609,United States,US,San Jose,elite,true,69.52,AS22616,"ZSCALER, INC.",9009.56,1785568545.9589872
+http,34.43.46.91,443,United States,US,Mountain View,elite,true,91.7,AS396982,Google LLC,194.46,1785569363.3385346
+http,76.169.128.104,8080,United States,US,Santa Ana,transparent,true,19.04,AS20001,Charter Communications,431.83,1785569358.5638978
+http,204.186.254.106,8080,United States,US,Kunkletown,transparent,true,12.19,AS3737,PenTeleData Inc,1991.71,1785569356.9364216
+http,216.49.115.7,8080,United States,US,Huntingburg,transparent,true,26.38,AS19008,"Perry-Spencer Communications, Inc.",3496.77,1785569356.6709867
+http,104.129.192.156,12607,United States,US,San Jose,elite,true,65.86,AS22616,"ZSCALER, INC.",4894.79,1785569347.0918827
+http,104.129.192.156,10819,United States,US,San Jose,elite,true,55.06,AS22616,"ZSCALER, INC.",4944.92,1785569347.0270262
+http,104.129.192.156,12816,United States,US,San Jose,elite,true,66.9,AS22616,"ZSCALER, INC.",4947.57,1785569347.0254838
+http,146.190.60.147,8002,United States,US,Santa Clara,elite,true,24.93,AS14061,"DigitalOcean, LLC",338.17,1785569341.3873358
+http,146.190.60.147,8004,United States,US,Santa Clara,elite,true,25.96,AS14061,"DigitalOcean, LLC",896.97,1785569339.3233964
+http,104.129.192.156,11776,United States,US,San Jose,elite,true,59.84,AS22616,"ZSCALER, INC.",5956.11,1785569337.359888
+http,104.129.192.156,11742,United States,US,San Jose,elite,true,63.41,AS22616,"ZSCALER, INC.",5982.57,1785569337.070027
+http,138.197.68.35,4857,United States,US,Clifton,elite,true,8.78,AS14061,"DigitalOcean, LLC",163.92,1785569336.9141045
+http,43.153.82.179,8888,United States,US,Santa Clara,transparent,true,35.14,AS132203,Shenzhen Tencent Computer Systems Company Limited,306.61,1785569334.2739823
+http,104.194.148.188,3128,United States,US,Sheridan,transparent,true,86.94,AS198983,FranTech Solutions,9507.64,1785569332.505557
+http,64.176.215.38,9000,United States,US,Piscataway,elite,true,29.44,AS20473,"The Constant Company, LLC",11011.82,1785569328.7154014
+http,47.253.201.85,7890,United States,US,Henrico,elite,true,91.89,AS45102,Alibaba Cloud LLC,204.43,1785569328.460991
+http,54.165.248.109,3128,United States,US,Ashburn,transparent,true,100.0,AS14618,"Amazon.com, Inc.",226.58,1785569328.387647
+http,47.89.184.18,3128,United States,US,Henrico,elite,true,82.49,AS45102,Alibaba.com LLC,203.02,1785569328.2984593
+http,34.94.46.8,80,United States,US,Los Angeles,elite,true,87.38,AS396982,Google LLC,335.77,1785569327.9737546
+http,174.138.161.146,20125,United States,US,Phoenix,elite,true,8.16,AS20454,Secured Servers LLC,1439.56,1785569325.8465426
+http,131.153.163.130,37777,United States,US,Ashburn,elite,true,13.09,AS19437,Secured Servers LLC,13858.64,1785569323.579872
+http,104.129.192.156,11834,United States,US,San Jose,elite,true,65.53,AS22616,"ZSCALER, INC.",6446.37,1785569323.5738375
+http,104.129.192.156,10623,United States,US,San Jose,elite,true,74.98,AS22616,"ZSCALER, INC.",4247.59,1785569322.83651
+http,104.129.192.156,12264,United States,US,San Jose,elite,true,64.01,AS22616,"ZSCALER, INC.",5113.62,1785569321.9724765
+http,178.130.47.43,1081,United States,US,Phoenix,elite,true,57.16,AS215540,Global Connectivity Solutions LLP,6427.38,1785569318.3415675
+http,54.193.215.124,80,United States,US,San Jose,elite,true,59.22,AS16509,"Amazon.com, Inc.",3218.01,1785569318.1045666
+http,43.153.43.198,9080,United States,US,Santa Clara,elite,true,22.92,AS132203,Shenzhen Tencent Computer Systems Company Limited,1355.67,1785569317.331966
+http,170.106.181.5,8080,United States,US,Santa Clara,elite,true,91.11,AS132203,Tencent Cloud Computing (Beijing) Co,524.78,1785569315.9628181
+http,34.43.46.91,80,United States,US,Mountain View,elite,true,91.87,AS396982,Google LLC,193.12,1785569312.7729719
+http,45.32.192.240,9000,United States,US,Dallas,elite,true,29.47,AS20473,Choopa,10398.65,1785569307.8702612
+http,146.190.60.147,8011,United States,US,Santa Clara,elite,true,26.54,AS14061,"DigitalOcean, LLC",343.08,1785569307.3626773
+http,104.129.192.156,10038,United States,US,San Jose,elite,true,59.07,AS22616,"ZSCALER, INC.",6440.82,1785569306.535661
+http,104.129.192.156,12749,United States,US,San Jose,elite,true,62.56,AS22616,"ZSCALER, INC.",8615.42,1785569306.3922625
+http,104.129.192.156,12044,United States,US,San Jose,elite,true,65.4,AS22616,"ZSCALER, INC.",7825.03,1785569306.2462606
+http,104.129.192.156,11021,United States,US,San Jose,elite,true,64.07,AS22616,"ZSCALER, INC.",9424.62,1785569305.5476897
+http,104.129.192.156,11099,United States,US,San Jose,elite,true,64.25,AS22616,"ZSCALER, INC.",8604.45,1785569305.45062
+http,104.129.192.156,10324,United States,US,San Jose,elite,true,58.71,AS22616,"ZSCALER, INC.",11358.56,1785569302.6277661
+http,104.129.192.156,11679,United States,US,San Jose,elite,true,58.25,AS22616,"ZSCALER, INC.",14408.58,1785569299.5868099
+http,104.129.192.156,10254,United States,US,San Jose,elite,true,69.21,AS22616,"ZSCALER, INC.",14426.33,1785569299.5482762
+http,104.129.192.156,10815,United States,US,San Jose,elite,true,58.34,AS22616,"ZSCALER, INC.",13598.68,1785569298.471829
+http,104.129.192.156,11573,United States,US,San Jose,elite,true,71.08,AS22616,"ZSCALER, INC.",16696.31,1785569298.3599422
+http,103.119.14.99,3128,United States,US,Los Angeles,transparent,true,61.69,AS140869,Turing Group Limited,8896.34,1785569292.6277726
+http,104.129.192.156,10110,United States,US,San Jose,elite,true,65.93,AS22616,"ZSCALER, INC.",17776.69,1785569289.5414708
+http,146.190.60.147,8020,United States,US,Santa Clara,elite,true,27.4,AS14061,"DigitalOcean, LLC",1857.88,1785569287.4902575
+http,104.129.192.156,11724,United States,US,San Jose,elite,true,64.01,AS22616,"ZSCALER, INC.",14730.79,1785569284.3659353
+http,174.138.161.146,30226,United States,US,Phoenix,elite,true,10.17,AS20454,Secured Servers LLC,1159.14,1785569283.1781304
+http,131.153.163.130,8881,United States,US,Ashburn,elite,true,13.54,AS19437,Secured Servers LLC,15012.98,1785569282.2159069
+http,47.90.149.238,8889,United States,US,Henrico,elite,true,0.82,AS45102,Alibaba.com LLC,6357.9,1785569281.312113
+http,34.69.61.247,80,United States,US,Council Bluffs,anonymous,true,52.4,AS396982,Google LLC,329.4,1785569280.8608568
+http,38.55.145.46,1081,United States,US,Los Angeles,elite,true,84.2,AS400619,Cogent Communications,9562.1,1785569270.4438126
+http,104.129.192.156,12844,United States,US,San Jose,elite,true,72.48,AS22616,"ZSCALER, INC.",15978.79,1785569268.23493
+http,147.45.60.249,1081,United States,US,Atlanta,elite,true,64.89,AS215540,Global Connectivity Solutions LLP,1281.78,1785569264.5287058
+http,178.130.47.41,1081,United States,US,Phoenix,elite,true,59.93,AS215540,Global Connectivity Solutions LLP,340.47,1785569264.1777382
+http,104.129.192.156,12507,United States,US,San Jose,elite,true,60.42,AS22616,"ZSCALER, INC.",6014.79,1785569251.9692144
+http,104.129.192.156,12646,United States,US,San Jose,elite,true,56.0,AS22616,"ZSCALER, INC.",6666.8,1785569249.3099945
+http,104.129.192.156,11677,United States,US,San Jose,elite,true,69.78,AS22616,"ZSCALER, INC.",12506.09,1785569244.601593
+http,47.85.195.135,1080,United States,US,Henrico,elite,true,80.43,AS45102,Alibaba.com LLC,6798.57,1785569244.2759001
+http,34.134.231.117,3129,United States,US,Council Bluffs,anonymous,true,94.9,AS396982,Google LLC,1167.95,1785569242.3707798
+http,104.129.192.156,12164,United States,US,San Jose,elite,true,56.54,AS22616,"ZSCALER, INC.",21358.04,1785569235.74157
+http,104.129.192.156,11025,United States,US,San Jose,elite,true,72.65,AS22616,"ZSCALER, INC.",7168.08,1785569234.328766
