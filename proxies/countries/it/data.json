@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -8,11 +8,11 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 88.58,
+    "uptime_percent": 89.73,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 115.32,
-    "last_checked": 1785659102.766495
+    "latency_ms": 1703.15,
+    "last_checked": 1785659696.0172193
   },
   {
     "protocol": "socks5",
@@ -26,11 +26,11 @@
     "uptime_percent": 99.46,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 272.09,
-    "last_checked": 1785659102.6477475
+    "latency_ms": 166.38,
+    "last_checked": 1785659692.3098063
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -38,11 +38,11 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 89.73,
+    "uptime_percent": 88.58,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 123.87,
-    "last_checked": 1785659092.917077
+    "latency_ms": 2180.93,
+    "last_checked": 1785659684.7266533
   },
   {
     "protocol": "http",
@@ -52,11 +52,71 @@
     "country_code": "IT",
     "city": "Arezzo",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 9.53,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 17254.25,
-    "last_checked": 1785659032.4308903
+    "latency_ms": 12186.16,
+    "last_checked": 1785659662.7853346
+  },
+  {
+    "protocol": "http",
+    "ip": "212.77.75.25",
+    "port": 3129,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Empoli",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 26.79,
+    "asn": "AS15691",
+    "isp": "Leonet srl Empoli",
+    "latency_ms": 1750.07,
+    "last_checked": 1785659657.6875417
+  },
+  {
+    "protocol": "socks5",
+    "ip": "92.4.161.181",
+    "port": 8889,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Siziano",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.3,
+    "asn": "AS31898",
+    "isp": "TalkTalk",
+    "latency_ms": 8781.4,
+    "last_checked": 1785659653.6415274
+  },
+  {
+    "protocol": "http",
+    "ip": "79.52.233.34",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rome",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.73,
+    "asn": "AS3269",
+    "isp": "INTERBUSINESS",
+    "latency_ms": 4545.03,
+    "last_checked": 1785659653.2958696
+  },
+  {
+    "protocol": "socks4",
+    "ip": "92.4.161.181",
+    "port": 8889,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Siziano",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.64,
+    "asn": "AS31898",
+    "isp": "TalkTalk",
+    "latency_ms": 9109.89,
+    "last_checked": 1785659653.241098
   }
 ]
