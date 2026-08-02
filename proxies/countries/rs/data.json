@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "77.46.138.233",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "185.190.154.121",
+    "port": 4145,
     "country": "Serbia",
     "country_code": "RS",
-    "city": "Oraovica",
-    "anonymity": "transparent",
+    "city": "Belgrade",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 2.73,
+    "uptime_percent": 42.45,
     "asn": "AS8400",
     "isp": "TELEKOM-SRBIJA",
-    "latency_ms": 8437.73,
-    "last_checked": 1785660844.1668432
+    "latency_ms": 206.63,
+    "last_checked": 1785661143.2496912
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.245.110.145",
+    "port": 4145,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.05,
+    "asn": "AS15958",
+    "isp": "CETIN Ltd. Belgrade",
+    "latency_ms": 3168.73,
+    "last_checked": 1785661137.0736222
   },
   {
     "protocol": "socks4",
@@ -26,22 +41,37 @@
     "uptime_percent": 45.93,
     "asn": "AS9125",
     "isp": "Orion Telekom Network",
-    "latency_ms": 7497.93,
-    "last_checked": 1785660828.7857583
+    "latency_ms": 3437.31,
+    "last_checked": 1785661124.29532
   },
   {
     "protocol": "http",
-    "ip": "195.178.56.35",
+    "ip": "77.46.138.233",
     "port": 8080,
     "country": "Serbia",
     "country_code": "RS",
-    "city": "Belgrade",
+    "city": "Oraovica",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 1.8,
+    "uptime_percent": 2.73,
     "asn": "AS8400",
-    "isp": "TELEKOM SRBIJA a.d.",
-    "latency_ms": 5018.58,
-    "last_checked": 1785660755.3639116
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 2434.79,
+    "last_checked": 1785661040.9191911
+  },
+  {
+    "protocol": "http",
+    "ip": "77.46.138.38",
+    "port": 8080,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Oraovica",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 2.72,
+    "asn": "AS8400",
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 8819.89,
+    "last_checked": 1785660981.8359072
   }
 ]
