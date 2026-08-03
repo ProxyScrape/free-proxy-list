@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "195.225.116.14",
+    "port": 4145,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wädenswil",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.52,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 1267.63,
+    "last_checked": 1785757444.303555
+  },
+  {
     "protocol": "socks5",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -8,11 +23,11 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 86.28,
+    "uptime_percent": 86.27,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3648.82,
-    "last_checked": 1785757179.4315023
+    "latency_ms": 5392.11,
+    "last_checked": 1785757438.1706796
   },
   {
     "protocol": "socks5",
@@ -26,23 +41,8 @@
     "uptime_percent": 100.0,
     "asn": "AS213929",
     "isp": "UP-NETWORK Sarl",
-    "latency_ms": 102.87,
-    "last_checked": 1785757179.4229798
-  },
-  {
-    "protocol": "socks4",
-    "ip": "45.95.232.35",
-    "port": 1080,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 87.69,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 5985.79,
-    "last_checked": 1785757175.4560888
+    "latency_ms": 84.95,
+    "last_checked": 1785757435.2316253
   },
   {
     "protocol": "http",
@@ -56,23 +56,38 @@
     "uptime_percent": 39.79,
     "asn": "AS51395",
     "isp": "Datasource AG",
-    "latency_ms": 37.84,
-    "last_checked": 1785757158.8373947
+    "latency_ms": 34.04,
+    "last_checked": 1785757434.9859781
   },
   {
-    "protocol": "http",
-    "ip": "74.242.169.16",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "45.95.232.35",
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 17.08,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 8323.09,
-    "last_checked": 1785757149.4010382
+    "uptime_percent": 87.69,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 1345.81,
+    "last_checked": 1785757431.705183
+  },
+  {
+    "protocol": "http",
+    "ip": "165.225.66.38",
+    "port": 11203,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 76.12,
+    "asn": "AS62044",
+    "isp": "Zscaler Switzerland GmbH",
+    "latency_ms": 28.77,
+    "last_checked": 1785757418.42811
   },
   {
     "protocol": "http",
@@ -86,8 +101,23 @@
     "uptime_percent": 69.41,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 10895.55,
-    "last_checked": 1785757135.708878
+    "latency_ms": 3062.65,
+    "last_checked": 1785757407.7664082
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 74.42,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 6941.26,
+    "last_checked": 1785757406.8377764
   },
   {
     "protocol": "http",
@@ -97,26 +127,26 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 32.96,
+    "ssl": true,
+    "uptime_percent": 33.22,
     "asn": "AS57043",
     "isp": "Hostkey B.V.",
-    "latency_ms": 9653.96,
-    "last_checked": 1785757122.7264442
+    "latency_ms": 5599.53,
+    "last_checked": 1785757390.9551585
   },
   {
     "protocol": "http",
-    "ip": "165.225.66.38",
-    "port": 11203,
+    "ip": "74.242.169.16",
+    "port": 3128,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 76.09,
-    "asn": "AS62044",
-    "isp": "Zscaler Switzerland GmbH",
-    "latency_ms": 32.43,
-    "last_checked": 1785757087.7090213
+    "uptime_percent": 17.08,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 11583.92,
+    "last_checked": 1785757356.3167949
   }
 ]
