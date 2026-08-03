@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.73.103.23",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Karlovy Vary",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 8.39,
-    "asn": "AS201476",
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.68,
+    "asn": "AS47232",
     "isp": "ISP Alliance a.s.",
-    "latency_ms": 10335.71,
-    "last_checked": 1785741552.5858994
+    "latency_ms": 3128.95,
+    "last_checked": 1785742178.2623012
+  },
+  {
+    "protocol": "socks4",
+    "ip": "85.132.139.45",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Slavkov u Brna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.0,
+    "asn": "AS205400",
+    "isp": "GIN's network",
+    "latency_ms": 1070.89,
+    "last_checked": 1785742163.6932113
   },
   {
     "protocol": "http",
@@ -26,7 +41,7 @@
     "uptime_percent": 85.34,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 342.1,
-    "last_checked": 1785741509.9935021
+    "latency_ms": 1069.8,
+    "last_checked": 1785742117.8895042
   }
 ]
