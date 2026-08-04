@@ -1,21 +1,6 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.63.26.240",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 9.59,
-    "asn": "AS20473",
-    "isp": "Choopa",
-    "latency_ms": 13174.66,
-    "last_checked": 1785848914.8577166
-  },
-  {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "168.138.9.147",
     "port": 1080,
     "country": "Australia",
@@ -23,11 +8,26 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 38.59,
+    "uptime_percent": 36.92,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 8654.34,
-    "last_checked": 1785848910.864727
+    "latency_ms": 21153.83,
+    "last_checked": 1785849531.9760098
+  },
+  {
+    "protocol": "http",
+    "ip": "45.63.26.240",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 10.11,
+    "asn": "AS20473",
+    "isp": "Choopa",
+    "latency_ms": 10035.8,
+    "last_checked": 1785849525.018784
   },
   {
     "protocol": "http",
@@ -38,10 +38,40 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 53.84,
+    "uptime_percent": 53.85,
     "asn": "AS45577",
     "isp": "Intervolve Pty Ltd",
-    "latency_ms": 16635.28,
-    "last_checked": 1785848772.684893
+    "latency_ms": 7151.97,
+    "last_checked": 1785849490.3172202
+  },
+  {
+    "protocol": "http",
+    "ip": "103.18.205.162",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 31.46,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 8473.32,
+    "last_checked": 1785849480.3389583
+  },
+  {
+    "protocol": "http",
+    "ip": "103.131.232.9",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Goulburn",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.04,
+    "asn": "AS45447",
+    "isp": "YLess4U Pty Ltd",
+    "latency_ms": 9727.83,
+    "last_checked": 1785849419.366508
   }
 ]
