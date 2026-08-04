@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 85.92,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 8013.71,
+    "last_checked": 1785813886.7721677
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 87.52,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 8279.88,
+    "last_checked": 1785813881.1229634
+  },
+  {
     "protocol": "http",
     "ip": "45.95.232.35",
     "port": 3128,
@@ -11,38 +41,8 @@
     "uptime_percent": 74.41,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 31.22,
-    "last_checked": 1785813249.7977867
-  },
-  {
-    "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Tann",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 39.97,
-    "asn": "AS51395",
-    "isp": "Datasource AG",
-    "latency_ms": 34.08,
-    "last_checked": 1785813243.4355674
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.95.232.35",
-    "port": 1080,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 85.93,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 5149.57,
-    "last_checked": 1785813219.4048169
+    "latency_ms": 2574.51,
+    "last_checked": 1785813805.6616743
   },
   {
     "protocol": "http",
@@ -52,11 +52,11 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 39.13,
+    "ssl": false,
+    "uptime_percent": 39.31,
     "asn": "AS57043",
     "isp": "Hostkey B.V.",
-    "latency_ms": 9804.76,
-    "last_checked": 1785813157.4846914
+    "latency_ms": 12407.75,
+    "last_checked": 1785813799.412349
   }
 ]
