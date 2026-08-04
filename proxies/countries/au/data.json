@@ -1,32 +1,32 @@
 [
   {
     "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 33.94,
-    "asn": "AS4764",
-    "isp": "Aussie Fibre Pty Ltd",
-    "latency_ms": 4894.3,
-    "last_checked": 1785875902.5048509
-  },
-  {
-    "protocol": "http",
     "ip": "45.63.26.240",
     "port": 80,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 24.77,
+    "ssl": true,
+    "uptime_percent": 25.31,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 12471.63,
-    "last_checked": 1785875895.34079
+    "latency_ms": 9727.1,
+    "last_checked": 1785876535.6739993
+  },
+  {
+    "protocol": "socks5",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.76,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 14202.16,
+    "last_checked": 1785876520.3220706
   }
 ]
