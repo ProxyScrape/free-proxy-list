@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "110.44.115.83",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "202.166.219.80",
+    "port": 4153,
     "country": "Nepal",
     "country_code": "NP",
     "city": "Kathmandu",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 8.59,
-    "asn": "AS45650",
-    "isp": "Vianet Communications Pvt. Ltd",
-    "latency_ms": 4225.29,
-    "last_checked": 1785921245.2203295
+    "ssl": true,
+    "uptime_percent": 13.32,
+    "asn": "AS17501",
+    "isp": "WorldLink Communications",
+    "latency_ms": 1043.76,
+    "last_checked": 1785921897.215653
+  },
+  {
+    "protocol": "socks4",
+    "ip": "182.93.75.254",
+    "port": 1080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 64.23,
+    "asn": "AS4007",
+    "isp": "Subisu Cablenet",
+    "latency_ms": 850.64,
+    "last_checked": 1785921893.9570315
   },
   {
     "protocol": "socks5",
@@ -23,10 +38,40 @@
     "city": "Kathmandu",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 70.24,
+    "uptime_percent": 70.18,
     "asn": "AS17501",
     "isp": "WorldLink Communications",
-    "latency_ms": 1190.71,
-    "last_checked": 1785921240.5081925
+    "latency_ms": 1240.99,
+    "last_checked": 1785921893.2891474
+  },
+  {
+    "protocol": "http",
+    "ip": "139.5.75.83",
+    "port": 8080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Patan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.32,
+    "asn": "AS17501",
+    "isp": "WLINK",
+    "latency_ms": 4998.03,
+    "last_checked": 1785921870.516817
+  },
+  {
+    "protocol": "socks4",
+    "ip": "124.41.252.48",
+    "port": 1080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 49.11,
+    "asn": "AS17501",
+    "isp": "WorldLink Communications",
+    "latency_ms": 1049.26,
+    "last_checked": 1785921869.2982519
   }
 ]
