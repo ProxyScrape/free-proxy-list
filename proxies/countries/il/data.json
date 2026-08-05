@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "199.203.152.99",
-    "port": 8111,
+    "protocol": "socks4",
+    "ip": "31.168.143.90",
+    "port": 1080,
     "country": "Israel",
     "country_code": "IL",
-    "city": "Tel Aviv",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 3.4,
+    "city": "Petah Tikva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.28,
+    "asn": "AS8551",
+    "isp": "BEZEQ-INTERNATIONAL",
+    "latency_ms": 299.48,
+    "last_checked": 1785964795.9182732
+  },
+  {
+    "protocol": "http",
+    "ip": "62.90.70.144",
+    "port": 7443,
+    "country": "Israel",
+    "country_code": "IL",
+    "city": "Ramat Gan",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 75.66,
     "asn": "AS1680",
-    "isp": "Cellcom Fixed Line Communication L.P",
-    "latency_ms": 3421.06,
-    "last_checked": 1785964076.7365265
+    "isp": "013 Netvision Network",
+    "latency_ms": 670.59,
+    "last_checked": 1785964743.7723823
   }
 ]
