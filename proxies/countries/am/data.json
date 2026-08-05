@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "45.142.195.110",
-    "port": 995,
-    "country": "Armenia",
-    "country_code": "AM",
-    "city": "Yerevan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.92,
-    "asn": "AS215929",
-    "isp": "Data Campus Limited",
-    "latency_ms": 6255.33,
-    "last_checked": 1785897868.8706677
-  },
-  {
     "protocol": "http",
     "ip": "2.56.205.182",
     "port": 8080,
@@ -22,11 +7,26 @@
     "country_code": "AM",
     "city": "Arinj",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 37.71,
+    "ssl": false,
+    "uptime_percent": 38.33,
     "asn": "AS216058",
     "isp": "Proitlab LLC",
-    "latency_ms": 7641.35,
-    "last_checked": 1785897776.5133479
+    "latency_ms": 14465.25,
+    "last_checked": 1785898418.6127498
+  },
+  {
+    "protocol": "http",
+    "ip": "2.56.205.182",
+    "port": 3128,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Arinj",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 45.42,
+    "asn": "AS216058",
+    "isp": "Proitlab LLC",
+    "latency_ms": 12182.74,
+    "last_checked": 1785898404.365384
   }
 ]
