@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "194.154.29.161",
     "port": 1080,
     "country": "Switzerland",
@@ -8,26 +8,11 @@
     "city": "Hünenberg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 32.92,
+    "uptime_percent": 29.01,
     "asn": "AS51395",
     "isp": "FORNEX",
-    "latency_ms": 52.3,
-    "last_checked": 1786048752.9116228
-  },
-  {
-    "protocol": "socks4",
-    "ip": "45.95.232.35",
-    "port": 1080,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 86.97,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 8596.27,
-    "last_checked": 1786048745.1370833
+    "latency_ms": 341.83,
+    "last_checked": 1786049037.1540318
   },
   {
     "protocol": "socks5",
@@ -41,22 +26,67 @@
     "uptime_percent": 84.71,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2950.38,
-    "last_checked": 1786048735.5508146
+    "latency_ms": 8910.01,
+    "last_checked": 1786049036.294921
   },
   {
     "protocol": "socks4",
-    "ip": "194.154.29.161",
+    "ip": "45.95.232.35",
     "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 86.97,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 4682.43,
+    "last_checked": 1786049031.7892144
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 73.87,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 2211.19,
+    "last_checked": 1786048992.713499
+  },
+  {
+    "protocol": "http",
+    "ip": "194.154.29.161",
+    "port": 3128,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Hünenberg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 28.98,
+    "uptime_percent": 35.43,
     "asn": "AS51395",
     "isp": "FORNEX",
-    "latency_ms": 134.42,
-    "last_checked": 1786048729.3754091
+    "latency_ms": 50.92,
+    "last_checked": 1786048976.92178
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 17.14,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 7951.19,
+    "last_checked": 1786048952.3303432
   }
 ]
