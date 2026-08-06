@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "106.104.177.158",
-    "port": 60808,
+    "protocol": "socks4",
+    "ip": "122.117.199.97",
+    "port": 1080,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Taichung",
+    "city": "Kaohsiung",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 7.14,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 1672.08,
+    "last_checked": 1786033484.487942
+  },
+  {
+    "protocol": "http",
+    "ip": "220.128.223.136",
+    "port": 8085,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "New Taipei City",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 1.88,
-    "asn": "AS4780",
-    "isp": "Digital United Inc.",
-    "latency_ms": 15482.01,
-    "last_checked": 1786032840.1576288
+    "uptime_percent": 9.32,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 659.84,
+    "last_checked": 1786033474.3032925
   },
   {
     "protocol": "http",
@@ -26,22 +41,37 @@
     "uptime_percent": 35.46,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 697.85,
-    "last_checked": 1786032828.66434
+    "latency_ms": 660.68,
+    "last_checked": 1786033446.570752
   },
   {
     "protocol": "http",
-    "ip": "27.147.28.73",
-    "port": 8080,
+    "ip": "220.128.223.136",
+    "port": 8083,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Xindian District",
-    "anonymity": "transparent",
+    "city": "New Taipei City",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 7.74,
-    "asn": "AS18429",
-    "isp": "Extra-Lan Technologies Co., LTD",
-    "latency_ms": 12524.51,
-    "last_checked": 1786032802.9330606
+    "uptime_percent": 9.89,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 682.32,
+    "last_checked": 1786033413.26195
+  },
+  {
+    "protocol": "http",
+    "ip": "106.104.177.158",
+    "port": 60808,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taichung",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 1.88,
+    "asn": "AS4780",
+    "isp": "Digital United Inc.",
+    "latency_ms": 17275.68,
+    "last_checked": 1786033388.96401
   }
 ]
