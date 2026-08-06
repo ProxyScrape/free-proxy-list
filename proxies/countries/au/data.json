@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 33.58,
-    "asn": "AS4764",
-    "isp": "Aussie Fibre Pty Ltd",
-    "latency_ms": 10150.75,
-    "last_checked": 1786037355.6127698
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.7,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 1831.79,
+    "last_checked": 1786037967.233734
+  },
+  {
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.15,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 17273.51,
+    "last_checked": 1786037947.0449932
   },
   {
     "protocol": "http",
@@ -23,11 +38,26 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 55.0,
+    "uptime_percent": 55.01,
     "asn": "AS45577",
     "isp": "Intervolve Pty Ltd",
-    "latency_ms": 5486.58,
-    "last_checked": 1786037351.4316928
+    "latency_ms": 8581.59,
+    "last_checked": 1786037933.619668
+  },
+  {
+    "protocol": "http",
+    "ip": "103.131.232.9",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Goulburn",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.0,
+    "asn": "AS45447",
+    "isp": "YLess4U Pty Ltd",
+    "latency_ms": 10049.21,
+    "last_checked": 1786037909.7776325
   },
   {
     "protocol": "http",
@@ -37,11 +67,26 @@
     "country_code": "AU",
     "city": "The Rocks",
     "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 62.5,
+    "ssl": true,
+    "uptime_percent": 70.83,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 8491.12,
-    "last_checked": 1786037303.9018018
+    "latency_ms": 12517.25,
+    "last_checked": 1786037878.128884
+  },
+  {
+    "protocol": "http",
+    "ip": "103.18.205.162",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 31.39,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 9706.55,
+    "last_checked": 1786037875.4548373
   }
 ]
