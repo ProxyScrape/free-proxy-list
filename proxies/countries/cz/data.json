@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "78.111.112.118",
-    "port": 4145,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Kryry",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 38.42,
-    "asn": "AS47232",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 1121.19,
-    "last_checked": 1786060800.2998464
-  },
-  {
-    "protocol": "socks4",
     "ip": "109.69.211.18",
     "port": 1080,
     "country": "Czechia",
@@ -26,8 +11,38 @@
     "uptime_percent": 57.03,
     "asn": "AS196815",
     "isp": "LAN servis s.r.o",
-    "latency_ms": 3363.67,
-    "last_checked": 1786060797.4818764
+    "latency_ms": 4426.54,
+    "last_checked": 1786061395.6183214
+  },
+  {
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.71,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 1133.63,
+    "last_checked": 1786061394.2068307
+  },
+  {
+    "protocol": "http",
+    "ip": "185.73.103.23",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Karlovy Vary",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.41,
+    "asn": "AS201476",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 11028.66,
+    "last_checked": 1786061375.3228767
   },
   {
     "protocol": "http",
@@ -41,38 +56,8 @@
     "uptime_percent": 85.45,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 3457.81,
-    "last_checked": 1786060790.4746916
-  },
-  {
-    "protocol": "http",
-    "ip": "185.248.179.99",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 61.02,
-    "asn": "AS48574",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 13291.14,
-    "last_checked": 1786060772.6847684
-  },
-  {
-    "protocol": "http",
-    "ip": "185.82.238.42",
-    "port": 8888,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Osík",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 9.05,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 7661.41,
-    "last_checked": 1786060691.6215827
+    "latency_ms": 3235.13,
+    "last_checked": 1786061374.3148098
   },
   {
     "protocol": "http",
@@ -86,37 +71,37 @@
     "uptime_percent": 66.37,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 4213.44,
-    "last_checked": 1786060688.6183598
+    "latency_ms": 8945.45,
+    "last_checked": 1786061351.929818
   },
   {
     "protocol": "http",
-    "ip": "188.119.98.126",
-    "port": 9999,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Uherské Hradiště",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.35,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 3331.52,
-    "last_checked": 1786060688.296077
-  },
-  {
-    "protocol": "http",
-    "ip": "77.240.97.77",
+    "ip": "185.248.179.99",
     "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Dobříš",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.94,
+    "asn": "AS48574",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 4685.17,
+    "last_checked": 1786061341.6836693
+  },
+  {
+    "protocol": "http",
+    "ip": "185.82.238.42",
+    "port": 8888,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Osík",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 24.27,
-    "asn": "AS42189",
-    "isp": "DOBRISNET",
-    "latency_ms": 5110.01,
-    "last_checked": 1786060612.387383
+    "ssl": true,
+    "uptime_percent": 9.05,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 1500.94,
+    "last_checked": 1786061301.923262
   }
 ]
