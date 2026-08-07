@@ -1,4 +1,7 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,194.154.29.161,3128,Switzerland,CH,Hünenberg,elite,false,35.52,AS51395,FORNEX,127.64,1786112693.6098382
-http,45.95.232.35,3128,Switzerland,CH,Zurich,elite,false,73.92,AS215540,Global Connectivity Solutions LLP,4111.3,1786112680.4930925
-http,185.85.111.18,80,Switzerland,CH,Tann,elite,false,39.88,AS51395,Datasource AG,3093.36,1786112656.853515
+socks4,45.85.93.15,4567,Switzerland,CH,Geneva,elite,true,24.89,AS199058,Serva ONE LTD,870.16,1786112999.6880574
+socks5,45.85.93.15,4567,Switzerland,CH,Geneva,elite,true,23.44,AS199058,Serva ONE LTD,4638.0,1786112994.564124
+socks5,45.95.232.35,1080,Switzerland,CH,Zurich,elite,true,84.85,AS215540,Global Connectivity Solutions LLP,1358.45,1786112983.627328
+socks4,45.95.232.35,1080,Switzerland,CH,Zurich,elite,true,86.98,AS215540,Global Connectivity Solutions LLP,9331.6,1786112980.834944
+http,45.95.232.35,3128,Switzerland,CH,Zurich,elite,true,73.92,AS215540,Global Connectivity Solutions LLP,4027.65,1786112980.3520393
+http,185.85.111.18,80,Switzerland,CH,Tann,elite,false,39.88,AS51395,Datasource AG,4119.98,1786112961.7089322
