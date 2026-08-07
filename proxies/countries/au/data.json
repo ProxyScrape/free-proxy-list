@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 55.75,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 5159.0,
-    "last_checked": 1786121966.526199
-  },
-  {
-    "protocol": "http",
-    "ip": "103.131.232.9",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Goulburn",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 24.02,
-    "asn": "AS45447",
-    "isp": "YLess4U Pty Ltd",
-    "latency_ms": 5140.52,
-    "last_checked": 1786121759.4266455
+    "ssl": true,
+    "uptime_percent": 38.11,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 18551.48,
+    "last_checked": 1786122553.2650862
   },
   {
     "protocol": "http",
@@ -41,26 +26,11 @@
     "uptime_percent": 10.12,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 7299.27,
-    "last_checked": 1786121752.438845
+    "latency_ms": 13657.64,
+    "last_checked": 1786122552.4207406
   },
   {
-    "protocol": "http",
-    "ip": "103.18.205.162",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 31.37,
-    "asn": "AS134371",
-    "isp": "Circle Network",
-    "latency_ms": 10869.49,
-    "last_checked": 1786121728.9727144
-  },
-  {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "168.138.9.147",
     "port": 1080,
     "country": "Australia",
@@ -68,10 +38,25 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 38.11,
+    "uptime_percent": 36.06,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 14721.37,
-    "last_checked": 1786121959.0071828
+    "latency_ms": 17996.98,
+    "last_checked": 1786122536.7199988
+  },
+  {
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 55.75,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 4855.63,
+    "last_checked": 1786122485.383259
   }
 ]
