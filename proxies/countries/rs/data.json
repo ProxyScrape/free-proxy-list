@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "212.200.223.89",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "217.169.223.18",
+    "port": 1080,
     "country": "Serbia",
     "country_code": "RS",
     "city": "Belgrade",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 61.98,
-    "asn": "AS8400",
-    "isp": "TELEKOM SRBIJA a.d.",
-    "latency_ms": 1258.23,
-    "last_checked": 1786113550.0201337
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.82,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Client Network",
+    "latency_ms": 3149.15,
+    "last_checked": 1786113879.277111
   },
   {
     "protocol": "http",
@@ -22,11 +22,41 @@
     "country_code": "RS",
     "city": "Belgrade",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 34.98,
+    "ssl": false,
+    "uptime_percent": 34.99,
     "asn": "AS9125",
     "isp": "Orion Telekom Network",
-    "latency_ms": 7811.94,
-    "last_checked": 1786113549.4288058
+    "latency_ms": 2868.4,
+    "last_checked": 1786113853.6729808
+  },
+  {
+    "protocol": "socks4",
+    "ip": "91.150.77.58",
+    "port": 56921,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Požarevac",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.37,
+    "asn": "AS8400",
+    "isp": "TELEKOM SRBIJA a.d.",
+    "latency_ms": 7362.51,
+    "last_checked": 1786113844.0599148
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.245.110.145",
+    "port": 4145,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.91,
+    "asn": "AS15958",
+    "isp": "CETIN Ltd. Belgrade",
+    "latency_ms": 7258.08,
+    "last_checked": 1786113830.8278067
   }
 ]
