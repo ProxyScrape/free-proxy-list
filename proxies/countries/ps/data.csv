@@ -1,3 +1,5 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,84.242.58.9,8080,Palestine,PS,Gaza,transparent,false,22.4,AS51407,Mada Al-Arab General Services Company,4573.55,1786064976.0573306
-http,213.6.249.37,18000,Palestine,PS,Ramallah,transparent,false,19.0,AS12975,Palestine Telecommunications Company,18868.34,1786064834.4470246
+socks4,84.242.51.241,4145,Palestine,PS,Gaza,elite,true,16.0,AS51407,Mada Al-Arab General Services Company,282.33,1786065539.4570398
+http,84.242.58.9,8080,Palestine,PS,Gaza,transparent,true,22.4,AS51407,Mada Al-Arab General Services Company,3571.13,1786065486.6831238
+socks4,103.231.105.158,4145,Palestine,PS,Ramallah,elite,true,34.05,AS12975,Palestine Telecommunications Company,7422.27,1786065578.4170284
+http,213.6.249.37,18000,Palestine,PS,Ramallah,transparent,false,19.01,AS12975,Palestine Telecommunications Company,10577.75,1786065549.5306451
