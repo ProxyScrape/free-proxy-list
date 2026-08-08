@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "190.181.28.186",
-    "port": 999,
+    "protocol": "socks4",
+    "ip": "190.104.26.227",
+    "port": 33638,
     "country": "Bolivia",
     "country_code": "BO",
-    "city": "Santa Fe",
+    "city": "La Paz",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.33,
+    "asn": "AS27882",
+    "isp": "Telefónica Celular de Bolivia S.A.",
+    "latency_ms": 1024.58,
+    "last_checked": 1786183778.4801245
+  },
+  {
+    "protocol": "socks4",
+    "ip": "181.115.207.114",
+    "port": 1080,
+    "country": "Bolivia",
+    "country_code": "BO",
+    "city": "Santa Cruz de la Sierra",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.34,
+    "asn": "AS6568",
+    "isp": "Entel S.A. - EntelNet",
+    "latency_ms": 2408.24,
+    "last_checked": 1786183772.5629418
+  },
+  {
+    "protocol": "http",
+    "ip": "181.115.200.59",
+    "port": 3128,
+    "country": "Bolivia",
+    "country_code": "BO",
+    "city": "Santa Cruz de la Sierra",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 27.97,
-    "asn": "AS26210",
-    "isp": "AXS Bolivia S. A.",
-    "latency_ms": 2035.68,
-    "last_checked": 1786183090.9983695
+    "uptime_percent": 8.1,
+    "asn": "AS6568",
+    "isp": "Entel S.A. - EntelNet",
+    "latency_ms": 4640.3,
+    "last_checked": 1786183739.905806
   },
   {
     "protocol": "http",
@@ -23,10 +53,10 @@
     "city": "Santa Cruz de la Sierra",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 30.17,
+    "uptime_percent": 30.16,
     "asn": "AS26210",
     "isp": "AXS Bolivia S. A.",
-    "latency_ms": 13289.09,
-    "last_checked": 1786183040.7034574
+    "latency_ms": 10226.34,
+    "last_checked": 1786183605.434215
   }
 ]
