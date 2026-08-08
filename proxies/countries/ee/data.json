@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "http",
+    "ip": "5.45.126.128",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 36.25,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 146.57,
+    "last_checked": 1786183125.453046
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.200.196.130",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.98,
+    "asn": "AS34702",
+    "isp": "Aktsiaselts WaveCom",
+    "latency_ms": 16667.16,
+    "last_checked": 1786183102.9225006
+  },
+  {
     "protocol": "socks4",
     "ip": "185.157.111.3",
     "port": 5678,
@@ -11,38 +41,8 @@
     "uptime_percent": 60.04,
     "asn": "AS202652",
     "isp": "SkyLive Telecom ldt",
-    "latency_ms": 203.43,
-    "last_checked": 1786182562.6823146
-  },
-  {
-    "protocol": "socks5",
-    "ip": "185.200.196.119",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 20.24,
-    "asn": "AS34702",
-    "isp": "Aktsiaselts WaveCom",
-    "latency_ms": 6835.87,
-    "last_checked": 1786182547.5065606
-  },
-  {
-    "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 36.24,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 125.85,
-    "last_checked": 1786182495.4903197
+    "latency_ms": 7458.63,
+    "last_checked": 1786183092.7439518
   },
   {
     "protocol": "http",
@@ -52,11 +52,11 @@
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 38.49,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 6486.23,
-    "last_checked": 1786182403.3997583
+    "latency_ms": 10176.96,
+    "last_checked": 1786183015.8127232
   }
 ]
