@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "217.16.136.160",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "185.190.154.121",
+    "port": 4145,
     "country": "Serbia",
     "country_code": "RS",
-    "city": "Jagodina",
+    "city": "Belgrade",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.71,
+    "asn": "AS8400",
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 169.61,
+    "last_checked": 1786163324.051708
+  },
+  {
+    "protocol": "http",
+    "ip": "212.200.223.89",
+    "port": 8080,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 62.99,
-    "asn": "AS197423",
-    "isp": "Jotel",
-    "latency_ms": 2668.75,
-    "last_checked": 1786162683.3221965
+    "uptime_percent": 61.03,
+    "asn": "AS8400",
+    "isp": "TELEKOM SRBIJA a.d.",
+    "latency_ms": 4174.8,
+    "last_checked": 1786163281.1888635
   }
 ]
