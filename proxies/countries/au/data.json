@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "175.45.182.48",
+    "port": 1090,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.81,
+    "asn": "AS133159",
+    "isp": "Mammoth Media Pty Ltd",
+    "latency_ms": 1284.51,
+    "last_checked": 1786164244.555514
+  },
+  {
+    "protocol": "socks4",
     "ip": "192.9.171.168",
     "port": 1080,
     "country": "Australia",
@@ -11,11 +26,26 @@
     "uptime_percent": 100.0,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 1266.87,
-    "last_checked": 1786163945.3230832
+    "latency_ms": 1277.51,
+    "last_checked": 1786164233.4483685
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
+    "ip": "192.9.171.168",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 100.0,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 1508.87,
+    "last_checked": 1786164223.9302409
+  },
+  {
+    "protocol": "socks5",
     "ip": "175.45.182.48",
     "port": 1090,
     "country": "Australia",
@@ -23,11 +53,41 @@
     "city": "Brisbane",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 27.77,
+    "uptime_percent": 32.04,
     "asn": "AS133159",
     "isp": "Mammoth Media Pty Ltd",
-    "latency_ms": 1293.33,
-    "last_checked": 1786163942.4511697
+    "latency_ms": 9162.04,
+    "last_checked": 1786164212.9846516
+  },
+  {
+    "protocol": "http",
+    "ip": "159.196.182.72",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.87,
+    "asn": "AS4764",
+    "isp": "Aussie Broadband",
+    "latency_ms": 3575.95,
+    "last_checked": 1786164189.2008953
+  },
+  {
+    "protocol": "http",
+    "ip": "45.63.26.240",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 23.11,
+    "asn": "AS20473",
+    "isp": "Choopa",
+    "latency_ms": 15426.71,
+    "last_checked": 1786164177.3552358
   },
   {
     "protocol": "http",
@@ -41,53 +101,8 @@
     "uptime_percent": 56.39,
     "asn": "AS45577",
     "isp": "Intervolve Pty Ltd",
-    "latency_ms": 6222.44,
-    "last_checked": 1786163932.3815408
-  },
-  {
-    "protocol": "socks5",
-    "ip": "192.9.171.168",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 100.0,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 1800.37,
-    "last_checked": 1786163931.5234704
-  },
-  {
-    "protocol": "socks5",
-    "ip": "175.45.182.48",
-    "port": 1090,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 32.0,
-    "asn": "AS133159",
-    "isp": "Mammoth Media Pty Ltd",
-    "latency_ms": 1535.83,
-    "last_checked": 1786163917.410322
-  },
-  {
-    "protocol": "socks4",
-    "ip": "168.138.9.147",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 38.03,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 19362.2,
-    "last_checked": 1786163911.1534147
+    "latency_ms": 5318.45,
+    "last_checked": 1786164166.3744571
   },
   {
     "protocol": "http",
@@ -97,11 +112,11 @@
     "country_code": "AU",
     "city": "The Rocks",
     "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 39.38,
+    "ssl": false,
+    "uptime_percent": 39.65,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 10085.8,
-    "last_checked": 1786163899.2966826
+    "latency_ms": 11005.32,
+    "last_checked": 1786164164.1277652
   }
 ]
