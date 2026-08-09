@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "190.104.143.94",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "190.104.168.27",
+    "port": 80,
     "country": "Paraguay",
     "country_code": "PY",
     "city": "Asunción",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 11.15,
+    "ssl": false,
+    "uptime_percent": 70.12,
     "asn": "AS27895",
     "isp": "Núcleo S.A.",
-    "latency_ms": 8355.79,
-    "last_checked": 1786273184.9329808
+    "latency_ms": 3024.72,
+    "last_checked": 1786273732.943841
+  },
+  {
+    "protocol": "http",
+    "ip": "181.78.94.23",
+    "port": 9991,
+    "country": "Paraguay",
+    "country_code": "PY",
+    "city": "Asunción",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.67,
+    "asn": "AS52468",
+    "isp": "Ufinet Paraguay S.A",
+    "latency_ms": 3035.58,
+    "last_checked": 1786273725.002777
   },
   {
     "protocol": "http",
@@ -26,22 +41,37 @@
     "uptime_percent": 70.29,
     "asn": "AS28103",
     "isp": "TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A)",
-    "latency_ms": 9236.53,
-    "last_checked": 1786273173.8129072
+    "latency_ms": 8429.09,
+    "last_checked": 1786273722.1687014
   },
   {
     "protocol": "http",
-    "ip": "190.128.201.236",
-    "port": 3128,
+    "ip": "37.230.57.121",
+    "port": 999,
     "country": "Paraguay",
     "country_code": "PY",
-    "city": "Villa Hayes",
+    "city": "Ciudad del Este",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 14.28,
-    "asn": "AS23201",
-    "isp": "Telecel S.A.",
-    "latency_ms": 10211.15,
-    "last_checked": 1786273008.2712708
+    "uptime_percent": 8.23,
+    "asn": "AS270052",
+    "isp": "Startelecom S.A.",
+    "latency_ms": 4001.22,
+    "last_checked": 1786273697.538231
+  },
+  {
+    "protocol": "http",
+    "ip": "181.78.95.59",
+    "port": 999,
+    "country": "Paraguay",
+    "country_code": "PY",
+    "city": "Asunción",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.7,
+    "asn": "AS52468",
+    "isp": "Ufinet Paraguay S.A",
+    "latency_ms": 4013.45,
+    "last_checked": 1786273689.8030405
   }
 ]
