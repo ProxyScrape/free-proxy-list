@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "87.121.148.126",
-    "port": 49200,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Palazzago",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 69.9,
-    "asn": "AS210218",
-    "isp": "Open Fiber S.P.A.",
-    "latency_ms": 104.74,
-    "last_checked": 1786248242.5542192
-  },
-  {
     "protocol": "socks4",
     "ip": "66.163.119.55",
     "port": 10006,
@@ -26,8 +11,23 @@
     "uptime_percent": 99.44,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 67.26,
-    "last_checked": 1786248242.038756
+    "latency_ms": 60.86,
+    "last_checked": 1786248601.8891249
+  },
+  {
+    "protocol": "http",
+    "ip": "185.56.219.76",
+    "port": 3128,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 16.29,
+    "asn": "AS202675",
+    "isp": "Keliweb S.R.L",
+    "latency_ms": 2095.71,
+    "last_checked": 1786248596.9215872
   },
   {
     "protocol": "socks5",
@@ -41,38 +41,8 @@
     "uptime_percent": 99.54,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 66.83,
-    "last_checked": 1786248241.69229
-  },
-  {
-    "protocol": "http",
-    "ip": "66.163.119.55",
-    "port": 10006,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 99.26,
-    "asn": "AS63023",
-    "isp": "GTHost",
-    "latency_ms": 4131.47,
-    "last_checked": 1786248234.5354059
-  },
-  {
-    "protocol": "socks5",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 91.49,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 1020.76,
-    "last_checked": 1786248234.3091645
+    "latency_ms": 60.62,
+    "last_checked": 1786248595.5677884
   },
   {
     "protocol": "socks4",
@@ -86,23 +56,38 @@
     "uptime_percent": 89.15,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 922.15,
-    "last_checked": 1786248228.9500291
+    "latency_ms": 3337.54,
+    "last_checked": 1786248590.6439028
+  },
+  {
+    "protocol": "socks5",
+    "ip": "149.62.186.244",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 91.49,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 2685.96,
+    "last_checked": 1786248587.7125254
   },
   {
     "protocol": "http",
-    "ip": "93.55.126.184",
-    "port": 8080,
+    "ip": "66.163.119.55",
+    "port": 10006,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Marsala",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.73,
-    "asn": "AS12874",
-    "isp": "Fastweb Networks",
-    "latency_ms": 3507.22,
-    "last_checked": 1786248202.5431664
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 99.26,
+    "asn": "AS63023",
+    "isp": "GTHost",
+    "latency_ms": 39.94,
+    "last_checked": 1786248585.71461
   },
   {
     "protocol": "http",
@@ -113,10 +98,40 @@
     "city": "Biella",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 32.32,
+    "uptime_percent": 32.33,
     "asn": "AS42669",
     "isp": "MegaWeb",
-    "latency_ms": 59.76,
-    "last_checked": 1786248178.379208
+    "latency_ms": 3150.1,
+    "last_checked": 1786248573.3563676
+  },
+  {
+    "protocol": "socks5",
+    "ip": "77.81.230.90",
+    "port": 9050,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.64,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 15526.25,
+    "last_checked": 1786248536.9934862
+  },
+  {
+    "protocol": "http",
+    "ip": "78.134.20.48",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Pitigliano",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.56,
+    "asn": "AS35612",
+    "isp": "NGI",
+    "latency_ms": 12431.63,
+    "last_checked": 1786248478.9892583
   }
 ]
