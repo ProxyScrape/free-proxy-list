@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Tann",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 40.26,
-    "asn": "AS51395",
-    "isp": "Datasource AG",
-    "latency_ms": 7709.5,
-    "last_checked": 1786267476.3110774
-  },
-  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -26,8 +11,8 @@
     "uptime_percent": 86.82,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2730.0,
-    "last_checked": 1786267463.922576
+    "latency_ms": 4291.64,
+    "last_checked": 1786267783.7898147
   },
   {
     "protocol": "socks5",
@@ -41,22 +26,52 @@
     "uptime_percent": 84.74,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 11984.87,
-    "last_checked": 1786267441.5440888
+    "latency_ms": 15415.08,
+    "last_checked": 1786267768.9915514
   },
   {
-    "protocol": "http",
-    "ip": "151.241.217.200",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "45.91.92.184",
+    "port": 9050,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
-    "anonymity": "transparent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.15,
+    "asn": "AS63473",
+    "isp": "HostHatch",
+    "latency_ms": 11054.2,
+    "last_checked": 1786267766.8943024
+  },
+  {
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Tann",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 22.55,
-    "asn": "AS57043",
-    "isp": "Hostkey B.V.",
-    "latency_ms": 21618.68,
-    "last_checked": 1786267396.6008034
+    "uptime_percent": 40.26,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 13717.62,
+    "last_checked": 1786267758.1244674
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.91.92.184",
+    "port": 9050,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 58.57,
+    "asn": "AS63473",
+    "isp": "HostHatch",
+    "latency_ms": 13474.57,
+    "last_checked": 1786267734.49029
   }
 ]
