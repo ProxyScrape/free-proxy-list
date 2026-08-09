@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Brno",
+    "city": "Kryry",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 66.65,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 10384.0,
-    "last_checked": 1786302547.4609663
+    "ssl": true,
+    "uptime_percent": 38.2,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 1081.61,
+    "last_checked": 1786303151.1741905
   },
   {
     "protocol": "http",
@@ -26,23 +26,8 @@
     "uptime_percent": 85.54,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 5311.15,
-    "last_checked": 1786302514.6193287
-  },
-  {
-    "protocol": "http",
-    "ip": "90.181.120.18",
-    "port": 8082,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 28.7,
-    "asn": "AS5610",
-    "isp": "Telefonica O2 Czech Republic, a.s.",
-    "latency_ms": 3994.85,
-    "last_checked": 1786302513.8431292
+    "latency_ms": 5185.32,
+    "last_checked": 1786303108.5764117
   },
   {
     "protocol": "http",
@@ -52,11 +37,26 @@
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 61.37,
+    "ssl": false,
+    "uptime_percent": 61.35,
     "asn": "AS48574",
     "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 2055.37,
-    "last_checked": 1786302485.3494737
+    "latency_ms": 687.11,
+    "last_checked": 1786303105.7270715
+  },
+  {
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 66.66,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 8214.11,
+    "last_checked": 1786303080.3931353
   }
 ]
