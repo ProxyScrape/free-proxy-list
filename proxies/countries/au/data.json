@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "152.69.167.87",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 97.29,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 1434.92,
+    "last_checked": 1786327777.9770586
+  },
+  {
     "protocol": "socks5",
     "ip": "192.9.171.168",
     "port": 1080,
@@ -8,11 +23,11 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 95.96,
+    "uptime_percent": 95.95,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 1732.97,
-    "last_checked": 1786327182.6600392
+    "latency_ms": 2748.42,
+    "last_checked": 1786327775.7507887
   },
   {
     "protocol": "socks4",
@@ -23,26 +38,11 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 95.18,
+    "uptime_percent": 95.16,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 1511.08,
-    "last_checked": 1786327181.2425768
-  },
-  {
-    "protocol": "socks4",
-    "ip": "152.69.167.87",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 97.25,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 1427.64,
-    "last_checked": 1786327178.391984
+    "latency_ms": 1444.9,
+    "last_checked": 1786327771.423861
   },
   {
     "protocol": "socks5",
@@ -53,26 +53,26 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 96.85,
+    "uptime_percent": 96.91,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 1718.81,
-    "last_checked": 1786327174.5264044
+    "latency_ms": 1756.46,
+    "last_checked": 1786327771.4043822
   },
   {
-    "protocol": "socks5",
-    "ip": "103.248.47.230",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Sydney",
+    "city": "Melbourne",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 37.14,
-    "asn": "AS133417",
-    "isp": "Dicker Data Ltd",
-    "latency_ms": 2850.01,
-    "last_checked": 1786327161.8146107
+    "ssl": false,
+    "uptime_percent": 57.8,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 692.69,
+    "last_checked": 1786327737.1357627
   },
   {
     "protocol": "socks5",
@@ -86,53 +86,8 @@
     "uptime_percent": 35.32,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 19197.59,
-    "last_checked": 1786327149.426108
-  },
-  {
-    "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 57.79,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 6554.81,
-    "last_checked": 1786327139.867963
-  },
-  {
-    "protocol": "http",
-    "ip": "46.250.241.229",
-    "port": 3128,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 37.36,
-    "asn": "AS141995",
-    "isp": "Contabo Asia Private Limited",
-    "latency_ms": 14569.98,
-    "last_checked": 1786327135.922467
-  },
-  {
-    "protocol": "http",
-    "ip": "4.237.109.140",
-    "port": 3128,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "The Rocks",
-    "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 30.36,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 9512.93,
-    "last_checked": 1786327115.6408005
+    "latency_ms": 5182.42,
+    "last_checked": 1786327734.8520153
   },
   {
     "protocol": "http",
@@ -143,10 +98,25 @@
     "city": "Sydney",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 23.06,
+    "uptime_percent": 23.07,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 11610.97,
-    "last_checked": 1786327101.3011484
+    "latency_ms": 11006.78,
+    "last_checked": 1786327675.1463394
+  },
+  {
+    "protocol": "http",
+    "ip": "4.237.109.140",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "The Rocks",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 30.4,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 5748.7,
+    "last_checked": 1786327719.207525
   }
 ]
