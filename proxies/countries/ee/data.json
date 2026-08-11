@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.157.111.3",
-    "port": 5678,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tartu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 59.4,
-    "asn": "AS202652",
-    "isp": "SkyLive Telecom ldt",
-    "latency_ms": 3271.69,
-    "last_checked": 1786476891.5725167
-  },
-  {
-    "protocol": "socks5",
-    "ip": "5.45.119.70",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 73.62,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 659.53,
-    "last_checked": 1786476884.9050658
-  },
-  {
     "protocol": "http",
     "ip": "5.45.126.128",
     "port": 8080,
@@ -41,8 +11,8 @@
     "uptime_percent": 37.89,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 151.83,
-    "last_checked": 1786476871.0379589
+    "latency_ms": 122.58,
+    "last_checked": 1786477476.4188795
   },
   {
     "protocol": "http",
@@ -52,11 +22,41 @@
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 38.39,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 12254.32,
-    "last_checked": 1786476843.9609697
+    "latency_ms": 16460.94,
+    "last_checked": 1786477444.6298811
+  },
+  {
+    "protocol": "http",
+    "ip": "217.78.239.5",
+    "port": 4555,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 16.4,
+    "asn": "AS199144",
+    "isp": "HexCore cloud s.r.o.",
+    "latency_ms": 8173.03,
+    "last_checked": 1786477432.197715
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tartu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.4,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 241.94,
+    "last_checked": 1786477484.4769702
   }
 ]
