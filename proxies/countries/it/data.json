@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "66.163.119.55",
     "port": 10006,
     "country": "Italy",
@@ -8,11 +8,11 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 99.22,
+    "uptime_percent": 99.43,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 44.48,
-    "last_checked": 1786417167.5198503
+    "latency_ms": 52.78,
+    "last_checked": 1786417779.2794852
   },
   {
     "protocol": "socks5",
@@ -26,8 +26,8 @@
     "uptime_percent": 91.87,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 844.1,
-    "last_checked": 1786417160.4314952
+    "latency_ms": 723.96,
+    "last_checked": 1786417759.96697
   },
   {
     "protocol": "socks5",
@@ -38,11 +38,11 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 99.55,
+    "uptime_percent": 99.54,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 3089.97,
-    "last_checked": 1786417157.8693156
+    "latency_ms": 1078.51,
+    "last_checked": 1786417751.7504482
   },
   {
     "protocol": "socks4",
@@ -56,11 +56,26 @@
     "uptime_percent": 89.29,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 2034.99,
-    "last_checked": 1786417154.6165204
+    "latency_ms": 145.93,
+    "last_checked": 1786417749.3530574
   },
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "93.187.26.134",
+    "port": 58080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Radicondoli",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 31.08,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 8571.42,
+    "last_checked": 1786417746.7259831
+  },
+  {
+    "protocol": "http",
     "ip": "66.163.119.55",
     "port": 10006,
     "country": "Italy",
@@ -68,56 +83,41 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 99.43,
+    "uptime_percent": 99.21,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 58.13,
-    "last_checked": 1786417154.3221886
-  },
-  {
-    "protocol": "socks5",
-    "ip": "80.211.131.230",
-    "port": 9050,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 25.89,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A. Network",
-    "latency_ms": 18865.93,
-    "last_checked": 1786417146.3943803
-  },
-  {
-    "protocol": "socks5",
-    "ip": "5.59.248.134",
-    "port": 8081,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Pomezia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 25.7,
-    "asn": "AS212271",
-    "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 7984.95,
-    "last_checked": 1786417146.3360293
+    "latency_ms": 7341.93,
+    "last_checked": 1786417743.642721
   },
   {
     "protocol": "http",
-    "ip": "194.183.1.205",
+    "ip": "78.134.20.48",
     "port": 8080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Rome",
+    "city": "Pitigliano",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.58,
+    "asn": "AS35612",
+    "isp": "NGI",
+    "latency_ms": 13269.18,
+    "last_checked": 1786417731.365778
+  },
+  {
+    "protocol": "http",
+    "ip": "81.31.148.122",
+    "port": 3080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 22.66,
-    "asn": "AS5394",
-    "isp": "UNIDATA S.p.A.",
-    "latency_ms": 259.6,
-    "last_checked": 1786417136.2474334
+    "uptime_percent": 15.77,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 15908.81,
+    "last_checked": 1786417698.3636138
   },
   {
     "protocol": "http",
@@ -128,25 +128,10 @@
     "city": "Marsala",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 27.31,
+    "uptime_percent": 27.34,
     "asn": "AS12874",
     "isp": "Fastweb Networks",
-    "latency_ms": 10394.28,
-    "last_checked": 1786417056.8693235
-  },
-  {
-    "protocol": "http",
-    "ip": "81.31.148.122",
-    "port": 3080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 15.67,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 11050.04,
-    "last_checked": 1786417038.85927
+    "latency_ms": 10149.82,
+    "last_checked": 1786417630.385379
   }
 ]
