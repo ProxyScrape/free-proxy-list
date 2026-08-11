@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "219.249.37.107",
-    "port": 8382,
+    "protocol": "socks4",
+    "ip": "152.70.237.238",
+    "port": 3128,
     "country": "South Korea",
     "country_code": "KR",
-    "city": "Busan",
+    "city": "Seoul",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 54.51,
-    "asn": "AS9318",
-    "isp": "SK Broadband Co Ltd",
-    "latency_ms": 800.12,
-    "last_checked": 1786482860.7292576
+    "ssl": true,
+    "uptime_percent": 51.29,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 4159.17,
+    "last_checked": 1786483475.4369347
   },
   {
     "protocol": "socks4",
@@ -26,8 +26,8 @@
     "uptime_percent": 34.66,
     "asn": "AS4766",
     "isp": "Korea Telecom",
-    "latency_ms": 4252.32,
-    "last_checked": 1786482857.0116172
+    "latency_ms": 1226.94,
+    "last_checked": 1786483472.6127129
   },
   {
     "protocol": "socks5",
@@ -38,71 +38,11 @@
     "city": "Suwon",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 93.09,
+    "uptime_percent": 93.08,
     "asn": "AS4766",
     "isp": "Korea Telecom",
-    "latency_ms": 4049.83,
-    "last_checked": 1786482850.585899
-  },
-  {
-    "protocol": "socks5",
-    "ip": "47.80.27.150",
-    "port": 1080,
-    "country": "South Korea",
-    "country_code": "KR",
-    "city": "Seoul",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 76.85,
-    "asn": "AS45102",
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "latency_ms": 1467.08,
-    "last_checked": 1786482846.8144772
-  },
-  {
-    "protocol": "socks4",
-    "ip": "130.162.141.185",
-    "port": 52916,
-    "country": "South Korea",
-    "country_code": "KR",
-    "city": "Seoul",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 57.75,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 14378.69,
-    "last_checked": 1786482839.789162
-  },
-  {
-    "protocol": "socks5",
-    "ip": "130.162.141.185",
-    "port": 52916,
-    "country": "South Korea",
-    "country_code": "KR",
-    "city": "Seoul",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 56.95,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 13042.63,
-    "last_checked": 1786482827.4084597
-  },
-  {
-    "protocol": "http",
-    "ip": "121.143.33.231",
-    "port": 3128,
-    "country": "South Korea",
-    "country_code": "KR",
-    "city": "Bupyeong-gu",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 32.49,
-    "asn": "AS4766",
-    "isp": "Korea Telecom",
-    "latency_ms": 13806.33,
-    "last_checked": 1786482826.88657
+    "latency_ms": 2998.49,
+    "last_checked": 1786483470.3193915
   },
   {
     "protocol": "socks4",
@@ -116,8 +56,83 @@
     "uptime_percent": 27.5,
     "asn": "AS3786",
     "isp": "LG DACOM KIDC",
-    "latency_ms": 4177.52,
-    "last_checked": 1786482825.3130848
+    "latency_ms": 4125.36,
+    "last_checked": 1786483468.3012495
+  },
+  {
+    "protocol": "socks4",
+    "ip": "130.162.141.185",
+    "port": 52916,
+    "country": "South Korea",
+    "country_code": "KR",
+    "city": "Seoul",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.75,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 13241.3,
+    "last_checked": 1786483460.7735002
+  },
+  {
+    "protocol": "http",
+    "ip": "43.155.203.19",
+    "port": 3128,
+    "country": "South Korea",
+    "country_code": "KR",
+    "city": "Seoul",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 27.76,
+    "asn": "AS132203",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "latency_ms": 14917.54,
+    "last_checked": 1786483446.3912606
+  },
+  {
+    "protocol": "socks5",
+    "ip": "152.70.237.238",
+    "port": 3128,
+    "country": "South Korea",
+    "country_code": "KR",
+    "city": "Seoul",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.98,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 4357.91,
+    "last_checked": 1786483445.7710013
+  },
+  {
+    "protocol": "socks5",
+    "ip": "47.80.27.150",
+    "port": 1080,
+    "country": "South Korea",
+    "country_code": "KR",
+    "city": "Seoul",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 77.01,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 1406.82,
+    "last_checked": 1786483444.9138942
+  },
+  {
+    "protocol": "http",
+    "ip": "183.110.216.128",
+    "port": 8090,
+    "country": "South Korea",
+    "country_code": "KR",
+    "city": "Seongnam-si",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 61.58,
+    "asn": "AS4766",
+    "isp": "Korea Telecom",
+    "latency_ms": 4127.73,
+    "last_checked": 1786483428.9340916
   },
   {
     "protocol": "http",
@@ -131,38 +146,38 @@
     "uptime_percent": 96.11,
     "asn": "AS9318",
     "isp": "SK Broadband Co Ltd",
-    "latency_ms": 848.88,
-    "last_checked": 1786482817.7526143
+    "latency_ms": 754.12,
+    "last_checked": 1786483427.4020426
+  },
+  {
+    "protocol": "socks5",
+    "ip": "222.102.194.158",
+    "port": 1111,
+    "country": "South Korea",
+    "country_code": "KR",
+    "city": "Gwangyang-si",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 15.88,
+    "asn": "AS4766",
+    "isp": "Korea Telecom",
+    "latency_ms": 17673.5,
+    "last_checked": 1786483423.8085656
   },
   {
     "protocol": "http",
-    "ip": "146.56.110.131",
-    "port": 8118,
+    "ip": "47.80.26.236",
+    "port": 8080,
     "country": "South Korea",
     "country_code": "KR",
-    "city": "Chuncheon",
+    "city": "Seoul",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 11.34,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 7598.0,
-    "last_checked": 1786482812.5199506
-  },
-  {
-    "protocol": "http",
-    "ip": "221.141.140.132",
-    "port": 8118,
-    "country": "South Korea",
-    "country_code": "KR",
-    "city": "Gyeonggi-do",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 18.07,
-    "asn": "AS9318",
-    "isp": "SK Broadband Co Ltd",
-    "latency_ms": 3036.49,
-    "last_checked": 1786482806.8044026
+    "uptime_percent": 25.58,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 14367.42,
+    "last_checked": 1786483418.8675098
   },
   {
     "protocol": "http",
@@ -173,11 +188,11 @@
     "city": "Busan",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 78.98,
+    "uptime_percent": 78.99,
     "asn": "AS9318",
     "isp": "SK Broadband Co Ltd",
-    "latency_ms": 808.65,
-    "last_checked": 1786482805.970974
+    "latency_ms": 749.31,
+    "last_checked": 1786483409.3273861
   },
   {
     "protocol": "http",
@@ -191,38 +206,8 @@
     "uptime_percent": 61.7,
     "asn": "AS4766",
     "isp": "Korea Telecom",
-    "latency_ms": 1070.83,
-    "last_checked": 1786482798.9053624
-  },
-  {
-    "protocol": "http",
-    "ip": "219.249.37.107",
-    "port": 8380,
-    "country": "South Korea",
-    "country_code": "KR",
-    "city": "Busan",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 79.74,
-    "asn": "AS9318",
-    "isp": "SK Broadband Co Ltd",
-    "latency_ms": 789.26,
-    "last_checked": 1786482785.713777
-  },
-  {
-    "protocol": "http",
-    "ip": "8.213.151.128",
-    "port": 3128,
-    "country": "South Korea",
-    "country_code": "KR",
-    "city": "Seoul",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 92.07,
-    "asn": "AS45102",
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "latency_ms": 686.44,
-    "last_checked": 1786482766.6532204
+    "latency_ms": 1102.74,
+    "last_checked": 1786483394.5656574
   },
   {
     "protocol": "http",
@@ -236,8 +221,23 @@
     "uptime_percent": 61.57,
     "asn": "AS4766",
     "isp": "Korea Telecom",
-    "latency_ms": 4162.19,
-    "last_checked": 1786482763.1450388
+    "latency_ms": 1075.16,
+    "last_checked": 1786483388.832185
+  },
+  {
+    "protocol": "http",
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "country": "South Korea",
+    "country_code": "KR",
+    "city": "Seoul",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 92.07,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 693.73,
+    "last_checked": 1786483383.6813781
   },
   {
     "protocol": "http",
@@ -251,8 +251,8 @@
     "uptime_percent": 61.6,
     "asn": "AS4766",
     "isp": "Korea Telecom",
-    "latency_ms": 1099.21,
-    "last_checked": 1786482731.7339623
+    "latency_ms": 8228.9,
+    "last_checked": 1786483356.8435109
   },
   {
     "protocol": "socks5",
@@ -266,8 +266,8 @@
     "uptime_percent": 99.77,
     "asn": "AS132203",
     "isp": "Shenzhen Tencent Computer Systems Company Limited",
-    "latency_ms": 13334.87,
-    "last_checked": 1786482878.3073804
+    "latency_ms": 2275.47,
+    "last_checked": 1786483476.3026416
   },
   {
     "protocol": "http",
@@ -281,22 +281,7 @@
     "uptime_percent": 73.73,
     "asn": "AS3786",
     "isp": "LG DACOM KIDC",
-    "latency_ms": 6030.83,
-    "last_checked": 1786482874.7620971
-  },
-  {
-    "protocol": "socks4",
-    "ip": "43.155.215.149",
-    "port": 20000,
-    "country": "South Korea",
-    "country_code": "KR",
-    "city": "Seoul",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 24.97,
-    "asn": "AS132203",
-    "isp": "Shenzhen Tencent Computer Systems Company Limited",
-    "latency_ms": 1321.98,
-    "last_checked": 1786482842.259992
+    "latency_ms": 3627.41,
+    "last_checked": 1786483456.3810208
   }
 ]
