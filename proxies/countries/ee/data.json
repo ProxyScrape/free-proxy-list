@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "5.45.119.70",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tartu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.38,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 3247.01,
+    "last_checked": 1786546158.9596708
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.128",
+    "port": 8080,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 73.84,
+    "ssl": false,
+    "uptime_percent": 38.29,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 211.08,
-    "last_checked": 1786545553.8400855
+    "latency_ms": 144.74,
+    "last_checked": 1786546129.7221766
   },
   {
     "protocol": "http",
@@ -26,52 +41,7 @@
     "uptime_percent": 38.45,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 7893.61,
-    "last_checked": 1786545518.464707
-  },
-  {
-    "protocol": "socks5",
-    "ip": "95.85.242.7",
-    "port": 9050,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 30.93,
-    "asn": "AS209693",
-    "isp": "OC NETWORKS LIMITED",
-    "latency_ms": 17159.51,
-    "last_checked": 1786545511.2723734
-  },
-  {
-    "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 38.28,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 127.38,
-    "last_checked": 1786545510.2466834
-  },
-  {
-    "protocol": "http",
-    "ip": "217.78.239.5",
-    "port": 4555,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 16.39,
-    "asn": "AS199144",
-    "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 9116.0,
-    "last_checked": 1786545484.6816022
+    "latency_ms": 11307.27,
+    "last_checked": 1786546104.2396986
   }
 ]
