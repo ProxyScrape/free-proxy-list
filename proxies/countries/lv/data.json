@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "109.248.161.54",
-    "port": 8081,
+    "protocol": "socks4",
+    "ip": "46.8.64.58",
+    "port": 1080,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 12.23,
+    "ssl": true,
+    "uptime_percent": 67.75,
     "asn": "AS56971",
     "isp": "CGI GLOBAL LIMITED",
-    "latency_ms": 4747.51,
-    "last_checked": 1786544282.620784
+    "latency_ms": 188.5,
+    "last_checked": 1786544985.2904828
+  },
+  {
+    "protocol": "socks5",
+    "ip": "46.8.64.58",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 67.37,
+    "asn": "AS56971",
+    "isp": "CGI GLOBAL LIMITED",
+    "latency_ms": 237.44,
+    "last_checked": 1786544968.1402702
   }
 ]
