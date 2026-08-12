@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks5",
     "ip": "45.95.232.35",
-    "port": 3128,
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 73.62,
+    "uptime_percent": 84.46,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2162.07,
-    "last_checked": 1786523028.51093
+    "latency_ms": 4261.37,
+    "last_checked": 1786523652.3324995
   },
   {
     "protocol": "socks4",
@@ -26,23 +26,8 @@
     "uptime_percent": 86.63,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 8185.27,
-    "last_checked": 1786523026.8577926
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.59.124.51",
-    "port": 10808,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Bern",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 21.28,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 325.33,
-    "last_checked": 1786523023.4155235
+    "latency_ms": 3206.68,
+    "last_checked": 1786523649.6409526
   },
   {
     "protocol": "http",
@@ -56,7 +41,52 @@
     "uptime_percent": 40.26,
     "asn": "AS51395",
     "isp": "Datasource AG",
-    "latency_ms": 17273.36,
-    "last_checked": 1786523010.6207974
+    "latency_ms": 4873.49,
+    "last_checked": 1786523633.9315436
+  },
+  {
+    "protocol": "http",
+    "ip": "151.241.217.200",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 20.8,
+    "asn": "AS57043",
+    "isp": "Hostkey B.V.",
+    "latency_ms": 8564.98,
+    "last_checked": 1786523624.573758
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.59.124.51",
+    "port": 10808,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Bern",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 21.01,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 7283.23,
+    "last_checked": 1786523589.2560008
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 73.62,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 8763.42,
+    "last_checked": 1786523554.683494
   }
 ]
