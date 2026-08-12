@@ -1,3 +1,5 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,185.85.111.18,80,Switzerland,CH,Tann,elite,false,40.3,AS51395,Datasource AG,11977.11,1786560554.2938278
-http,45.95.232.35,3128,Switzerland,CH,Zurich,elite,false,73.6,AS215540,Global Connectivity Solutions LLP,10197.9,1786560501.0213861
+socks4,45.95.232.35,1080,Switzerland,CH,Zurich,elite,true,86.54,AS215540,Global Connectivity Solutions LLP,5432.22,1786560886.6060185
+socks4,45.59.124.51,10808,Switzerland,CH,Bern,elite,true,21.84,AS14956,RouterHosting LLC,4117.75,1786560873.306897
+http,45.59.124.51,10809,Switzerland,CH,Bern,elite,false,13.86,AS14956,RouterHosting LLC,2598.92,1786560848.853388
+http,45.95.232.35,3128,Switzerland,CH,Zurich,elite,true,73.6,AS215540,Global Connectivity Solutions LLP,10830.62,1786560845.6846883

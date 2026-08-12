@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 8000,
+    "protocol": "socks5",
+    "ip": "192.9.171.168",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Burnside",
-    "anonymity": "anonymous",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 91.86,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 1732.01,
+    "last_checked": 1786560896.7788723
+  },
+  {
+    "protocol": "http",
+    "ip": "103.18.205.162",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 10.16,
-    "asn": "AS2764",
-    "isp": "AAPT Limited",
-    "latency_ms": 6687.19,
-    "last_checked": 1786560502.1646729
+    "uptime_percent": 31.1,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 3523.16,
+    "last_checked": 1786560805.6490376
+  },
+  {
+    "protocol": "http",
+    "ip": "103.131.232.9",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Goulburn",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 23.84,
+    "asn": "AS45447",
+    "isp": "YLess4U Pty Ltd",
+    "latency_ms": 1646.88,
+    "last_checked": 1786560798.356875
   }
 ]
