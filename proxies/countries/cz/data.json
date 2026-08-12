@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.248.179.99",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 60.81,
-    "asn": "AS48574",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 4047.05,
-    "last_checked": 1786558152.3491383
+    "ssl": true,
+    "uptime_percent": 36.33,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 1199.8,
+    "last_checked": 1786558765.3176944
   },
   {
     "protocol": "http",
@@ -26,7 +26,52 @@
     "uptime_percent": 85.62,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 5680.12,
-    "last_checked": 1786558151.2846668
+    "latency_ms": 2009.82,
+    "last_checked": 1786558757.1531348
+  },
+  {
+    "protocol": "socks5",
+    "ip": "38.180.235.32",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 64.5,
+    "asn": "AS9009",
+    "isp": "M247 Europe SRL",
+    "latency_ms": 156.99,
+    "last_checked": 1786558742.8576
+  },
+  {
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 67.01,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 8298.64,
+    "last_checked": 1786558724.6751041
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.01,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 8709.2,
+    "last_checked": 1786558721.6214635
   }
 ]
