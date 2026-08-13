@@ -1,17 +1,62 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks5",
     "ip": "45.95.232.35",
-    "port": 3128,
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 73.54,
+    "ssl": true,
+    "uptime_percent": 84.07,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 9792.82,
-    "last_checked": 1786594633.4374847
+    "latency_ms": 4530.44,
+    "last_checked": 1786595343.9589124
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 86.44,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 9351.19,
+    "last_checked": 1786595342.812092
+  },
+  {
+    "protocol": "socks4",
+    "ip": "84.234.28.219",
+    "port": 9080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.87,
+    "asn": "AS29222",
+    "isp": "Infomaniak Network SA",
+    "latency_ms": 15234.95,
+    "last_checked": 1786595336.3038597
+  },
+  {
+    "protocol": "socks4",
+    "ip": "195.225.116.14",
+    "port": 4145,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wädenswil",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.66,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 3092.46,
+    "last_checked": 1786595309.2687428
   }
 ]
