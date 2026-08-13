@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "195.225.116.14",
+    "port": 4145,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Tann",
+    "city": "Wädenswil",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 40.32,
-    "asn": "AS51395",
-    "isp": "Datasource AG",
-    "latency_ms": 2524.19,
-    "last_checked": 1786616956.8119972
+    "ssl": true,
+    "uptime_percent": 26.61,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 55.42,
+    "last_checked": 1786617572.86999
+  },
+  {
+    "protocol": "socks4",
+    "ip": "84.234.28.219",
+    "port": 9080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.29,
+    "asn": "AS29222",
+    "isp": "Infomaniak Network SA",
+    "latency_ms": 3809.95,
+    "last_checked": 1786617561.2605655
+  },
+  {
+    "protocol": "socks5",
+    "ip": "84.234.28.219",
+    "port": 9080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.5,
+    "asn": "AS29222",
+    "isp": "Infomaniak Network SA",
+    "latency_ms": 9322.23,
+    "last_checked": 1786617546.4257867
   }
 ]
