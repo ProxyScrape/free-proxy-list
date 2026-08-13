@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "217.16.136.160",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "185.190.154.121",
+    "port": 4145,
     "country": "Serbia",
     "country_code": "RS",
-    "city": "Jagodina",
+    "city": "Belgrade",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.75,
+    "asn": "AS8400",
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 226.15,
+    "last_checked": 1786600742.962624
+  },
+  {
+    "protocol": "http",
+    "ip": "212.200.223.89",
+    "port": 8080,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 58.52,
-    "asn": "AS197423",
-    "isp": "Jotel",
-    "latency_ms": 5143.27,
-    "last_checked": 1786600112.5008597
+    "uptime_percent": 52.05,
+    "asn": "AS8400",
+    "isp": "TELEKOM SRBIJA a.d.",
+    "latency_ms": 1286.62,
+    "last_checked": 1786600721.298209
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.245.110.145",
+    "port": 4145,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.96,
+    "asn": "AS15958",
+    "isp": "CETIN Ltd. Belgrade",
+    "latency_ms": 3201.41,
+    "last_checked": 1786600712.7076771
   }
 ]
