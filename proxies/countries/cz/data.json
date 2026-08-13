@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "38.180.235.32",
+    "port": 1080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Třeboň",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 85.63,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 2806.81,
-    "last_checked": 1786580949.866746
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 61.75,
+    "asn": "AS9009",
+    "isp": "M247 Europe SRL",
+    "latency_ms": 7179.44,
+    "last_checked": 1786581586.055929
   },
   {
     "protocol": "socks4",
@@ -26,22 +26,52 @@
     "uptime_percent": 41.4,
     "asn": "AS205400",
     "isp": "GIN's network",
-    "latency_ms": 1082.78,
-    "last_checked": 1786580935.4861894
+    "latency_ms": 7292.46,
+    "last_checked": 1786581560.6022704
   },
   {
     "protocol": "http",
-    "ip": "95.129.101.73",
+    "ip": "91.139.78.174",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Břasy",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.24,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 10205.48,
+    "last_checked": 1786581560.2747116
+  },
+  {
+    "protocol": "http",
+    "ip": "46.23.59.69",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Sušice",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.4,
+    "asn": "AS197296",
+    "isp": "MAXTEL s.r.o. 1",
+    "latency_ms": 5145.32,
+    "last_checked": 1786581559.9327402
+  },
+  {
+    "protocol": "http",
+    "ip": "147.231.163.133",
     "port": 80,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Brno",
-    "anonymity": "elite",
+    "city": "Třeboň",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 67.08,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 8076.68,
-    "last_checked": 1786580894.784783
+    "uptime_percent": 85.63,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 3466.43,
+    "last_checked": 1786581557.5552685
   }
 ]
