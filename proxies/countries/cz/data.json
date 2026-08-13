@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "109.69.211.18",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Přerov",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.01,
+    "asn": "AS196815",
+    "isp": "LAN servis s.r.o",
+    "latency_ms": 1151.17,
+    "last_checked": 1786604352.5945992
+  },
+  {
     "protocol": "socks5",
     "ip": "38.180.235.32",
     "port": 1080,
@@ -8,26 +23,11 @@
     "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 59.93,
+    "uptime_percent": 59.87,
     "asn": "AS9009",
     "isp": "M247 Europe SRL",
-    "latency_ms": 7408.77,
-    "last_checked": 1786603742.3736281
-  },
-  {
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Brno",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 67.18,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 9287.75,
-    "last_checked": 1786603719.7503002
+    "latency_ms": 107.4,
+    "last_checked": 1786604350.952311
   },
   {
     "protocol": "http",
@@ -41,7 +41,37 @@
     "uptime_percent": 85.65,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 2235.1,
-    "last_checked": 1786603696.4533842
+    "latency_ms": 4387.42,
+    "last_checked": 1786604333.2856684
+  },
+  {
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 67.18,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 7748.77,
+    "last_checked": 1786604302.899203
+  },
+  {
+    "protocol": "http",
+    "ip": "90.181.120.18",
+    "port": 8082,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 28.67,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 8213.45,
+    "last_checked": 1786604266.5247183
   }
 ]
