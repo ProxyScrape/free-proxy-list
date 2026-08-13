@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "85.132.139.45",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Slavkov u Brna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.33,
+    "asn": "AS205400",
+    "isp": "GIN's network",
+    "latency_ms": 1065.87,
+    "last_checked": 1786601997.515502
+  },
+  {
+    "protocol": "socks5",
+    "ip": "38.180.235.32",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.78,
+    "asn": "AS9009",
+    "isp": "M247 Europe SRL",
+    "latency_ms": 1116.74,
+    "last_checked": 1786601973.9312663
+  },
+  {
     "protocol": "http",
     "ip": "185.248.179.99",
     "port": 8080,
@@ -7,27 +37,12 @@
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 61.15,
     "asn": "AS48574",
     "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 8987.89,
-    "last_checked": 1786601667.8820014
-  },
-  {
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Brno",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 67.17,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 5559.22,
-    "last_checked": 1786601658.7947962
+    "latency_ms": 2144.38,
+    "last_checked": 1786601963.4033635
   },
   {
     "protocol": "http",
@@ -41,7 +56,22 @@
     "uptime_percent": 85.65,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 1662.12,
-    "last_checked": 1786601639.9660742
+    "latency_ms": 1046.47,
+    "last_checked": 1786601945.8956993
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 23.98,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 2051.59,
+    "last_checked": 1786601941.2670512
   }
 ]
