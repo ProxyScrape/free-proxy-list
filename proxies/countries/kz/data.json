@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "45.139.29.169",
-    "port": 1080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Astana",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 100.0,
-    "asn": "AS205516",
-    "isp": "NLS ASTANA LLP",
-    "latency_ms": 483.94,
-    "last_checked": 1786627140.2957888
-  },
-  {
     "protocol": "socks5",
     "ip": "45.139.29.169",
     "port": 1080,
@@ -26,23 +11,23 @@
     "uptime_percent": 100.0,
     "asn": "AS205516",
     "isp": "NLS ASTANA LLP",
-    "latency_ms": 428.64,
-    "last_checked": 1786627138.3232777
+    "latency_ms": 528.06,
+    "last_checked": 1786627739.1098502
   },
   {
-    "protocol": "http",
-    "ip": "82.115.60.66",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "45.139.29.169",
+    "port": 1080,
     "country": "Kazakhstan",
     "country_code": "KZ",
-    "city": "Almaty",
+    "city": "Astana",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 67.71,
-    "asn": "AS200590",
-    "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 6830.88,
-    "last_checked": 1786627134.649801
+    "ssl": true,
+    "uptime_percent": 100.0,
+    "asn": "AS205516",
+    "isp": "NLS ASTANA LLP",
+    "latency_ms": 422.72,
+    "last_checked": 1786627728.9119377
   },
   {
     "protocol": "http",
@@ -56,8 +41,8 @@
     "uptime_percent": 82.79,
     "asn": "AS208795",
     "isp": "\"Cloud Services Kazakhstan\" LLP",
-    "latency_ms": 10495.25,
-    "last_checked": 1786627117.0014412
+    "latency_ms": 2931.44,
+    "last_checked": 1786627720.0648706
   },
   {
     "protocol": "http",
@@ -68,10 +53,40 @@
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 59.42,
+    "uptime_percent": 59.43,
     "asn": "AS200590",
     "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 782.46,
-    "last_checked": 1786627096.3628619
+    "latency_ms": 772.71,
+    "last_checked": 1786627712.1504683
+  },
+  {
+    "protocol": "http",
+    "ip": "82.115.60.66",
+    "port": 80,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 67.72,
+    "asn": "AS200590",
+    "isp": "NLS Kazakhstan LLC",
+    "latency_ms": 770.9,
+    "last_checked": 1786627698.818075
+  },
+  {
+    "protocol": "http",
+    "ip": "93.185.68.82",
+    "port": 8080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Atyrau",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 32.65,
+    "asn": "AS35104",
+    "isp": "JSC \"KazTransCom\"",
+    "latency_ms": 4841.62,
+    "last_checked": 1786627677.402156
   }
 ]
