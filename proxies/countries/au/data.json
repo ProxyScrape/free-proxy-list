@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "192.9.171.168",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 92.1,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 3197.24,
-    "last_checked": 1786631398.8008535
-  },
-  {
     "protocol": "socks5",
     "ip": "192.9.171.168",
     "port": 1080,
@@ -26,8 +11,23 @@
     "uptime_percent": 92.01,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 1761.16,
-    "last_checked": 1786631395.9767032
+    "latency_ms": 3823.08,
+    "last_checked": 1786631694.0676033
+  },
+  {
+    "protocol": "socks4",
+    "ip": "192.9.171.168",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 92.1,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 4635.47,
+    "last_checked": 1786631685.860074
   },
   {
     "protocol": "http",
@@ -41,22 +41,37 @@
     "uptime_percent": 32.24,
     "asn": "AS133159",
     "isp": "Mammoth Media Pty Ltd",
-    "latency_ms": 17591.26,
-    "last_checked": 1786631361.570063
+    "latency_ms": 13849.94,
+    "last_checked": 1786631633.5534322
   },
   {
     "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
+    "ip": "4.147.85.147",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "The Rocks",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 21.79,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 10757.08,
+    "last_checked": 1786631631.612849
+  },
+  {
+    "protocol": "http",
+    "ip": "103.18.205.162",
+    "port": 8080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 59.9,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 3276.11,
-    "last_checked": 1786631351.2859876
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.99,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 549.7,
+    "last_checked": 1786631586.519243
   }
 ]
