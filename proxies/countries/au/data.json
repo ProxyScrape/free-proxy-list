@@ -1,33 +1,48 @@
 [
   {
     "protocol": "http",
+    "ip": "108.61.213.218",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 23.4,
+    "asn": "AS20473",
+    "isp": "Choopa",
+    "latency_ms": 4918.23,
+    "last_checked": 1786748045.5873249
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.65,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 4802.78,
+    "last_checked": 1786748045.262643
+  },
+  {
+    "protocol": "http",
     "ip": "46.250.241.229",
     "port": 3128,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 36.81,
     "asn": "AS141995",
     "isp": "Contabo Asia Private Limited",
-    "latency_ms": 7584.94,
-    "last_checked": 1786747698.6524518
-  },
-  {
-    "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 59.67,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 12820.83,
-    "last_checked": 1786747657.3095767
+    "latency_ms": 5771.03,
+    "last_checked": 1786748032.5391946
   },
   {
     "protocol": "http",
@@ -37,11 +52,26 @@
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 22.63,
+    "ssl": false,
+    "uptime_percent": 22.65,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 9779.29,
-    "last_checked": 1786747626.956804
+    "latency_ms": 5228.45,
+    "last_checked": 1786748002.5322702
+  },
+  {
+    "protocol": "http",
+    "ip": "180.181.215.232",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 32.61,
+    "asn": "AS4764",
+    "isp": "Aussie Fibre Pty Ltd",
+    "latency_ms": 9155.54,
+    "last_checked": 1786747990.6874912
   }
 ]
