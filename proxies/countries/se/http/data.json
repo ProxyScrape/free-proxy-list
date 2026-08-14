@@ -1,48 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "87.120.196.132",
-    "port": 35000,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 39.56,
-    "asn": "AS198550",
-    "isp": "Node Host Limited",
-    "latency_ms": 13169.17,
-    "last_checked": 1786679648.752897
-  },
-  {
-    "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 8001,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 68.43,
-    "asn": "AS206170",
-    "isp": "Yelles AB",
-    "latency_ms": 9678.44,
-    "last_checked": 1786679628.5451283
-  },
-  {
-    "protocol": "http",
     "ip": "62.60.152.245",
     "port": 3128,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.81,
+    "ssl": true,
+    "uptime_percent": 25.86,
     "asn": "AS203273",
     "isp": "NetCrafters OU",
-    "latency_ms": 19763.57,
-    "last_checked": 1786679627.30139
+    "latency_ms": 7562.12,
+    "last_checked": 1786680237.5198734
+  },
+  {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 80,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 67.19,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 10580.76,
+    "last_checked": 1786680161.9944422
   },
   {
     "protocol": "http",
@@ -53,10 +38,25 @@
     "city": "Falkenberg",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 24.73,
+    "uptime_percent": 24.75,
     "asn": "AS48040",
     "isp": "Fornex Hosting S.L.",
-    "latency_ms": 12859.62,
-    "last_checked": 1786679578.8067555
+    "latency_ms": 17717.31,
+    "last_checked": 1786680127.842408
+  },
+  {
+    "protocol": "http",
+    "ip": "87.120.196.132",
+    "port": 35000,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.58,
+    "asn": "AS198550",
+    "isp": "Node Host Limited",
+    "latency_ms": 14964.36,
+    "last_checked": 1786680121.484952
   }
 ]
