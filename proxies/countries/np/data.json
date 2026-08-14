@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "110.34.1.178",
-    "port": 7777,
+    "protocol": "socks4",
+    "ip": "110.34.3.144",
+    "port": 1080,
     "country": "Nepal",
     "country_code": "NP",
     "city": "Kathmandu",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 21.37,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.04,
     "asn": "AS4007",
-    "isp": "Subisu Cablenet",
-    "latency_ms": 7313.7,
-    "last_checked": 1786664848.3760264
+    "isp": "SUBISU C7",
+    "latency_ms": 3871.53,
+    "last_checked": 1786665568.5127177
+  },
+  {
+    "protocol": "http",
+    "ip": "43.245.85.46",
+    "port": 808,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Patan",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 23.66,
+    "asn": "AS45650",
+    "isp": "Vianet",
+    "latency_ms": 7631.75,
+    "last_checked": 1786665540.3449183
   }
 ]
