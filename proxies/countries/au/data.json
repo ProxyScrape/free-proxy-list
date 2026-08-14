@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "192.9.171.168",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 92.27,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 1944.76,
+    "last_checked": 1786712365.4675202
+  },
+  {
+    "protocol": "http",
+    "ip": "59.154.238.91",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 47.83,
+    "asn": "AS7474",
+    "isp": "SingTel Optus Pty Ltd",
+    "latency_ms": 1364.01,
+    "last_checked": 1786712349.891883
+  },
+  {
     "protocol": "socks4",
     "ip": "192.9.171.168",
     "port": 1080,
@@ -8,25 +38,40 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 92.25,
+    "uptime_percent": 92.26,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 1590.85,
-    "last_checked": 1786711734.6297376
+    "latency_ms": 4611.06,
+    "last_checked": 1786712344.8039281
   },
   {
-    "protocol": "socks4",
-    "ip": "168.138.9.147",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "103.18.205.162",
+    "port": 8080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
-    "anonymity": "elite",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 31.01,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 10094.89,
+    "last_checked": 1786712319.8247874
+  },
+  {
+    "protocol": "http",
+    "ip": "108.61.213.218",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "anonymous",
     "ssl": true,
-    "uptime_percent": 37.1,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 9572.01,
-    "last_checked": 1786711698.9577785
+    "uptime_percent": 22.79,
+    "asn": "AS20473",
+    "isp": "Choopa",
+    "latency_ms": 14806.15,
+    "last_checked": 1786712287.465375
   }
 ]
