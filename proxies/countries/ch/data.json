@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "45.95.232.35",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Zurich",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 40.55,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 30.71,
+    "last_checked": 1786806582.380683
+  },
+  {
+    "protocol": "socks4",
+    "ip": "84.234.28.219",
+    "port": 9080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 86.05,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 6723.79,
-    "last_checked": 1786805966.7334785
+    "uptime_percent": 36.59,
+    "asn": "AS29222",
+    "isp": "Infomaniak Network SA",
+    "latency_ms": 2266.57,
+    "last_checked": 1786806537.9881957
   },
   {
     "protocol": "socks5",
@@ -26,37 +41,22 @@
     "uptime_percent": 83.24,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2104.11,
-    "last_checked": 1786805952.9400907
+    "latency_ms": 7790.91,
+    "last_checked": 1786806536.9420042
   },
   {
-    "protocol": "http",
-    "ip": "45.95.232.35",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "84.234.28.219",
+    "port": 9080,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Zurich",
+    "city": "Geneva",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 73.23,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 12635.74,
-    "last_checked": 1786805949.8309503
-  },
-  {
-    "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Tann",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 40.55,
-    "asn": "AS51395",
-    "isp": "Datasource AG",
-    "latency_ms": 30.57,
-    "last_checked": 1786805940.977771
+    "ssl": true,
+    "uptime_percent": 41.07,
+    "asn": "AS29222",
+    "isp": "Infomaniak Network SA",
+    "latency_ms": 16113.25,
+    "last_checked": 1786806516.4761748
   }
 ]
