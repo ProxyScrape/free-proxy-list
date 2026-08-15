@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "66.163.118.99",
     "port": 10006,
     "country": "Spain",
@@ -11,23 +11,38 @@
     "uptime_percent": 99.39,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 202.58,
-    "last_checked": 1786788851.643407
+    "latency_ms": 129.88,
+    "last_checked": 1786789177.6806674
   },
   {
-    "protocol": "http",
-    "ip": "66.163.118.99",
-    "port": 10006,
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Ciempozuelos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.33,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 169.04,
+    "last_checked": 1786789171.0183885
+  },
+  {
+    "protocol": "socks5",
+    "ip": "154.62.226.187",
+    "port": 9051,
     "country": "Spain",
     "country_code": "ES",
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 99.01,
-    "asn": "AS63023",
-    "isp": "GTHost",
-    "latency_ms": 121.48,
-    "last_checked": 1786788843.969097
+    "uptime_percent": 13.98,
+    "asn": "AS214036",
+    "isp": "Ultahost, Inc.",
+    "latency_ms": 4016.91,
+    "last_checked": 1786789170.2120554
   },
   {
     "protocol": "http",
@@ -41,11 +56,11 @@
     "uptime_percent": 81.96,
     "asn": "AS15704",
     "isp": "Xtra Telecom S.A",
-    "latency_ms": 139.45,
-    "last_checked": 1786788842.4407945
+    "latency_ms": 134.8,
+    "last_checked": 1786789166.325594
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "66.163.118.99",
     "port": 10006,
     "country": "Spain",
@@ -56,8 +71,38 @@
     "uptime_percent": 99.39,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 140.08,
-    "last_checked": 1786788840.3095274
+    "latency_ms": 4262.6,
+    "last_checked": 1786789156.0346756
+  },
+  {
+    "protocol": "http",
+    "ip": "66.163.118.99",
+    "port": 10006,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 99.01,
+    "asn": "AS63023",
+    "isp": "GTHost",
+    "latency_ms": 119.77,
+    "last_checked": 1786789151.2576993
+  },
+  {
+    "protocol": "http",
+    "ip": "45.86.229.39",
+    "port": 11000,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 13.16,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 7398.4,
+    "last_checked": 1786789140.4798439
   },
   {
     "protocol": "http",
@@ -71,67 +116,22 @@
     "uptime_percent": 67.69,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 5135.0,
-    "last_checked": 1786788836.6649039
+    "latency_ms": 5136.93,
+    "last_checked": 1786789113.9675632
   },
   {
     "protocol": "http",
-    "ip": "141.227.128.55",
-    "port": 3128,
+    "ip": "188.227.140.181",
+    "port": 8080,
     "country": "Spain",
     "country_code": "ES",
     "city": "Madrid",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 33.44,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 11365.8,
-    "last_checked": 1786788814.1046984
-  },
-  {
-    "protocol": "socks5",
-    "ip": "154.62.226.187",
-    "port": 9051,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 13.97,
-    "asn": "AS214036",
-    "isp": "Ultahost, Inc.",
-    "latency_ms": 11892.39,
-    "last_checked": 1786788791.649512
-  },
-  {
-    "protocol": "http",
-    "ip": "91.126.244.112",
-    "port": 8080,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Barcelona",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 31.06,
-    "asn": "AS35699",
-    "isp": "Adamo Telecom Iberia S.A Catalonia",
-    "latency_ms": 2477.45,
-    "last_checked": 1786788785.790565
-  },
-  {
-    "protocol": "http",
-    "ip": "162.213.65.63",
-    "port": 8080,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Vic",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 29.19,
-    "asn": "AS208909",
-    "isp": "Gurbtec Iguana Telecom SL",
-    "latency_ms": 10305.08,
-    "last_checked": 1786788773.5234296
+    "ssl": false,
+    "uptime_percent": 8.57,
+    "asn": "AS56882",
+    "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
+    "latency_ms": 6408.64,
+    "last_checked": 1786789096.3988392
   }
 ]
