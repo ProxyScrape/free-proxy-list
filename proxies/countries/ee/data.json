@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 39.78,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 143.15,
-    "last_checked": 1786790345.7617927
-  },
-  {
     "protocol": "socks5",
     "ip": "5.45.119.70",
     "port": 1080,
@@ -26,8 +11,38 @@
     "uptime_percent": 71.15,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 250.18,
-    "last_checked": 1786790341.9213595
+    "latency_ms": 201.95,
+    "last_checked": 1786790686.3192654
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tartu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.03,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 3260.49,
+    "last_checked": 1786790680.9134395
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.128",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 39.79,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 157.05,
+    "last_checked": 1786790653.4006648
   },
   {
     "protocol": "http",
@@ -37,11 +52,26 @@
     "country_code": "EE",
     "city": "Tallinn",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 16.33,
+    "ssl": true,
+    "uptime_percent": 16.34,
     "asn": "AS199144",
     "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 2534.0,
-    "last_checked": 1786790220.5197003
+    "latency_ms": 4563.99,
+    "last_checked": 1786790608.6231432
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.165",
+    "port": 13215,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 38.14,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 9925.74,
+    "last_checked": 1786790553.1780155
   }
 ]
