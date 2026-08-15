@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
     "country": "Switzerland",
@@ -8,26 +8,11 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 83.23,
+    "uptime_percent": 86.08,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3203.99,
-    "last_checked": 1786773270.3331366
-  },
-  {
-    "protocol": "http",
-    "ip": "151.241.217.200",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 19.3,
-    "asn": "AS57043",
-    "isp": "Hostkey B.V.",
-    "latency_ms": 9463.8,
-    "last_checked": 1786773242.5807536
+    "latency_ms": 3606.19,
+    "last_checked": 1786773542.5329497
   },
   {
     "protocol": "http",
@@ -41,8 +26,23 @@
     "uptime_percent": 17.29,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 7424.46,
-    "last_checked": 1786773235.4169865
+    "latency_ms": 2371.93,
+    "last_checked": 1786773538.6413133
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 83.23,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 4117.92,
+    "last_checked": 1786773525.3812728
   },
   {
     "protocol": "http",
@@ -56,7 +56,22 @@
     "uptime_percent": 73.3,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 5196.67,
-    "last_checked": 1786773206.9377456
+    "latency_ms": 11048.6,
+    "last_checked": 1786773497.8247097
+  },
+  {
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 40.51,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 11176.59,
+    "last_checked": 1786773340.2612917
   }
 ]
