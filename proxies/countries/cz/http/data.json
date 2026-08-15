@@ -1,21 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Třeboň",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 85.73,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 7728.11,
-    "last_checked": 1786808320.5159373
-  },
-  {
-    "protocol": "http",
     "ip": "95.129.101.73",
     "port": 80,
     "country": "Czechia",
@@ -26,8 +11,23 @@
     "uptime_percent": 67.45,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 9006.96,
-    "last_checked": 1786808299.36463
+    "latency_ms": 8039.91,
+    "last_checked": 1786808668.9047303
+  },
+  {
+    "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Třeboň",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 85.73,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 2949.26,
+    "last_checked": 1786808653.7579663
   },
   {
     "protocol": "http",
@@ -37,26 +37,41 @@
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 59.76,
+    "ssl": true,
+    "uptime_percent": 59.77,
     "asn": "AS48574",
     "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 16716.5,
-    "last_checked": 1786808287.4887223
+    "latency_ms": 6482.12,
+    "last_checked": 1786808646.076017
   },
   {
     "protocol": "http",
-    "ip": "46.23.59.69",
+    "ip": "193.179.52.197",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 27.43,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 1084.85,
+    "last_checked": 1786808628.494149
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
     "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Klatovy",
+    "city": "Dobříš",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 27.18,
-    "asn": "AS197296",
-    "isp": "MAXTEL s.r.o. 1",
-    "latency_ms": 11756.56,
-    "last_checked": 1786808270.5887163
+    "uptime_percent": 23.83,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 4876.35,
+    "last_checked": 1786808575.7177515
   }
 ]
