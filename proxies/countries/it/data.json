@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -8,11 +8,26 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 92.14,
+    "uptime_percent": 89.49,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 2113.23,
-    "last_checked": 1786826694.3866518
+    "latency_ms": 850.33,
+    "last_checked": 1786827299.3139987
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.62.48.83",
+    "port": 5678,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rocchetta a Volturno",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.66,
+    "asn": "AS201847",
+    "isp": "Elektronica Networks",
+    "latency_ms": 2272.56,
+    "last_checked": 1786827292.8505843
   },
   {
     "protocol": "socks4",
@@ -26,23 +41,8 @@
     "uptime_percent": 99.13,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 64.86,
-    "last_checked": 1786826694.3621614
-  },
-  {
-    "protocol": "socks4",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 89.48,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 1389.85,
-    "last_checked": 1786826692.976751
+    "latency_ms": 58.69,
+    "last_checked": 1786827292.4571004
   },
   {
     "protocol": "http",
@@ -53,26 +53,41 @@
     "city": "Biella",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 34.31,
+    "uptime_percent": 34.32,
     "asn": "AS42669",
     "isp": "MegaWeb",
-    "latency_ms": 849.64,
-    "last_checked": 1786826679.7275357
+    "latency_ms": 2027.6,
+    "last_checked": 1786827287.6852639
   },
   {
     "protocol": "socks5",
-    "ip": "66.163.119.55",
-    "port": 10006,
+    "ip": "149.62.186.244",
+    "port": 1080,
     "country": "Italy",
     "country_code": "IT",
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 99.2,
-    "asn": "AS63023",
-    "isp": "GTHost",
-    "latency_ms": 2709.54,
-    "last_checked": 1786826674.060878
+    "uptime_percent": 92.14,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 1996.02,
+    "last_checked": 1786827285.8117812
+  },
+  {
+    "protocol": "http",
+    "ip": "185.191.106.41",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.95,
+    "asn": "AS44092",
+    "isp": "Mywic Costumers",
+    "latency_ms": 2532.64,
+    "last_checked": 1786827282.2698028
   },
   {
     "protocol": "http",
@@ -86,8 +101,23 @@
     "uptime_percent": 98.53,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 8295.7,
-    "last_checked": 1786826668.475788
+    "latency_ms": 1054.86,
+    "last_checked": 1786827271.1458874
+  },
+  {
+    "protocol": "socks5",
+    "ip": "66.163.119.55",
+    "port": 10006,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 99.2,
+    "asn": "AS63023",
+    "isp": "GTHost",
+    "latency_ms": 69.43,
+    "last_checked": 1786827264.4905713
   },
   {
     "protocol": "http",
@@ -101,37 +131,7 @@
     "uptime_percent": 9.51,
     "asn": "AS44092",
     "isp": "HAL Service SpA",
-    "latency_ms": 8993.83,
-    "last_checked": 1786826650.3982005
-  },
-  {
-    "protocol": "http",
-    "ip": "79.54.119.155",
-    "port": 8081,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Rome",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 28.52,
-    "asn": "AS3269",
-    "isp": "INTERBUSINESS",
-    "latency_ms": 12254.53,
-    "last_checked": 1786826603.8128989
-  },
-  {
-    "protocol": "http",
-    "ip": "185.191.106.41",
-    "port": 8081,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 24.95,
-    "asn": "AS44092",
-    "isp": "Mywic Costumers",
-    "latency_ms": 3209.27,
-    "last_checked": 1786826502.6609883
+    "latency_ms": 9999.1,
+    "last_checked": 1786827241.4033823
   }
 ]
