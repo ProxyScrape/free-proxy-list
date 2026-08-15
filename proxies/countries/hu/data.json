@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "89.135.59.77",
-    "port": 8090,
+    "protocol": "socks4",
+    "ip": "89.132.170.211",
+    "port": 4145,
     "country": "Hungary",
     "country_code": "HU",
-    "city": "Jászfelsőszentgyörgy",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 11.2,
+    "city": "Nagykanizsa",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.15,
     "asn": "AS21334",
     "isp": "One Hungary Ltd.",
-    "latency_ms": 4144.18,
-    "last_checked": 1786825014.5687103
+    "latency_ms": 3173.0,
+    "last_checked": 1786825789.4130864
+  },
+  {
+    "protocol": "socks5",
+    "ip": "78.24.185.238",
+    "port": 1080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Budapest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 64.82,
+    "asn": "AS41075",
+    "isp": "Cyber",
+    "latency_ms": 8312.66,
+    "last_checked": 1786825784.5039203
+  },
+  {
+    "protocol": "socks5",
+    "ip": "78.24.185.236",
+    "port": 1080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Budapest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.86,
+    "asn": "AS41075",
+    "isp": "Cyber",
+    "latency_ms": 11918.73,
+    "last_checked": 1786825745.503923
   }
 ]
