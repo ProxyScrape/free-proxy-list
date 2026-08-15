@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "181.115.75.102",
-    "port": 5678,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "San Pedro Sula",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 19.21,
-    "asn": "AS14754",
-    "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-    "latency_ms": 3790.29,
-    "last_checked": 1786789164.7609837
-  },
-  {
-    "protocol": "http",
-    "ip": "164.163.73.5",
-    "port": 999,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "Santa Rosa de Copán",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 18.55,
-    "asn": "AS265767",
-    "isp": "Grupo Inma S.A",
-    "latency_ms": 7081.83,
-    "last_checked": 1786789127.3936584
-  },
-  {
     "protocol": "http",
     "ip": "181.78.44.63",
     "port": 999,
@@ -37,11 +7,26 @@
     "country_code": "HN",
     "city": "La Unión",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 53.06,
     "asn": "AS52468",
     "isp": "Ufinet Panama S.A.",
-    "latency_ms": 13800.68,
-    "last_checked": 1786789038.8778172
+    "latency_ms": 4106.21,
+    "last_checked": 1786789724.955121
+  },
+  {
+    "protocol": "http",
+    "ip": "164.163.73.69",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Santa Rosa de Copán",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.96,
+    "asn": "AS265767",
+    "isp": "Grupo Inma S.A",
+    "latency_ms": 7198.31,
+    "last_checked": 1786789666.0735025
   }
 ]
