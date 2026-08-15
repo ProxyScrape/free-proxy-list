@@ -1,36 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "66.163.118.99",
-    "port": 10006,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 99.39,
-    "asn": "AS63023",
-    "isp": "GTHost",
-    "latency_ms": 127.36,
-    "last_checked": 1786776595.2993684
-  },
-  {
-    "protocol": "socks4",
-    "ip": "65.20.105.241",
-    "port": 10001,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.24,
-    "asn": "AS20473",
-    "isp": "The Constant Company, LLC",
-    "latency_ms": 7244.17,
-    "last_checked": 1786776585.844886
-  },
-  {
-    "protocol": "socks4",
     "ip": "83.56.15.57",
     "port": 5678,
     "country": "Spain",
@@ -41,23 +11,23 @@
     "uptime_percent": 33.31,
     "asn": "AS3352",
     "isp": "Telefonica de Espana SAU",
-    "latency_ms": 1183.12,
-    "last_checked": 1786776579.835555
+    "latency_ms": 3196.42,
+    "last_checked": 1786777171.9655135
   },
   {
-    "protocol": "socks5",
-    "ip": "45.86.229.39",
-    "port": 11000,
+    "protocol": "socks4",
+    "ip": "192.142.52.65",
+    "port": 1080,
     "country": "Spain",
     "country_code": "ES",
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 15.09,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 16573.04,
-    "last_checked": 1786776570.879305
+    "uptime_percent": 28.9,
+    "asn": "AS214036",
+    "isp": "Ultahost, Inc.",
+    "latency_ms": 3881.41,
+    "last_checked": 1786777171.7187076
   },
   {
     "protocol": "socks5",
@@ -71,11 +41,11 @@
     "uptime_percent": 99.39,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 160.35,
-    "last_checked": 1786776570.3507652
+    "latency_ms": 159.34,
+    "last_checked": 1786777168.4340303
   },
   {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "66.163.118.99",
     "port": 10006,
     "country": "Spain",
@@ -83,26 +53,26 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 99.0,
+    "uptime_percent": 99.39,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 106.5,
-    "last_checked": 1786776569.4011457
+    "latency_ms": 127.77,
+    "last_checked": 1786777168.377635
   },
   {
-    "protocol": "socks5",
-    "ip": "45.192.9.27",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "90.174.128.42",
+    "port": 3128,
     "country": "Spain",
     "country_code": "ES",
     "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 67.38,
-    "asn": "AS200758",
-    "isp": "Datagear LLP",
-    "latency_ms": 3341.1,
-    "last_checked": 1786776562.2727056
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.88,
+    "asn": "AS12479",
+    "isp": "Uni2",
+    "latency_ms": 4678.58,
+    "last_checked": 1786777154.643386
   },
   {
     "protocol": "http",
@@ -116,8 +86,8 @@
     "uptime_percent": 81.93,
     "asn": "AS15704",
     "isp": "Xtra Telecom S.A",
-    "latency_ms": 134.05,
-    "last_checked": 1786776536.0008438
+    "latency_ms": 140.14,
+    "last_checked": 1786777154.188509
   },
   {
     "protocol": "socks4",
@@ -131,8 +101,38 @@
     "uptime_percent": 15.15,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 26897.04,
-    "last_checked": 1786776530.3891287
+    "latency_ms": 23879.03,
+    "last_checked": 1786777134.6074715
+  },
+  {
+    "protocol": "http",
+    "ip": "66.163.118.99",
+    "port": 10006,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 99.01,
+    "asn": "AS63023",
+    "isp": "GTHost",
+    "latency_ms": 123.34,
+    "last_checked": 1786777130.544386
+  },
+  {
+    "protocol": "socks5",
+    "ip": "154.62.226.187",
+    "port": 9051,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.96,
+    "asn": "AS214036",
+    "isp": "Ultahost, Inc.",
+    "latency_ms": 10667.73,
+    "last_checked": 1786777129.9281204
   },
   {
     "protocol": "http",
@@ -143,25 +143,40 @@
     "city": "Alcobendas",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 67.68,
+    "uptime_percent": 67.69,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 5142.85,
-    "last_checked": 1786776519.7879875
+    "latency_ms": 5136.31,
+    "last_checked": 1786777111.6597755
   },
   {
     "protocol": "http",
-    "ip": "141.227.128.55",
-    "port": 3128,
+    "ip": "193.38.224.169",
+    "port": 8081,
     "country": "Spain",
     "country_code": "ES",
     "city": "Madrid",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 33.45,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 6400.73,
-    "last_checked": 1786776491.9488254
+    "uptime_percent": 7.97,
+    "asn": "AS206276",
+    "isp": "Citelia s.a.",
+    "latency_ms": 12673.15,
+    "last_checked": 1786777068.3850102
+  },
+  {
+    "protocol": "http",
+    "ip": "91.126.244.112",
+    "port": 8080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Barcelona",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 31.13,
+    "asn": "AS35699",
+    "isp": "Adamo Telecom Iberia S.A Catalonia",
+    "latency_ms": 3738.9,
+    "last_checked": 1786777017.2680914
   }
 ]
