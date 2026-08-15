@@ -1,33 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Třeboň",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 85.73,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 421.13,
-    "last_checked": 1786777477.9652421
-  },
-  {
-    "protocol": "http",
-    "ip": "109.164.35.23",
-    "port": 8888,
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 22.49,
-    "asn": "AS44489",
-    "isp": "STARNET, s.r.o.",
-    "latency_ms": 172.58,
-    "last_checked": 1786777469.7008338
+    "uptime_percent": 35.83,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 1443.92,
+    "last_checked": 1786778077.34743
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 6.12,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 1132.47,
+    "last_checked": 1786778074.263969
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.69.211.18",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Přerov",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.53,
+    "asn": "AS196815",
+    "isp": "LAN servis s.r.o",
+    "latency_ms": 7539.56,
+    "last_checked": 1786778072.5348222
   },
   {
     "protocol": "socks4",
@@ -41,8 +56,38 @@
     "uptime_percent": 40.98,
     "asn": "AS205400",
     "isp": "GIN's network",
-    "latency_ms": 3112.15,
-    "last_checked": 1786777462.4768312
+    "latency_ms": 3101.32,
+    "last_checked": 1786778069.2724595
+  },
+  {
+    "protocol": "http",
+    "ip": "46.23.59.69",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Klatovy",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.69,
+    "asn": "AS197296",
+    "isp": "MAXTEL s.r.o. 1",
+    "latency_ms": 3697.29,
+    "last_checked": 1786778055.3568094
+  },
+  {
+    "protocol": "http",
+    "ip": "109.164.35.23",
+    "port": 8888,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.52,
+    "asn": "AS44489",
+    "isp": "STARNET, s.r.o.",
+    "latency_ms": 182.16,
+    "last_checked": 1786778052.6617417
   },
   {
     "protocol": "http",
@@ -53,11 +98,11 @@
     "city": "Brno",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 67.44,
+    "uptime_percent": 67.43,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 10022.11,
-    "last_checked": 1786777451.4298959
+    "latency_ms": 14032.3,
+    "last_checked": 1786778033.5394156
   },
   {
     "protocol": "http",
@@ -67,11 +112,26 @@
     "country_code": "CZ",
     "city": "Břasy",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 15.03,
     "asn": "AS13036",
     "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 2934.47,
-    "last_checked": 1786777359.513321
+    "latency_ms": 14305.31,
+    "last_checked": 1786777934.7160234
+  },
+  {
+    "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Třeboň",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 85.73,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 3540.42,
+    "last_checked": 1786777928.7727053
   }
 ]
