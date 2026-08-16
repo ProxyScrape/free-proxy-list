@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "159.148.146.65",
-    "port": 5678,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 57.64,
-    "asn": "AS2588",
-    "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 3205.61,
-    "last_checked": 1786908565.7700362
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.38.198.127",
-    "port": 1080,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 13.94,
-    "asn": "AS211273",
-    "isp": "Cloud Software - FZCO",
-    "latency_ms": 5681.01,
-    "last_checked": 1786908565.050144
-  },
-  {
     "protocol": "socks5",
     "ip": "195.135.255.98",
     "port": 1080,
@@ -41,8 +11,23 @@
     "uptime_percent": 70.95,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 1189.28,
-    "last_checked": 1786908564.734022
+    "latency_ms": 2186.44,
+    "last_checked": 1786909166.3826194
+  },
+  {
+    "protocol": "socks4",
+    "ip": "159.148.146.65",
+    "port": 5678,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.64,
+    "asn": "AS2588",
+    "isp": "SIA \"BITE Latvija\"",
+    "latency_ms": 7434.47,
+    "last_checked": 1786909161.4769971
   },
   {
     "protocol": "http",
@@ -52,11 +37,26 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 29.91,
     "asn": "AS44575",
     "isp": "SIA \"MWTV\"",
-    "latency_ms": 10204.34,
-    "last_checked": 1786908551.899957
+    "latency_ms": 17991.2,
+    "last_checked": 1786909105.2867193
+  },
+  {
+    "protocol": "http",
+    "ip": "31.58.79.229",
+    "port": 8081,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 13.59,
+    "asn": "AS56971",
+    "isp": "CGI GLOBAL LIMITED",
+    "latency_ms": 13974.86,
+    "last_checked": 1786909100.1085327
   }
 ]
