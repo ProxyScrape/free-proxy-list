@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "95.140.113.74",
-    "port": 6666,
+    "protocol": "socks4",
+    "ip": "95.140.118.34",
+    "port": 1080,
     "country": "Serbia",
     "country_code": "RS",
     "city": "Belgrade",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 32.27,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.52,
     "asn": "AS9125",
     "isp": "Orion Telekom Network",
-    "latency_ms": 5713.33,
-    "last_checked": 1786870755.5263069
+    "latency_ms": 1405.69,
+    "last_checked": 1786871364.8368237
+  },
+  {
+    "protocol": "socks4",
+    "ip": "217.169.223.18",
+    "port": 1080,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.72,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Client Network",
+    "latency_ms": 3142.58,
+    "last_checked": 1786871343.3922586
   },
   {
     "protocol": "http",
@@ -22,11 +37,11 @@
     "country_code": "RS",
     "city": "Belgrade",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 49.3,
+    "ssl": true,
+    "uptime_percent": 49.31,
     "asn": "AS8400",
     "isp": "TELEKOM SRBIJA a.d.",
-    "latency_ms": 7758.84,
-    "last_checked": 1786870728.5285032
+    "latency_ms": 4361.0,
+    "last_checked": 1786871229.581978
   }
 ]
