@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "45.85.93.15",
-    "port": 4567,
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Geneva",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 40.68,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 222.99,
+    "last_checked": 1786857601.119104
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 24.01,
-    "asn": "AS199058",
-    "isp": "Serva ONE LTD",
-    "latency_ms": 1464.28,
-    "last_checked": 1786856969.4484305
+    "uptime_percent": 83.32,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 8451.76,
+    "last_checked": 1786857588.691882
   },
   {
     "protocol": "socks4",
@@ -26,23 +41,8 @@
     "uptime_percent": 86.06,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2218.39,
-    "last_checked": 1786856967.3975227
-  },
-  {
-    "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Tann",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 40.68,
-    "asn": "AS51395",
-    "isp": "Datasource AG",
-    "latency_ms": 879.16,
-    "last_checked": 1786856964.5566697
+    "latency_ms": 4308.04,
+    "last_checked": 1786857585.3034046
   },
   {
     "protocol": "http",
@@ -52,11 +52,11 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 73.08,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 11398.53,
-    "last_checked": 1786856882.2412603
+    "latency_ms": 16996.46,
+    "last_checked": 1786857508.4657805
   }
 ]
