@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "92.63.83.23",
-    "port": 3129,
+    "protocol": "socks4",
+    "ip": "159.148.146.65",
+    "port": 5678,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 29.91,
-    "asn": "AS44575",
-    "isp": "SIA \"MWTV\"",
-    "latency_ms": 12868.99,
-    "last_checked": 1786907942.4607449
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.64,
+    "asn": "AS2588",
+    "isp": "SIA \"BITE Latvija\"",
+    "latency_ms": 3205.61,
+    "last_checked": 1786908565.7700362
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.38.198.127",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.94,
+    "asn": "AS211273",
+    "isp": "Cloud Software - FZCO",
+    "latency_ms": 5681.01,
+    "last_checked": 1786908565.050144
   },
   {
     "protocol": "socks5",
@@ -26,7 +41,22 @@
     "uptime_percent": 70.95,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 8423.42,
-    "last_checked": 1786907942.1182303
+    "latency_ms": 1189.28,
+    "last_checked": 1786908564.734022
+  },
+  {
+    "protocol": "http",
+    "ip": "92.63.83.23",
+    "port": 3129,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 29.91,
+    "asn": "AS44575",
+    "isp": "SIA \"MWTV\"",
+    "latency_ms": 10204.34,
+    "last_checked": 1786908551.899957
   }
 ]
