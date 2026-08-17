@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -8,11 +8,11 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 92.3,
+    "uptime_percent": 89.57,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 998.87,
-    "last_checked": 1786958967.486042
+    "latency_ms": 3686.62,
+    "last_checked": 1786959544.8526425
   },
   {
     "protocol": "socks4",
@@ -26,11 +26,11 @@
     "uptime_percent": 99.18,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 3123.15,
-    "last_checked": 1786958965.3655367
+    "latency_ms": 77.53,
+    "last_checked": 1786959544.3831189
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -38,11 +38,11 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 89.57,
+    "uptime_percent": 92.3,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 1501.57,
-    "last_checked": 1786958963.6005492
+    "latency_ms": 8422.28,
+    "last_checked": 1786959543.5123906
   },
   {
     "protocol": "socks5",
@@ -56,23 +56,8 @@
     "uptime_percent": 99.25,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 5163.72,
-    "last_checked": 1786958954.6274695
-  },
-  {
-    "protocol": "socks5",
-    "ip": "77.81.230.90",
-    "port": 9050,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 27.26,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 9916.79,
-    "last_checked": 1786958950.456329
+    "latency_ms": 7161.35,
+    "last_checked": 1786959539.0448313
   },
   {
     "protocol": "socks4",
@@ -83,26 +68,41 @@
     "city": "Rocchetta a Volturno",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 44.99,
+    "uptime_percent": 44.98,
     "asn": "AS201847",
     "isp": "Elektronica Networks",
-    "latency_ms": 10924.97,
-    "last_checked": 1786958946.108426
+    "latency_ms": 7663.02,
+    "last_checked": 1786959538.9650407
   },
   {
     "protocol": "http",
-    "ip": "85.235.150.219",
+    "ip": "84.8.248.36",
     "port": 3128,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Arezzo",
+    "city": "Rivoli",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.08,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 8900.49,
+    "last_checked": 1786959526.5445714
+  },
+  {
+    "protocol": "http",
+    "ip": "149.86.206.27",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 9.89,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 8397.24,
-    "last_checked": 1786958940.315164
+    "uptime_percent": 6.22,
+    "asn": "AS60501",
+    "isp": "Sirius Technology SRL",
+    "latency_ms": 2444.74,
+    "last_checked": 1786959521.5447664
   },
   {
     "protocol": "http",
@@ -116,8 +116,23 @@
     "uptime_percent": 98.63,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 1069.64,
-    "last_checked": 1786958899.688908
+    "latency_ms": 5317.27,
+    "last_checked": 1786959521.382309
+  },
+  {
+    "protocol": "http",
+    "ip": "194.183.1.205",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rome",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 22.54,
+    "asn": "AS5394",
+    "isp": "UNIDATA S.p.A.",
+    "latency_ms": 1774.74,
+    "last_checked": 1786959509.7444446
   },
   {
     "protocol": "http",
@@ -128,10 +143,10 @@
     "city": "Biella",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 34.79,
+    "uptime_percent": 34.8,
     "asn": "AS42669",
     "isp": "MegaWeb",
-    "latency_ms": 9409.63,
-    "last_checked": 1786958873.5134044
+    "latency_ms": 3004.5,
+    "last_checked": 1786959469.7704172
   }
 ]
