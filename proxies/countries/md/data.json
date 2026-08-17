@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "176.125.242.58",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "46.55.3.113",
+    "port": 4145,
     "country": "Moldova",
     "country_code": "MD",
     "city": "Chisinau",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 26.9,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.45,
+    "asn": "AS8926",
+    "isp": "JSC \"Moldtelecom\" S.A",
+    "latency_ms": 3240.33,
+    "last_checked": 1786970357.920893
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.122.114.135",
+    "port": 10808,
+    "country": "Moldova",
+    "country_code": "MD",
+    "city": "Chisinau",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.95,
     "asn": "AS200019",
     "isp": "Alexhost SRL",
-    "latency_ms": 15094.81,
-    "last_checked": 1786969890.0570838
+    "latency_ms": 373.43,
+    "last_checked": 1786970355.58612
   }
 ]
