@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "185.62.48.83",
+    "port": 5678,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rocchetta a Volturno",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.0,
+    "asn": "AS201847",
+    "isp": "Elektronica Networks",
+    "latency_ms": 1705.52,
+    "last_checked": 1787088296.6612797
+  },
+  {
     "protocol": "socks5",
     "ip": "149.62.186.244",
     "port": 1080,
@@ -11,8 +26,23 @@
     "uptime_percent": 92.35,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 1502.87,
-    "last_checked": 1787087650.5661056
+    "latency_ms": 3805.65,
+    "last_checked": 1787088296.1724744
+  },
+  {
+    "protocol": "socks4",
+    "ip": "5.59.248.134",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Pomezia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.89,
+    "asn": "AS212271",
+    "isp": "Cinzia Tocci trading as Lumanex Srl",
+    "latency_ms": 7560.5,
+    "last_checked": 1787088288.6180284
   },
   {
     "protocol": "socks4",
@@ -26,22 +56,52 @@
     "uptime_percent": 89.63,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 10938.97,
-    "last_checked": 1787087648.4036734
+    "latency_ms": 1483.79,
+    "last_checked": 1787088283.1925135
   },
   {
-    "protocol": "socks5",
-    "ip": "80.211.131.230",
-    "port": 9050,
+    "protocol": "http",
+    "ip": "93.187.25.12",
+    "port": 58080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 24.71,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A. Network",
-    "latency_ms": 15109.39,
-    "last_checked": 1787087641.1495075
+    "city": "Radicondoli",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 28.84,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 5771.26,
+    "last_checked": 1787088236.811878
+  },
+  {
+    "protocol": "http",
+    "ip": "78.134.20.48",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Iseo",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.62,
+    "asn": "AS35612",
+    "isp": "NGI",
+    "latency_ms": 1399.84,
+    "last_checked": 1787088214.2248247
+  },
+  {
+    "protocol": "http",
+    "ip": "149.86.206.27",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.22,
+    "asn": "AS60501",
+    "isp": "Sirius Technology SRL",
+    "latency_ms": 4763.84,
+    "last_checked": 1787088085.062492
   }
 ]
