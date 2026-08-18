@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -8,11 +8,11 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 92.34,
+    "uptime_percent": 89.61,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 3170.06,
-    "last_checked": 1787025292.2102816
+    "latency_ms": 4030.34,
+    "last_checked": 1787025898.4360983
   },
   {
     "protocol": "socks4",
@@ -26,8 +26,23 @@
     "uptime_percent": 99.18,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 1054.5,
-    "last_checked": 1787025290.8648944
+    "latency_ms": 51.34,
+    "last_checked": 1787025893.8534346
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.62.48.83",
+    "port": 5678,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rocchetta a Volturno",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.07,
+    "asn": "AS201847",
+    "isp": "Elektronica Networks",
+    "latency_ms": 11581.48,
+    "last_checked": 1787025884.2376142
   },
   {
     "protocol": "socks5",
@@ -41,11 +56,11 @@
     "uptime_percent": 99.24,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 1080.5,
-    "last_checked": 1787025289.7742493
+    "latency_ms": 1067.42,
+    "last_checked": 1787025879.6699789
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -53,41 +68,26 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 89.61,
+    "uptime_percent": 92.34,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 8084.22,
-    "last_checked": 1787025276.9666011
+    "latency_ms": 4229.72,
+    "last_checked": 1787025878.3699026
   },
   {
-    "protocol": "http",
-    "ip": "93.55.126.184",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "80.211.131.230",
+    "port": 9050,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Marsala",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 26.68,
-    "asn": "AS12874",
-    "isp": "Fastweb Networks",
-    "latency_ms": 11618.0,
-    "last_checked": 1787025274.3865318
-  },
-  {
-    "protocol": "http",
-    "ip": "78.134.20.48",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Iseo",
-    "anonymity": "transparent",
+    "city": "Arezzo",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 9.62,
-    "asn": "AS35612",
-    "isp": "NGI",
-    "latency_ms": 10202.17,
-    "last_checked": 1787025249.964716
+    "uptime_percent": 24.43,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A. Network",
+    "latency_ms": 7042.27,
+    "last_checked": 1787025870.9729934
   },
   {
     "protocol": "http",
@@ -101,8 +101,68 @@
     "uptime_percent": 98.6,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 289.0,
-    "last_checked": 1787025245.821633
+    "latency_ms": 1064.7,
+    "last_checked": 1787025859.8836393
+  },
+  {
+    "protocol": "http",
+    "ip": "185.93.206.177",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Ispica",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.06,
+    "asn": "AS198380",
+    "isp": "Novaquadri",
+    "latency_ms": 10708.31,
+    "last_checked": 1787025858.6896682
+  },
+  {
+    "protocol": "http",
+    "ip": "84.8.248.36",
+    "port": 3128,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rivoli",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 35.48,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 5178.35,
+    "last_checked": 1787025850.9595556
+  },
+  {
+    "protocol": "http",
+    "ip": "149.86.203.217",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 5.94,
+    "asn": "AS60501",
+    "isp": "Sirius Technology SRL",
+    "latency_ms": 1781.09,
+    "last_checked": 1787025840.3813818
+  },
+  {
+    "protocol": "http",
+    "ip": "85.208.200.185",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.55,
+    "asn": "AS44092",
+    "isp": "HAL Service SpA",
+    "latency_ms": 3680.91,
+    "last_checked": 1787025822.5296378
   },
   {
     "protocol": "http",
@@ -112,11 +172,11 @@
     "country_code": "IT",
     "city": "Rome",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 22.51,
     "asn": "AS5394",
     "isp": "UNIDATA S.p.A.",
-    "latency_ms": 4889.15,
-    "last_checked": 1787025205.2211735
+    "latency_ms": 4183.6,
+    "last_checked": 1787025785.393489
   }
 ]
