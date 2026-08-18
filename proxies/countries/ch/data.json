@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 40.84,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 31.51,
+    "last_checked": 1787069699.2194476
+  },
+  {
+    "protocol": "socks4",
     "ip": "45.95.232.35",
-    "port": 3128,
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 72.73,
+    "ssl": true,
+    "uptime_percent": 85.81,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2093.4,
-    "last_checked": 1787069316.602846
+    "latency_ms": 3135.23,
+    "last_checked": 1787069693.1856015
   },
   {
     "protocol": "socks4",
@@ -26,22 +41,37 @@
     "uptime_percent": 26.03,
     "asn": "AS48971",
     "isp": "netz116",
-    "latency_ms": 1094.11,
-    "last_checked": 1787069308.4810529
+    "latency_ms": 7342.41,
+    "last_checked": 1787069689.337039
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 82.88,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 6428.71,
+    "last_checked": 1787069665.0434904
   },
   {
     "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
+    "ip": "45.95.232.35",
+    "port": 3128,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Tann",
+    "city": "Zurich",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 40.83,
-    "asn": "AS51395",
-    "isp": "Datasource AG",
-    "latency_ms": 2019.84,
-    "last_checked": 1787069308.3922853
+    "ssl": true,
+    "uptime_percent": 72.73,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 2453.72,
+    "last_checked": 1787069615.3594341
   }
 ]
