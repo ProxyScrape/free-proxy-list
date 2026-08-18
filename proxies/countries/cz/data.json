@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.248.179.99",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 58.81,
-    "asn": "AS48574",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 5270.04,
-    "last_checked": 1787089133.23616
+    "ssl": true,
+    "uptime_percent": 35.15,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 1272.14,
+    "last_checked": 1787089745.2607586
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.69.211.18",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Přerov",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.91,
+    "asn": "AS196815",
+    "isp": "LAN servis s.r.o",
+    "latency_ms": 3247.89,
+    "last_checked": 1787089744.402681
   },
   {
     "protocol": "http",
@@ -26,8 +41,8 @@
     "uptime_percent": 85.71,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 2307.72,
-    "last_checked": 1787089083.1408846
+    "latency_ms": 1878.65,
+    "last_checked": 1787089741.953668
   },
   {
     "protocol": "http",
@@ -41,7 +56,37 @@
     "uptime_percent": 67.48,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 13385.94,
-    "last_checked": 1787088993.9886932
+    "latency_ms": 9819.74,
+    "last_checked": 1787089717.5681612
+  },
+  {
+    "protocol": "http",
+    "ip": "171.25.220.141",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Horoměřice",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 22.12,
+    "asn": "AS57707",
+    "isp": "Greendata s.r.o.",
+    "latency_ms": 4427.28,
+    "last_checked": 1787089706.020759
+  },
+  {
+    "protocol": "http",
+    "ip": "185.248.179.99",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 58.82,
+    "asn": "AS48574",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 8018.49,
+    "last_checked": 1787089665.2377856
   }
 ]
