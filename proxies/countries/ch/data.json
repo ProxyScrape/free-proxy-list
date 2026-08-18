@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "45.85.93.15",
-    "port": 4567,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Geneva",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 23.79,
-    "asn": "AS199058",
-    "isp": "Serva ONE LTD",
-    "latency_ms": 979.33,
-    "last_checked": 1787081957.0963123
-  },
-  {
     "protocol": "socks5",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -26,23 +11,23 @@
     "uptime_percent": 82.86,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1747.0,
-    "last_checked": 1787081927.8144534
+    "latency_ms": 4255.2,
+    "last_checked": 1787082585.3440466
   },
   {
-    "protocol": "socks5",
-    "ip": "45.85.93.15",
-    "port": 4567,
+    "protocol": "socks4",
+    "ip": "45.95.232.35",
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Geneva",
+    "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 21.78,
-    "asn": "AS199058",
-    "isp": "Serva ONE LTD",
-    "latency_ms": 17850.31,
-    "last_checked": 1787081912.2275593
+    "uptime_percent": 85.79,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 8314.22,
+    "last_checked": 1787082583.8348515
   },
   {
     "protocol": "http",
@@ -52,11 +37,26 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 72.72,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 9903.9,
-    "last_checked": 1787081845.1088579
+    "latency_ms": 9015.37,
+    "last_checked": 1787082575.817172
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 17.27,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 10668.75,
+    "last_checked": 1787082538.202038
   }
 ]
