@@ -1,6 +1,21 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "61.216.156.222",
+    "port": 60808,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 4.41,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 5398.35,
+    "last_checked": 1787015353.3367698
+  },
+  {
+    "protocol": "socks5",
     "ip": "35.206.248.95",
     "port": 1080,
     "country": "Taiwan",
@@ -8,11 +23,11 @@
     "city": "Taipei",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 31.83,
+    "uptime_percent": 29.76,
     "asn": "AS15169",
     "isp": "Google LLC",
-    "latency_ms": 9913.62,
-    "last_checked": 1787014745.365654
+    "latency_ms": 8383.4,
+    "last_checked": 1787015340.9040155
   },
   {
     "protocol": "http",
@@ -22,11 +37,41 @@
     "country_code": "TW",
     "city": "Bade District",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 16.76,
     "asn": "AS3462",
     "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 12803.35,
-    "last_checked": 1787014649.2646542
+    "latency_ms": 12667.1,
+    "last_checked": 1787015317.732724
+  },
+  {
+    "protocol": "http",
+    "ip": "211.22.151.163",
+    "port": 60808,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taichung",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 3.23,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 11111.15,
+    "last_checked": 1787015240.4789753
+  },
+  {
+    "protocol": "http",
+    "ip": "220.134.5.4",
+    "port": 8080,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "New Taipei City",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.8,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 5296.67,
+    "last_checked": 1787015194.5047567
   }
 ]
