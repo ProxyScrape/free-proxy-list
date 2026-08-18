@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "83.56.15.57",
-    "port": 5678,
+    "protocol": "socks5",
+    "ip": "143.47.59.115",
+    "port": 9050,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Ciempozuelos",
+    "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.42,
-    "asn": "AS3352",
-    "isp": "Telefonica de Espana SAU",
-    "latency_ms": 191.01,
-    "last_checked": 1787064593.662912
+    "uptime_percent": 30.43,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 5168.63,
+    "last_checked": 1787065164.1563303
+  },
+  {
+    "protocol": "socks4",
+    "ip": "192.142.52.65",
+    "port": 1080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.6,
+    "asn": "AS214036",
+    "isp": "Ultahost, Inc.",
+    "latency_ms": 15137.52,
+    "last_checked": 1787065155.964757
   },
   {
     "protocol": "socks5",
@@ -26,38 +41,8 @@
     "uptime_percent": 46.65,
     "asn": "AS15704",
     "isp": "MasMovil Access Network",
-    "latency_ms": 1274.06,
-    "last_checked": 1787064587.3160706
-  },
-  {
-    "protocol": "socks4",
-    "ip": "192.142.52.65",
-    "port": 1080,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 25.59,
-    "asn": "AS214036",
-    "isp": "Ultahost, Inc.",
-    "latency_ms": 1379.05,
-    "last_checked": 1787064578.329441
-  },
-  {
-    "protocol": "socks5",
-    "ip": "65.20.105.241",
-    "port": 10001,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 31.55,
-    "asn": "AS20473",
-    "isp": "The Constant Company, LLC",
-    "latency_ms": 131.34,
-    "last_checked": 1787064562.584489
+    "latency_ms": 298.41,
+    "last_checked": 1787065150.8205822
   },
   {
     "protocol": "http",
@@ -71,7 +56,22 @@
     "uptime_percent": 67.83,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 5130.22,
-    "last_checked": 1787064502.9861994
+    "latency_ms": 5135.47,
+    "last_checked": 1787065112.7593324
+  },
+  {
+    "protocol": "http",
+    "ip": "2.139.38.192",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.83,
+    "asn": "AS3352",
+    "isp": "RIMA (Red IP Multi Acceso)",
+    "latency_ms": 8211.35,
+    "last_checked": 1787065096.1970425
   }
 ]
