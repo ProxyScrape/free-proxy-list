@@ -1,6 +1,21 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
+    "ip": "147.45.221.112",
+    "port": 1082,
+    "country": "Albania",
+    "country_code": "AL",
+    "city": "Elbasan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 58.23,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 3099.81,
+    "last_checked": 1787124552.5649364
+  },
+  {
+    "protocol": "socks4",
     "ip": "147.45.221.115",
     "port": 1082,
     "country": "Albania",
@@ -8,11 +23,11 @@
     "city": "Elbasan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 56.42,
+    "uptime_percent": 57.27,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3096.43,
-    "last_checked": 1787123979.5347831
+    "latency_ms": 3081.5,
+    "last_checked": 1787124545.3545997
   },
   {
     "protocol": "socks4",
@@ -26,8 +41,23 @@
     "uptime_percent": 16.9,
     "asn": "AS212637",
     "isp": "Lightnet Sh.p.k.",
-    "latency_ms": 7381.59,
-    "last_checked": 1787123970.6000218
+    "latency_ms": 1181.56,
+    "last_checked": 1787124543.798695
+  },
+  {
+    "protocol": "socks5",
+    "ip": "147.45.221.111",
+    "port": 1082,
+    "country": "Albania",
+    "country_code": "AL",
+    "city": "Elbasan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.45,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 3172.43,
+    "last_checked": 1787124543.4444737
   },
   {
     "protocol": "http",
@@ -37,26 +67,41 @@
     "country_code": "AL",
     "city": "Tirana",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 25.34,
     "asn": "AS21183",
     "isp": "Vodafone Albania Sh.A.",
-    "latency_ms": 3088.33,
-    "last_checked": 1787123915.6518922
+    "latency_ms": 1013.57,
+    "last_checked": 1787124529.2970688
   },
   {
     "protocol": "http",
-    "ip": "79.106.231.17",
+    "ip": "185.196.182.22",
     "port": 8080,
     "country": "Albania",
     "country_code": "AL",
-    "city": "Gramsh",
+    "city": "Krume",
     "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 25.64,
+    "asn": "AS206088",
+    "isp": "shqiponjaisp.al LLC",
+    "latency_ms": 3578.06,
+    "last_checked": 1787124521.0608678
+  },
+  {
+    "protocol": "http",
+    "ip": "37.26.86.206",
+    "port": 47464,
+    "country": "Albania",
+    "country_code": "AL",
+    "city": "Elbasan",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 21.03,
-    "asn": "AS42313",
-    "isp": "ONE ALBANIA SH.A.",
-    "latency_ms": 3962.3,
-    "last_checked": 1787123807.6780763
+    "uptime_percent": 12.25,
+    "asn": "AS198279",
+    "isp": "ATU",
+    "latency_ms": 5715.59,
+    "last_checked": 1787124472.9769135
   }
 ]
