@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "212.50.19.150",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "93.123.16.14",
+    "port": 80,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 98.31,
+    "asn": "AS9028",
+    "isp": "Ohost LLC",
+    "latency_ms": 203.66,
+    "last_checked": 1787150986.1143916
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.160.97.49",
+    "port": 4145,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Rousse",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 17.81,
-    "asn": "AS8717",
-    "isp": "Spectrum NET",
-    "latency_ms": 137.48,
-    "last_checked": 1787150686.7900176
+    "uptime_percent": 18.0,
+    "asn": "AS205352",
+    "isp": "Kabelnet LTD",
+    "latency_ms": 3294.8,
+    "last_checked": 1787150984.8809128
   },
   {
     "protocol": "http",
@@ -26,53 +41,8 @@
     "uptime_percent": 98.5,
     "asn": "AS9028",
     "isp": "Ohost LLC",
-    "latency_ms": 193.19,
-    "last_checked": 1787150679.0680854
-  },
-  {
-    "protocol": "socks4",
-    "ip": "46.10.198.10",
-    "port": 4153,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 42.31,
-    "asn": "AS8866",
-    "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 7338.28,
-    "last_checked": 1787150676.0323868
-  },
-  {
-    "protocol": "socks4",
-    "ip": "77.85.171.92",
-    "port": 4153,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Asenovgrad",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.94,
-    "asn": "AS207371",
-    "isp": "GEC",
-    "latency_ms": 1196.67,
-    "last_checked": 1787150675.2115328
-  },
-  {
-    "protocol": "http",
-    "ip": "93.123.16.14",
-    "port": 80,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 98.31,
-    "asn": "AS9028",
-    "isp": "Ohost LLC",
-    "latency_ms": 195.13,
-    "last_checked": 1787150672.7643383
+    "latency_ms": 194.31,
+    "last_checked": 1787150956.998703
   },
   {
     "protocol": "http",
@@ -82,11 +52,11 @@
     "country_code": "BG",
     "city": "Stara Zagora",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 6.11,
     "asn": "AS8866",
     "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 4546.75,
-    "last_checked": 1787150609.1163642
+    "latency_ms": 5872.32,
+    "last_checked": 1787150943.5317192
   }
 ]
