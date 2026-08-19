@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Tann",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 40.88,
-    "asn": "AS51395",
-    "isp": "Datasource AG",
-    "latency_ms": 32.04,
-    "last_checked": 1787108034.883322
-  },
-  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -26,7 +11,37 @@
     "uptime_percent": 85.77,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 5979.59,
-    "last_checked": 1787108014.100624
+    "latency_ms": 4994.69,
+    "last_checked": 1787108396.9872932
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 82.84,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 6005.31,
+    "last_checked": 1787108382.8418448
+  },
+  {
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 40.88,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 31.51,
+    "last_checked": 1787108315.23403
   }
 ]
