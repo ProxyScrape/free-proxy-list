@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks5",
     "ip": "95.163.176.131",
-    "port": 8080,
+    "port": 1080,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 10.81,
+    "uptime_percent": 33.03,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 1677.33,
-    "last_checked": 1787123362.9087293
+    "latency_ms": 4011.76,
+    "last_checked": 1787123974.0519881
+  },
+  {
+    "protocol": "socks5",
+    "ip": "83.215.25.66",
+    "port": 9050,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Zell am See",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 21.31,
+    "asn": "AS8445",
+    "isp": "SALZBURG-AG",
+    "latency_ms": 17966.79,
+    "last_checked": 1787123940.8325005
   },
   {
     "protocol": "http",
@@ -22,11 +37,41 @@
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 24.83,
+    "ssl": false,
+    "uptime_percent": 24.9,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 7572.68,
-    "last_checked": 1787123342.4631872
+    "latency_ms": 11566.37,
+    "last_checked": 1787123928.1887505
+  },
+  {
+    "protocol": "http",
+    "ip": "95.163.176.131",
+    "port": 8080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 10.82,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 8285.52,
+    "last_checked": 1787123918.0609448
+  },
+  {
+    "protocol": "http",
+    "ip": "193.8.215.80",
+    "port": 3128,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 42.18,
+    "asn": "AS210644",
+    "isp": "RAPIDSEEDBOX",
+    "latency_ms": 20181.98,
+    "last_checked": 1787123898.4999049
   }
 ]
