@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "31.211.142.115",
-    "port": 8192,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Pleven",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 44.12,
-    "asn": "AS197897",
-    "isp": "5KOM",
-    "latency_ms": 3381.21,
-    "last_checked": 1787161198.8256404
-  },
-  {
     "protocol": "socks4",
     "ip": "77.85.171.92",
     "port": 4153,
@@ -23,11 +8,11 @@
     "city": "Asenovgrad",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 35.32,
+    "uptime_percent": 35.37,
     "asn": "AS207371",
     "isp": "GEC",
-    "latency_ms": 1250.43,
-    "last_checked": 1787161198.642357
+    "latency_ms": 7309.1,
+    "last_checked": 1787161480.5962358
   },
   {
     "protocol": "socks4",
@@ -41,8 +26,23 @@
     "uptime_percent": 18.0,
     "asn": "AS205352",
     "isp": "Kabelnet LTD",
-    "latency_ms": 3309.25,
-    "last_checked": 1787161198.64108
+    "latency_ms": 7325.78,
+    "last_checked": 1787161470.3971362
+  },
+  {
+    "protocol": "http",
+    "ip": "93.123.16.38",
+    "port": 80,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 98.5,
+    "asn": "AS9028",
+    "isp": "Ohost LLC",
+    "latency_ms": 195.08,
+    "last_checked": 1787161463.9518294
   },
   {
     "protocol": "socks5",
@@ -53,11 +53,26 @@
     "city": "Sofia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 27.76,
+    "uptime_percent": 27.79,
     "asn": "AS44901",
     "isp": "Belcloud LTD",
-    "latency_ms": 5621.91,
-    "last_checked": 1787161187.8802018
+    "latency_ms": 9711.45,
+    "last_checked": 1787161463.6994941
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.3",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 15.2,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 9545.1,
+    "last_checked": 1787161459.7128801
   },
   {
     "protocol": "http",
@@ -67,12 +82,27 @@
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 15.21,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 4959.05,
-    "last_checked": 1787161177.9051633
+    "latency_ms": 13992.87,
+    "last_checked": 1787161425.3871005
+  },
+  {
+    "protocol": "http",
+    "ip": "92.247.12.136",
+    "port": 9510,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 5.85,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 12139.87,
+    "last_checked": 1787161415.6648867
   },
   {
     "protocol": "http",
@@ -86,52 +116,7 @@
     "uptime_percent": 98.31,
     "asn": "AS9028",
     "isp": "Ohost LLC",
-    "latency_ms": 195.39,
-    "last_checked": 1787161177.2947702
-  },
-  {
-    "protocol": "socks4",
-    "ip": "212.50.19.150",
-    "port": 4153,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 17.83,
-    "asn": "AS8717",
-    "isp": "Spectrum NET",
-    "latency_ms": 3171.36,
-    "last_checked": 1787161172.4681687
-  },
-  {
-    "protocol": "http",
-    "ip": "92.247.12.130",
-    "port": 9510,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 10.61,
-    "asn": "AS8717",
-    "isp": "A1 Bulgaria EAD",
-    "latency_ms": 2325.93,
-    "last_checked": 1787161162.143962
-  },
-  {
-    "protocol": "http",
-    "ip": "5.104.174.199",
-    "port": 23500,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Dobrich",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 4.99,
-    "asn": "AS57344",
-    "isp": "DobrudjaCable Ltd.",
-    "latency_ms": 13625.79,
-    "last_checked": 1787161089.4328277
+    "latency_ms": 196.53,
+    "last_checked": 1787161412.893393
   }
 ]
