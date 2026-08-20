@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "88.80.186.173",
-    "port": 19100,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 29.73,
-    "asn": "AS63949",
-    "isp": "Akamai Technologies, Inc.",
-    "latency_ms": 2844.26,
-    "last_checked": 1787248793.9186227
-  },
-  {
     "protocol": "http",
-    "ip": "91.231.186.236",
+    "ip": "198.244.188.127",
     "port": 3128,
     "country": "United Kingdom",
     "country_code": "GB",
     "city": "London",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 78.31,
-    "asn": "AS62240",
-    "isp": "Clouvider Limited",
-    "latency_ms": 388.35,
-    "last_checked": 1787248792.604865
+    "uptime_percent": 6.12,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 5029.53,
+    "last_checked": 1787249364.4507184
   },
   {
     "protocol": "socks5",
@@ -41,38 +26,23 @@
     "uptime_percent": 99.82,
     "asn": "AS8757",
     "isp": "NSFOCUS, Inc.",
-    "latency_ms": 1039.82,
-    "last_checked": 1787248785.9187891
+    "latency_ms": 1094.81,
+    "last_checked": 1787249357.2174218
   },
   {
-    "protocol": "socks5",
-    "ip": "81.168.119.85",
-    "port": 443,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "Maidenhead",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 83.61,
-    "asn": "AS20860",
-    "isp": "Iomart Cloud Services Limited",
-    "latency_ms": 4173.56,
-    "last_checked": 1787248785.0233824
-  },
-  {
-    "protocol": "socks5",
-    "ip": "88.80.186.173",
-    "port": 19100,
+    "protocol": "http",
+    "ip": "91.231.186.236",
+    "port": 3128,
     "country": "United Kingdom",
     "country_code": "GB",
     "city": "London",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 27.81,
-    "asn": "AS63949",
-    "isp": "Akamai Technologies, Inc.",
-    "latency_ms": 2528.27,
-    "last_checked": 1787248782.4648962
+    "ssl": false,
+    "uptime_percent": 78.34,
+    "asn": "AS62240",
+    "isp": "Clouvider Limited",
+    "latency_ms": 11567.03,
+    "last_checked": 1787249350.081989
   },
   {
     "protocol": "socks5",
@@ -83,11 +53,11 @@
     "city": "Slough",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 96.52,
+    "uptime_percent": 96.62,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 2520.98,
-    "last_checked": 1787248779.5952525
+    "latency_ms": 1123.84,
+    "last_checked": 1787249334.528821
   },
   {
     "protocol": "http",
@@ -97,27 +67,12 @@
     "country_code": "GB",
     "city": "London",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 78.6,
+    "ssl": false,
+    "uptime_percent": 78.61,
     "asn": "AS62240",
     "isp": "Clouvider Limited",
-    "latency_ms": 13245.56,
-    "last_checked": 1787248741.5209165
-  },
-  {
-    "protocol": "http",
-    "ip": "212.58.132.5",
-    "port": 8888,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 85.91,
-    "asn": "AS8757",
-    "isp": "NSFOCUS, Inc.",
-    "latency_ms": 3294.73,
-    "last_checked": 1787248736.1910317
+    "latency_ms": 1002.39,
+    "last_checked": 1787249328.3061879
   },
   {
     "protocol": "http",
@@ -127,11 +82,41 @@
     "country_code": "GB",
     "city": "Maidenhead",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 69.12,
+    "ssl": true,
+    "uptime_percent": 69.09,
     "asn": "AS20860",
     "isp": "Iomart Cloud Services Limited",
-    "latency_ms": 61.87,
-    "last_checked": 1787248734.8378644
+    "latency_ms": 1106.72,
+    "last_checked": 1787249327.9305909
+  },
+  {
+    "protocol": "http",
+    "ip": "212.58.132.5",
+    "port": 8888,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 85.91,
+    "asn": "AS8757",
+    "isp": "NSFOCUS, Inc.",
+    "latency_ms": 1981.68,
+    "last_checked": 1787249322.3044927
+  },
+  {
+    "protocol": "http",
+    "ip": "91.231.186.236",
+    "port": 8080,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 76.97,
+    "asn": "AS62240",
+    "isp": "Clouvider Limited",
+    "latency_ms": 1372.83,
+    "last_checked": 1787249311.1575089
   }
 ]
