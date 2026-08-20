@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "109.69.211.18",
+    "port": 1080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Třeboň",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 85.71,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 4089.39,
-    "last_checked": 1787187843.6407492
+    "city": "Přerov",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.98,
+    "asn": "AS196815",
+    "isp": "LAN servis s.r.o",
+    "latency_ms": 1129.14,
+    "last_checked": 1787188193.4062228
   },
   {
     "protocol": "socks4",
@@ -26,8 +26,8 @@
     "uptime_percent": 39.96,
     "asn": "AS205400",
     "isp": "GIN's network",
-    "latency_ms": 3120.12,
-    "last_checked": 1787187825.0932486
+    "latency_ms": 1080.9,
+    "last_checked": 1787188187.6441653
   },
   {
     "protocol": "http",
@@ -41,7 +41,37 @@
     "uptime_percent": 67.53,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 8195.06,
-    "last_checked": 1787187797.7077558
+    "latency_ms": 7710.2,
+    "last_checked": 1787188187.3036647
+  },
+  {
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.08,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 3156.43,
+    "last_checked": 1787188185.1489832
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 23.77,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 2213.67,
+    "last_checked": 1787188106.343795
   }
 ]

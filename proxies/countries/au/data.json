@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "168.138.9.147",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 36.32,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 8641.45,
-    "last_checked": 1787187785.5012548
-  },
-  {
     "protocol": "http",
     "ip": "114.111.151.41",
     "port": 80,
@@ -23,11 +8,26 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 58.62,
+    "uptime_percent": 58.63,
     "asn": "AS45577",
     "isp": "Intervolve Pty Ltd",
-    "latency_ms": 675.38,
-    "last_checked": 1787187760.6272917
+    "latency_ms": 800.3,
+    "last_checked": 1787188181.764909
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Burnside",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 9.45,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 11798.73,
+    "last_checked": 1787188160.3249333
   },
   {
     "protocol": "http",
@@ -37,26 +37,41 @@
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 36.21,
     "asn": "AS141995",
     "isp": "Contabo Asia Private Limited",
-    "latency_ms": 20350.09,
-    "last_checked": 1787187751.1768842
+    "latency_ms": 11070.85,
+    "last_checked": 1787188140.7821624
   },
   {
     "protocol": "http",
-    "ip": "159.196.182.72",
-    "port": 8080,
+    "ip": "108.61.213.218",
+    "port": 80,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "transparent",
+    "city": "Sydney",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 26.36,
-    "asn": "AS4764",
-    "isp": "Aussie Fibre Pty Ltd",
-    "latency_ms": 3620.99,
-    "last_checked": 1787187647.0308557
+    "uptime_percent": 21.05,
+    "asn": "AS20473",
+    "isp": "Choopa",
+    "latency_ms": 16924.96,
+    "last_checked": 1787188113.8943303
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Burnside",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 10.18,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 7117.63,
+    "last_checked": 1787188040.9959526
   }
 ]
