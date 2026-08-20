@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "181.115.200.59",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "181.115.207.115",
+    "port": 1080,
     "country": "Bolivia",
     "country_code": "BO",
     "city": "Santa Cruz de la Sierra",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.88,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.83,
     "asn": "AS6568",
     "isp": "Entel S.A. - EntelNet",
-    "latency_ms": 11184.16,
-    "last_checked": 1787221364.247192
+    "latency_ms": 4402.21,
+    "last_checked": 1787222058.412906
+  },
+  {
+    "protocol": "http",
+    "ip": "190.181.28.186",
+    "port": 999,
+    "country": "Bolivia",
+    "country_code": "BO",
+    "city": "Santa Fe",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.27,
+    "asn": "AS26210",
+    "isp": "AXS Bolivia S. A.",
+    "latency_ms": 8142.37,
+    "last_checked": 1787221963.9931052
   }
 ]
