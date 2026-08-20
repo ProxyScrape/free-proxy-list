@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "91.231.186.236",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "212.58.132.5",
+    "port": 1080,
     "country": "United Kingdom",
     "country_code": "GB",
     "city": "London",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 77.08,
-    "asn": "AS62240",
-    "isp": "Clouvider Limited",
-    "latency_ms": 3853.14,
-    "last_checked": 1787253236.0748565
+    "ssl": true,
+    "uptime_percent": 99.82,
+    "asn": "AS8757",
+    "isp": "NSFOCUS, Inc.",
+    "latency_ms": 1058.37,
+    "last_checked": 1787253854.9023976
+  },
+  {
+    "protocol": "socks4",
+    "ip": "83.147.18.168",
+    "port": 1080,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.55,
+    "asn": "AS215311",
+    "isp": "Regxa Company for Information Technology Ltd",
+    "latency_ms": 5659.33,
+    "last_checked": 1787253846.1679857
   },
   {
     "protocol": "socks5",
@@ -23,26 +38,11 @@
     "city": "Slough",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 96.35,
+    "uptime_percent": 96.43,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 126.22,
-    "last_checked": 1787253235.4008033
-  },
-  {
-    "protocol": "http",
-    "ip": "81.168.119.85",
-    "port": 5443,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "Maidenhead",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 68.91,
-    "asn": "AS20860",
-    "isp": "Iomart Cloud Services Limited",
-    "latency_ms": 7361.65,
-    "last_checked": 1787253221.1374002
+    "latency_ms": 574.88,
+    "last_checked": 1787253842.8861294
   },
   {
     "protocol": "http",
@@ -52,12 +52,12 @@
     "country_code": "GB",
     "city": "London",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 78.68,
+    "ssl": false,
+    "uptime_percent": 78.7,
     "asn": "AS62240",
     "isp": "Clouvider Limited",
-    "latency_ms": 1199.51,
-    "last_checked": 1787253220.1261055
+    "latency_ms": 3279.78,
+    "last_checked": 1787253841.3911545
   },
   {
     "protocol": "http",
@@ -71,38 +71,8 @@
     "uptime_percent": 85.92,
     "asn": "AS8757",
     "isp": "NSFOCUS, Inc.",
-    "latency_ms": 1224.55,
-    "last_checked": 1787253219.3889663
-  },
-  {
-    "protocol": "socks5",
-    "ip": "212.58.132.5",
-    "port": 1080,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 99.82,
-    "asn": "AS8757",
-    "isp": "NSFOCUS, Inc.",
-    "latency_ms": 1127.67,
-    "last_checked": 1787253211.2577364
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.152.66.150",
-    "port": 1025,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 31.7,
-    "asn": "AS139659",
-    "isp": "Lucidacloud Limited",
-    "latency_ms": 19558.5,
-    "last_checked": 1787253190.8590775
+    "latency_ms": 1611.93,
+    "last_checked": 1787253839.584828
   },
   {
     "protocol": "http",
@@ -112,11 +82,26 @@
     "country_code": "GB",
     "city": "London",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 78.42,
+    "ssl": true,
+    "uptime_percent": 78.44,
     "asn": "AS62240",
     "isp": "Clouvider Limited",
-    "latency_ms": 5281.78,
-    "last_checked": 1787253187.5302966
+    "latency_ms": 2901.97,
+    "last_checked": 1787253824.2635186
+  },
+  {
+    "protocol": "http",
+    "ip": "198.244.188.127",
+    "port": 3128,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.13,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 15394.35,
+    "last_checked": 1787253741.3367796
   }
 ]
