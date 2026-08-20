@@ -1,6 +1,21 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
+    "ip": "185.196.178.238",
+    "port": 60606,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Längenfeld",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 8.49,
+    "asn": "AS206091",
+    "isp": "Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG",
+    "latency_ms": 3093.48,
+    "last_checked": 1787213070.4650116
+  },
+  {
+    "protocol": "socks4",
     "ip": "95.163.176.131",
     "port": 1080,
     "country": "Austria",
@@ -8,10 +23,40 @@
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.18,
+    "uptime_percent": 35.32,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 1470.18,
-    "last_checked": 1787212468.5758626
+    "latency_ms": 21919.41,
+    "last_checked": 1787213060.1408265
+  },
+  {
+    "protocol": "socks5",
+    "ip": "83.215.25.66",
+    "port": 9050,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Zell am See",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.0,
+    "asn": "AS8445",
+    "isp": "SALZBURG-AG",
+    "latency_ms": 15095.38,
+    "last_checked": 1787213029.8421485
+  },
+  {
+    "protocol": "http",
+    "ip": "193.233.232.226",
+    "port": 3128,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 25.97,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 3440.11,
+    "last_checked": 1787212965.2016158
   }
 ]
