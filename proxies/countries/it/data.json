@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks5",
-    "ip": "109.73.181.237",
-    "port": 7080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Termoli",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 43.08,
-    "asn": "AS49924",
-    "isp": "ECROM-MAIN",
-    "latency_ms": 1375.94,
-    "last_checked": 1787210974.7094672
-  },
-  {
-    "protocol": "socks5",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -26,8 +11,8 @@
     "uptime_percent": 92.37,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 3291.45,
-    "last_checked": 1787210973.1026878
+    "latency_ms": 2171.57,
+    "last_checked": 1787211568.1751995
   },
   {
     "protocol": "socks4",
@@ -41,8 +26,23 @@
     "uptime_percent": 89.69,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 5031.47,
-    "last_checked": 1787210967.4623868
+    "latency_ms": 218.86,
+    "last_checked": 1787211567.2479088
+  },
+  {
+    "protocol": "http",
+    "ip": "93.187.25.12",
+    "port": 58080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Radicondoli",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 28.86,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 7426.2,
+    "last_checked": 1787211518.774211
   },
   {
     "protocol": "http",
@@ -53,11 +53,41 @@
     "city": "Biella",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 35.36,
+    "uptime_percent": 35.37,
     "asn": "AS42669",
     "isp": "MegaWeb",
-    "latency_ms": 351.89,
-    "last_checked": 1787210895.1174357
+    "latency_ms": 58.33,
+    "last_checked": 1787211485.7815905
+  },
+  {
+    "protocol": "http",
+    "ip": "79.54.119.155",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rome",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.71,
+    "asn": "AS3269",
+    "isp": "INTERBUSINESS",
+    "latency_ms": 5489.94,
+    "last_checked": 1787211480.2213027
+  },
+  {
+    "protocol": "http",
+    "ip": "85.208.200.185",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.58,
+    "asn": "AS44092",
+    "isp": "HAL Service SpA",
+    "latency_ms": 1903.68,
+    "last_checked": 1787211477.0876734
   },
   {
     "protocol": "http",
@@ -71,82 +101,7 @@
     "uptime_percent": 30.43,
     "asn": "AS43960",
     "isp": "Consorzio Terrecablate",
-    "latency_ms": 4179.79,
-    "last_checked": 1787210877.119477
-  },
-  {
-    "protocol": "http",
-    "ip": "2.194.65.15",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Marino",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 32.93,
-    "asn": "AS16232",
-    "isp": "Telecom Italia Mobile",
-    "latency_ms": 1313.8,
-    "last_checked": 1787210876.9781053
-  },
-  {
-    "protocol": "http",
-    "ip": "93.55.126.184",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Marsala",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 26.44,
-    "asn": "AS12874",
-    "isp": "Fastweb Networks",
-    "latency_ms": 1954.13,
-    "last_checked": 1787210874.1721923
-  },
-  {
-    "protocol": "http",
-    "ip": "85.208.200.185",
-    "port": 8081,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 9.58,
-    "asn": "AS44092",
-    "isp": "HAL Service SpA",
-    "latency_ms": 7954.61,
-    "last_checked": 1787210863.1372874
-  },
-  {
-    "protocol": "http",
-    "ip": "185.221.173.104",
-    "port": 3128,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 29.15,
-    "asn": "AS202675",
-    "isp": "Keliweb S.R.L",
-    "latency_ms": 12117.66,
-    "last_checked": 1787210832.3729308
-  },
-  {
-    "protocol": "http",
-    "ip": "83.136.106.85",
-    "port": 3128,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.51,
-    "asn": "AS49367",
-    "isp": "Seflow S.N.C. Di Marco Brame' & C.",
-    "latency_ms": 20416.52,
-    "last_checked": 1787210791.8419564
+    "latency_ms": 4721.02,
+    "last_checked": 1787211466.807322
   }
 ]
