@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "149.62.186.244",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 89.71,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 10063.53,
+    "last_checked": 1787249639.5106153
+  },
+  {
     "protocol": "socks5",
     "ip": "80.211.131.230",
     "port": 9050,
@@ -8,11 +23,11 @@
     "city": "Arezzo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 25.62,
+    "uptime_percent": 25.63,
     "asn": "AS31034",
     "isp": "Aruba S.p.A. Network",
-    "latency_ms": 6804.06,
-    "last_checked": 1787249367.1546733
+    "latency_ms": 4559.67,
+    "last_checked": 1787249633.3870418
   },
   {
     "protocol": "socks5",
@@ -26,23 +41,8 @@
     "uptime_percent": 92.34,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 4010.9,
-    "last_checked": 1787249362.2674394
-  },
-  {
-    "protocol": "socks4",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 89.71,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 10550.49,
-    "last_checked": 1787249352.7196116
+    "latency_ms": 3078.51,
+    "last_checked": 1787249633.2998586
   },
   {
     "protocol": "http",
@@ -52,11 +52,26 @@
     "country_code": "IT",
     "city": "Arezzo",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 15.09,
+    "ssl": true,
+    "uptime_percent": 15.13,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 21421.25,
-    "last_checked": 1787249299.7950542
+    "latency_ms": 11069.63,
+    "last_checked": 1787249632.2064836
+  },
+  {
+    "protocol": "http",
+    "ip": "2.194.65.15",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Marino",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 28.8,
+    "asn": "AS16232",
+    "isp": "Telecom Italia Mobile",
+    "latency_ms": 4745.43,
+    "last_checked": 1787249618.128816
   }
 ]
