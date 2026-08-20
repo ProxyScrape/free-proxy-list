@@ -1,33 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "109.69.211.18",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "185.82.238.42",
+    "port": 8888,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Přerov",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 54.88,
-    "asn": "AS196815",
-    "isp": "LAN servis s.r.o",
-    "latency_ms": 1141.62,
-    "last_checked": 1787253853.7490346
+    "city": "Osík",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.25,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 8931.84,
+    "last_checked": 1787254479.2288673
   },
   {
     "protocol": "http",
-    "ip": "95.129.101.73",
+    "ip": "147.231.163.133",
     "port": 80,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Brno",
-    "anonymity": "elite",
+    "city": "Třeboň",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 67.66,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 8837.29,
-    "last_checked": 1787253764.2039888
+    "uptime_percent": 85.72,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 4207.08,
+    "last_checked": 1787254478.3623571
+  },
+  {
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.92,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 3145.7,
+    "last_checked": 1787254470.6562314
   },
   {
     "protocol": "http",
@@ -37,11 +52,11 @@
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 58.05,
+    "ssl": true,
+    "uptime_percent": 58.04,
     "asn": "AS48574",
     "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 4500.29,
-    "last_checked": 1787253761.7741675
+    "latency_ms": 4062.42,
+    "last_checked": 1787254434.3501391
   }
 ]
