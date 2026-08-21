@@ -1,5 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,103.18.205.162,8080,Australia,AU,Melbourne,transparent,false,30.46,AS134371,Circle Network,7165.4,1787279675.4439247
-http,61.29.96.146,80,Australia,AU,Burnside,anonymous,false,9.46,AS2764,AAPT Limited,10261.43,1787279668.678339
-http,51.161.142.97,8080,Australia,AU,Sydney,elite,false,32.62,AS16276,OVH SAS,20429.54,1787279633.7312021
-http,114.111.151.41,80,Australia,AU,Melbourne,elite,false,58.91,AS45577,Intervolve Pty Ltd,12291.32,1787279615.0060637
+socks5,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,31.52,AS31898,Oracle Corporation,7786.96,1787279944.2564387
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,36.14,AS31898,Oracle Corporation,13487.48,1787279927.817103
+http,103.18.205.162,8080,Australia,AU,Melbourne,transparent,true,30.46,AS134371,Circle Network,5093.77,1787279920.9328187
+http,61.29.96.146,80,Australia,AU,Burnside,anonymous,false,9.46,AS2764,AAPT Limited,12579.11,1787279910.7066734
+http,61.29.96.146,8000,Australia,AU,Burnside,anonymous,false,10.18,AS2764,AAPT Limited,3696.79,1787279836.3376937

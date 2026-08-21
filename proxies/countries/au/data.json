@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.52,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 7786.96,
+    "last_checked": 1787279944.2564387
+  },
+  {
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.14,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 13487.48,
+    "last_checked": 1787279927.817103
+  },
+  {
     "protocol": "http",
     "ip": "103.18.205.162",
     "port": 8080,
@@ -7,12 +37,12 @@
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 30.46,
     "asn": "AS134371",
     "isp": "Circle Network",
-    "latency_ms": 7165.4,
-    "last_checked": 1787279675.4439247
+    "latency_ms": 5093.77,
+    "last_checked": 1787279920.9328187
   },
   {
     "protocol": "http",
@@ -26,37 +56,22 @@
     "uptime_percent": 9.46,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 10261.43,
-    "last_checked": 1787279668.678339
+    "latency_ms": 12579.11,
+    "last_checked": 1787279910.7066734
   },
   {
     "protocol": "http",
-    "ip": "51.161.142.97",
-    "port": 8080,
+    "ip": "61.29.96.146",
+    "port": 8000,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
+    "city": "Burnside",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 32.62,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 20429.54,
-    "last_checked": 1787279633.7312021
-  },
-  {
-    "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 58.91,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 12291.32,
-    "last_checked": 1787279615.0060637
+    "uptime_percent": 10.18,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 3696.79,
+    "last_checked": 1787279836.3376937
   }
 ]
