@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "46.8.31.104",
-    "port": 1080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Karaganda",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.68,
-    "asn": "AS203087",
-    "isp": "PE Fedinyak Sergey Vyacheslavovich",
-    "latency_ms": 4484.75,
-    "last_checked": 1787327081.1040967
-  },
-  {
-    "protocol": "socks5",
-    "ip": "213.148.6.12",
-    "port": 7777,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 33.85,
-    "asn": "AS48988",
-    "isp": "Modern Server Solutions LLP",
-    "latency_ms": 3648.34,
-    "last_checked": 1787327053.9732907
-  },
-  {
     "protocol": "http",
     "ip": "94.131.92.155",
     "port": 3128,
@@ -37,12 +7,12 @@
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 82.48,
     "asn": "AS208795",
     "isp": "\"Cloud Services Kazakhstan\" LLP",
-    "latency_ms": 3764.11,
-    "last_checked": 1787327032.51052
+    "latency_ms": 958.45,
+    "last_checked": 1787327650.531516
   },
   {
     "protocol": "http",
@@ -56,7 +26,52 @@
     "uptime_percent": 60.01,
     "asn": "AS200590",
     "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 4852.52,
-    "last_checked": 1787327008.4880135
+    "latency_ms": 4812.01,
+    "last_checked": 1787327646.2092726
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.180.52.198",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.34,
+    "asn": "AS200590",
+    "isp": "NLS Kazakhstan LLC",
+    "latency_ms": 6613.59,
+    "last_checked": 1787327635.1920514
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.198.91.145",
+    "port": 1081,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.71,
+    "asn": "AS57008",
+    "isp": "ITGLOBAL",
+    "latency_ms": 15103.49,
+    "last_checked": 1787327631.8541374
+  },
+  {
+    "protocol": "socks5",
+    "ip": "213.148.6.12",
+    "port": 7777,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.85,
+    "asn": "AS48988",
+    "isp": "Modern Server Solutions LLP",
+    "latency_ms": 3648.62,
+    "last_checked": 1787327672.933533
   }
 ]
