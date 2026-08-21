@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "http",
+    "ip": "85.122.120.119",
+    "port": 20016,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Năvodari",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 8.67,
+    "asn": "AS39347",
+    "isp": "STYLISH BY A&L SRL",
+    "latency_ms": 7612.41,
+    "last_checked": 1787342978.3192854
+  },
+  {
+    "protocol": "socks4",
+    "ip": "85.122.120.119",
+    "port": 30016,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Năvodari",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 16.87,
+    "asn": "AS39347",
+    "isp": "STYLISH BY A&L SRL",
+    "latency_ms": 3692.85,
+    "last_checked": 1787342975.1144457
+  },
+  {
     "protocol": "socks4",
     "ip": "185.247.224.57",
     "port": 9050,
@@ -8,25 +38,40 @@
     "city": "Bucharest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 30.54,
+    "uptime_percent": 30.49,
     "asn": "AS200651",
     "isp": "FlokiNET ehf",
-    "latency_ms": 8146.62,
-    "last_checked": 1787342351.7692966
+    "latency_ms": 8311.96,
+    "last_checked": 1787342952.9748986
   },
   {
-    "protocol": "socks4",
-    "ip": "81.12.157.98",
-    "port": 5678,
+    "protocol": "socks5",
+    "ip": "185.247.224.57",
+    "port": 9050,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Cârţişoara",
+    "city": "Bucharest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 56.13,
-    "asn": "AS12302",
-    "isp": "Vodafone RO",
-    "latency_ms": 7364.59,
-    "last_checked": 1787342332.2289193
+    "uptime_percent": 31.48,
+    "asn": "AS200651",
+    "isp": "FlokiNET ehf",
+    "latency_ms": 7722.66,
+    "last_checked": 1787342950.8230917
+  },
+  {
+    "protocol": "http",
+    "ip": "92.86.207.198",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.0,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 2457.53,
+    "last_checked": 1787342913.2077265
   }
 ]
