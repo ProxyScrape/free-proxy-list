@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tartu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 58.59,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 1235.57,
+    "last_checked": 1787347141.4874513
+  },
+  {
     "protocol": "socks5",
     "ip": "5.45.119.70",
     "port": 1080,
@@ -8,11 +23,11 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 62.96,
+    "uptime_percent": 62.97,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 565.22,
-    "last_checked": 1787346554.1338277
+    "latency_ms": 440.46,
+    "last_checked": 1787347138.6182466
   },
   {
     "protocol": "http",
@@ -26,7 +41,22 @@
     "uptime_percent": 42.53,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 125.18,
-    "last_checked": 1787346551.1737683
+    "latency_ms": 143.11,
+    "last_checked": 1787347119.4397662
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.165",
+    "port": 13215,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 37.48,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 7004.33,
+    "last_checked": 1787347080.2565594
   }
 ]
