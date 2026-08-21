@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
     "country": "Switzerland",
@@ -8,11 +8,41 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 82.42,
+    "uptime_percent": 85.56,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2080.04,
-    "last_checked": 1787314192.8371055
+    "latency_ms": 1356.21,
+    "last_checked": 1787314772.6821082
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 17.39,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 8315.25,
+    "last_checked": 1787314737.9768019
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 72.5,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 12888.56,
+    "last_checked": 1787314674.7343545
   },
   {
     "protocol": "http",
@@ -26,7 +56,7 @@
     "uptime_percent": 41.19,
     "asn": "AS51395",
     "isp": "Datasource AG",
-    "latency_ms": 6990.84,
-    "last_checked": 1787314160.518325
+    "latency_ms": 33.59,
+    "last_checked": 1787314632.6667893
   }
 ]
