@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.128.240.77",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "185.247.224.57",
+    "port": 9050,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Drobeta-Turnu Severin",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 8.59,
-    "asn": "AS49052",
-    "isp": "Data ZYX SRL",
-    "latency_ms": 9868.98,
-    "last_checked": 1787399311.1313553
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.77,
+    "asn": "AS200651",
+    "isp": "FlokiNET ehf",
+    "latency_ms": 7619.52,
+    "last_checked": 1787399974.5656176
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.247.224.57",
+    "port": 9050,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.02,
+    "asn": "AS200651",
+    "isp": "FlokiNET ehf",
+    "latency_ms": 8953.24,
+    "last_checked": 1787399952.850467
   }
 ]
