@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "171.22.182.164",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Palermo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.32,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 7325.97,
+    "last_checked": 1787399352.4902523
+  },
+  {
+    "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -11,8 +26,8 @@
     "uptime_percent": 89.83,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 2654.86,
-    "last_checked": 1787398797.9669137
+    "latency_ms": 3982.33,
+    "last_checked": 1787399348.8913543
   },
   {
     "protocol": "socks5",
@@ -26,23 +41,23 @@
     "uptime_percent": 92.45,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 2996.29,
-    "last_checked": 1787398796.64525
+    "latency_ms": 2046.13,
+    "last_checked": 1787399342.726353
   },
   {
-    "protocol": "socks4",
-    "ip": "171.22.182.164",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "2.194.65.15",
+    "port": 8080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Palermo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.25,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 1251.09,
-    "last_checked": 1787398795.385192
+    "city": "Marino",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 25.44,
+    "asn": "AS16232",
+    "isp": "Telecom Italia Mobile",
+    "latency_ms": 307.2,
+    "last_checked": 1787399333.9317358
   },
   {
     "protocol": "socks4",
@@ -56,68 +71,8 @@
     "uptime_percent": 28.53,
     "asn": "AS212271",
     "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 972.73,
-    "last_checked": 1787398789.8061554
-  },
-  {
-    "protocol": "http",
-    "ip": "79.54.119.155",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Rome",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 20.8,
-    "asn": "AS3269",
-    "isp": "INTERBUSINESS",
-    "latency_ms": 13585.12,
-    "last_checked": 1787398766.8552144
-  },
-  {
-    "protocol": "http",
-    "ip": "81.31.148.105",
-    "port": 3080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.39,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 11951.69,
-    "last_checked": 1787398760.135498
-  },
-  {
-    "protocol": "socks5",
-    "ip": "5.59.248.134",
-    "port": 8081,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Pomezia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 23.62,
-    "asn": "AS212271",
-    "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 8875.55,
-    "last_checked": 1787398743.8328788
-  },
-  {
-    "protocol": "http",
-    "ip": "95.254.142.165",
-    "port": 3128,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Locate Varesino",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 93.34,
-    "asn": "AS3269",
-    "isp": "Telecom Italia S.p.A",
-    "latency_ms": 1036.01,
-    "last_checked": 1787398714.1066995
+    "latency_ms": 14980.76,
+    "last_checked": 1787399330.7462223
   },
   {
     "protocol": "http",
@@ -128,25 +83,40 @@
     "city": "Ispica",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 27.79,
+    "uptime_percent": 27.8,
     "asn": "AS198380",
     "isp": "Novaquadri",
-    "latency_ms": 475.24,
-    "last_checked": 1787398651.5608623
+    "latency_ms": 6306.19,
+    "last_checked": 1787399321.7972066
   },
   {
     "protocol": "http",
-    "ip": "185.191.106.0",
+    "ip": "95.254.142.165",
+    "port": 3128,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Locate Varesino",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 93.37,
+    "asn": "AS3269",
+    "isp": "Telecom Italia S.p.A",
+    "latency_ms": 1957.75,
+    "last_checked": 1787399275.8778374
+  },
+  {
+    "protocol": "http",
+    "ip": "79.54.119.155",
     "port": 8081,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Milan",
+    "city": "Rome",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 24.06,
-    "asn": "AS44092",
-    "isp": "Mywic Costumers",
-    "latency_ms": 1111.4,
-    "last_checked": 1787398769.634925
+    "ssl": false,
+    "uptime_percent": 25.99,
+    "asn": "AS3269",
+    "isp": "INTERBUSINESS",
+    "latency_ms": 2168.86,
+    "last_checked": 1787399227.7386036
   }
 ]
