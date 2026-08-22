@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "213.246.17.228",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "82.114.181.147",
+    "port": 9050,
     "country": "Yemen",
     "country_code": "YE",
-    "city": "Qaryat al Qābil",
+    "city": "Sanaa",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 76.7,
+    "uptime_percent": 59.54,
     "asn": "AS30873",
-    "isp": "AS30873 YemenNet",
-    "latency_ms": 1755.25,
-    "last_checked": 1787406848.1812825
+    "isp": "Public Telecommunication Corporation",
+    "latency_ms": 3697.13,
+    "last_checked": 1787407434.8237534
+  },
+  {
+    "protocol": "http",
+    "ip": "82.114.181.147",
+    "port": 8080,
+    "country": "Yemen",
+    "country_code": "YE",
+    "city": "Sanaa",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 41.74,
+    "asn": "AS30873",
+    "isp": "Public Telecommunication Corporation",
+    "latency_ms": 11244.13,
+    "last_checked": 1787407417.180656
   },
   {
     "protocol": "socks4",
@@ -23,10 +38,10 @@
     "city": "Sanaa",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 88.0,
+    "uptime_percent": 80.88,
     "asn": "AS30873",
     "isp": "Public Telecommunication Corporation",
-    "latency_ms": 1484.38,
-    "last_checked": 1787406843.0354784
+    "latency_ms": 3500.67,
+    "last_checked": 1787407500.4768815
   }
 ]
