@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "http",
     "ip": "45.95.232.35",
-    "port": 1080,
+    "port": 3128,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 85.56,
+    "ssl": false,
+    "uptime_percent": 72.27,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 704.39,
-    "last_checked": 1787440784.4089475
+    "latency_ms": 6277.51,
+    "last_checked": 1787441049.5688298
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.85.93.15",
+    "port": 4567,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 21.38,
+    "asn": "AS199058",
+    "isp": "Serva ONE LTD",
+    "latency_ms": 6639.09,
+    "last_checked": 1787441049.110291
   },
   {
     "protocol": "socks5",
@@ -23,25 +38,40 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 84.59,
+    "uptime_percent": 84.62,
     "asn": "AS57043",
     "isp": "Hostkey B.V.",
-    "latency_ms": 3103.06,
-    "last_checked": 1787440783.840462
+    "latency_ms": 80.39,
+    "last_checked": 1787441049.031819
   },
   {
-    "protocol": "socks5",
-    "ip": "45.95.232.35",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "195.225.116.15",
+    "port": 4145,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wädenswil",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.48,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 7117.28,
+    "last_checked": 1787441032.9008818
+  },
+  {
+    "protocol": "http",
+    "ip": "151.241.217.200",
+    "port": 3128,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 82.44,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2231.76,
-    "last_checked": 1787440746.4844646
+    "uptime_percent": 20.56,
+    "asn": "AS57043",
+    "isp": "Hostkey B.V.",
+    "latency_ms": 20608.51,
+    "last_checked": 1787440981.4230144
   }
 ]
