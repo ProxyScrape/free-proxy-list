@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "31.211.142.115",
-    "port": 8192,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Pleven",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 43.91,
-    "asn": "AS197897",
-    "isp": "5KOM",
-    "latency_ms": 1214.2,
-    "last_checked": 1787382517.7352087
-  },
-  {
     "protocol": "socks4",
     "ip": "212.50.19.150",
     "port": 4153,
@@ -26,8 +11,23 @@
     "uptime_percent": 17.97,
     "asn": "AS8717",
     "isp": "Spectrum NET",
-    "latency_ms": 1151.0,
-    "last_checked": 1787382511.3631368
+    "latency_ms": 132.8,
+    "last_checked": 1787383141.413122
+  },
+  {
+    "protocol": "socks4",
+    "ip": "46.10.198.10",
+    "port": 4153,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.05,
+    "asn": "AS8866",
+    "isp": "Vivacom Bulgaria EAD",
+    "latency_ms": 3179.2,
+    "last_checked": 1787383133.8888412
   },
   {
     "protocol": "http",
@@ -37,11 +37,71 @@
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 49.62,
+    "ssl": false,
+    "uptime_percent": 49.66,
     "asn": "AS44901",
     "isp": "Belcloud LTD",
-    "latency_ms": 12301.84,
-    "last_checked": 1787382483.0496986
+    "latency_ms": 10835.07,
+    "last_checked": 1787383117.7576458
+  },
+  {
+    "protocol": "socks5",
+    "ip": "91.215.153.137",
+    "port": 1080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.58,
+    "asn": "AS59729",
+    "isp": "Green Floid LLC",
+    "latency_ms": 5599.1,
+    "last_checked": 1787383094.9512396
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.7",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.59,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 12798.35,
+    "last_checked": 1787383072.5930285
+  },
+  {
+    "protocol": "http",
+    "ip": "5.104.183.29",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Svoge",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.82,
+    "asn": "AS205331",
+    "isp": "Wi-Max Network Ltd.",
+    "latency_ms": 2764.0,
+    "last_checked": 1787383072.0767272
+  },
+  {
+    "protocol": "http",
+    "ip": "85.187.224.21",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Kardzhali",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 18.29,
+    "asn": "AS199173",
+    "isp": "Technolux Ltd",
+    "latency_ms": 7398.69,
+    "last_checked": 1787383050.190349
   }
 ]
