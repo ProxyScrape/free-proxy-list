@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "85.122.120.119",
-    "port": 20016,
+    "protocol": "socks4",
+    "ip": "185.247.224.57",
+    "port": 9050,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Năvodari",
+    "city": "Bucharest",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 8.65,
-    "asn": "AS39347",
-    "isp": "STYLISH BY A&L SRL",
-    "latency_ms": 3580.23,
-    "last_checked": 1787403822.292914
+    "ssl": true,
+    "uptime_percent": 29.76,
+    "asn": "AS200651",
+    "isp": "FlokiNET ehf",
+    "latency_ms": 13644.12,
+    "last_checked": 1787404414.0430245
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.247.224.57",
+    "port": 9050,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.6,
+    "asn": "AS200651",
+    "isp": "FlokiNET ehf",
+    "latency_ms": 7242.56,
+    "last_checked": 1787404395.4225154
   },
   {
     "protocol": "http",
@@ -26,7 +41,7 @@
     "uptime_percent": 14.01,
     "asn": "AS9050",
     "isp": "Romtelecom",
-    "latency_ms": 2843.86,
-    "last_checked": 1787403812.8049726
+    "latency_ms": 5131.19,
+    "last_checked": 1787404358.7767842
   }
 ]
