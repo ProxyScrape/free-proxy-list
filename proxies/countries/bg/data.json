@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "109.160.97.49",
+    "port": 4145,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Rousse",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 18.14,
+    "asn": "AS205352",
+    "isp": "Kabelnet LTD",
+    "latency_ms": 246.28,
+    "last_checked": 1787385902.2273211
+  },
+  {
+    "protocol": "socks4",
     "ip": "46.10.198.10",
     "port": 4153,
     "country": "Bulgaria",
@@ -11,23 +26,38 @@
     "uptime_percent": 42.06,
     "asn": "AS8866",
     "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 3181.15,
-    "last_checked": 1787385254.1456983
+    "latency_ms": 146.56,
+    "last_checked": 1787385894.1365635
   },
   {
-    "protocol": "socks5",
-    "ip": "91.215.153.137",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "212.50.19.150",
+    "port": 4153,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 24.58,
-    "asn": "AS59729",
-    "isp": "Green Floid LLC",
-    "latency_ms": 1669.33,
-    "last_checked": 1787385224.7981172
+    "uptime_percent": 17.98,
+    "asn": "AS8717",
+    "isp": "Spectrum NET",
+    "latency_ms": 3174.9,
+    "last_checked": 1787385890.805384
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pleven",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.9,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 3223.99,
+    "last_checked": 1787385865.4750843
   },
   {
     "protocol": "http",
@@ -37,11 +67,26 @@
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 49.64,
+    "ssl": false,
+    "uptime_percent": 49.69,
     "asn": "AS44901",
     "isp": "Belcloud LTD",
-    "latency_ms": 5911.5,
-    "last_checked": 1787385218.274548
+    "latency_ms": 9379.58,
+    "last_checked": 1787385847.6770723
+  },
+  {
+    "protocol": "http",
+    "ip": "92.247.12.130",
+    "port": 9510,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 10.55,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 3540.8,
+    "last_checked": 1787385782.1098647
   }
 ]
