@@ -1,6 +1,21 @@
 [
   {
     "protocol": "http",
+    "ip": "212.58.132.5",
+    "port": 8888,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 86.05,
+    "asn": "AS8757",
+    "isp": "NSFOCUS, Inc.",
+    "latency_ms": 1080.01,
+    "last_checked": 1787371490.4612021
+  },
+  {
+    "protocol": "http",
     "ip": "90.221.4.86",
     "port": 8080,
     "country": "United Kingdom",
@@ -11,38 +26,8 @@
     "uptime_percent": 100.0,
     "asn": "AS5607",
     "isp": "Sky UK Limited",
-    "latency_ms": 1615.49,
-    "last_checked": 1787371142.7584925
-  },
-  {
-    "protocol": "http",
-    "ip": "91.231.186.236",
-    "port": 8181,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 80.89,
-    "asn": "AS62240",
-    "isp": "Clouvider Limited",
-    "latency_ms": 256.56,
-    "last_checked": 1787371136.7047849
-  },
-  {
-    "protocol": "http",
-    "ip": "81.168.119.85",
-    "port": 5443,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "Maidenhead",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 68.05,
-    "asn": "AS20860",
-    "isp": "Iomart Cloud Services Limited",
-    "latency_ms": 4588.44,
-    "last_checked": 1787371134.114308
+    "latency_ms": 1588.65,
+    "last_checked": 1787371488.4875522
   },
   {
     "protocol": "http",
@@ -53,26 +38,11 @@
     "city": "London",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 80.15,
+    "uptime_percent": 80.16,
     "asn": "AS62240",
     "isp": "Clouvider Limited",
-    "latency_ms": 201.67,
-    "last_checked": 1787371127.096368
-  },
-  {
-    "protocol": "http",
-    "ip": "198.244.188.127",
-    "port": 3128,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 6.29,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 17802.03,
-    "last_checked": 1787371096.649124
+    "latency_ms": 5704.82,
+    "last_checked": 1787371483.2292032
   },
   {
     "protocol": "http",
@@ -83,10 +53,55 @@
     "city": "London",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 29.92,
+    "uptime_percent": 29.95,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 15981.5,
-    "last_checked": 1787371051.0688539
+    "latency_ms": 15706.53,
+    "last_checked": 1787371455.1343656
+  },
+  {
+    "protocol": "http",
+    "ip": "91.231.186.236",
+    "port": 8181,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 80.9,
+    "asn": "AS62240",
+    "isp": "Clouvider Limited",
+    "latency_ms": 8658.2,
+    "last_checked": 1787371447.0362492
+  },
+  {
+    "protocol": "http",
+    "ip": "81.168.119.85",
+    "port": 5443,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "Maidenhead",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 68.06,
+    "asn": "AS20860",
+    "isp": "Iomart Cloud Services Limited",
+    "latency_ms": 10171.71,
+    "last_checked": 1787371352.8345075
+  },
+  {
+    "protocol": "http",
+    "ip": "198.244.188.127",
+    "port": 3128,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.29,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 15998.3,
+    "last_checked": 1787371341.0655262
   }
 ]
