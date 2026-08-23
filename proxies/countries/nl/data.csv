@@ -1,35 +1,46 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,132.243.120.54,10808,The Netherlands,NL,Amsterdam,elite,true,40.65,AS216154,Clodo Cloud Service CO. L.L.C,49.73,1787498978.3289013
-socks5,5.255.103.55,1080,The Netherlands,NL,Dronten,elite,true,92.4,AS60404,The Infrastructure Group B.V.,857.82,1787498974.689989
-socks4,144.31.86.244,8443,The Netherlands,NL,Amsterdam,elite,true,41.42,AS213877,U1 DIGITAL SERVICES LTD,698.98,1787498973.2484362
-socks5,161.35.90.93,1081,The Netherlands,NL,Amsterdam,elite,true,75.79,AS14061,"DigitalOcean, LLC",3672.91,1787498973.2272165
-socks5,5.255.113.177,1080,The Netherlands,NL,Dronten,elite,true,86.4,AS60404,The Infrastructure Group B.V.,2125.43,1787498972.5971262
-socks4,132.243.120.54,10809,The Netherlands,NL,Amsterdam,elite,true,43.12,AS216154,Clodo Cloud Service CO. L.L.C,177.24,1787498969.4302807
-socks4,194.127.179.9,10806,The Netherlands,NL,Amsterdam,elite,true,70.95,AS62240,Clouvider Limited,2467.09,1787498966.9056501
-socks5,144.124.227.88,3129,The Netherlands,NL,Amsterdam,elite,true,63.93,AS216071,Servers Tech Fzco,7789.82,1787498966.6937783
-socks5,161.35.90.93,1082,The Netherlands,NL,Amsterdam,elite,true,75.3,AS14061,"DigitalOcean, LLC",13130.58,1787498965.2831428
-socks4,45.150.33.211,1082,The Netherlands,NL,Amsterdam,elite,true,26.19,AS210644,Aeza International LTD,7648.15,1787498964.9449291
-socks4,185.171.83.65,49153,The Netherlands,NL,Amsterdam,elite,true,77.2,AS210976,"Timeweb, LLP",6491.28,1787498961.8399355
-socks5,5.255.123.162,1080,The Netherlands,NL,Dronten,elite,true,86.24,AS60404,The Infrastructure Group B.V.,4704.32,1787498961.7642865
-socks5,93.183.88.197,9053,The Netherlands,NL,Amsterdam,elite,true,7.05,AS216071,Servers Tech Fzco,16452.97,1787498960.9881787
-http,5.129.228.92,443,The Netherlands,NL,Amsterdam,elite,true,83.61,AS210976,"Timeweb, LLP",1141.86,1787498960.834837
-socks4,93.183.88.197,9053,The Netherlands,NL,Amsterdam,elite,true,5.45,AS216071,Servers Tech Fzco,15182.7,1787498958.3694654
-http,204.76.203.9,3128,The Netherlands,NL,Eygelshoven,elite,true,99.97,AS51396,Pfcloud UG,1092.16,1787498954.287955
-socks4,185.93.104.246,1080,The Netherlands,NL,Amsterdam,elite,true,32.84,AS58061,Scalaxy B.V.,8512.5,1787498949.7632911
-http,176.222.55.188,3128,The Netherlands,NL,Amsterdam,transparent,true,96.78,AS57043,Hostkey B V,10778.4,1787498947.4538221
-socks5,128.199.37.92,1080,The Netherlands,NL,Amsterdam,elite,true,56.95,AS14061,"DigitalOcean, LLC",1091.63,1787498945.9329898
-http,77.73.132.138,8443,The Netherlands,NL,Amsterdam,elite,true,25.95,AS210976,"Timeweb, LLP",6415.57,1787498943.9333715
-socks5,132.243.120.54,10809,The Netherlands,NL,Amsterdam,elite,true,40.88,AS216154,Clodo Cloud Service CO. L.L.C,706.92,1787498939.7116475
-socks5,89.208.106.37,32712,The Netherlands,NL,Amsterdam,elite,true,99.81,AS210644,Aeza International LTD,624.99,1787498937.6463673
-http,89.251.21.4,8080,The Netherlands,NL,Amsterdam,transparent,true,8.25,AS216472,High Speed For Internet Services L.L.C,3855.93,1787498937.0964432
-socks5,62.106.66.13,1080,Netherlands,NL,Amsterdam,elite,true,21.16,AS62005,BlueVPS OU,3525.29,1787498936.901667
-socks5,31.220.40.59,5080,The Netherlands,NL,Amsterdam,elite,true,42.74,AS206264,Amarutu Technology Ltd. Network,86.15,1787498935.0442133
-http,195.26.224.135,80,The Netherlands,NL,Amsterdam,elite,false,62.86,AS216071,Servers Tech Fzco,2011.5,1787498932.6368635
-socks5,68.183.7.53,9100,The Netherlands,NL,Amsterdam,elite,true,25.49,AS14061,"DigitalOcean, LLC",9779.62,1787498922.739519
-socks4,95.211.190.26,9100,The Netherlands,NL,Haarlem,elite,true,26.51,AS60781,LeaseWeb Netherlands B.V.,3107.22,1787498917.874628
-http,204.76.203.9,8080,The Netherlands,NL,Eygelshoven,elite,true,99.99,AS51396,Pfcloud UG,65.86,1787498915.4741085
-http,153.80.240.37,8080,The Netherlands,NL,Eygelshoven,elite,true,82.82,AS215540,Global Connectivity Solutions LLP,6130.9,1787498911.7140384
-http,194.58.57.116,3128,The Netherlands,NL,Amsterdam,transparent,true,31.82,AS210976,"Timeweb, LLP",15055.13,1787498910.7369812
-socks5,5.255.117.250,1080,The Netherlands,NL,Dronten,elite,true,81.93,AS60404,The Infrastructure Group B.V.,18555.51,1787498908.8597147
-socks5,217.12.209.4,1080,The Netherlands,NL,Amsterdam,elite,true,36.7,AS21100,Green Floid LLC,69.82,1787498899.5129757
-http,151.248.19.97,8080,The Netherlands,NL,Leersum,transparent,false,25.44,AS41960,Nextpertise B.V.,9455.42,1787498893.62869
+socks4,132.243.120.54,808,The Netherlands,NL,Amsterdam,elite,true,63.18,AS216154,Clodo Cloud Service CO. L.L.C,173.27,1787499588.0451944
+socks4,62.106.66.13,1080,Netherlands,NL,Amsterdam,elite,true,24.86,AS62005,BlueVPS OU,2463.91,1787499584.5218425
+socks5,161.35.90.93,1083,The Netherlands,NL,Amsterdam,elite,true,75.45,AS14061,"DigitalOcean, LLC",2669.2,1787499582.869489
+socks5,45.10.42.68,1080,The Netherlands,NL,Amsterdam,elite,true,79.47,AS210976,"Timeweb, LLP",5014.86,1787499582.1987855
+socks5,77.110.103.146,1080,The Netherlands,NL,Amsterdam,elite,true,61.4,AS210644,Aeza International LTD,49.64,1787499581.5659735
+socks5,89.208.106.37,32712,The Netherlands,NL,Amsterdam,elite,true,99.81,AS210644,Aeza International LTD,1265.54,1787499580.684527
+socks5,161.35.90.93,1082,The Netherlands,NL,Amsterdam,elite,true,75.31,AS14061,"DigitalOcean, LLC",2688.1,1787499580.21418
+socks5,5.255.113.177,1080,The Netherlands,NL,Dronten,elite,true,86.4,AS60404,The Infrastructure Group B.V.,78.53,1787499577.8669026
+socks4,139.28.240.202,1082,The Netherlands,NL,Amsterdam,elite,true,56.84,AS215540,Global Connectivity Solutions LLP,7310.43,1787499577.593269
+socks4,194.127.179.9,10806,The Netherlands,NL,Amsterdam,elite,true,70.94,AS62240,Clouvider Limited,9152.09,1787499576.5810478
+socks4,79.137.196.250,1080,The Netherlands,NL,Amsterdam,elite,true,28.03,AS210644,Aeza International LTD,3093.07,1787499573.3016446
+http,5.129.228.92,443,The Netherlands,NL,Amsterdam,elite,false,83.62,AS210976,"Timeweb, LLP",55.63,1787499572.6920564
+socks5,161.35.90.93,1081,The Netherlands,NL,Amsterdam,elite,true,75.79,AS14061,"DigitalOcean, LLC",409.89,1787499572.4165192
+http,204.76.203.9,8080,The Netherlands,NL,Eygelshoven,elite,true,99.99,AS51396,Pfcloud UG,58.47,1787499571.5717177
+socks5,193.233.126.24,10800,The Netherlands,NL,Amsterdam,elite,true,48.34,AS209207,Digital Hosting Provider LLC,7340.53,1787499571.3868802
+socks5,132.243.120.54,808,The Netherlands,NL,Amsterdam,elite,true,59.44,AS216154,Clodo Cloud Service CO. L.L.C,347.2,1787499570.974344
+http,195.26.224.135,80,The Netherlands,NL,Amsterdam,elite,false,62.86,AS216071,Servers Tech Fzco,2501.63,1787499570.3847237
+socks4,144.31.86.244,8443,The Netherlands,NL,Amsterdam,elite,true,41.42,AS213877,U1 DIGITAL SERVICES LTD,1407.57,1787499570.169553
+http,153.80.240.37,8080,The Netherlands,NL,Eygelshoven,elite,true,82.82,AS215540,Global Connectivity Solutions LLP,1116.34,1787499567.6752927
+socks5,178.18.147.109,9050,The Netherlands,NL,Amsterdam,elite,true,21.77,AS214639,TAKEHOST OU,3983.34,1787499567.2368603
+socks5,5.255.103.55,1080,The Netherlands,NL,Dronten,elite,true,92.4,AS60404,The Infrastructure Group B.V.,5657.29,1787499567.1898363
+socks5,132.243.120.54,10809,The Netherlands,NL,Amsterdam,elite,true,40.88,AS216154,Clodo Cloud Service CO. L.L.C,2179.21,1787499567.0320437
+socks4,31.220.40.59,5080,The Netherlands,NL,Amsterdam,elite,true,42.42,AS206264,Amarutu Technology Ltd. Network,55.07,1787499565.5786781
+socks5,144.124.232.204,1080,The Netherlands,NL,Amsterdam,elite,true,50.44,AS216071,Servers Tech Fzco,58.37,1787499564.1535225
+socks5,85.17.145.160,9150,The Netherlands,NL,Haarlem,elite,true,20.67,AS60781,LeaseWeb Netherlands B.V.,6134.64,1787499561.7039936
+http,151.248.19.97,8080,The Netherlands,NL,Leersum,transparent,false,25.44,AS41960,Nextpertise B.V.,9672.47,1787499560.518007
+socks4,79.137.198.159,42771,The Netherlands,NL,Amsterdam,elite,true,34.31,AS210644,Aeza International LTD,5271.18,1787499560.4588637
+socks5,37.49.224.167,1080,The Netherlands,NL,Amsterdam,elite,true,23.28,AS61254,ESTOXY OU,3086.36,1787499560.1561122
+http,62.106.66.13,8888,Netherlands,NL,Amsterdam,elite,true,39.47,AS62005,BlueVPS OU,3993.25,1787499559.788786
+socks5,185.216.71.119,9150,Netherlands,NL,Amsterdam,elite,true,35.79,AS215292,GravHosting,795.48,1787499559.757382
+socks5,5.255.123.162,1080,The Netherlands,NL,Dronten,elite,true,86.24,AS60404,The Infrastructure Group B.V.,2503.79,1787499557.9086297
+socks5,144.124.227.88,3129,The Netherlands,NL,Amsterdam,elite,true,63.93,AS216071,Servers Tech Fzco,1363.15,1787499557.4127455
+socks5,66.151.32.105,1080,The Netherlands,NL,Amsterdam,elite,true,24.75,AS57043,Hostkey B.V.,7341.81,1787499555.2319274
+http,204.76.203.9,3128,The Netherlands,NL,Eygelshoven,elite,true,99.97,AS51396,Pfcloud UG,81.56,1787499552.2264938
+socks5,62.106.66.13,1080,Netherlands,NL,Amsterdam,elite,true,21.17,AS62005,BlueVPS OU,16728.01,1787499548.884614
+socks5,91.84.98.74,12546,The Netherlands,NL,Amsterdam,elite,true,26.21,AS216071,Servers Tech Fzco,984.19,1787499542.0819561
+socks5,93.183.88.197,9052,The Netherlands,NL,Amsterdam,elite,true,26.34,AS216071,Servers Tech Fzco,13473.84,1787499539.7349534
+socks5,68.183.7.53,9100,The Netherlands,NL,Amsterdam,elite,true,25.49,AS14061,"DigitalOcean, LLC",9482.14,1787499539.4562504
+socks5,217.12.209.4,1080,The Netherlands,NL,Amsterdam,elite,true,36.69,AS21100,Green Floid LLC,3090.62,1787499538.7400665
+http,144.124.230.95,3128,The Netherlands,NL,Amsterdam,transparent,false,29.31,AS216071,Servers Tech Fzco,21258.56,1787499528.825543
+socks5,132.243.120.54,10808,The Netherlands,NL,Amsterdam,elite,true,38.48,AS216154,Clodo Cloud Service CO. L.L.C,55.03,1787499527.3707938
+http,77.73.132.138,8443,The Netherlands,NL,Amsterdam,elite,false,25.95,AS210976,"Timeweb, LLP",10045.18,1787499517.7209747
+socks5,144.124.232.204,443,The Netherlands,NL,Amsterdam,elite,true,42.78,AS216071,Servers Tech Fzco,48.92,1787499516.3472593
+http,72.56.73.224,8080,The Netherlands,NL,Amsterdam,elite,false,13.74,AS210976,"Timeweb, LLP",3660.17,1787499515.3407404
+socks5,178.208.66.47,8099,The Netherlands,NL,Amsterdam,elite,true,49.98,AS216139,Iron Hosting Centre LTD,18841.09,1787499459.4839783
