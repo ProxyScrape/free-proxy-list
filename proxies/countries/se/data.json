@@ -1,51 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "87.120.196.132",
-    "port": 35000,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 65.81,
-    "asn": "AS198550",
-    "isp": "Node Host Limited",
-    "latency_ms": 14092.62,
-    "last_checked": 1787528346.56057
-  },
-  {
-    "protocol": "socks4",
-    "ip": "80.78.18.216",
-    "port": 16379,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Malmö",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 73.39,
-    "asn": "AS39287",
-    "isp": "Materialism s.r.l.",
-    "latency_ms": 15332.7,
-    "last_checked": 1787528345.799274
-  },
-  {
-    "protocol": "socks5",
-    "ip": "87.120.196.132",
-    "port": 35000,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 67.25,
-    "asn": "AS198550",
-    "isp": "Node Host Limited",
-    "latency_ms": 11749.74,
-    "last_checked": 1787528336.0361178
-  },
-  {
-    "protocol": "socks5",
     "ip": "79.76.59.115",
     "port": 1080,
     "country": "Sweden",
@@ -53,11 +8,11 @@
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 50.79,
+    "uptime_percent": 54.51,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 124.07,
-    "last_checked": 1787528335.0819595
+    "latency_ms": 2644.91,
+    "last_checked": 1787528985.2494843
   },
   {
     "protocol": "http",
@@ -71,8 +26,23 @@
     "uptime_percent": 65.53,
     "asn": "AS206170",
     "isp": "Yelles AB",
-    "latency_ms": 5096.56,
-    "last_checked": 1787528329.4223604
+    "latency_ms": 2577.42,
+    "last_checked": 1787528978.9928555
+  },
+  {
+    "protocol": "socks4",
+    "ip": "147.45.72.212",
+    "port": 44816,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.78,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 8272.18,
+    "last_checked": 1787528976.6739976
   },
   {
     "protocol": "socks5",
@@ -86,23 +56,8 @@
     "uptime_percent": 74.57,
     "asn": "AS63473",
     "isp": "HostHatch",
-    "latency_ms": 17955.73,
-    "last_checked": 1787528328.9352036
-  },
-  {
-    "protocol": "socks5",
-    "ip": "188.93.140.146",
-    "port": 1080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 46.4,
-    "asn": "AS63473",
-    "isp": "HostHatch, LLC",
-    "latency_ms": 2299.81,
-    "last_checked": 1787528326.3040833
+    "latency_ms": 10438.51,
+    "last_checked": 1787528957.7360268
   },
   {
     "protocol": "http",
@@ -112,26 +67,71 @@
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 5.56,
     "asn": "AS210644",
     "isp": "xorek.cloud International LTD",
-    "latency_ms": 6769.68,
-    "last_checked": 1787528287.2180204
+    "latency_ms": 6272.41,
+    "last_checked": 1787528955.3822913
   },
   {
     "protocol": "socks5",
-    "ip": "147.45.72.31",
-    "port": 45700,
+    "ip": "80.78.18.216",
+    "port": 16379,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Malmö",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 73.88,
+    "asn": "AS39287",
+    "isp": "Materialism s.r.l.",
+    "latency_ms": 17164.52,
+    "last_checked": 1787528939.993196
+  },
+  {
+    "protocol": "socks5",
+    "ip": "62.60.230.196",
+    "port": 1080,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 22.4,
+    "uptime_percent": 20.01,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 1888.7,
-    "last_checked": 1787528274.3959422
+    "latency_ms": 1197.43,
+    "last_checked": 1787528922.0509756
+  },
+  {
+    "protocol": "http",
+    "ip": "185.100.157.20",
+    "port": 8000,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 38.76,
+    "asn": "AS209946",
+    "isp": "Alinda LLC",
+    "latency_ms": 12984.45,
+    "last_checked": 1787528920.0287645
+  },
+  {
+    "protocol": "socks5",
+    "ip": "87.120.196.132",
+    "port": 35000,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 67.25,
+    "asn": "AS198550",
+    "isp": "Node Host Limited",
+    "latency_ms": 11159.55,
+    "last_checked": 1787528897.5081587
   }
 ]
