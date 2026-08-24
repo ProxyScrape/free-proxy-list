@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "91.215.153.137",
     "port": 1080,
     "country": "Bulgaria",
@@ -11,37 +11,52 @@
     "uptime_percent": 25.12,
     "asn": "AS59729",
     "isp": "Green Floid LLC",
-    "latency_ms": 9629.34,
-    "last_checked": 1787542998.3968444
+    "latency_ms": 4784.74,
+    "last_checked": 1787543685.2870543
   },
   {
-    "protocol": "socks5",
-    "ip": "91.215.153.137",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "85.187.224.21",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Kardzhali",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 18.27,
+    "asn": "AS199173",
+    "isp": "Technolux Ltd",
+    "latency_ms": 2040.67,
+    "last_checked": 1787543610.7315578
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.10",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.19,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 4190.14,
+    "last_checked": 1787543607.2810032
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.50.19.150",
+    "port": 4153,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 25.11,
-    "asn": "AS59729",
-    "isp": "Green Floid LLC",
-    "latency_ms": 13468.76,
-    "last_checked": 1787542973.2818613
-  },
-  {
-    "protocol": "http",
-    "ip": "85.196.179.34",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 12.71,
-    "asn": "AS29580",
-    "isp": "Mobiltel BNG",
-    "latency_ms": 8854.81,
-    "last_checked": 1787542932.2093427
+    "uptime_percent": 18.07,
+    "asn": "AS8717",
+    "isp": "Spectrum NET",
+    "latency_ms": 129.91,
+    "last_checked": 1787543683.8560789
   }
 ]
