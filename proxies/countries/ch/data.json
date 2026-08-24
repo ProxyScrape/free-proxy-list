@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "195.225.116.14",
-    "port": 4145,
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Wädenswil",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 41.35,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 46.06,
+    "last_checked": 1787556590.6077917
+  },
+  {
+    "protocol": "socks5",
+    "ip": "151.241.217.102",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 25.66,
-    "asn": "AS48971",
-    "isp": "netz116",
-    "latency_ms": 61.86,
-    "last_checked": 1787555990.3068342
+    "uptime_percent": 75.01,
+    "asn": "AS57043",
+    "isp": "Hostkey B.V.",
+    "latency_ms": 1083.72,
+    "last_checked": 1787556578.8245873
   },
   {
     "protocol": "socks4",
@@ -23,11 +38,26 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 85.53,
+    "uptime_percent": 85.52,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 8896.68,
-    "last_checked": 1787555981.500856
+    "latency_ms": 7134.27,
+    "last_checked": 1787556568.872255
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 82.39,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 8639.75,
+    "last_checked": 1787556561.865208
   },
   {
     "protocol": "http",
@@ -37,11 +67,11 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 72.08,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3411.27,
-    "last_checked": 1787555948.0398612
+    "latency_ms": 11511.23,
+    "last_checked": 1787556541.8717513
   }
 ]
