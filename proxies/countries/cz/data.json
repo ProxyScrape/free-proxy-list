@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "90.181.120.18",
-    "port": 8082,
+    "protocol": "socks4",
+    "ip": "109.69.211.18",
+    "port": 1080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 26.9,
-    "asn": "AS5610",
-    "isp": "Telefonica O2 Czech Republic, a.s.",
-    "latency_ms": 8529.58,
-    "last_checked": 1787536408.504791
+    "city": "Přerov",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.77,
+    "asn": "AS196815",
+    "isp": "LAN servis s.r.o",
+    "latency_ms": 7404.21,
+    "last_checked": 1787536772.7775726
+  },
+  {
+    "protocol": "socks4",
+    "ip": "85.132.139.45",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Slavkov u Brna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.94,
+    "asn": "AS205400",
+    "isp": "GIN's network",
+    "latency_ms": 7239.13,
+    "last_checked": 1787536768.6208916
   },
   {
     "protocol": "http",
@@ -26,7 +41,37 @@
     "uptime_percent": 85.75,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 1602.76,
-    "last_checked": 1787536403.1919675
+    "latency_ms": 1428.83,
+    "last_checked": 1787536763.3226485
+  },
+  {
+    "protocol": "http",
+    "ip": "171.25.220.141",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Horoměřice",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.89,
+    "asn": "AS57707",
+    "isp": "Greendata s.r.o.",
+    "latency_ms": 8559.11,
+    "last_checked": 1787536708.8398583
+  },
+  {
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 68.09,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 9052.11,
+    "last_checked": 1787536697.6489515
   }
 ]
