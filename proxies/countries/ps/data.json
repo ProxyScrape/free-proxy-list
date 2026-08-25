@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "213.6.167.58",
-    "port": 9090,
+    "protocol": "socks4",
+    "ip": "84.242.51.241",
+    "port": 4145,
     "country": "Palestine",
     "country_code": "PS",
-    "city": "Nablus",
+    "city": "Gaza",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.39,
+    "asn": "AS51407",
+    "isp": "Mada Al-Arab General Services Company",
+    "latency_ms": 7465.69,
+    "last_checked": 1787620179.0106285
+  },
+  {
+    "protocol": "socks5",
+    "ip": "93.184.5.129",
+    "port": 1080,
+    "country": "Palestinian Territory",
+    "country_code": "PS",
+    "city": "Ramallah",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 17.57,
+    "asn": "AS47253",
+    "isp": "BCI Telecommunication & Advanced Technology Company",
+    "latency_ms": 7497.03,
+    "last_checked": 1787620134.4840462
+  },
+  {
+    "protocol": "http",
+    "ip": "213.6.249.37",
+    "port": 18000,
+    "country": "Palestine",
+    "country_code": "PS",
+    "city": "Ramallah",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 22.7,
+    "ssl": true,
+    "uptime_percent": 18.15,
     "asn": "AS12975",
     "isp": "Palestine Telecommunications Company",
-    "latency_ms": 1355.04,
-    "last_checked": 1787619545.9964855
+    "latency_ms": 11019.01,
+    "last_checked": 1787620115.6026654
   }
 ]
