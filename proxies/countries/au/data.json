@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 59.87,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 8259.75,
-    "last_checked": 1787626412.103895
-  },
-  {
     "protocol": "socks4",
     "ip": "168.138.9.147",
     "port": 1080,
@@ -26,8 +11,23 @@
     "uptime_percent": 35.61,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 17852.74,
-    "last_checked": 1787626388.1745026
+    "latency_ms": 8867.16,
+    "last_checked": 1787626714.064802
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.18.205.190",
+    "port": 9090,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 49.9,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 1392.05,
+    "last_checked": 1787626689.7519948
   },
   {
     "protocol": "http",
@@ -41,7 +41,52 @@
     "uptime_percent": 35.22,
     "asn": "AS141995",
     "isp": "Contabo Asia Private Limited",
-    "latency_ms": 20440.48,
-    "last_checked": 1787626319.0884109
+    "latency_ms": 13036.9,
+    "last_checked": 1787626665.575468
+  },
+  {
+    "protocol": "http",
+    "ip": "45.63.26.240",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 23.02,
+    "asn": "AS20473",
+    "isp": "Choopa",
+    "latency_ms": 5375.61,
+    "last_checked": 1787626663.6043735
+  },
+  {
+    "protocol": "http",
+    "ip": "108.61.213.218",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 20.01,
+    "asn": "AS20473",
+    "isp": "Choopa",
+    "latency_ms": 14649.68,
+    "last_checked": 1787626653.5410225
+  },
+  {
+    "protocol": "http",
+    "ip": "180.181.215.232",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 31.88,
+    "asn": "AS4764",
+    "isp": "Aussie Fibre Pty Ltd",
+    "latency_ms": 7733.98,
+    "last_checked": 1787626653.132752
   }
 ]
