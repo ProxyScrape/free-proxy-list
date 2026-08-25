@@ -1,6 +1,36 @@
 [
   {
     "protocol": "socks5",
+    "ip": "103.18.205.190",
+    "port": 9090,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 49.33,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 2661.95,
+    "last_checked": 1787632744.157448
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Burnside",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 10.22,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 12346.65,
+    "last_checked": 1787632743.0148764
+  },
+  {
+    "protocol": "socks4",
     "ip": "168.138.9.147",
     "port": 1080,
     "country": "Australia",
@@ -8,11 +38,11 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 30.73,
+    "uptime_percent": 35.6,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 6653.19,
-    "last_checked": 1787632179.9799857
+    "latency_ms": 5766.57,
+    "last_checked": 1787632739.0528483
   },
   {
     "protocol": "http",
@@ -22,41 +52,11 @@
     "country_code": "AU",
     "city": "Brisbane",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 31.87,
     "asn": "AS4764",
     "isp": "Aussie Fibre Pty Ltd",
-    "latency_ms": 10062.31,
-    "last_checked": 1787632134.5327256
-  },
-  {
-    "protocol": "http",
-    "ip": "103.131.232.9",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Goulburn",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 23.47,
-    "asn": "AS45447",
-    "isp": "YLess4U Pty Ltd",
-    "latency_ms": 7870.51,
-    "last_checked": 1787632111.052738
-  },
-  {
-    "protocol": "http",
-    "ip": "103.18.205.162",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 30.12,
-    "asn": "AS134371",
-    "isp": "Circle Network",
-    "latency_ms": 538.99,
-    "last_checked": 1787632079.0846503
+    "latency_ms": 1630.45,
+    "last_checked": 1787632676.8474767
   }
 ]
