@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "159.148.146.65",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "188.253.20.105",
+    "port": 3129,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 56.19,
-    "asn": "AS2588",
-    "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 7440.14,
-    "last_checked": 1787781570.8027117
+    "uptime_percent": 27.32,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 1094.36,
+    "last_checked": 1787782133.0475733
   },
   {
     "protocol": "http",
@@ -22,11 +22,26 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 47.75,
+    "ssl": false,
+    "uptime_percent": 49.15,
     "asn": "AS12993",
     "isp": "Digitalas Ekonomikas Attistibas Centrs",
-    "latency_ms": 7249.43,
-    "last_checked": 1787781406.328981
+    "latency_ms": 21405.76,
+    "last_checked": 1787782123.8547394
+  },
+  {
+    "protocol": "socks5",
+    "ip": "195.135.255.98",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 69.73,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 1205.25,
+    "last_checked": 1787782121.655427
   }
 ]
