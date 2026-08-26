@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "84.1.150.74",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "89.132.170.211",
+    "port": 4145,
     "country": "Hungary",
     "country_code": "HU",
-    "city": "Budapest",
+    "city": "Nagykanizsa",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.57,
+    "asn": "AS21334",
+    "isp": "One Hungary Ltd.",
+    "latency_ms": 8353.92,
+    "last_checked": 1787731772.4850333
+  },
+  {
+    "protocol": "http",
+    "ip": "89.135.59.77",
+    "port": 8090,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Jászfelsőszentgyörgy",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 35.99,
-    "asn": "AS5483",
-    "isp": "Magyar Telekom",
-    "latency_ms": 4426.48,
-    "last_checked": 1787731165.0469253
+    "uptime_percent": 10.91,
+    "asn": "AS21334",
+    "isp": "One Hungary Ltd.",
+    "latency_ms": 7494.41,
+    "last_checked": 1787731709.7956107
   },
   {
     "protocol": "http",
@@ -23,10 +38,25 @@
     "city": "Budapest",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 36.29,
+    "uptime_percent": 36.33,
     "asn": "AS20845",
     "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
-    "latency_ms": 12034.99,
-    "last_checked": 1787731084.3880315
+    "latency_ms": 8338.52,
+    "last_checked": 1787731695.1803524
+  },
+  {
+    "protocol": "http",
+    "ip": "84.1.150.74",
+    "port": 8080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Budapest",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 36.07,
+    "asn": "AS5483",
+    "isp": "Magyar Telekom",
+    "latency_ms": 6779.99,
+    "last_checked": 1787731688.632898
   }
 ]
