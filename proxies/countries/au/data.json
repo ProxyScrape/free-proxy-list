@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "168.138.9.147",
     "port": 1080,
     "country": "Australia",
@@ -8,11 +8,26 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 30.52,
+    "uptime_percent": 35.42,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 3052.9,
-    "last_checked": 1787758444.8482263
+    "latency_ms": 7522.48,
+    "last_checked": 1787759064.325013
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Burnside",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 9.54,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 11816.44,
+    "last_checked": 1787758987.4100182
   },
   {
     "protocol": "http",
@@ -22,26 +37,11 @@
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 30.06,
     "asn": "AS134371",
     "isp": "Circle Network",
-    "latency_ms": 8832.49,
-    "last_checked": 1787758415.4754245
-  },
-  {
-    "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 31.79,
-    "asn": "AS4764",
-    "isp": "Aussie Fibre Pty Ltd",
-    "latency_ms": 11650.15,
-    "last_checked": 1787758257.0992293
+    "latency_ms": 11016.84,
+    "last_checked": 1787758811.9386528
   }
 ]
