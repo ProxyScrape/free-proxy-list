@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "195.225.116.15",
-    "port": 4145,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Wädenswil",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 24.12,
-    "asn": "AS48971",
-    "isp": "netz116",
-    "latency_ms": 3123.7,
-    "last_checked": 1787770151.8692858
-  },
-  {
-    "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
     "country": "Switzerland",
@@ -26,8 +11,23 @@
     "uptime_percent": 85.29,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2750.68,
-    "last_checked": 1787770144.1980753
+    "latency_ms": 1078.31,
+    "last_checked": 1787770740.256945
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 81.91,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 3789.12,
+    "last_checked": 1787770734.0322888
   },
   {
     "protocol": "http",
@@ -41,7 +41,22 @@
     "uptime_percent": 41.65,
     "asn": "AS51395",
     "isp": "Datasource AG",
-    "latency_ms": 6522.52,
-    "last_checked": 1787770094.7029579
+    "latency_ms": 12803.91,
+    "last_checked": 1787770689.8632724
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 71.57,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 13340.3,
+    "last_checked": 1787770687.4339395
   }
 ]
