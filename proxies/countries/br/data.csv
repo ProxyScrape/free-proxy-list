@@ -1,32 +1,60 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,179.108.181.73,4153,Brazil,BR,Barretos,elite,true,3.57,AS28649,Desktop Sigmanet Comunicação Multimídia SA,8147.11,1787776464.0892084
-socks4,187.85.152.42,5432,Brazil,BR,Canoinhas,elite,true,30.58,AS53062,Ggnet Telecom Backbone,4103.71,1787776462.196506
-socks4,179.189.248.129,5432,Brazil,BR,Recife,elite,true,38.54,AS28252,WorldNet Telecom Comercio e Serviços de Telecomuni,4007.45,1787776461.409319
-socks4,177.67.176.91,4153,Brazil,BR,Anicuns,elite,true,5.87,AS262523,Help Desk NET Telecomunicacoes Ltda ME,1126.06,1787776455.5801327
-socks5,187.63.9.62,63253,Brazil,BR,Arraial do Cabo,elite,true,39.89,AS28658,Gigalink de Nova Friburgo Soluções em Rede Multimi,1556.55,1787776454.0253925
-socks5,186.219.210.17,7080,Brazil,BR,Capitólio,elite,true,32.34,AS262996,Minas Telecomunicacoes E Informatica Ltda ME,8491.02,1787776451.6855927
-http,177.136.44.194,54443,Brazil,BR,Salvador,transparent,false,5.07,AS52871,TASCOM TELECOMUNICAÇÕES LTDA,8148.82,1787776447.3944893
-socks4,179.189.249.130,5432,Brazil,BR,Recife,elite,true,36.49,AS28252,WorldNet Telecom Comercio e Serviços de Telecomuni,8227.91,1787776447.2324722
-http,45.229.9.142,8402,Brazil,BR,Rondonópolis,transparent,false,5.08,AS267123,Meganet Telecon Ltda,10523.42,1787776445.8051982
-socks4,170.79.153.200,5678,Brazil,BR,Alto do Rodrigues,elite,true,29.39,AS266294,A Z DE ARAUJO NETO ME,888.68,1787776439.1851394
-socks5,186.26.95.249,61445,Brazil,BR,São João de Meriti,elite,true,45.69,AS274386,Nosso Wi-fi Ltda,1163.82,1787776439.069404
-socks4,179.189.243.245,5432,Brazil,BR,Recife,elite,true,37.05,AS28252,WorldNet Telecom Comercio e Serviços de Telecomuni,8139.08,1787776420.6742506
-socks4,190.109.72.17,33633,Brazil,BR,São Geraldo do Araguaia,elite,true,8.75,AS264231,RG.COM - INFORMATICA & COMUNICACAO LTDA - ME,920.69,1787776413.8293552
-http,186.249.187.240,8080,Brazil,BR,Fortaleza,transparent,true,37.69,AS262532,VAS Freitas Servicos de Internet Ltda,14593.75,1787776412.859225
-http,143.202.212.8,8080,Brazil,BR,Taquara,transparent,true,36.55,AS52851,CTA INTERNET LTDA,2334.4,1787776408.9109752
-http,191.252.202.127,8885,Brazil,BR,Itacoatiara,transparent,true,23.07,AS27715,Locaweb Serviços de Internet S/A,4327.27,1787776406.808921
-http,201.20.42.46,3127,Brazil,BR,São Paulo,transparent,false,69.51,AS15830,Equinix (EMEA) Acquisition Enterprises B.V.,15049.23,1787776403.5716422
-http,168.181.151.168,8081,Brazil,BR,Brotas,transparent,true,26.62,AS52579,TELLIUS & ALLNET TELECOMUNICAÇÕES DAS AMÉRICAS,3824.84,1787776402.2723012
-socks5,191.252.204.85,19150,Brazil,BR,Itacoatiara,elite,true,20.44,AS27715,Locaweb Serviços de Internet S/A,14416.19,1787776401.3402934
-http,186.226.167.191,3128,Brazil,BR,Eunápolis,transparent,true,16.51,AS53180,Infortel Comunicacoes Ltda,2321.7,1787776399.6807191
-http,177.20.167.139,8080,Brazil,BR,Bofete,transparent,false,22.94,AS270814,Zaaz Provedor De Internet E Telecomunicacoes Ltda,6487.01,1787776391.498822
-http,186.235.123.3,8080,Brazil,BR,Cachoeiras de Macacu,transparent,true,19.23,AS264075,K1 Telecom e Multimidia LTDA,4116.76,1787776383.1887717
-http,168.194.146.179,8080,Brazil,BR,Igarapava,transparent,false,11.9,AS264238,Link Net-Igarapava,5445.24,1787776376.6967592
-http,187.110.232.118,8080,Brazil,BR,Fortaleza,transparent,false,47.37,AS28598,DB3 SERVICOS DE TELECOMUNICACOES S.A,1773.74,1787776372.4727554
-http,179.48.10.1,8088,Brazil,BR,Campo Maior,transparent,false,11.75,AS271113,Carnaubanet Ltda,5105.06,1787776369.6767197
-http,45.71.15.2,8080,Brazil,BR,Penápolis,transparent,false,12.49,AS267595,Milanin NET,3690.17,1787776366.5129144
-http,191.7.114.63,8080,Brazil,BR,Tangará da Serra,transparent,false,24.51,AS264268,Teleturbo Servicos De Telecomunicacoes Ltda,8008.49,1787776344.8440542
-http,177.130.104.118,33333,Brazil,BR,Santo Anastácio,transparent,false,13.67,AS28287,Vero S.A,8494.71,1787776344.6560464
-http,170.239.220.6,8080,Brazil,BR,Nova Lima,transparent,false,25.45,AS28201,Companhia Itabirana Telecomunicações Ltda,5843.41,1787776331.124276
-http,179.185.75.94,8080,Brazil,BR,Brasília,transparent,false,11.58,AS18881,TELEFÔNICA BRASIL S.A,13009.03,1787776285.8101306
-http,129.121.55.206,8080,Brazil,BR,Vinhedo,transparent,true,47.89,AS26337,"Oso Grande IP Services, LLC",8088.25,1787776474.1518805
+socks4,177.26.112.65,5678,Brazil,BR,São Paulo,elite,true,46.02,AS26599,Vivo,2120.33,1787777076.2209373
+http,170.84.147.216,8087,Brazil,BR,Piracuruca,transparent,true,25.86,AS264997,Direct Telecom Ltda,2912.09,1787777075.9247994
+socks4,177.131.125.144,5432,Brazil,BR,Chapecó,elite,true,44.88,AS262391,Acessoline Telecom,1089.3,1787777074.058896
+socks4,190.89.104.88,5432,Brazil,BR,Joaçaba,elite,true,44.83,AS262391,Acessoline Telecom,1020.99,1787777074.0569863
+socks4,190.89.4.182,1080,Brazil,BR,Itanhém,elite,true,42.63,AS270399,Itaconect Serviços de Comunicação e Multimidia,8096.9,1787777073.568834
+socks4,177.131.119.185,5432,Brazil,BR,Chapecó,elite,true,40.66,AS262391,Acessoline Telecom,8130.69,1787777073.554753
+socks4,190.89.104.48,5432,Brazil,BR,Joaçaba,elite,true,42.86,AS262391,Acessoline Telecom,4045.66,1787777072.8333156
+socks4,170.80.221.192,4153,Brazil,BR,Moreno,elite,true,40.43,AS265274,LOCALLINK TELECOMUNICAÇÕES LTDA - ME,938.25,1787777071.0231898
+socks4,179.189.242.5,5432,Brazil,BR,Recife,elite,true,43.58,AS28252,WorldNet Telecom Comercio e Serviços de Telecomuni,8227.64,1787777070.594766
+socks4,179.189.246.129,5432,Brazil,BR,Recife,elite,true,33.87,AS28252,WorldNet Telecom Comercio e Serviços de Telecomuni,4028.24,1787777070.4169037
+socks4,179.189.248.125,5432,Brazil,BR,Recife,elite,true,37.12,AS28252,WorldNet Telecom Comercio e Serviços de Telecomuni,971.68,1787777069.3651385
+socks4,187.86.153.254,30660,Brazil,BR,Pelotas,elite,true,20.93,AS53066,VETORIALNET INF. E SERVIÇOS DE INTERNET LTDA,4210.98,1787777068.1769931
+socks5,186.219.212.53,7080,Brazil,BR,Capitólio,elite,true,31.97,AS262996,Minas Telecomunicacoes E Informatica Ltda ME,2511.02,1787777061.7242231
+socks5,187.63.9.62,63253,Brazil,BR,Arraial do Cabo,elite,true,39.89,AS28658,Gigalink de Nova Friburgo Soluções em Rede Multimi,1202.95,1787777057.7948704
+socks4,143.255.109.76,1080,Brazil,BR,Águas Lindas de Goiás,elite,true,51.22,AS265144,MCD INFORMATICA E TELECOMUNICACOES LTDA - ME,1035.82,1787777054.8189023
+http,191.7.114.63,8080,Brazil,BR,Tangará da Serra,transparent,false,24.52,AS264268,Teleturbo Servicos De Telecomunicacoes Ltda,6340.07,1787777052.3206992
+http,187.49.83.163,53000,Brazil,BR,Cascavel,transparent,false,9.45,AS28142,DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI,6417.32,1787777050.3528075
+http,191.15.33.165,8080,Brazil,BR,Salvador,transparent,false,35.09,AS26599,Vivo,5419.68,1787777043.7277458
+http,143.208.84.2,8589,Brazil,BR,Ubiratã,transparent,false,15.05,AS265125,V. GRAZIOLI & CIA. LTDA. - ME,8103.74,1787777040.4357364
+http,186.226.167.191,3128,Brazil,BR,Eunápolis,transparent,false,16.51,AS53180,Infortel Comunicacoes Ltda,10727.71,1787777039.47693
+http,138.59.20.140,9999,Brazil,BR,Santa Luzia,transparent,true,13.88,AS28201,Companhia Itabirana Telecomunicações Ltda,7677.02,1787777036.1211324
+http,186.227.196.104,3128,Brazil,BR,Cabedelo,transparent,true,30.62,AS53055,Dimenoc Servicos De Informatica Ltda,12538.88,1787777031.1366231
+http,177.10.202.115,35452,Brazil,BR,Campina Grande,elite,false,22.55,AS263025,ISPTEC Sistemas de Comunicação Eireli,10825.87,1787777030.6016653
+http,45.229.9.146,8402,Brazil,BR,Rondonópolis,transparent,false,6.43,AS267123,Meganet Telecon Ltda,17620.39,1787777027.8355987
+http,143.202.212.8,8080,Brazil,BR,Taquara,transparent,false,36.61,AS52851,CTA INTERNET LTDA,6977.82,1787777020.7189543
+http,201.71.137.90,5128,Brazil,BR,Cuiabá,transparent,false,14.91,AS28635,Avato Tecnologia S.A,4014.15,1787777016.6894853
+http,191.252.202.127,8885,Brazil,BR,Itacoatiara,transparent,true,23.13,AS27715,Locaweb Serviços de Internet S/A,9688.4,1787777013.3589928
+http,170.239.220.6,8080,Brazil,BR,Nova Lima,transparent,false,25.46,AS28201,Companhia Itabirana Telecomunicações Ltda,10160.25,1787777010.628017
+http,177.130.104.86,33333,Brazil,BR,Santo Anastácio,transparent,false,8.97,AS28287,Vero S.A,5767.66,1787777003.3545601
+http,191.252.195.73,80,Brazil,BR,São Paulo,transparent,false,17.65,AS27715,Locaweb Serviços de Internet S/A,11547.38,1787777002.4939673
+http,191.160.36.7,8080,Brazil,BR,Palmeirândia,transparent,true,27.97,AS272720,MAXSERV COMERCIO E SERVIÇOS LTDA ME,3416.7,1787777000.6977756
+http,179.48.11.6,8085,Brazil,BR,Campo Maior,transparent,false,13.36,AS271113,Carnaubanet Ltda,5234.96,1787776999.7531197
+http,186.235.123.3,8080,Brazil,BR,Cachoeiras de Macacu,transparent,false,19.23,AS264075,K1 Telecom e Multimidia LTDA,8264.79,1787776990.313288
+http,187.49.83.164,53000,Brazil,BR,Cascavel,transparent,false,9.24,AS28142,DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI,7005.32,1787776986.5408297
+http,143.0.203.173,8080,Brazil,BR,Neves Paulista,transparent,false,26.83,AS264001,Genesysnet Provedor De Internet Ltda ME,8785.82,1787776982.0465117
+http,187.19.200.217,8090,Brazil,BR,Petrópolis,transparent,false,7.5,AS28126,Brisanet Servicos De Telecomunicacoes S.A,5411.34,1787776981.531643
+http,45.227.195.121,8082,Brazil,BR,Concórdia,transparent,true,8.25,AS28146,Mhnet Telecom,4052.47,1787776976.6287606
+http,177.135.190.101,8080,Brazil,BR,Recife,transparent,false,12.79,AS18881,TELEFÔNICA BRASIL S.A,15052.86,1787776972.784792
+http,35.199.93.247,90,Brazil,BR,Sao Paulo,elite,false,13.14,AS396982,Google LLC,8227.21,1787776971.8697546
+http,177.23.156.1,18800,Brazil,BR,Aparecida de Goiânia,transparent,false,7.07,AS52911,netstore tecnologia ltda,7100.89,1787776966.3277566
+http,138.0.143.120,8080,Brazil,BR,Valparaíso,elite,false,9.49,AS264551,F.B. BABETO ME,6071.75,1787776959.1483948
+http,191.252.205.35,3128,Brazil,BR,Itacoatiara,transparent,true,25.35,AS27715,Locaweb Serviços de Internet S/A,15252.4,1787776957.5573342
+http,201.140.209.33,3128,Brazil,BR,Janaúba,transparent,false,27.39,AS262895,Norte Line Telecomunicacoes Ltda.,10801.68,1787776951.5467525
+http,177.19.167.242,80,Brazil,BR,Porto Alegre,elite,false,29.3,AS18881,TELEFÔNICA BRASIL S.A,7077.94,1787776943.3688865
+http,191.6.112.5,8086,Brazil,BR,Macapá,transparent,false,12.39,AS262753,Voce Telecomunicacoes Ltda,10032.56,1787776921.6556113
+http,177.223.179.230,8080,Brazil,BR,Santo Antônio de Jesus,transparent,false,44.38,AS28300,Speed Serviços de Internet Ltda,3301.88,1787776919.6734457
+http,177.85.69.252,9999,Brazil,BR,Feira de Santana,transparent,false,14.77,AS262600,ASE TELECOMUNICAÇÕES LTDA ME,5112.36,1787776918.9118366
+http,170.81.102.168,6666,Brazil,BR,Camaçari,transparent,true,15.76,AS61618,Viva Tecnologia Telecom,1691.64,1787776870.8112566
+http,168.228.176.30,3139,Brazil,BR,Tianguá,transparent,false,16.69,AS264926,BRASILINK SERVIÇOS EIRELI,12526.26,1787777064.2471864
+http,201.20.42.46,3128,Brazil,BR,São Paulo,transparent,true,75.58,AS15830,Equinix (EMEA) Acquisition Enterprises B.V.,7312.93,1787777051.0244894
+socks4,206.42.51.78,4153,Brazil,BR,João Pessoa,elite,true,13.27,AS28126,Brisanet Servicos De Telecomunicacoes S.A,7934.77,1787777048.228856
+http,129.121.55.206,8080,Brazil,BR,Vinhedo,transparent,true,48.09,AS26337,"Oso Grande IP Services, LLC",9328.14,1787777046.3275774
+http,168.205.100.92,8080,Brazil,BR,Petrópolis,transparent,false,3.34,AS265369,C-ComTelecom Servios Ltda-ME,4853.21,1787777040.307797
+http,131.100.19.5,4321,Brazil,BR,Colinas do Tocantins,elite,true,11.22,AS61753,Cleyton De Sales Costa - ME,2674.75,1787777035.3719056
+http,168.197.104.45,8080,Brazil,BR,Guaratuba,transparent,false,25.98,AS265477,Gtba Telecom Ltda ME,13366.82,1787777028.919133
+http,131.100.26.163,8180,Brazil,BR,Brooklin,transparent,false,27.05,AS53107,Eveo S.A.,11540.6,1787777005.876204
+http,201.20.79.182,8088,Brazil,BR,Fortaleza,transparent,false,19.98,AS28598,DB3 SERVICOS DE TELECOMUNICACOES S.A,5574.75,1787777002.6024575
+http,201.76.9.115,8080,Brazil,BR,Tubarão,transparent,false,11.22,AS28642,Contato Internet EIRELI,5297.06,1787776965.4819715
+http,168.194.147.142,8080,Brazil,BR,Igarapava,transparent,false,10.67,AS264238,Link Net-Igarapava,5332.18,1787776898.4114192
