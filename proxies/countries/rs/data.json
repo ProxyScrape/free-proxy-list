@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "212.200.223.89",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "185.190.154.121",
+    "port": 4145,
     "country": "Serbia",
     "country_code": "RS",
     "city": "Belgrade",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 44.65,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.81,
     "asn": "AS8400",
-    "isp": "TELEKOM SRBIJA a.d.",
-    "latency_ms": 2224.93,
-    "last_checked": 1787734775.4127524
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 186.43,
+    "last_checked": 1787735389.5505621
+  },
+  {
+    "protocol": "http",
+    "ip": "82.117.211.42",
+    "port": 8085,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Novi Sad",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.9,
+    "asn": "AS31042",
+    "isp": "Serbia BroadBand",
+    "latency_ms": 5641.79,
+    "last_checked": 1787735351.0045595
   }
 ]
