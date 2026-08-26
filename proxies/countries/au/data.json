@@ -1,21 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 59.57,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 10760.94,
-    "last_checked": 1787768930.5887601
-  },
-  {
-    "protocol": "http",
     "ip": "180.181.215.232",
     "port": 3128,
     "country": "Australia",
@@ -26,8 +11,8 @@
     "uptime_percent": 31.8,
     "asn": "AS4764",
     "isp": "Aussie Fibre Pty Ltd",
-    "latency_ms": 3130.89,
-    "last_checked": 1787768921.4807713
+    "latency_ms": 5189.54,
+    "last_checked": 1787769581.2003374
   },
   {
     "protocol": "http",
@@ -37,26 +22,41 @@
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 30.06,
     "asn": "AS134371",
     "isp": "Circle Network",
-    "latency_ms": 7520.13,
-    "last_checked": 1787768889.3472426
+    "latency_ms": 5667.26,
+    "last_checked": 1787769560.7664647
+  },
+  {
+    "protocol": "socks5",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.52,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 20182.58,
+    "last_checked": 1787769548.999424
   },
   {
     "protocol": "http",
-    "ip": "46.250.241.229",
-    "port": 3128,
+    "ip": "114.111.151.41",
+    "port": 80,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 35.09,
-    "asn": "AS141995",
-    "isp": "Contabo Asia Private Limited",
-    "latency_ms": 3744.13,
-    "last_checked": 1787768846.0552223
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 59.57,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 12560.85,
+    "last_checked": 1787769515.4500606
   }
 ]
