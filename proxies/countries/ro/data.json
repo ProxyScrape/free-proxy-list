@@ -1,6 +1,21 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Cârţişoara",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.53,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 196.53,
+    "last_checked": 1787795985.892353
+  },
+  {
+    "protocol": "socks4",
     "ip": "85.122.120.46",
     "port": 30000,
     "country": "Romania",
@@ -8,40 +23,40 @@
     "city": "Năvodari",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 13.71,
+    "uptime_percent": 16.36,
     "asn": "AS39347",
     "isp": "STYLISH BY A&L SRL",
-    "latency_ms": 696.39,
-    "last_checked": 1787795395.7369456
+    "latency_ms": 7225.2,
+    "last_checked": 1787795952.8433383
   },
   {
     "protocol": "http",
-    "ip": "86.121.33.98",
-    "port": 80,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Târgu Mureş",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 3.61,
-    "asn": "AS8708",
-    "isp": "RCS & RDS",
-    "latency_ms": 21368.28,
-    "last_checked": 1787795361.164402
-  },
-  {
-    "protocol": "http",
-    "ip": "185.128.240.77",
-    "port": 8080,
+    "ip": "185.128.240.2",
+    "port": 3128,
     "country": "Romania",
     "country_code": "RO",
     "city": "Drobeta-Turnu Severin",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 8.63,
+    "uptime_percent": 20.87,
     "asn": "AS49052",
     "isp": "Data ZYX SRL",
-    "latency_ms": 9525.83,
-    "last_checked": 1787795276.9813466
+    "latency_ms": 1590.13,
+    "last_checked": 1787795923.0956595
+  },
+  {
+    "protocol": "http",
+    "ip": "86.125.19.21",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Craiova",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.98,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 12845.86,
+    "last_checked": 1787795803.795897
   }
 ]
