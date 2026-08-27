@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 44.92,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 161.03,
-    "last_checked": 1787857785.636837
-  },
-  {
     "protocol": "socks5",
     "ip": "5.45.119.70",
     "port": 1080,
@@ -26,8 +11,23 @@
     "uptime_percent": 66.78,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 424.41,
-    "last_checked": 1787857769.9898932
+    "latency_ms": 542.04,
+    "last_checked": 1787858373.3089137
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tartu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.85,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 1252.98,
+    "last_checked": 1787858354.4802496
   },
   {
     "protocol": "http",
@@ -37,11 +37,26 @@
     "country_code": "EE",
     "city": "Tallinn",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 16.15,
     "asn": "AS199144",
     "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 7949.45,
-    "last_checked": 1787857766.3876717
+    "latency_ms": 2788.92,
+    "last_checked": 1787858334.154238
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.128",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 44.92,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 157.61,
+    "last_checked": 1787858314.6137214
   }
 ]
