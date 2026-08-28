@@ -1,36 +1,51 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,173.212.251.39,1081,France,FR,Lauterbourg,elite,true,3.05,AS51167,Contabo GmbH,73.9,1787914170.16444
-socks5,45.95.233.88,1082,France,FR,Paris,elite,true,60.65,AS215540,Global Connectivity Solutions LLP,73.16,1787914170.0265672
-socks5,109.123.251.109,1080,France,FR,Lauterbourg,elite,true,73.74,AS51167,Contabo GmbH,430.62,1787914169.4213514
-socks4,45.95.233.128,1082,France,FR,Paris,elite,true,62.62,AS215540,Global Connectivity Solutions LLP,1135.87,1787914168.8893156
-socks5,152.228.237.108,1080,France,FR,Strasbourg,elite,true,71.51,AS16276,OVH SAS,51.72,1787914168.881854
-socks5,144.91.121.61,1088,France,FR,Lauterbourg,elite,true,96.88,AS51167,Contabo GmbH,300.38,1787914168.6538332
-socks4,109.172.55.210,1082,France,FR,Paris,elite,true,53.71,AS215540,Global Connectivity Solutions LLP,53.91,1787914167.1288931
-socks4,62.133.62.27,1082,France,FR,Paris,elite,true,55.4,AS215540,Global Connectivity Solutions LLP,53.86,1787914166.64993
-http,37.59.125.131,8888,France,FR,Roubaix,elite,true,97.38,AS16276,OVH SAS,2214.01,1787914165.6569839
-socks4,45.95.233.88,1082,France,FR,Paris,elite,true,62.58,AS215540,Global Connectivity Solutions LLP,3093.6,1787914164.541355
-socks4,31.24.251.15,1080,France,FR,Paris,elite,true,24.28,AS57271,BitWeb LLC,6286.1,1787914163.5930505
-socks5,109.199.107.68,1080,France,FR,Lauterbourg,elite,true,55.84,AS51167,Contabo GmbH,1047.57,1787914161.9319599
-socks4,158.220.99.85,4545,France,FR,Lauterbourg,elite,true,96.58,AS51167,Contabo GmbH,6128.44,1787914161.736927
-http,51.146.240.4,43,France,FR,Paris,elite,false,97.7,AS212238,Datacamp Limited,1636.32,1787914159.6540651
-http,109.199.119.160,80,France,FR,Lauterbourg,elite,false,99.2,AS51167,Contabo GmbH,19.71,1787914159.2611988
-socks4,62.133.62.18,1082,France,FR,Paris,elite,true,51.94,AS215540,Global Connectivity Solutions LLP,58.47,1787914157.8466046
-socks5,92.205.186.129,1080,France,FR,Strasbourg,elite,true,66.5,AS21499,Host Europe GmbH,12797.17,1787914154.8250117
-socks4,152.228.237.108,1080,France,FR,Strasbourg,elite,true,71.21,AS16276,OVH SAS,24.13,1787914154.7779343
-http,51.146.240.4,8181,France,FR,Paris,elite,false,98.73,AS212238,Datacamp Limited,2093.79,1787914153.4870822
-socks5,62.133.62.27,1082,France,FR,Paris,elite,true,47.23,AS215540,Global Connectivity Solutions LLP,80.03,1787914145.3460255
-socks5,150.241.91.238,7777,France,FR,Paris,elite,true,85.69,AS210644,xorek.cloud International LTD,3370.91,1787914142.8934972
-socks4,144.91.82.219,9050,France,FR,Lauterbourg,elite,true,29.52,AS51167,Contabo GmbH,11499.97,1787914141.044325
-http,158.220.99.85,4545,France,FR,Lauterbourg,elite,true,93.26,AS51167,Contabo GmbH,6887.55,1787914140.5715084
-http,145.239.196.123,80,France,FR,Strasbourg,elite,false,36.59,AS16276,OVH SAS,25.86,1787914133.988904
-http,163.172.53.142,80,France,FR,Paris,elite,false,90.71,AS12876,Scaleway SAS,2779.79,1787914132.6815205
-http,51.146.240.4,8080,France,FR,Paris,elite,true,98.44,AS212238,Datacamp Limited,623.58,1787914130.08897
-http,202.133.88.173,80,France,FR,Paris,elite,false,78.99,AS212552,BitCommand LLC,188.29,1787914129.9984105
-http,212.47.232.28,80,France,FR,Paris,elite,false,76.11,AS12876,Scaleway SAS,4444.89,1787914125.744847
-http,51.75.206.209,80,France,FR,Roubaix,elite,false,34.04,AS16276,OVH SAS,2144.49,1787914110.3571792
-http,51.146.240.4,3128,France,FR,Paris,elite,true,98.87,AS212238,Datacamp Limited,15642.93,1787914107.3198173
-socks5,144.91.82.219,9050,France,FR,Lauterbourg,elite,true,29.79,AS51167,Contabo GmbH,27790.25,1787914100.8247855
-socks5,5.189.160.163,9100,France,FR,Lauterbourg,elite,true,27.86,AS51167,Contabo GmbH,22688.11,1787914094.9295685
-socks5,173.249.20.169,9060,France,FR,Lauterbourg,elite,true,38.19,AS51167,Contabo GmbH,9951.31,1787914083.2999833
-http,54.36.101.53,3128,France,FR,Gravelines,transparent,false,39.17,AS16276,OVH SAS,13890.13,1787914055.5965283
-http,4.178.211.164,3128,France,FR,Paris,anonymous,false,22.91,AS8075,Microsoft Corporation,13045.48,1787914052.9994218
+http,51.146.240.4,8181,France,FR,Paris,elite,true,98.74,AS212238,Datacamp Limited,251.57,1787914801.3020551
+socks4,109.172.55.177,1082,France,FR,Paris,elite,true,58.5,AS215540,Global Connectivity Solutions LLP,54.81,1787914801.0748913
+socks4,109.172.55.210,1082,France,FR,Paris,elite,true,53.71,AS215540,Global Connectivity Solutions LLP,57.92,1787914798.4045205
+socks4,109.172.55.227,1082,France,FR,Paris,elite,true,61.82,AS215540,Global Connectivity Solutions LLP,3080.9,1787914796.1040077
+socks5,150.241.91.238,7777,France,FR,Paris,elite,true,85.7,AS210644,xorek.cloud International LTD,4768.42,1787914794.7226896
+socks5,144.91.121.61,1088,France,FR,Lauterbourg,elite,true,96.88,AS51167,Contabo GmbH,703.96,1787914794.3640084
+http,202.133.88.173,80,France,FR,Paris,elite,false,79.0,AS212552,BitCommand LLC,906.79,1787914794.1216826
+socks5,158.220.99.85,4545,France,FR,Lauterbourg,elite,true,95.99,AS51167,Contabo GmbH,4099.35,1787914792.4475286
+socks5,51.15.253.45,8080,France,FR,Paris,elite,true,67.2,AS12876,SCALEWAY,2094.73,1787914792.322714
+http,158.220.99.85,4545,France,FR,Lauterbourg,elite,true,93.28,AS51167,Contabo GmbH,2134.25,1787914790.9226246
+socks4,152.228.237.108,1080,France,FR,Strasbourg,elite,true,71.2,AS16276,OVH SAS,22.56,1787914789.7863395
+http,51.146.240.4,3128,France,FR,Paris,elite,true,98.88,AS212238,Datacamp Limited,239.28,1787914789.7630315
+socks4,45.95.233.128,1082,France,FR,Paris,elite,true,62.61,AS215540,Global Connectivity Solutions LLP,49.11,1787914789.3932574
+http,51.146.240.4,43,France,FR,Paris,elite,true,97.72,AS212238,Datacamp Limited,166.01,1787914788.9287615
+socks5,152.228.237.108,1080,France,FR,Strasbourg,elite,true,71.5,AS16276,OVH SAS,51.53,1787914788.7435932
+socks4,144.91.83.39,9050,France,FR,Lauterbourg,elite,true,32.29,AS51167,Contabo GmbH,9863.06,1787914788.3199444
+http,31.220.78.244,80,France,FR,Lauterbourg,elite,false,34.47,AS51167,Contabo GmbH,7619.37,1787914788.0076625
+socks4,45.95.233.88,1082,France,FR,Paris,elite,true,62.58,AS215540,Global Connectivity Solutions LLP,1074.1,1787914787.6090875
+socks4,158.220.99.85,4545,France,FR,Lauterbourg,elite,true,96.57,AS51167,Contabo GmbH,4173.61,1787914786.2470212
+socks4,185.171.202.170,9150,France,FR,Paris,elite,true,15.41,AS212815,Dyjix SAS,4876.36,1787914786.2088559
+http,95.182.96.43,5432,France,FR,Paris,elite,false,12.52,AS56971,CGI GLOBAL LIMITED,7345.48,1787914785.5255623
+socks5,158.220.101.43,1080,France,FR,Lauterbourg,elite,true,59.42,AS51167,Contabo GmbH,5023.15,1787914782.08458
+socks4,38.242.156.163,9050,France,FR,Lauterbourg,elite,true,18.3,AS51167,Contabo GmbH,11836.98,1787914775.6451879
+socks4,62.133.62.27,1082,France,FR,Paris,elite,true,55.4,AS215540,Global Connectivity Solutions LLP,53.16,1787914772.8454583
+http,109.199.119.160,80,France,FR,Lauterbourg,elite,false,99.2,AS51167,Contabo GmbH,22.96,1787914771.7564313
+http,212.47.232.28,80,France,FR,Paris,elite,false,76.11,AS12876,Scaleway SAS,1666.6,1787914770.6366904
+http,51.146.240.4,8080,France,FR,Paris,elite,true,98.45,AS212238,Datacamp Limited,249.06,1787914770.2756572
+http,5.250.181.197,3128,France,FR,Paris,transparent,true,34.85,AS8560,IONOS SE,14611.39,1787914768.1885664
+http,37.59.125.131,8888,France,FR,Roubaix,elite,true,97.38,AS16276,OVH SAS,1281.74,1787914767.5440855
+socks5,109.172.55.177,1082,France,FR,Paris,elite,true,56.6,AS215540,Global Connectivity Solutions LLP,7128.01,1787914765.4413352
+socks5,213.136.92.91,1080,France,FR,Lauterbourg,elite,true,99.55,AS51167,Contabo GmbH,30102.91,1787914764.2921195
+socks4,144.91.82.219,9050,France,FR,Lauterbourg,elite,true,29.52,AS51167,Contabo GmbH,10717.83,1787914763.0114274
+http,156.67.25.173,1080,France,FR,Lauterbourg,anonymous,true,2.52,AS51167,Contabo GmbH,12686.71,1787914761.500794
+socks5,194.163.174.78,1087,France,FR,Lauterbourg,elite,true,57.37,AS51167,Contabo GmbH,7650.99,1787914757.9947734
+http,51.159.66.158,3128,France,FR,Paris,transparent,false,13.24,AS12876,SCALEWAY,13406.28,1787914755.6537673
+socks5,194.163.174.78,1082,France,FR,Lauterbourg,elite,true,50.05,AS51167,Contabo GmbH,3469.64,1787914755.0679624
+socks5,109.199.107.68,1080,France,FR,Lauterbourg,elite,true,55.84,AS51167,Contabo GmbH,182.45,1787914754.932728
+http,51.159.156.201,3128,France,FR,Paris,transparent,true,27.62,AS12876,SCALEWAY,12398.52,1787914754.2178779
+socks4,144.91.83.56,9050,France,FR,Lauterbourg,elite,true,14.87,AS51167,Contabo GmbH,15153.78,1787914753.9841182
+socks5,144.91.82.219,9050,France,FR,Lauterbourg,elite,true,29.79,AS51167,Contabo GmbH,10982.77,1787914749.4120185
+http,191.44.125.11,8080,France,FR,Paris,transparent,true,27.7,AS216472,High Speed For Internet Services L.L.C,339.97,1787914749.0502236
+http,191.44.125.3,8080,France,FR,Paris,transparent,false,26.26,AS216472,High Speed For Internet Services L.L.C,3076.65,1787914746.175201
+socks5,31.24.251.15,1080,France,FR,Paris,elite,true,23.38,AS57271,BitWeb LLC,2381.58,1787914743.3562107
+http,178.238.228.167,3128,France,FR,Lauterbourg,transparent,false,30.95,AS51167,Contabo GmbH,20133.54,1787914738.900866
+http,37.60.237.110,30001,France,FR,Lauterbourg,elite,false,18.96,AS51167,Contabo GmbH,2874.69,1787914738.0657377
+http,217.182.195.221,30000,France,FR,Roubaix,elite,true,42.35,AS16276,OVH SAS,9183.14,1787914726.646104
+http,173.212.234.174,3128,France,FR,Lauterbourg,elite,false,27.44,AS51167,Contabo GmbH,424.13,1787914724.210184
+http,163.172.53.142,80,France,FR,Paris,elite,false,90.71,AS12876,Scaleway SAS,5285.36,1787914721.1478264
+http,51.68.10.90,80,France,FR,Roubaix,elite,false,20.14,AS16276,OVH SAS,9532.11,1787914667.8655484
+http,145.239.196.123,80,France,FR,Strasbourg,elite,false,36.59,AS16276,OVH SAS,8688.35,1787914661.3948338
