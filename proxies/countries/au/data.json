@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "103.249.237.158",
-    "port": 8888,
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.18,
-    "asn": "AS133159",
-    "isp": "Mammoth Media Pty Ltd",
-    "latency_ms": 21565.39,
-    "last_checked": 1787887415.5830002
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.19,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 2265.13,
+    "last_checked": 1787887781.0530114
+  },
+  {
+    "protocol": "socks5",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.21,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 1487.14,
+    "last_checked": 1787887764.091932
   },
   {
     "protocol": "http",
@@ -26,7 +41,7 @@
     "uptime_percent": 23.37,
     "asn": "AS45447",
     "isp": "YLess4U Pty Ltd",
-    "latency_ms": 3999.52,
-    "last_checked": 1787887315.9799845
+    "latency_ms": 5522.34,
+    "last_checked": 1787887670.47668
   }
 ]
