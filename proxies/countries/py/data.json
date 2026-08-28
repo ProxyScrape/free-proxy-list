@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "190.104.168.27",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "190.104.143.94",
+    "port": 4153,
     "country": "Paraguay",
     "country_code": "PY",
     "city": "Asunción",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 72.82,
+    "ssl": true,
+    "uptime_percent": 11.27,
     "asn": "AS27895",
     "isp": "Núcleo S.A.",
-    "latency_ms": 7645.51,
-    "last_checked": 1787949840.447856
+    "latency_ms": 1290.14,
+    "last_checked": 1787950458.2888994
+  },
+  {
+    "protocol": "http",
+    "ip": "190.93.179.125",
+    "port": 999,
+    "country": "Paraguay",
+    "country_code": "PY",
+    "city": "Ciudad del Este",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 12.99,
+    "asn": "AS262183",
+    "isp": "Multi Link S.A.",
+    "latency_ms": 3220.6,
+    "last_checked": 1787950455.4478729
   }
 ]
