@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks5",
+    "ip": "88.218.206.170",
+    "port": 22,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Łęczyca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.47,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 2563.88,
+    "last_checked": 1787940538.0868237
+  },
+  {
+    "protocol": "socks5",
     "ip": "57.128.249.250",
     "port": 9052,
     "country": "Poland",
@@ -8,41 +23,56 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 42.96,
+    "uptime_percent": 42.98,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 1116.18,
-    "last_checked": 1787939896.0607479
+    "latency_ms": 312.89,
+    "last_checked": 1787940537.4420955
   },
   {
-    "protocol": "http",
-    "ip": "148.81.121.5",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "57.128.249.250",
+    "port": 9052,
     "country": "Poland",
     "country_code": "PL",
     "city": "Warsaw",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 15.54,
-    "asn": "AS1887",
-    "isp": "WAWPOLIP",
-    "latency_ms": 1509.59,
-    "last_checked": 1787939862.802634
+    "uptime_percent": 44.59,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 430.38,
+    "last_checked": 1787940531.4990304
   },
   {
     "protocol": "http",
-    "ip": "145.239.80.10",
+    "ip": "185.16.38.166",
     "port": 3128,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Wroclaw",
+    "city": "Warsaw",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 20.4,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 19667.72,
-    "last_checked": 1787939840.8927588
+    "ssl": false,
+    "uptime_percent": 26.59,
+    "asn": "AS201814",
+    "isp": "MEVSPACE sp. z o.o.",
+    "latency_ms": 12591.73,
+    "last_checked": 1787940500.1501842
+  },
+  {
+    "protocol": "http",
+    "ip": "38.180.24.88",
+    "port": 8080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Gdansk",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 51.82,
+    "asn": "AS200088",
+    "isp": "Artnet Sp. z o.o.",
+    "latency_ms": 1158.66,
+    "last_checked": 1787940468.2723382
   },
   {
     "protocol": "http",
@@ -56,7 +86,22 @@
     "uptime_percent": 99.01,
     "asn": "AS51436",
     "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 296.48,
-    "last_checked": 1787939798.893288
+    "latency_ms": 52.88,
+    "last_checked": 1787940441.8799758
+  },
+  {
+    "protocol": "http",
+    "ip": "195.205.134.1",
+    "port": 8080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 16.24,
+    "asn": "AS5617",
+    "isp": "Orange Polska Spolka Akcyjna",
+    "latency_ms": 1199.54,
+    "last_checked": 1787940438.968843
   }
 ]
