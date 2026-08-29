@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "185.147.69.48",
-    "port": 1080,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Rewal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 44.16,
-    "asn": "AS203028",
-    "isp": "Prymas Inwestycje Spolka Z Ograniczona Odpowiedzialnoscia Spolka Komandytowa",
-    "latency_ms": 3183.08,
-    "last_checked": 1788041998.9929664
-  },
-  {
-    "protocol": "socks4",
     "ip": "57.128.249.250",
     "port": 9052,
     "country": "Poland",
@@ -23,11 +8,26 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 45.89,
+    "uptime_percent": 45.9,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 15807.53,
-    "last_checked": 1788041976.26762
+    "latency_ms": 1730.06,
+    "last_checked": 1788042590.8830967
+  },
+  {
+    "protocol": "socks5",
+    "ip": "57.128.249.250",
+    "port": 9052,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.89,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 306.06,
+    "last_checked": 1788042570.8993948
   },
   {
     "protocol": "http",
@@ -41,38 +41,23 @@
     "uptime_percent": 99.02,
     "asn": "AS51436",
     "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 54.08,
-    "last_checked": 1788041976.0911598
+    "latency_ms": 48.15,
+    "last_checked": 1788042569.3959057
   },
   {
-    "protocol": "http",
-    "ip": "145.239.80.10",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "88.218.206.170",
+    "port": 22,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Wroclaw",
+    "city": "Łęczyca",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 20.81,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 10133.7,
-    "last_checked": 1788041975.066214
-  },
-  {
-    "protocol": "http",
-    "ip": "188.255.163.206",
-    "port": 3128,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Gdansk",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 26.8,
-    "asn": "AS202051",
-    "isp": "Netgrid Host LTD",
-    "latency_ms": 7952.88,
-    "last_checked": 1788041961.9636726
+    "ssl": true,
+    "uptime_percent": 55.22,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 10279.02,
+    "last_checked": 1788042568.400218
   },
   {
     "protocol": "socks5",
@@ -83,10 +68,40 @@
     "city": "Łęczyca",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 49.52,
+    "uptime_percent": 49.53,
     "asn": "AS215467",
     "isp": "Skhron OU",
-    "latency_ms": 16414.61,
-    "last_checked": 1788041949.964213
+    "latency_ms": 13301.89,
+    "last_checked": 1788042560.6704557
+  },
+  {
+    "protocol": "http",
+    "ip": "188.255.163.206",
+    "port": 3128,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Gdansk",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 26.82,
+    "asn": "AS202051",
+    "isp": "Netgrid Host LTD",
+    "latency_ms": 10574.94,
+    "last_checked": 1788042531.9769907
+  },
+  {
+    "protocol": "http",
+    "ip": "145.239.80.10",
+    "port": 3128,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Wroclaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.83,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 10482.79,
+    "last_checked": 1788042456.9923775
   }
 ]
