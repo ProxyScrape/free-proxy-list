@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "90.181.120.18",
-    "port": 8082,
+    "protocol": "socks4",
+    "ip": "109.69.211.18",
+    "port": 1080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 26.5,
-    "asn": "AS5610",
-    "isp": "Telefonica O2 Czech Republic, a.s.",
-    "latency_ms": 8661.19,
-    "last_checked": 1787981366.161181
+    "city": "Přerov",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 53.8,
+    "asn": "AS196815",
+    "isp": "LAN servis s.r.o",
+    "latency_ms": 3139.27,
+    "last_checked": 1787981973.9816253
+  },
+  {
+    "protocol": "http",
+    "ip": "185.248.179.99",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.2,
+    "asn": "AS48574",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 4165.96,
+    "last_checked": 1787981970.6647198
   },
   {
     "protocol": "http",
@@ -23,25 +38,10 @@
     "city": "Prague",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 46.81,
+    "uptime_percent": 46.67,
     "asn": "AS42189",
     "isp": "Druzstvo EUROSIGNAL",
-    "latency_ms": 7474.29,
-    "last_checked": 1787981345.4533644
-  },
-  {
-    "protocol": "http",
-    "ip": "185.248.179.99",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 55.2,
-    "asn": "AS48574",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 8993.88,
-    "last_checked": 1787981321.108998
+    "latency_ms": 133.47,
+    "last_checked": 1787981942.8441908
   }
 ]
