@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "85.207.11.133",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Hlučín",
+    "city": "Prague",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 31.55,
-    "asn": "AS25248",
-    "isp": "BlueTone-CRa",
-    "latency_ms": 10980.41,
-    "last_checked": 1787965096.5477002
+    "ssl": true,
+    "uptime_percent": 32.56,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 7403.28,
+    "last_checked": 1787965736.4219594
   },
   {
     "protocol": "http",
@@ -23,10 +23,40 @@
     "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 55.16,
+    "uptime_percent": 55.17,
     "asn": "AS48574",
     "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 2209.85,
-    "last_checked": 1787965087.752863
+    "latency_ms": 3067.02,
+    "last_checked": 1787965709.6345513
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Uherské Hradiště",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.82,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 7147.0,
+    "last_checked": 1787965688.1165652
+  },
+  {
+    "protocol": "http",
+    "ip": "85.207.11.133",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Hlučín",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 31.54,
+    "asn": "AS25248",
+    "isp": "BlueTone-CRa",
+    "latency_ms": 10615.51,
+    "last_checked": 1787965650.287239
   }
 ]
