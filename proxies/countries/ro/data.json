@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "85.122.120.46",
-    "port": 30000,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Năvodari",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 16.27,
-    "asn": "AS39347",
-    "isp": "STYLISH BY A&L SRL",
-    "latency_ms": 7809.1,
-    "last_checked": 1788042593.3608189
-  },
-  {
     "protocol": "http",
     "ip": "92.86.207.198",
     "port": 8080,
@@ -22,11 +7,41 @@
     "country_code": "RO",
     "city": "Bucharest",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 14.15,
     "asn": "AS9050",
     "isp": "Romtelecom",
-    "latency_ms": 6044.77,
-    "last_checked": 1788042539.1003234
+    "latency_ms": 4117.24,
+    "last_checked": 1788043127.3726974
+  },
+  {
+    "protocol": "http",
+    "ip": "85.122.120.46",
+    "port": 20000,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Năvodari",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 10.95,
+    "asn": "AS39347",
+    "isp": "STYLISH BY A&L SRL",
+    "latency_ms": 11369.07,
+    "last_checked": 1788043093.891157
+  },
+  {
+    "protocol": "http",
+    "ip": "86.123.166.100",
+    "port": 80,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Brasov",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 38.28,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 5519.75,
+    "last_checked": 1788043064.429492
   }
 ]
