@@ -1,33 +1,48 @@
 [
   {
     "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 59.57,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 18482.83,
+    "last_checked": 1788025417.2494621
+  },
+  {
+    "protocol": "http",
+    "ip": "108.61.213.218",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 19.32,
+    "asn": "AS20473",
+    "isp": "Choopa",
+    "latency_ms": 14509.28,
+    "last_checked": 1788025415.8658142
+  },
+  {
+    "protocol": "http",
     "ip": "51.161.137.166",
     "port": 8080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 31.17,
+    "ssl": true,
+    "uptime_percent": 31.18,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 11029.31,
-    "last_checked": 1788024813.2181005
-  },
-  {
-    "protocol": "http",
-    "ip": "51.161.142.97",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 31.15,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 14470.27,
-    "last_checked": 1788024757.57829
+    "latency_ms": 10356.27,
+    "last_checked": 1788025358.6511133
   },
   {
     "protocol": "http",
@@ -37,11 +52,26 @@
     "country_code": "AU",
     "city": "Goulburn",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 23.31,
     "asn": "AS45447",
     "isp": "YLess4U Pty Ltd",
-    "latency_ms": 10392.58,
-    "last_checked": 1788024681.2437723
+    "latency_ms": 4328.43,
+    "last_checked": 1788025355.7411442
+  },
+  {
+    "protocol": "http",
+    "ip": "51.161.142.97",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.16,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 8116.23,
+    "last_checked": 1788025332.1647327
   }
 ]
