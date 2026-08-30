@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "178.212.144.7",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "57.128.249.250",
+    "port": 9052,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Sokółka",
+    "city": "Warsaw",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 99.02,
-    "asn": "AS51436",
-    "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 51.99,
-    "last_checked": 1788098975.557624
+    "ssl": true,
+    "uptime_percent": 46.72,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 212.64,
+    "last_checked": 1788099583.6487362
+  },
+  {
+    "protocol": "socks5",
+    "ip": "57.128.249.250",
+    "port": 9052,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.33,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 283.79,
+    "last_checked": 1788099564.7013786
   },
   {
     "protocol": "socks5",
@@ -26,8 +41,23 @@
     "uptime_percent": 49.38,
     "asn": "AS215467",
     "isp": "Skhron OU",
-    "latency_ms": 2859.66,
-    "last_checked": 1788098930.7186508
+    "latency_ms": 2380.29,
+    "last_checked": 1788099513.477161
+  },
+  {
+    "protocol": "socks5",
+    "ip": "88.218.206.170",
+    "port": 22,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Łęczyca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.16,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 12585.24,
+    "last_checked": 1788099499.6194956
   },
   {
     "protocol": "http",
@@ -38,25 +68,25 @@
     "city": "Wroclaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 20.89,
+    "uptime_percent": 20.91,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 21950.49,
-    "last_checked": 1788098911.108259
+    "latency_ms": 13495.29,
+    "last_checked": 1788099492.5837963
   },
   {
     "protocol": "http",
-    "ip": "185.16.38.166",
-    "port": 3128,
+    "ip": "178.212.144.7",
+    "port": 80,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Warsaw",
+    "city": "Sokółka",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 25.82,
-    "asn": "AS201814",
-    "isp": "MEVSPACE sp. z o.o.",
-    "latency_ms": 11042.01,
-    "last_checked": 1788098892.4152257
+    "uptime_percent": 99.02,
+    "asn": "AS51436",
+    "isp": "IDEALAN Spolka Jawna - Piekarski",
+    "latency_ms": 52.0,
+    "last_checked": 1788099468.3272696
   }
 ]
