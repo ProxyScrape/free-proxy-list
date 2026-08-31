@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "185.196.178.238",
-    "port": 60606,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Längenfeld",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 10.01,
-    "asn": "AS206091",
-    "isp": "Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG",
-    "latency_ms": 7334.17,
-    "last_checked": 1788188988.1432648
-  },
-  {
-    "protocol": "socks4",
     "ip": "95.163.176.131",
     "port": 1080,
     "country": "Austria",
@@ -26,8 +11,23 @@
     "uptime_percent": 32.13,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 6677.64,
-    "last_checked": 1788188969.5062318
+    "latency_ms": 14695.88,
+    "last_checked": 1788189572.6174357
+  },
+  {
+    "protocol": "socks5",
+    "ip": "83.215.25.66",
+    "port": 9050,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Zell am See",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.23,
+    "asn": "AS8445",
+    "isp": "SALZBURG-AG",
+    "latency_ms": 16231.49,
+    "last_checked": 1788189570.6723435
   },
   {
     "protocol": "http",
@@ -37,11 +37,41 @@
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 97.45,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 144.55,
-    "last_checked": 1788188917.4526591
+    "latency_ms": 6646.1,
+    "last_checked": 1788189566.2345893
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.196.178.238",
+    "port": 60606,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Längenfeld",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 10.02,
+    "asn": "AS206091",
+    "isp": "Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG",
+    "latency_ms": 1088.82,
+    "last_checked": 1788189564.7951546
+  },
+  {
+    "protocol": "http",
+    "ip": "90.146.196.18",
+    "port": 8080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Traun",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 46.82,
+    "asn": "AS12605",
+    "isp": "LIWEST Kabelmedien GmbH",
+    "latency_ms": 1489.4,
+    "last_checked": 1788189529.4201732
   }
 ]
