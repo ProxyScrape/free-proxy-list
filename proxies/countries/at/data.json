@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "94.228.163.46",
-    "port": 9050,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 20.63,
-    "asn": "AS210644",
-    "isp": "Aeza International LTD",
-    "latency_ms": 4957.03,
-    "last_checked": 1788145147.165345
-  },
-  {
-    "protocol": "socks5",
-    "ip": "94.228.163.46",
-    "port": 9050,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 19.32,
-    "asn": "AS210644",
-    "isp": "Aeza International LTD",
-    "latency_ms": 9082.23,
-    "last_checked": 1788145143.3200102
-  },
-  {
     "protocol": "http",
     "ip": "90.146.196.18",
     "port": 8080,
@@ -37,11 +7,26 @@
     "country_code": "AT",
     "city": "Traun",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 45.34,
+    "ssl": false,
+    "uptime_percent": 45.55,
     "asn": "AS12605",
     "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 4764.88,
-    "last_checked": 1788145088.6379566
+    "latency_ms": 5717.25,
+    "last_checked": 1788145772.9168532
+  },
+  {
+    "protocol": "http",
+    "ip": "193.233.232.49",
+    "port": 3131,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 97.54,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 28.77,
+    "last_checked": 1788145662.4133117
   }
 ]
