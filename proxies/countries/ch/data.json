@@ -1,33 +1,48 @@
 [
   {
     "protocol": "socks4",
-    "ip": "195.225.116.14",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 84.7,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 1981.38,
+    "last_checked": 1788148197.9889479
+  },
+  {
+    "protocol": "socks4",
+    "ip": "195.225.116.15",
     "port": 4145,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Wädenswil",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 24.82,
+    "uptime_percent": 23.54,
     "asn": "AS48971",
     "isp": "netz116",
-    "latency_ms": 1105.19,
-    "last_checked": 1788147587.8937058
+    "latency_ms": 3101.78,
+    "last_checked": 1788148175.8252058
   },
   {
-    "protocol": "socks5",
-    "ip": "194.87.96.195",
-    "port": 8081,
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 12.23,
-    "asn": "AS48207",
-    "isp": "GLB Bulut Teknolojisi Limited Sirketi",
-    "latency_ms": 562.67,
-    "last_checked": 1788147587.841474
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 17.64,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 9258.69,
+    "last_checked": 1788148175.7570288
   },
   {
     "protocol": "http",
@@ -41,37 +56,7 @@
     "uptime_percent": 42.37,
     "asn": "AS51395",
     "isp": "Datasource AG",
-    "latency_ms": 48.13,
-    "last_checked": 1788147540.0309422
-  },
-  {
-    "protocol": "http",
-    "ip": "45.95.232.35",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 71.28,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 7153.02,
-    "last_checked": 1788147520.196725
-  },
-  {
-    "protocol": "http",
-    "ip": "74.242.169.16",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 17.64,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 10022.15,
-    "last_checked": 1788147466.56267
+    "latency_ms": 841.37,
+    "last_checked": 1788148115.3794544
   }
 ]
