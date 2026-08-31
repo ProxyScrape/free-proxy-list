@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "109.160.97.49",
-    "port": 4145,
+    "protocol": "http",
+    "ip": "46.10.209.230",
+    "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Rousse",
+    "city": "Sofia",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 18.38,
-    "asn": "AS205352",
-    "isp": "Kabelnet LTD",
-    "latency_ms": 258.27,
-    "last_checked": 1788199144.582572
-  },
-  {
-    "protocol": "socks5",
-    "ip": "31.211.142.115",
-    "port": 8192,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Pleven",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 42.48,
-    "asn": "AS197897",
-    "isp": "5KOM",
-    "latency_ms": 7311.65,
-    "last_checked": 1788199112.2756846
+    "ssl": false,
+    "uptime_percent": 6.08,
+    "asn": "AS8866",
+    "isp": "BTC-BROADBAND",
+    "latency_ms": 13425.93,
+    "last_checked": 1788199725.2800798
   },
   {
     "protocol": "http",
@@ -37,27 +22,27 @@
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 15.26,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 13018.04,
-    "last_checked": 1788199071.4256728
+    "latency_ms": 6399.91,
+    "last_checked": 1788199687.3274395
   },
   {
     "protocol": "http",
-    "ip": "213.169.33.7",
+    "ip": "213.169.33.8",
     "port": 8001,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 11.68,
+    "uptime_percent": 15.31,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 6146.84,
-    "last_checked": 1788199059.7748995
+    "latency_ms": 11823.67,
+    "last_checked": 1788199687.1780918
   },
   {
     "protocol": "http",
@@ -67,11 +52,26 @@
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 41.98,
+    "ssl": true,
+    "uptime_percent": 42.0,
     "asn": "AS44901",
     "isp": "Belcloud LTD",
-    "latency_ms": 3470.48,
-    "last_checked": 1788199021.397997
+    "latency_ms": 6165.15,
+    "last_checked": 1788199643.0308914
+  },
+  {
+    "protocol": "http",
+    "ip": "88.203.131.197",
+    "port": 95,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 40.46,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 9421.15,
+    "last_checked": 1788199631.1522388
   }
 ]
