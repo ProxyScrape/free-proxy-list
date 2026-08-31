@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "207.188.169.199",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "81.0.49.104",
+    "port": 18500,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Barcelona",
-    "anonymity": "transparent",
+    "city": "Jaca",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 50.57,
+    "uptime_percent": 44.87,
     "asn": "AS15704",
-    "isp": "Xtra Telecom S.A.",
-    "latency_ms": 4813.5,
-    "last_checked": 1788211126.7487843
+    "isp": "MasMovil Access Network",
+    "latency_ms": 299.38,
+    "last_checked": 1788211447.6302373
+  },
+  {
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Ciempozuelos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.51,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 198.0,
+    "last_checked": 1788211445.6529636
   },
   {
     "protocol": "http",
@@ -26,7 +41,37 @@
     "uptime_percent": 68.49,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 5137.47,
-    "last_checked": 1788211124.1003299
+    "latency_ms": 5141.74,
+    "last_checked": 1788211440.3780687
+  },
+  {
+    "protocol": "socks4",
+    "ip": "65.20.105.241",
+    "port": 10001,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.3,
+    "asn": "AS20473",
+    "isp": "The Constant Company, LLC",
+    "latency_ms": 6193.32,
+    "last_checked": 1788211435.1712687
+  },
+  {
+    "protocol": "http",
+    "ip": "193.38.224.169",
+    "port": 8081,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.08,
+    "asn": "AS206276",
+    "isp": "Citelia s.a.",
+    "latency_ms": 4813.29,
+    "last_checked": 1788211310.1618507
   }
 ]
