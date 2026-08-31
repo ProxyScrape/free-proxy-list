@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "5.180.52.198",
     "port": 1080,
     "country": "Kazakhstan",
@@ -8,11 +8,11 @@
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.32,
+    "uptime_percent": 35.11,
     "asn": "AS200590",
     "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 5702.85,
-    "last_checked": 1788168239.85401
+    "latency_ms": 24644.54,
+    "last_checked": 1788168842.9119692
   },
   {
     "protocol": "socks5",
@@ -23,40 +23,55 @@
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 25.28,
+    "uptime_percent": 25.29,
     "asn": "AS48096",
     "isp": "Enterprise Cloud Ltd.",
-    "latency_ms": 591.74,
-    "last_checked": 1788168237.0428634
+    "latency_ms": 589.96,
+    "last_checked": 1788168841.9541485
   },
   {
     "protocol": "http",
-    "ip": "82.115.60.51",
-    "port": 80,
+    "ip": "37.221.202.27",
+    "port": 8080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Urzhar",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.14,
+    "asn": "AS43370",
+    "isp": "Obit Telecommunications",
+    "latency_ms": 8023.46,
+    "last_checked": 1788168834.9968235
+  },
+  {
+    "protocol": "http",
+    "ip": "94.131.92.155",
+    "port": 3128,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 84.09,
+    "asn": "AS208795",
+    "isp": "\"Cloud Services Kazakhstan\" LLP",
+    "latency_ms": 2324.56,
+    "last_checked": 1788168829.083583
+  },
+  {
+    "protocol": "http",
+    "ip": "5.180.21.43",
+    "port": 8118,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 60.92,
+    "uptime_percent": 13.25,
     "asn": "AS200590",
     "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 812.46,
-    "last_checked": 1788168232.041208
-  },
-  {
-    "protocol": "http",
-    "ip": "89.169.36.146",
-    "port": 3128,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Astana",
-    "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 23.19,
-    "asn": "AS205516",
-    "isp": "NLS ASTANA LLP",
-    "latency_ms": 11476.99,
-    "last_checked": 1788168196.744659
+    "latency_ms": 8646.63,
+    "last_checked": 1788168778.9142716
   }
 ]
