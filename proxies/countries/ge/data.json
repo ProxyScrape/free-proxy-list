@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "85.117.63.207",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "85.117.32.166",
+    "port": 4153,
     "country": "Georgia",
     "country_code": "GE",
     "city": "Tbilisi",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 8.81,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.86,
     "asn": "AS20771",
     "isp": "Caucasus Online Ltd.",
-    "latency_ms": 3410.28,
-    "last_checked": 1788197884.0849504
+    "latency_ms": 1274.72,
+    "last_checked": 1788198248.0692737
+  },
+  {
+    "protocol": "http",
+    "ip": "94.43.164.242",
+    "port": 8080,
+    "country": "Georgia",
+    "country_code": "GE",
+    "city": "Batumi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 10.58,
+    "asn": "AS35805",
+    "isp": "JSC \"Silknet\"",
+    "latency_ms": 6580.42,
+    "last_checked": 1788198139.5293014
   }
 ]
