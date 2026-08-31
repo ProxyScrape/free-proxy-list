@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "88.203.131.197",
-    "port": 95,
+    "protocol": "socks5",
+    "ip": "91.215.153.137",
+    "port": 1080,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 40.66,
+    "uptime_percent": 24.85,
+    "asn": "AS59729",
+    "isp": "Green Floid LLC",
+    "latency_ms": 3932.55,
+    "last_checked": 1788180260.9367504
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.50.19.150",
+    "port": 4153,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 18.49,
     "asn": "AS8717",
-    "isp": "A1 Bulgaria EAD",
-    "latency_ms": 8642.6,
-    "last_checked": 1788179933.1948926
+    "isp": "Spectrum NET",
+    "latency_ms": 1139.75,
+    "last_checked": 1788180255.8393414
   },
   {
     "protocol": "http",
@@ -23,11 +38,11 @@
     "city": "Bolyartsi",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 14.67,
+    "uptime_percent": 14.68,
     "asn": "AS51582",
     "isp": "DCC",
-    "latency_ms": 11491.78,
-    "last_checked": 1788179893.1175158
+    "latency_ms": 12706.11,
+    "last_checked": 1788180214.8649795
   },
   {
     "protocol": "http",
@@ -41,7 +56,22 @@
     "uptime_percent": 41.72,
     "asn": "AS44901",
     "isp": "Belcloud LTD",
-    "latency_ms": 860.55,
-    "last_checked": 1788179887.3804345
+    "latency_ms": 1782.25,
+    "last_checked": 1788180208.2268124
+  },
+  {
+    "protocol": "http",
+    "ip": "88.203.131.197",
+    "port": 95,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 40.76,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 10241.43,
+    "last_checked": 1788180192.8659182
   }
 ]
