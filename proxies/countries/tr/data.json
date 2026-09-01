@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "212.115.103.200",
-    "port": 8080,
-    "country": "Turkey",
+    "protocol": "socks4",
+    "ip": "88.247.31.164",
+    "port": 4153,
+    "country": "Türkiye",
     "country_code": "TR",
-    "city": "Istanbul",
+    "city": "Ankara",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 73.09,
-    "asn": "AS212238",
-    "isp": "Datacamp Limited",
-    "latency_ms": 6651.29,
-    "last_checked": 1788274469.0744305
+    "ssl": true,
+    "uptime_percent": 46.45,
+    "asn": "AS9121",
+    "isp": "Turk Telekomunikasyon A.S",
+    "latency_ms": 3564.19,
+    "last_checked": 1788274787.5919538
   },
   {
     "protocol": "socks4",
@@ -26,7 +26,37 @@
     "uptime_percent": 24.11,
     "asn": "AS34984",
     "isp": "Superonline Iletisim Hizmetleri A.S.",
-    "latency_ms": 278.41,
-    "last_checked": 1788274438.7611356
+    "latency_ms": 3317.92,
+    "last_checked": 1788274776.2771223
+  },
+  {
+    "protocol": "http",
+    "ip": "195.62.50.4",
+    "port": 8080,
+    "country": "Turkey",
+    "country_code": "TR",
+    "city": "Istanbul",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.58,
+    "asn": "AS216472",
+    "isp": "High Speed For Internet Services L.L.C",
+    "latency_ms": 12919.85,
+    "last_checked": 1788274697.8604507
+  },
+  {
+    "protocol": "http",
+    "ip": "195.62.50.2",
+    "port": 8080,
+    "country": "Turkey",
+    "country_code": "TR",
+    "city": "Istanbul",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.51,
+    "asn": "AS216472",
+    "isp": "High Speed For Internet Services L.L.C",
+    "latency_ms": 9815.76,
+    "last_checked": 1788274671.8932848
   }
 ]
