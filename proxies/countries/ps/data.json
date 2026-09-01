@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "87.229.14.9",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "103.231.105.158",
+    "port": 4145,
     "country": "Palestine",
     "country_code": "PS",
-    "city": "Deir el-Balah",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 57.94,
-    "asn": "AS44213",
-    "isp": "Thaer A. T. Abuyousef trading as Abuyousef Co & Partners General Trade",
-    "latency_ms": 9784.66,
-    "last_checked": 1788261526.732141
+    "city": "Ramallah",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.13,
+    "asn": "AS12975",
+    "isp": "Palestine Telecommunications Company",
+    "latency_ms": 360.38,
+    "last_checked": 1788262123.3241339
+  },
+  {
+    "protocol": "socks5",
+    "ip": "93.184.5.121",
+    "port": 1080,
+    "country": "Palestinian Territory",
+    "country_code": "PS",
+    "city": "Ramallah",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 16.83,
+    "asn": "AS47253",
+    "isp": "BCI Telecommunication & Advanced Technology Company",
+    "latency_ms": 17624.17,
+    "last_checked": 1788262082.224045
   }
 ]
