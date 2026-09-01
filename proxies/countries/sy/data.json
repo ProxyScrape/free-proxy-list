@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "213.178.250.33",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "89.43.135.181",
+    "port": 1080,
     "country": "Syria",
     "country_code": "SY",
-    "city": "Damascus",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 24.03,
+    "city": "Manbij",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.06,
+    "asn": "AS216472",
+    "isp": "High Speed For Internet Services L.L.C",
+    "latency_ms": 284.03,
+    "last_checked": 1788302950.6813293
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.225.40.122",
+    "port": 1080,
+    "country": "Syria",
+    "country_code": "SY",
+    "city": "Qadsayyā",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.48,
     "asn": "AS29256",
-    "isp": "SCS",
-    "latency_ms": 14424.19,
-    "last_checked": 1788302545.748848
+    "isp": "sy-samaweb",
+    "latency_ms": 3465.57,
+    "last_checked": 1788302896.5422058
+  },
+  {
+    "protocol": "http",
+    "ip": "205.209.66.132",
+    "port": 3128,
+    "country": "Syria",
+    "country_code": "SY",
+    "city": "‘Ayn al ‘Arab",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.96,
+    "asn": "AS214707",
+    "isp": "RCell LLC",
+    "latency_ms": 14244.49,
+    "last_checked": 1788302871.918841
   }
 ]
