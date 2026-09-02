@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "212.126.5.246",
-    "port": 42344,
+    "protocol": "http",
+    "ip": "178.212.144.7",
+    "port": 80,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Poznan",
+    "city": "Sokółka",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 99.03,
+    "asn": "AS51436",
+    "isp": "IDEALAN Spolka Jawna - Piekarski",
+    "latency_ms": 48.46,
+    "last_checked": 1788392951.8442457
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.79.243.153",
+    "port": 38431,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Myszków",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 8.65,
-    "asn": "AS8364",
-    "isp": "Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",
-    "latency_ms": 1118.52,
-    "last_checked": 1788392657.4450266
+    "uptime_percent": 18.58,
+    "asn": "AS206957",
+    "isp": "PHU Kario-Sat Sp. z o.o.",
+    "latency_ms": 3180.98,
+    "last_checked": 1788392947.2370214
   },
   {
     "protocol": "socks4",
@@ -26,8 +41,8 @@
     "uptime_percent": 43.74,
     "asn": "AS203028",
     "isp": "Prymas Inwestycje Spolka Z Ograniczona Odpowiedzialnoscia Spolka Komandytowa",
-    "latency_ms": 145.15,
-    "last_checked": 1788392643.0187638
+    "latency_ms": 7201.48,
+    "last_checked": 1788392939.9758308
   },
   {
     "protocol": "socks4",
@@ -41,37 +56,52 @@
     "uptime_percent": 56.04,
     "asn": "AS215467",
     "isp": "Skhron OU",
-    "latency_ms": 6574.54,
-    "last_checked": 1788392633.4143023
+    "latency_ms": 3722.86,
+    "last_checked": 1788392929.3783395
   },
   {
-    "protocol": "http",
-    "ip": "178.212.144.7",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "88.218.206.170",
+    "port": 22,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Sokółka",
+    "city": "Łęczyca",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 99.03,
-    "asn": "AS51436",
-    "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 50.39,
-    "last_checked": 1788392631.8752394
+    "ssl": true,
+    "uptime_percent": 54.9,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 3661.37,
+    "last_checked": 1788392925.6719275
+  },
+  {
+    "protocol": "socks5",
+    "ip": "88.218.206.170",
+    "port": 5432,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Łęczyca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 48.94,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 8116.67,
+    "last_checked": 1788392921.7471054
   },
   {
     "protocol": "http",
-    "ip": "78.9.232.205",
+    "ip": "195.205.134.1",
     "port": 8080,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Świnoujście",
+    "city": "Warsaw",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 11.12,
-    "asn": "AS12741",
-    "isp": "Netia SA",
-    "latency_ms": 5927.08,
-    "last_checked": 1788392616.916802
+    "uptime_percent": 16.01,
+    "asn": "AS5617",
+    "isp": "Orange Polska Spolka Akcyjna",
+    "latency_ms": 4408.67,
+    "last_checked": 1788392838.4477253
   }
 ]
