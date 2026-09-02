@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Jõhvi",
+    "city": "Tartu",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 47.12,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 144.25,
-    "last_checked": 1788362067.836687
+    "ssl": true,
+    "uptime_percent": 56.42,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 227.84,
+    "last_checked": 1788362693.2301207
+  },
+  {
+    "protocol": "socks5",
+    "ip": "132.243.168.30",
+    "port": 9150,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 61.19,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 7533.48,
+    "last_checked": 1788362688.5049489
   },
   {
     "protocol": "socks4",
@@ -23,40 +38,10 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 62.61,
+    "uptime_percent": 62.67,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 4842.06,
-    "last_checked": 1788362064.6807666
-  },
-  {
-    "protocol": "socks5",
-    "ip": "5.45.119.70",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 66.93,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 1166.77,
-    "last_checked": 1788362047.342059
-  },
-  {
-    "protocol": "socks5",
-    "ip": "132.243.168.30",
-    "port": 9150,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 61.13,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 781.33,
-    "last_checked": 1788362036.1935663
+    "latency_ms": 368.1,
+    "last_checked": 1788362671.5506678
   }
 ]
