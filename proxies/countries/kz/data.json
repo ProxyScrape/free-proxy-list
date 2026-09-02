@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "82.115.60.51",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "217.151.230.186",
+    "port": 9055,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 61.59,
-    "asn": "AS200590",
-    "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 6820.19,
-    "last_checked": 1788370478.7928019
+    "ssl": true,
+    "uptime_percent": 21.61,
+    "asn": "AS9123",
+    "isp": "JSC \"TIMEWEB\"",
+    "latency_ms": 692.0,
+    "last_checked": 1788370783.2883294
+  },
+  {
+    "protocol": "socks5",
+    "ip": "217.151.230.186",
+    "port": 9055,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.48,
+    "asn": "AS9123",
+    "isp": "JSC \"TIMEWEB\"",
+    "latency_ms": 1118.01,
+    "last_checked": 1788370773.7977314
+  },
+  {
+    "protocol": "socks5",
+    "ip": "213.148.6.12",
+    "port": 7777,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.42,
+    "asn": "AS48988",
+    "isp": "Modern Server Solutions LLP",
+    "latency_ms": 3892.19,
+    "last_checked": 1788370764.7323675
   },
   {
     "protocol": "http",
@@ -26,22 +56,22 @@
     "uptime_percent": 31.11,
     "asn": "AS35104",
     "isp": "JSC \"KazTransCom\"",
-    "latency_ms": 7831.77,
-    "last_checked": 1788370370.3454943
+    "latency_ms": 10360.25,
+    "last_checked": 1788370729.7575042
   },
   {
     "protocol": "http",
-    "ip": "94.131.92.155",
-    "port": 3128,
+    "ip": "82.115.60.51",
+    "port": 80,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 84.19,
-    "asn": "AS208795",
-    "isp": "\"Cloud Services Kazakhstan\" LLP",
-    "latency_ms": 2991.33,
-    "last_checked": 1788370319.5918195
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 61.59,
+    "asn": "AS200590",
+    "isp": "NLS Kazakhstan LLC",
+    "latency_ms": 2836.86,
+    "last_checked": 1788370722.1968215
   }
 ]
