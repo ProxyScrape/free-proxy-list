@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "196.223.129.21",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "165.165.178.142",
+    "port": 4153,
     "country": "South Africa",
     "country_code": "ZA",
-    "city": "Cape Town",
+    "city": "East London",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 34.2,
-    "asn": "AS328471",
-    "isp": "HERO TELECOMS (PTY) LTD",
-    "latency_ms": 1501.97,
-    "last_checked": 1788313756.7312577
+    "ssl": true,
+    "uptime_percent": 29.32,
+    "asn": "AS5713",
+    "isp": "Telkom SA Ltd.",
+    "latency_ms": 972.94,
+    "last_checked": 1788314396.0242207
+  },
+  {
+    "protocol": "socks4",
+    "ip": "105.214.0.91",
+    "port": 5678,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Johannesburg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.58,
+    "asn": "AS16637",
+    "isp": "MTN SA",
+    "latency_ms": 903.0,
+    "last_checked": 1788314394.444961
   },
   {
     "protocol": "socks5",
@@ -26,8 +41,23 @@
     "uptime_percent": 40.75,
     "asn": "AS328970",
     "isp": "CloudGistics",
-    "latency_ms": 8247.78,
-    "last_checked": 1788313737.8773706
+    "latency_ms": 1111.01,
+    "last_checked": 1788314371.5601065
+  },
+  {
+    "protocol": "http",
+    "ip": "196.223.129.21",
+    "port": 80,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Cape Town",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 34.2,
+    "asn": "AS328471",
+    "isp": "HERO TELECOMS (PTY) LTD",
+    "latency_ms": 2496.11,
+    "last_checked": 1788314363.8197677
   },
   {
     "protocol": "http",
@@ -38,55 +68,10 @@
     "city": "Kuils River",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 57.43,
+    "uptime_percent": 59.13,
     "asn": "AS329184",
     "isp": "Hostafrica VPS",
-    "latency_ms": 3937.46,
-    "last_checked": 1788313720.2201672
-  },
-  {
-    "protocol": "socks5",
-    "ip": "168.253.92.93",
-    "port": 10808,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Rustenburg",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 40.83,
-    "asn": "AS37650",
-    "isp": "CM Value Added Services (Pty) Ltd",
-    "latency_ms": 8169.26,
-    "last_checked": 1788313710.3919947
-  },
-  {
-    "protocol": "http",
-    "ip": "102.68.98.94",
-    "port": 3128,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Cape Town",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 58.85,
-    "asn": "AS329184",
-    "isp": "Host Africa (Pty) Ltd",
-    "latency_ms": 2896.01,
-    "last_checked": 1788313662.7280235
-  },
-  {
-    "protocol": "http",
-    "ip": "165.0.136.30",
-    "port": 8080,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Cape Town",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 7.55,
-    "asn": "AS37053",
-    "isp": "RSAWEB (PTY) LTD",
-    "latency_ms": 9508.11,
-    "last_checked": 1788313645.0005205
+    "latency_ms": 6520.88,
+    "last_checked": 1788314342.8648336
   }
 ]
