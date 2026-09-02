@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tartu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.42,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 3249.2,
+    "last_checked": 1788354591.517438
+  },
+  {
+    "protocol": "socks5",
     "ip": "132.243.168.30",
     "port": 9150,
     "country": "Estonia",
@@ -8,26 +23,26 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 61.37,
+    "uptime_percent": 59.23,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 433.24,
-    "last_checked": 1788353971.5084383
+    "latency_ms": 14704.19,
+    "last_checked": 1788354572.6432986
   },
   {
-    "protocol": "socks5",
-    "ip": "5.45.119.70",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "132.243.168.30",
+    "port": 9150,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Jõhvi",
+    "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 66.95,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 912.11,
-    "last_checked": 1788353965.2223876
+    "uptime_percent": 61.52,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 15071.63,
+    "last_checked": 1788354567.7507179
   },
   {
     "protocol": "http",
@@ -41,22 +56,37 @@
     "uptime_percent": 47.1,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 159.77,
-    "last_checked": 1788353945.0300987
+    "latency_ms": 158.97,
+    "last_checked": 1788354563.4014657
   },
   {
-    "protocol": "socks5",
-    "ip": "132.243.168.30",
-    "port": 9150,
+    "protocol": "http",
+    "ip": "5.101.114.63",
+    "port": 8880,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
+    "city": "Jõhvi",
+    "anonymity": "anonymous",
     "ssl": true,
-    "uptime_percent": 58.95,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 26726.79,
-    "last_checked": 1788353936.5424578
+    "uptime_percent": 8.01,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 5365.63,
+    "last_checked": 1788354532.6641147
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.165",
+    "port": 13215,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 37.07,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 11941.53,
+    "last_checked": 1788354526.161404
   }
 ]
