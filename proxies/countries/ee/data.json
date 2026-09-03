@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks5",
+    "ip": "5.45.119.70",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 67.1,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 754.99,
+    "last_checked": 1788429590.8485591
+  },
+  {
+    "protocol": "socks5",
     "ip": "132.243.168.30",
     "port": 9150,
     "country": "Estonia",
@@ -8,26 +23,11 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 62.99,
+    "uptime_percent": 62.94,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 5400.09,
-    "last_checked": 1788428980.9602318
-  },
-  {
-    "protocol": "http",
-    "ip": "193.42.112.26",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Kuusalu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 55.48,
-    "asn": "AS199144",
-    "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 3138.56,
-    "last_checked": 1788428924.9463398
+    "latency_ms": 24064.55,
+    "last_checked": 1788429574.905778
   },
   {
     "protocol": "http",
@@ -41,7 +41,37 @@
     "uptime_percent": 37.16,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 9716.94,
-    "last_checked": 1788428836.9293735
+    "latency_ms": 9773.18,
+    "last_checked": 1788429549.6168182
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.128",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 47.25,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 159.63,
+    "last_checked": 1788429493.4058568
+  },
+  {
+    "protocol": "http",
+    "ip": "193.42.112.26",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Kuusalu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.35,
+    "asn": "AS199144",
+    "isp": "HexCore cloud s.r.o.",
+    "latency_ms": 2386.26,
+    "last_checked": 1788429425.0687072
   }
 ]
