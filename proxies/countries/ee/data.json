@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "5.45.119.70",
+    "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 47.27,
+    "ssl": true,
+    "uptime_percent": 67.12,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 139.69,
-    "last_checked": 1788441858.1930103
+    "latency_ms": 2988.09,
+    "last_checked": 1788442499.5858147
+  },
+  {
+    "protocol": "socks4",
+    "ip": "132.243.168.30",
+    "port": 9150,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 61.7,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 10794.92,
+    "last_checked": 1788442486.5067873
   },
   {
     "protocol": "socks4",
@@ -26,38 +41,23 @@
     "uptime_percent": 56.54,
     "asn": "AS202652",
     "isp": "SkyLive Telecom ldt",
-    "latency_ms": 7543.19,
-    "last_checked": 1788441848.851049
+    "latency_ms": 1224.48,
+    "last_checked": 1788442446.7808921
   },
   {
     "protocol": "http",
-    "ip": "193.42.112.26",
+    "ip": "5.45.126.128",
     "port": 8080,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Kuusalu",
+    "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 53.05,
-    "asn": "AS199144",
-    "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 5990.63,
-    "last_checked": 1788441837.784766
-  },
-  {
-    "protocol": "socks4",
-    "ip": "132.243.168.30",
-    "port": 9150,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 61.72,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 11694.05,
-    "last_checked": 1788441816.4795709
+    "uptime_percent": 47.27,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 164.16,
+    "last_checked": 1788442400.5666406
   },
   {
     "protocol": "http",
@@ -68,10 +68,10 @@
     "city": "Jõhvi",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 37.19,
+    "uptime_percent": 37.2,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 15576.38,
-    "last_checked": 1788441695.520794
+    "latency_ms": 17058.27,
+    "last_checked": 1788442379.8037384
   }
 ]
