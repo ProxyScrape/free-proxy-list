@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "195.225.116.15",
-    "port": 4145,
+    "protocol": "http",
+    "ip": "31.59.100.1",
+    "port": 8080,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Wädenswil",
+    "city": "Opfikon",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 27.9,
+    "asn": "AS213929",
+    "isp": "UP-NETWORK Sarl",
+    "latency_ms": 2116.21,
+    "last_checked": 1788410944.8268492
+  },
+  {
+    "protocol": "socks4",
+    "ip": "194.87.109.183",
+    "port": 10800,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 23.77,
-    "asn": "AS48971",
-    "isp": "netz116",
-    "latency_ms": 210.92,
-    "last_checked": 1788410376.497078
+    "uptime_percent": 34.14,
+    "asn": "AS48207",
+    "isp": "GLB Bulut Teknolojisi Limited Sirketi",
+    "latency_ms": 10444.35,
+    "last_checked": 1788410938.7572954
   },
   {
     "protocol": "socks4",
@@ -26,23 +41,8 @@
     "uptime_percent": 84.77,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 5184.43,
-    "last_checked": 1788410374.020038
-  },
-  {
-    "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Tann",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 42.87,
-    "asn": "AS51395",
-    "isp": "Datasource AG",
-    "latency_ms": 6747.25,
-    "last_checked": 1788410350.8027864
+    "latency_ms": 5029.67,
+    "last_checked": 1788410931.0718555
   },
   {
     "protocol": "socks5",
@@ -56,7 +56,52 @@
     "uptime_percent": 81.48,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1200.05,
-    "last_checked": 1788410350.0680692
+    "latency_ms": 4295.67,
+    "last_checked": 1788410924.9029877
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.85.93.15",
+    "port": 4567,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 21.39,
+    "asn": "AS199058",
+    "isp": "Serva ONE LTD",
+    "latency_ms": 520.23,
+    "last_checked": 1788410909.5026104
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.85.93.15",
+    "port": 4567,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.31,
+    "asn": "AS199058",
+    "isp": "Serva ONE LTD",
+    "latency_ms": 1797.55,
+    "last_checked": 1788410908.517227
+  },
+  {
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 42.87,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 4434.92,
+    "last_checked": 1788410877.9773827
   }
 ]
