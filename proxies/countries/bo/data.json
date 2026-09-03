@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "181.115.207.114",
+    "port": 1080,
+    "country": "Bolivia",
+    "country_code": "BO",
+    "city": "Santa Cruz de la Sierra",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.88,
+    "asn": "AS6568",
+    "isp": "Entel S.A. - EntelNet",
+    "latency_ms": 2382.71,
+    "last_checked": 1788433793.037051
+  },
+  {
+    "protocol": "socks4",
     "ip": "190.104.26.227",
     "port": 33638,
     "country": "Bolivia",
@@ -11,23 +26,8 @@
     "uptime_percent": 24.22,
     "asn": "AS27882",
     "isp": "Telefónica Celular de Bolivia S.A.",
-    "latency_ms": 8327.86,
-    "last_checked": 1788433119.2059495
-  },
-  {
-    "protocol": "http",
-    "ip": "200.58.82.209",
-    "port": 999,
-    "country": "Bolivia",
-    "country_code": "BO",
-    "city": "Vinto",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 27.05,
-    "asn": "AS27839",
-    "isp": "Comteco Ltda",
-    "latency_ms": 7968.38,
-    "last_checked": 1788433055.8150806
+    "latency_ms": 4061.55,
+    "last_checked": 1788433783.945067
   },
   {
     "protocol": "http",
@@ -38,10 +38,25 @@
     "city": "Santa Cruz de la Sierra",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 13.0,
+    "uptime_percent": 13.03,
     "asn": "AS6568",
     "isp": "Entel S.A. - EntelNet",
-    "latency_ms": 7215.89,
-    "last_checked": 1788433051.274929
+    "latency_ms": 20789.57,
+    "last_checked": 1788433752.6611602
+  },
+  {
+    "protocol": "http",
+    "ip": "200.58.82.209",
+    "port": 999,
+    "country": "Bolivia",
+    "country_code": "BO",
+    "city": "Vinto",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.06,
+    "asn": "AS27839",
+    "isp": "Comteco Ltda",
+    "latency_ms": 4403.08,
+    "last_checked": 1788433718.0334256
   }
 ]
