@@ -1,2 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,31.59.100.1,8080,Switzerland,CH,Opfikon,transparent,false,36.31,AS213929,UP-NETWORK Sarl,420.4,1788482326.5563288
+socks4,195.225.116.15,4145,Switzerland,CH,Wädenswil,elite,true,23.97,AS48971,netz116,80.81,1788482703.177265
+socks5,45.85.93.15,4567,Switzerland,CH,Geneva,elite,true,21.43,AS199058,Serva ONE LTD,9244.5,1788482684.469062
+socks4,45.85.93.15,4567,Switzerland,CH,Geneva,elite,true,23.28,AS199058,Serva ONE LTD,10562.03,1788482683.205039
+http,31.59.100.1,8080,Switzerland,CH,Opfikon,transparent,true,36.38,AS213929,UP-NETWORK Sarl,57.06,1788482676.8007123
+http,185.85.111.18,80,Switzerland,CH,Tann,elite,false,42.95,AS51395,Datasource AG,3822.4,1788482607.0967538
