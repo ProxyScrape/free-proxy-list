@@ -1,33 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "82.115.60.51",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "5.180.52.198",
+    "port": 1080,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 61.93,
+    "ssl": true,
+    "uptime_percent": 33.44,
     "asn": "AS200590",
     "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 869.65,
-    "last_checked": 1788545385.5862942
+    "latency_ms": 6622.0,
+    "last_checked": 1788545673.6207092
   },
   {
-    "protocol": "http",
-    "ip": "46.8.43.28",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "5.180.52.198",
+    "port": 1080,
     "country": "Kazakhstan",
     "country_code": "KZ",
-    "city": "Karaganda",
+    "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 15.17,
-    "asn": "AS203087",
-    "isp": "PE Fedinyak Sergey Vyacheslavovich",
-    "latency_ms": 12454.26,
-    "last_checked": 1788545352.2703826
+    "uptime_percent": 34.41,
+    "asn": "AS200590",
+    "isp": "NLS Kazakhstan LLC",
+    "latency_ms": 3428.33,
+    "last_checked": 1788545660.6370704
   },
   {
     "protocol": "socks4",
@@ -41,8 +41,23 @@
     "uptime_percent": 33.69,
     "asn": "AS203087",
     "isp": "PE Fedinyak Sergey Vyacheslavovich",
-    "latency_ms": 8760.6,
-    "last_checked": 1788545345.8294225
+    "latency_ms": 14257.54,
+    "last_checked": 1788545648.568921
+  },
+  {
+    "protocol": "http",
+    "ip": "82.115.60.51",
+    "port": 80,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 61.93,
+    "asn": "AS200590",
+    "isp": "NLS Kazakhstan LLC",
+    "latency_ms": 1325.94,
+    "last_checked": 1788545645.292775
   },
   {
     "protocol": "http",
@@ -53,25 +68,10 @@
     "city": "Astana",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 88.49,
+    "uptime_percent": 88.52,
     "asn": "AS205516",
     "isp": "NLS ASTANA LLP",
-    "latency_ms": 436.11,
-    "last_checked": 1788545326.5186
-  },
-  {
-    "protocol": "http",
-    "ip": "89.169.36.146",
-    "port": 3128,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Astana",
-    "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 20.58,
-    "asn": "AS205516",
-    "isp": "NLS ASTANA LLP",
-    "latency_ms": 7127.12,
-    "last_checked": 1788545292.5848866
+    "latency_ms": 309.53,
+    "last_checked": 1788545633.2403862
   }
 ]
