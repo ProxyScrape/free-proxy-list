@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "190.113.249.14",
-    "port": 88,
+    "port": 50000,
     "country": "Costa Rica",
     "country_code": "CR",
     "city": "Zarcero",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.44,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.8,
     "asn": "AS262241",
     "isp": "Cooperativa De Electrificacion Rural De Alfaro Ruiz R.L.",
-    "latency_ms": 1202.5,
-    "last_checked": 1788497547.2597783
+    "latency_ms": 3870.5,
+    "last_checked": 1788497975.0208552
+  },
+  {
+    "protocol": "http",
+    "ip": "168.228.49.15",
+    "port": 8080,
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "city": "Quesada",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.04,
+    "asn": "AS262145",
+    "isp": "Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)",
+    "latency_ms": 8183.43,
+    "last_checked": 1788497837.3207426
   }
 ]
