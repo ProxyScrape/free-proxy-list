@@ -1,6 +1,21 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tartu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.75,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 186.08,
+    "last_checked": 1788562797.4974215
+  },
+  {
+    "protocol": "socks4",
     "ip": "132.243.168.30",
     "port": 9150,
     "country": "Estonia",
@@ -8,11 +23,11 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 57.56,
+    "uptime_percent": 56.51,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 457.14,
-    "last_checked": 1788562186.661671
+    "latency_ms": 424.83,
+    "last_checked": 1788562787.8609447
   },
   {
     "protocol": "http",
@@ -26,37 +41,22 @@
     "uptime_percent": 47.48,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 160.28,
-    "last_checked": 1788562180.356933
+    "latency_ms": 140.34,
+    "last_checked": 1788562787.1866188
   },
   {
-    "protocol": "socks4",
-    "ip": "185.157.111.3",
-    "port": 5678,
+    "protocol": "socks5",
+    "ip": "132.243.168.30",
+    "port": 9150,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Tartu",
+    "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 56.75,
-    "asn": "AS202652",
-    "isp": "SkyLive Telecom ldt",
-    "latency_ms": 1195.35,
-    "last_checked": 1788562168.5809898
-  },
-  {
-    "protocol": "http",
-    "ip": "193.42.112.26",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Kuusalu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 49.47,
-    "asn": "AS199144",
-    "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 3848.86,
-    "last_checked": 1788562118.4821918
+    "uptime_percent": 57.59,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 478.63,
+    "last_checked": 1788562772.7877164
   }
 ]
