@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "132.243.168.30",
+    "port": 9150,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Jõhvi",
+    "city": "Tallinn",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 47.46,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 156.63,
-    "last_checked": 1788551606.3597436
+    "ssl": true,
+    "uptime_percent": 57.63,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 461.55,
+    "last_checked": 1788551954.4713914
+  },
+  {
+    "protocol": "socks4",
+    "ip": "132.243.168.30",
+    "port": 9150,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.4,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 4113.7,
+    "last_checked": 1788551948.5038455
   }
 ]
