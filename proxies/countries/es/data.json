@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "195.114.209.50",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "65.20.105.241",
+    "port": 10001,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Alcobendas",
+    "city": "Madrid",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 68.68,
-    "asn": "AS57286",
-    "isp": "Gigas Hosting SL",
-    "latency_ms": 130.61,
-    "last_checked": 1788591570.5644386
+    "ssl": true,
+    "uptime_percent": 29.87,
+    "asn": "AS20473",
+    "isp": "The Constant Company, LLC",
+    "latency_ms": 4212.92,
+    "last_checked": 1788592190.3983207
+  },
+  {
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Ciempozuelos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.01,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 1210.94,
+    "last_checked": 1788592173.208137
   },
   {
     "protocol": "socks5",
@@ -26,38 +41,23 @@
     "uptime_percent": 45.73,
     "asn": "AS15704",
     "isp": "MasMovil Access Network",
-    "latency_ms": 1313.08,
-    "last_checked": 1788591565.3130443
-  },
-  {
-    "protocol": "socks5",
-    "ip": "65.20.105.241",
-    "port": 10001,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 29.87,
-    "asn": "AS20473",
-    "isp": "The Constant Company, LLC",
-    "latency_ms": 7219.93,
-    "last_checked": 1788591558.2882469
+    "latency_ms": 1326.15,
+    "last_checked": 1788592169.7518792
   },
   {
     "protocol": "http",
-    "ip": "193.38.224.169",
-    "port": 8081,
+    "ip": "187.33.151.110",
+    "port": 3128,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Madrid",
+    "city": "Barcelona",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 8.11,
-    "asn": "AS206276",
-    "isp": "Citelia s.a.",
-    "latency_ms": 5222.75,
-    "last_checked": 1788591526.321818
+    "uptime_percent": 26.85,
+    "asn": "AS49635",
+    "isp": "Cloudi Nextgen SL",
+    "latency_ms": 5280.86,
+    "last_checked": 1788592123.8637698
   },
   {
     "protocol": "http",
@@ -71,7 +71,22 @@
     "uptime_percent": 4.99,
     "asn": "AS200845",
     "isp": "AVATEL TELECOM, SA",
-    "latency_ms": 7995.29,
-    "last_checked": 1788591359.7714977
+    "latency_ms": 3386.97,
+    "last_checked": 1788592122.0983038
+  },
+  {
+    "protocol": "http",
+    "ip": "195.114.209.50",
+    "port": 80,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Alcobendas",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 68.68,
+    "asn": "AS57286",
+    "isp": "Gigas Hosting SL",
+    "latency_ms": 131.27,
+    "last_checked": 1788592096.1604352
   }
 ]
