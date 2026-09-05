@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "83.56.15.57",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "193.38.224.169",
+    "port": 8081,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Ciempozuelos",
+    "city": "Madrid",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 8.11,
+    "asn": "AS206276",
+    "isp": "Citelia s.a.",
+    "latency_ms": 3357.12,
+    "last_checked": 1788579541.9485657
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.117.248.36",
+    "port": 1080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Olot",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.99,
-    "asn": "AS3352",
-    "isp": "Telefonica de Espana SAU",
-    "latency_ms": 193.66,
-    "last_checked": 1788578956.55795
+    "uptime_percent": 31.5,
+    "asn": "AS210086",
+    "isp": "Connecta 1876 SLU",
+    "latency_ms": 1383.48,
+    "last_checked": 1788579531.4799838
   },
   {
     "protocol": "socks5",
@@ -23,26 +38,11 @@
     "city": "Jaca",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 45.64,
+    "uptime_percent": 45.65,
     "asn": "AS15704",
     "isp": "MasMovil Access Network",
-    "latency_ms": 483.67,
-    "last_checked": 1788578925.4880917
-  },
-  {
-    "protocol": "http",
-    "ip": "130.17.30.49",
-    "port": 3128,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Estepona",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 31.4,
-    "asn": "AS44051",
-    "isp": "Fornex Hosting S.L",
-    "latency_ms": 1109.78,
-    "last_checked": 1788578873.567183
+    "latency_ms": 1311.33,
+    "last_checked": 1788579506.524188
   },
   {
     "protocol": "http",
@@ -53,10 +53,10 @@
     "city": "Alcobendas",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 68.67,
+    "uptime_percent": 68.68,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 135.27,
-    "last_checked": 1788578866.2522283
+    "latency_ms": 157.67,
+    "last_checked": 1788579493.4225066
   }
 ]
