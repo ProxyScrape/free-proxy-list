@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.190.154.121",
-    "port": 4145,
-    "country": "Serbia",
-    "country_code": "RS",
-    "city": "Belgrade",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 38.42,
-    "asn": "AS8400",
-    "isp": "TELEKOM-SRBIJA",
-    "latency_ms": 3270.47,
-    "last_checked": 1788623085.4736462
-  },
-  {
     "protocol": "socks5",
     "ip": "93.87.38.20",
     "port": 1090,
@@ -23,11 +8,11 @@
     "city": "Niš",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 94.15,
+    "uptime_percent": 94.13,
     "asn": "AS8400",
     "isp": "TELEKOM SRBIJA a.d.",
-    "latency_ms": 3239.04,
-    "last_checked": 1788623081.5887146
+    "latency_ms": 200.93,
+    "last_checked": 1788623693.8890448
   },
   {
     "protocol": "socks4",
@@ -41,7 +26,52 @@
     "uptime_percent": 13.54,
     "asn": "AS9125",
     "isp": "Orion Telekom Client Network",
-    "latency_ms": 7350.71,
-    "last_checked": 1788623066.3830006
+    "latency_ms": 1143.87,
+    "last_checked": 1788623690.0932472
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.190.154.121",
+    "port": 4145,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.42,
+    "asn": "AS8400",
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 7696.03,
+    "last_checked": 1788623668.4290936
+  },
+  {
+    "protocol": "http",
+    "ip": "95.140.113.74",
+    "port": 6666,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.25,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Network",
+    "latency_ms": 21919.63,
+    "last_checked": 1788623618.0549438
+  },
+  {
+    "protocol": "http",
+    "ip": "109.111.242.134",
+    "port": 6666,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.55,
+    "asn": "AS28964",
+    "isp": "Orion Telekom Tim d.o.o.Beograd",
+    "latency_ms": 7414.36,
+    "last_checked": 1788623574.2327523
   }
 ]

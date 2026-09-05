@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "5.59.248.134",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Pomezia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.59,
+    "asn": "AS212271",
+    "isp": "Cinzia Tocci trading as Lumanex Srl",
+    "latency_ms": 3655.62,
+    "last_checked": 1788623685.6049163
+  },
+  {
     "protocol": "socks5",
     "ip": "95.244.3.200",
     "port": 1080,
@@ -8,26 +23,11 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 66.91,
+    "uptime_percent": 66.97,
     "asn": "AS3269",
     "isp": "Telecom Italia S.p.A.",
-    "latency_ms": 4201.71,
-    "last_checked": 1788623052.8204184
-  },
-  {
-    "protocol": "http",
-    "ip": "80.211.24.177",
-    "port": 3128,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 22.18,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 13286.31,
-    "last_checked": 1788623048.189028
+    "latency_ms": 77.56,
+    "last_checked": 1788623684.036132
   },
   {
     "protocol": "http",
@@ -41,22 +41,37 @@
     "uptime_percent": 40.01,
     "asn": "AS42669",
     "isp": "MegaWeb",
-    "latency_ms": 7942.18,
-    "last_checked": 1788623043.7297933
+    "latency_ms": 3837.13,
+    "last_checked": 1788623636.9600391
   },
   {
     "protocol": "http",
-    "ip": "84.8.248.36",
+    "ip": "85.235.150.219",
     "port": 3128,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Rivoli",
-    "anonymity": "elite",
+    "city": "Arezzo",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 36.15,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 9117.33,
-    "last_checked": 1788623015.9967432
+    "uptime_percent": 10.2,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 21805.37,
+    "last_checked": 1788623631.2703605
+  },
+  {
+    "protocol": "http",
+    "ip": "5.59.248.134",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Pomezia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 16.89,
+    "asn": "AS212271",
+    "isp": "Cinzia Tocci trading as Lumanex Srl",
+    "latency_ms": 7694.85,
+    "last_checked": 1788623592.351852
   }
 ]
