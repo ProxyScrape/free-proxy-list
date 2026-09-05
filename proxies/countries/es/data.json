@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "65.20.105.241",
     "port": 10001,
     "country": "Spain",
@@ -8,41 +8,26 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 29.88,
+    "uptime_percent": 37.23,
     "asn": "AS20473",
     "isp": "The Constant Company, LLC",
-    "latency_ms": 1180.94,
-    "last_checked": 1788595187.7860756
+    "latency_ms": 8196.87,
+    "last_checked": 1788595746.2482154
   },
   {
-    "protocol": "socks5",
-    "ip": "85.117.248.36",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "85.85.187.31",
+    "port": 8080,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Olot",
-    "anonymity": "elite",
+    "city": "Sant Cugat del Vallès",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 31.53,
-    "asn": "AS210086",
-    "isp": "Connecta 1876 SLU",
-    "latency_ms": 713.01,
-    "last_checked": 1788595187.6046426
-  },
-  {
-    "protocol": "socks5",
-    "ip": "81.0.49.104",
-    "port": 18500,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Jaca",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 45.74,
+    "uptime_percent": 30.59,
     "asn": "AS15704",
-    "isp": "MasMovil Access Network",
-    "latency_ms": 1307.29,
-    "last_checked": 1788595174.7168086
+    "isp": "Xtra Telecom S.A.",
+    "latency_ms": 5406.18,
+    "last_checked": 1788595716.7967772
   },
   {
     "protocol": "http",
@@ -56,7 +41,22 @@
     "uptime_percent": 68.68,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 153.61,
-    "last_checked": 1788595167.0976937
+    "latency_ms": 130.33,
+    "last_checked": 1788595714.8563719
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.117.248.36",
+    "port": 1080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Olot",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.53,
+    "asn": "AS210086",
+    "isp": "Connecta 1876 SLU",
+    "latency_ms": 424.85,
+    "last_checked": 1788595709.6721294
   }
 ]
