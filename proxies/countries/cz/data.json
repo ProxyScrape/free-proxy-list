@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "109.69.211.18",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Přerov",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 53.76,
+    "asn": "AS196815",
+    "isp": "LAN servis s.r.o",
+    "latency_ms": 129.97,
+    "last_checked": 1788725340.4213736
+  },
+  {
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.74,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 1119.76,
+    "last_checked": 1788725320.712755
+  },
+  {
     "protocol": "http",
     "ip": "185.248.179.99",
     "port": 8080,
@@ -7,12 +37,27 @@
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 55.48,
     "asn": "AS48574",
     "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 5403.87,
-    "last_checked": 1788724790.5147064
+    "latency_ms": 10747.11,
+    "last_checked": 1788725316.356706
+  },
+  {
+    "protocol": "http",
+    "ip": "217.75.208.181",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Chomutov",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.64,
+    "asn": "AS210712",
+    "isp": "Grape SC V",
+    "latency_ms": 7909.72,
+    "last_checked": 1788725261.9374616
   },
   {
     "protocol": "http",
@@ -26,22 +71,7 @@
     "uptime_percent": 68.48,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 10041.83,
-    "last_checked": 1788724758.7047536
-  },
-  {
-    "protocol": "http",
-    "ip": "77.240.102.149",
-    "port": 800,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 35.09,
-    "asn": "AS42189",
-    "isp": "Druzstvo EUROSIGNAL",
-    "latency_ms": 8518.41,
-    "last_checked": 1788724705.331296
+    "latency_ms": 7982.2,
+    "last_checked": 1788725223.9368446
   }
 ]
