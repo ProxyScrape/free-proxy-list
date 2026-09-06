@@ -1,3 +1,5 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,31.59.100.1,8080,Switzerland,CH,Opfikon,transparent,false,34.31,AS213929,UP-NETWORK Sarl,4931.19,1788699535.0407526
-http,185.85.111.18,80,Switzerland,CH,Tann,elite,false,43.3,AS51395,Datasource AG,2768.16,1788699458.766126
+socks4,195.225.116.14,4145,Switzerland,CH,Wädenswil,elite,true,25.36,AS48971,netz116,7229.88,1788700161.913691
+socks4,195.225.116.15,4145,Switzerland,CH,Wädenswil,elite,true,24.5,AS48971,netz116,7230.27,1788700149.3958023
+http,31.59.100.1,8080,Switzerland,CH,Opfikon,transparent,true,34.31,AS213929,UP-NETWORK Sarl,1344.56,1788700122.374891
+http,185.85.111.18,80,Switzerland,CH,Tann,elite,false,43.3,AS51395,Datasource AG,4267.55,1788700104.450597
