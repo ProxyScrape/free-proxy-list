@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "5.45.119.70",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "132.243.168.30",
+    "port": 9150,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Jõhvi",
+    "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 67.57,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 696.49,
-    "last_checked": 1788776669.6606712
+    "uptime_percent": 57.1,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 387.78,
+    "last_checked": 1788777278.5290644
+  },
+  {
+    "protocol": "socks5",
+    "ip": "132.243.168.30",
+    "port": 9150,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.29,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 2491.01,
+    "last_checked": 1788777275.2233217
   },
   {
     "protocol": "http",
@@ -23,10 +38,40 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 47.92,
+    "uptime_percent": 47.93,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 140.51,
-    "last_checked": 1788776666.3800151
+    "latency_ms": 138.83,
+    "last_checked": 1788777274.6091685
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tartu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.98,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 208.81,
+    "last_checked": 1788777268.2928095
+  },
+  {
+    "protocol": "http",
+    "ip": "193.42.112.26",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Kuusalu",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 45.64,
+    "asn": "AS199144",
+    "isp": "HexCore cloud s.r.o.",
+    "latency_ms": 5645.44,
+    "last_checked": 1788777206.0975893
   }
 ]
