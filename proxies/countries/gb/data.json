@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "193.32.176.109",
+    "port": 1080,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 21.87,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 1126.09,
+    "last_checked": 1788760474.4622757
+  },
+  {
     "protocol": "socks5",
     "ip": "144.126.197.184",
     "port": 1088,
@@ -8,41 +23,26 @@
     "city": "Slough",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 96.92,
+    "uptime_percent": 96.93,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 800.25,
-    "last_checked": 1788760179.3151245
+    "latency_ms": 7688.49,
+    "last_checked": 1788760467.6058676
   },
   {
-    "protocol": "http",
-    "ip": "194.164.22.24",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "176.35.25.216",
+    "port": 1080,
     "country": "United Kingdom",
     "country_code": "GB",
-    "city": "London",
+    "city": "Rugby",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 37.2,
-    "asn": "AS8560",
-    "isp": "IONOS SE",
-    "latency_ms": 3795.94,
-    "last_checked": 1788760118.3279026
-  },
-  {
-    "protocol": "http",
-    "ip": "85.159.88.220",
-    "port": 8111,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 5.4,
-    "asn": "AS25577",
-    "isp": "MAINFRAME & CYBERNETIC SYSTEMS LIMITED",
-    "latency_ms": 7319.02,
-    "last_checked": 1788760087.9333413
+    "ssl": true,
+    "uptime_percent": 9.65,
+    "asn": "AS5413",
+    "isp": "Wavenet Limited",
+    "latency_ms": 1170.6,
+    "last_checked": 1788760453.1521232
   },
   {
     "protocol": "http",
@@ -53,10 +53,25 @@
     "city": "London",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 24.61,
+    "uptime_percent": 24.62,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 7514.3,
-    "last_checked": 1788760070.1547163
+    "latency_ms": 14905.87,
+    "last_checked": 1788760450.117188
+  },
+  {
+    "protocol": "http",
+    "ip": "194.164.22.24",
+    "port": 8080,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.35,
+    "asn": "AS8560",
+    "isp": "IONOS SE",
+    "latency_ms": 4291.73,
+    "last_checked": 1788760419.5423656
   }
 ]
