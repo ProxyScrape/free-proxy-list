@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "190.113.249.14",
-    "port": 88,
+    "port": 50000,
     "country": "Costa Rica",
     "country_code": "CR",
     "city": "Zarcero",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.77,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.88,
     "asn": "AS262241",
     "isp": "Cooperativa De Electrificacion Rural De Alfaro Ruiz R.L.",
-    "latency_ms": 12779.1,
-    "last_checked": 1788820006.5687046
+    "latency_ms": 2407.4,
+    "last_checked": 1788820471.7221296
+  },
+  {
+    "protocol": "http",
+    "ip": "190.61.106.97",
+    "port": 8080,
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "city": "San José",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 6.81,
+    "asn": "AS52468",
+    "isp": "Ufinet Panama S.A.",
+    "latency_ms": 1904.52,
+    "last_checked": 1788820428.229119
   }
 ]
