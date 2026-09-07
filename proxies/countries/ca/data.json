@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "184.75.221.82",
-    "port": 3118,
+    "protocol": "socks4",
+    "ip": "155.138.139.189",
+    "port": 32768,
     "country": "Canada",
     "country_code": "CA",
     "city": "Toronto",
-    "anonymity": "anonymous",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 94.01,
-    "asn": "AS32489",
-    "isp": "Amanah Tech Inc.",
-    "latency_ms": 223.52,
-    "last_checked": 1788755643.2441456
+    "uptime_percent": 22.11,
+    "asn": "AS20473",
+    "isp": "The Constant Company",
+    "latency_ms": 689.65,
+    "last_checked": 1788756259.136347
+  },
+  {
+    "protocol": "socks5",
+    "ip": "155.138.139.189",
+    "port": 32768,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.7,
+    "asn": "AS20473",
+    "isp": "The Constant Company",
+    "latency_ms": 1242.84,
+    "last_checked": 1788756253.255389
   },
   {
     "protocol": "socks5",
@@ -26,37 +41,22 @@
     "uptime_percent": 83.99,
     "asn": "AS26832",
     "isp": "Rica Web Services",
-    "latency_ms": 8527.61,
-    "last_checked": 1788755640.689392
+    "latency_ms": 8603.26,
+    "last_checked": 1788756209.5619903
   },
   {
-    "protocol": "socks4",
-    "ip": "24.37.245.42",
-    "port": 51056,
+    "protocol": "http",
+    "ip": "184.75.221.82",
+    "port": 3118,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
+    "city": "Toronto",
+    "anonymity": "anonymous",
     "ssl": true,
-    "uptime_percent": 21.01,
-    "asn": "AS5769",
-    "isp": "Le Groupe Videotron Ltee",
-    "latency_ms": 1536.37,
-    "last_checked": 1788755638.913033
-  },
-  {
-    "protocol": "socks4",
-    "ip": "45.73.0.118",
-    "port": 5678,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 26.5,
-    "asn": "AS5769",
-    "isp": "Videotron Ltee",
-    "latency_ms": 1570.13,
-    "last_checked": 1788755634.9171727
+    "uptime_percent": 94.01,
+    "asn": "AS32489",
+    "isp": "Amanah Tech Inc.",
+    "latency_ms": 219.53,
+    "last_checked": 1788756135.475516
   }
 ]
