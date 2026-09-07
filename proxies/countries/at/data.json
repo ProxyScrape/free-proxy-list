@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "90.146.196.18",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "95.163.176.131",
+    "port": 1080,
     "country": "Austria",
     "country_code": "AT",
-    "city": "Traun",
+    "city": "Vienna",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 31.91,
-    "asn": "AS12605",
-    "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 9658.74,
-    "last_checked": 1788772735.947329
+    "ssl": true,
+    "uptime_percent": 31.0,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 8469.85,
+    "last_checked": 1788773373.8732235
   },
   {
     "protocol": "http",
@@ -23,10 +23,25 @@
     "city": "Vienna",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 98.21,
+    "uptime_percent": 98.25,
     "asn": "AS47692",
     "isp": "Nessus GmbH",
-    "latency_ms": 62.68,
-    "last_checked": 1788772701.3572884
+    "latency_ms": 64.46,
+    "last_checked": 1788773370.6191
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.196.178.238",
+    "port": 60606,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Längenfeld",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.06,
+    "asn": "AS206091",
+    "isp": "Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG",
+    "latency_ms": 7251.64,
+    "last_checked": 1788773350.9770658
   }
 ]
