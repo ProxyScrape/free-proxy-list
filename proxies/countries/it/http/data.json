@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "81.31.146.81",
-    "port": 3128,
+    "ip": "188.153.87.10",
+    "port": 8080,
     "country": "Italy",
     "country_code": "IT",
     "city": "Milan",
-    "anonymity": "elite",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 25.62,
+    "asn": "AS30722",
+    "isp": "VODAFONE",
+    "latency_ms": 4261.05,
+    "last_checked": 1788782965.6607928
+  },
+  {
+    "protocol": "http",
+    "ip": "77.242.177.57",
+    "port": 3128,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Biella",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 10.52,
-    "asn": "AS47242",
-    "isp": "HOST-VDC",
-    "latency_ms": 14154.48,
-    "last_checked": 1788782336.9329624
+    "uptime_percent": 40.61,
+    "asn": "AS42669",
+    "isp": "MegaWeb",
+    "latency_ms": 11115.06,
+    "last_checked": 1788782935.2648363
   },
   {
     "protocol": "http",
@@ -22,41 +37,11 @@
     "country_code": "IT",
     "city": "Milan",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 9.79,
     "asn": "AS44092",
     "isp": "HAL Service SpA",
-    "latency_ms": 3046.86,
-    "last_checked": 1788782336.3193576
-  },
-  {
-    "protocol": "http",
-    "ip": "79.54.119.155",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Laghetto",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 19.39,
-    "asn": "AS3269",
-    "isp": "INTERBUSINESS",
-    "latency_ms": 936.35,
-    "last_checked": 1788782254.8008096
-  },
-  {
-    "protocol": "http",
-    "ip": "195.54.160.88",
-    "port": 3535,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Palermo",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 37.66,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 7898.0,
-    "last_checked": 1788782243.087956
+    "latency_ms": 8412.52,
+    "last_checked": 1788782893.123384
   }
 ]
