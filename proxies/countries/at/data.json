@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "95.163.176.131",
     "port": 1080,
     "country": "Austria",
@@ -8,11 +8,26 @@
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 29.24,
+    "uptime_percent": 31.04,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 1992.25,
-    "last_checked": 1788744282.3492208
+    "latency_ms": 4680.07,
+    "last_checked": 1788744537.4171486
+  },
+  {
+    "protocol": "http",
+    "ip": "95.163.176.131",
+    "port": 8080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 11.82,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 19123.98,
+    "last_checked": 1788744512.220012
   },
   {
     "protocol": "http",
@@ -26,7 +41,7 @@
     "uptime_percent": 100.0,
     "asn": "AS47692",
     "isp": "Nessus GmbH",
-    "latency_ms": 76.03,
-    "last_checked": 1788744258.0171738
+    "latency_ms": 67.54,
+    "last_checked": 1788744489.4660158
   }
 ]
