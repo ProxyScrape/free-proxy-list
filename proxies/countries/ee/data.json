@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "31.56.187.109",
+    "port": 1081,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Jõhvi",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 64.18,
+    "asn": "AS197574",
+    "isp": "ExpressHost Ltd",
+    "latency_ms": 12815.3,
+    "last_checked": 1788834548.2276082
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.56.187.109",
+    "port": 1081,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 80.42,
+    "asn": "AS197574",
+    "isp": "ExpressHost Ltd",
+    "latency_ms": 12963.41,
+    "last_checked": 1788834548.0794435
+  },
+  {
+    "protocol": "http",
+    "ip": "217.78.239.5",
+    "port": 4555,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tabasalu",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 48.05,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 155.34,
-    "last_checked": 1788834247.0257392
+    "uptime_percent": 15.96,
+    "asn": "AS199144",
+    "isp": "HexCore cloud s.r.o.",
+    "latency_ms": 12404.95,
+    "last_checked": 1788834499.0284412
   }
 ]
