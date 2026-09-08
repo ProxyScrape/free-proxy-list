@@ -1,35 +1,48 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,159.192.139.42,5678,Thailand,TH,Chon Buri,elite,true,24.22,AS131090,National Telecom Public Company Limited,2064.71,1788835801.1930542
-socks4,1.179.172.45,31225,Thailand,TH,Bangkok,elite,true,24.81,AS131293,TOT Public Company Limited,946.36,1788835798.1821713
-socks4,183.89.217.91,4153,Thailand,TH,Lak Si,elite,true,40.13,AS45758,Triple T Broadband Public Company Limited,4022.37,1788835797.4386551
-socks4,203.172.120.179,1080,Thailand,TH,Huai Khwang,elite,true,50.95,AS4750,sinokor1,2101.09,1788835797.1049187
-socks4,125.25.57.57,4153,Thailand,TH,Bangkok,elite,true,46.9,AS23969,TOT Public Company Limited,876.25,1788835795.5413
-http,184.82.162.99,8080,Thailand,TH,Nong Kung Si,transparent,true,21.92,AS133481,AIS-Fibre,2321.48,1788835790.0818827
-socks4,1.20.254.32,4153,Thailand,TH,Khwaeng Thung Song Hong,elite,true,41.88,AS23969,TOT Public Company Limited,834.0,1788835789.8122725
-socks4,125.26.4.197,4145,Thailand,TH,Bangkok,elite,true,24.61,AS23969,TOT Public Company Limited,876.33,1788835789.287036
-socks4,182.53.96.56,4145,Thailand,TH,Bangkok,elite,true,22.39,AS23969,TOT Public Company Limited,3928.25,1788835787.0731812
-http,8.213.215.187,80,Thailand,TH,Bangkok,elite,false,0.82,AS45102,"Alibaba (US) Technology Co., Ltd.",5423.49,1788835781.98533
-http,8.213.215.187,4002,Thailand,TH,Bangkok,elite,false,0.77,AS45102,"Alibaba (US) Technology Co., Ltd.",9467.12,1788835779.560358
-http,49.49.141.81,8080,Thailand,TH,Amphoe Aranyaprathet,transparent,true,24.49,AS45758,Triple T Broadband Public Company Limited,5860.56,1788835772.0043766
-http,27.254.99.183,8118,Thailand,TH,Huai Khwang,elite,false,5.84,AS9891,CS Loxinfo Public Company Limited,543.95,1788835769.9926636
-http,43.229.79.160,8080,Thailand,TH,Ron Phibun,transparent,false,37.64,AS56309,Readyidc Company Limited,10537.45,1788835762.4261012
-http,134.236.30.41,8080,Thailand,TH,Bangkok,transparent,true,28.16,AS131090,CAT-BB,3313.84,1788835761.4757855
-socks4,1.179.151.165,31948,Thailand,TH,Li,elite,true,21.22,AS131293,TOT Public Company Limited,3985.54,1788835751.9110327
-http,202.28.194.139,31280,Thailand,TH,Chiang Mai,elite,true,99.71,AS4621,Office of Info.Tech. Admin. for Educational Development,5411.47,1788835750.427262
-http,202.183.236.219,8080,Thailand,TH,Khlong Hoi Khong,transparent,false,10.04,AS45458,Advanced Wireless Network Company Limited,3307.24,1788835746.6207366
-http,118.173.91.229,8080,Thailand,TH,Bangkok,transparent,true,26.47,AS23969,TOT Public Company Limited,5837.16,1788835741.2784567
-http,49.49.79.254,8081,Thailand,TH,Mukdahan,transparent,false,27.53,AS45758,Triple T Broadband Public Company Limited,3771.98,1788835740.8637583
-http,58.136.168.38,8080,Thailand,TH,Bangkok,transparent,false,24.39,AS133481,AIS-Fibre,9157.89,1788835739.7725587
-http,43.229.79.241,8080,Thailand,TH,Ron Phibun,transparent,false,33.75,AS56309,Readyidc Company Limited,16496.25,1788835736.911742
-http,83.118.60.147,8213,Thailand,TH,Bangkok,anonymous,true,13.62,AS132280,Symphony Communication Public Company Limited,7289.5,1788835731.3012288
-socks5,8.213.215.187,8001,Thailand,TH,Bangkok,elite,true,0.96,AS45102,"Alibaba (US) Technology Co., Ltd.",6499.23,1788835727.4604023
-socks5,8.213.215.187,2000,Thailand,TH,Bangkok,elite,true,0.9,AS45102,"Alibaba (US) Technology Co., Ltd.",6701.98,1788835725.9862268
-http,212.80.213.220,3128,Thailand,TH,Nonthaburi,transparent,true,50.57,AS56309,"Siamdata Communication Co., ltd.",11268.39,1788835724.2088413
-socks5,8.213.215.187,5269,Thailand,TH,Bangkok,elite,true,0.91,AS45102,"Alibaba (US) Technology Co., Ltd.",9919.72,1788835722.0106049
-http,118.172.125.37,8080,Thailand,TH,Khlong Hoi Khong,transparent,false,32.39,AS23969,TOT Public Company Limited,8134.69,1788835718.405428
-http,203.150.166.174,8080,Thailand,TH,Vadhana,transparent,false,5.36,AS4618,Internet Thailand Company Ltd.,10739.32,1788835697.1848059
-http,43.229.79.231,8080,Thailand,TH,Ron Phibun,transparent,false,30.64,AS56309,Readyidc Company Limited,10671.53,1788835695.0703826
-http,110.171.40.132,8080,Thailand,TH,Bangkok,transparent,false,7.86,AS17552,True Internet Corporation CO. Ltd.,9802.58,1788835690.1611512
-http,1.20.207.6,8080,Thailand,TH,Bangkok,transparent,true,21.74,AS23969,TOT Public Company Limited,541.34,1788835677.564566
-http,43.229.79.239,8080,Thailand,TH,Ron Phibun,transparent,true,36.67,AS56309,Readyidc Company Limited,9838.23,1788835664.9890237
-http,180.183.159.33,8080,Thailand,TH,Lak Si,transparent,false,29.48,AS138524,Triple T Broadband Public Company Limited,16297.72,1788835618.4927242
+http,184.82.162.111,8080,Thailand,TH,Nong Kung Si,transparent,true,22.56,AS133481,AIS-Fibre,1527.52,1788836978.3317409
+socks4,8.213.222.157,45,Thailand,TH,Bangkok,elite,true,1.05,AS45102,"Alibaba (US) Technology Co., Ltd.",3405.95,1788836976.882207
+socks4,8.213.222.157,1081,Thailand,TH,Bangkok,elite,true,1.01,AS45102,"Alibaba (US) Technology Co., Ltd.",3979.71,1788836976.0655925
+socks4,8.213.222.157,4002,Thailand,TH,Bangkok,elite,true,1.06,AS45102,"Alibaba (US) Technology Co., Ltd.",4112.34,1788836975.9649892
+socks4,8.213.222.157,5060,Thailand,TH,Bangkok,elite,true,1.0,AS45102,"Alibaba (US) Technology Co., Ltd.",5060.17,1788836975.0209196
+socks4,49.229.36.214,4153,Thailand,TH,Bangkok,elite,true,17.69,AS45458,Advanced Wireless Network Company Limited,8005.45,1788836972.9971015
+socks4,8.213.222.157,55443,Thailand,TH,Bangkok,elite,true,0.96,AS45102,"Alibaba (US) Technology Co., Ltd.",7452.06,1788836972.6046824
+http,1.20.169.24,8080,Thailand,TH,Chon Buri,transparent,true,43.33,AS23969,TOT Public Company Limited,556.09,1788836972.1966991
+socks4,182.53.96.56,4145,Thailand,TH,Bangkok,elite,true,22.39,AS23969,TOT Public Company Limited,819.97,1788836969.8595614
+socks4,183.89.217.91,4153,Thailand,TH,Lak Si,elite,true,40.14,AS45758,Triple T Broadband Public Company Limited,980.96,1788836966.6967952
+socks4,203.172.120.179,1080,Thailand,TH,Huai Khwang,elite,true,50.97,AS4750,sinokor1,2101.01,1788836961.2842731
+socks4,1.179.172.45,31225,Thailand,TH,Bangkok,elite,true,24.81,AS131293,TOT Public Company Limited,943.51,1788836959.294092
+http,49.49.62.108,8080,Thailand,TH,Lampang,transparent,true,30.0,AS45758,Triple T Broadband Public Company Limited,2555.78,1788836958.9801931
+socks4,159.192.139.42,5678,Thailand,TH,Chon Buri,elite,true,24.23,AS131090,National Telecom Public Company Limited,1030.92,1788836957.3643088
+http,184.82.162.99,8080,Thailand,TH,Nong Kung Si,transparent,true,22.17,AS133481,AIS-Fibre,541.79,1788836956.6649733
+socks4,1.179.151.165,31948,Thailand,TH,Li,elite,true,21.23,AS131293,TOT Public Company Limited,3995.89,1788836955.9224932
+http,43.229.79.247,8080,Thailand,TH,Ron Phibun,transparent,true,39.44,AS56309,Readyidc Company Limited,13457.54,1788836954.6650176
+http,180.183.159.33,8080,Thailand,TH,Lak Si,transparent,true,30.6,AS138524,Triple T Broadband Public Company Limited,1677.02,1788836951.7587717
+socks4,49.229.36.211,4153,Thailand,TH,Bangkok,elite,true,17.7,AS45458,Advanced Wireless Network Company Limited,4002.64,1788836947.6351213
+socks5,125.24.156.113,7080,Thailand,TH,Mueang Ratchaburi,elite,true,49.67,AS23969,TOT Public Company Limited,9836.67,1788836943.5059307
+http,202.28.194.139,31280,Thailand,TH,Chiang Mai,elite,true,99.71,AS4621,Office of Info.Tech. Admin. for Educational Development,2802.16,1788836935.448264
+http,61.19.30.194,8188,Thailand,TH,Khlong San,transparent,true,24.27,AS9931,Data Comm. Dept. National Telecom Public Company Limited,4129.45,1788836933.8070664
+http,106.0.168.138,8080,Thailand,TH,Pom Prap Sattru Phai,transparent,false,12.04,AS23974,Ministry of Education - EMISC,9483.88,1788836933.2407806
+http,106.0.158.114,8080,Thailand,TH,Pom Prap Sattru Phai,transparent,true,10.95,AS23974,Ministry of Education - EMISC,2763.47,1788836931.9706924
+http,212.80.213.220,3128,Thailand,TH,Nonthaburi,transparent,false,50.59,AS56309,"Siamdata Communication Co., ltd.",8506.69,1788836930.6985662
+http,223.205.180.228,8080,Thailand,TH,Phra Nakhon Si Ayutthaya,transparent,false,25.49,AS45758,TRIPLETNET,4437.43,1788836928.0887866
+http,118.172.125.214,8080,Thailand,TH,Khlong Hoi Khong,transparent,false,71.91,AS23969,TOT Public Company Limited,10297.12,1788836925.7846878
+http,203.172.136.211,8080,Thailand,TH,Bangkok,transparent,false,12.78,AS23974,Ministry of Education - EMISC,4472.39,1788836923.2401643
+http,49.48.92.49,8080,Thailand,TH,Nakhon Ratchasima,transparent,false,29.11,AS45758,Triple T Broadband Public Company Limited,5108.89,1788836916.7851899
+http,101.109.77.90,8080,Thailand,TH,Bung Khla,transparent,false,27.44,AS23969,TOT Public Company Limited,1917.19,1788836916.181759
+http,1.20.207.6,8080,Thailand,TH,Bangkok,transparent,true,30.36,AS23969,TOT Public Company Limited,522.51,1788836910.0749817
+http,134.236.30.41,8080,Thailand,TH,Bangkok,transparent,true,30.43,AS131090,CAT-BB,793.86,1788836910.0430229
+http,49.48.81.115,8080,Thailand,TH,Nakhon Ratchasima,transparent,false,25.55,AS45758,Triple T Broadband Public Company Limited,5405.81,1788836899.6117742
+http,58.136.86.181,8080,Thailand,TH,Bangkok,transparent,false,26.47,AS133481,AIS-Fibre,7784.15,1788836897.584858
+http,171.4.176.16,8080,Thailand,TH,Bangkok,transparent,true,22.9,AS45758,TRIPLETNET,516.54,1788836883.2679732
+http,118.173.91.229,8080,Thailand,TH,Bangkok,transparent,true,26.47,AS23969,TOT Public Company Limited,544.73,1788836882.199839
+http,210.86.172.190,8080,Thailand,TH,Bangkok,transparent,true,25.09,AS7470,True Internet Corporation CO. Ltd.,7836.57,1788836881.2327702
+http,43.229.79.241,8080,Thailand,TH,Ron Phibun,transparent,true,33.83,AS56309,Readyidc Company Limited,14243.75,1788836879.4166622
+http,58.136.168.38,8080,Thailand,TH,Bangkok,transparent,true,24.44,AS133481,AIS-Fibre,1136.39,1788836878.703473
+http,49.49.141.81,8080,Thailand,TH,Amphoe Aranyaprathet,transparent,true,24.68,AS45758,Triple T Broadband Public Company Limited,875.28,1788836873.8965383
+http,101.51.131.47,8080,Thailand,TH,Khwaeng Thung Song Hong,transparent,false,23.53,AS23969,TOT Public Company Limited,11031.23,1788836868.2414134
+http,49.48.115.62,8080,Thailand,TH,Khon Kaen,transparent,true,29.89,AS45758,Triple T Broadband Public Company Limited,2299.79,1788836865.8714802
+http,184.82.162.206,8080,Thailand,TH,Nong Kung Si,transparent,true,26.53,AS133481,AIS-Fibre,11078.93,1788836851.279772
+http,223.205.30.61,8080,Thailand,TH,Pattaya,transparent,true,23.43,AS45758,TRIPLETNET,7955.78,1788836841.1060483
+http,1.0.171.213,8080,Thailand,TH,Phuket,transparent,false,8.78,AS23969,TOT Public Company Limited,12914.56,1788836838.1968045
+http,184.82.169.186,8080,Thailand,TH,Nong Kung Si,transparent,true,28.61,AS133481,AIS-Fibre,537.96,1788836825.4453688
+http,49.48.41.118,8080,Thailand,TH,Bang Lamung,transparent,false,23.37,AS45758,Triple T Broadband Public Company Limited,6714.62,1788836814.8539495
