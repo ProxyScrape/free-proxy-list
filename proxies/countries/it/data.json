@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "171.22.182.164",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "80.211.24.177",
+    "port": 3128,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 22.65,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 19845.95,
+    "last_checked": 1788846538.424917
+  },
+  {
+    "protocol": "http",
+    "ip": "195.54.160.88",
+    "port": 3535,
     "country": "Italy",
     "country_code": "IT",
     "city": "Palermo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 38.45,
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 41.25,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 4600.26,
-    "last_checked": 1788845957.2228932
+    "latency_ms": 14367.43,
+    "last_checked": 1788846516.966135
   },
   {
     "protocol": "socks5",
@@ -23,40 +38,10 @@
     "city": "Termoli",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 80.67,
+    "uptime_percent": 79.26,
     "asn": "AS49924",
     "isp": "ECROM-MAIN",
-    "latency_ms": 671.27,
-    "last_checked": 1788845934.3771746
-  },
-  {
-    "protocol": "http",
-    "ip": "80.211.24.177",
-    "port": 3128,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 22.64,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 21514.91,
-    "last_checked": 1788845919.578301
-  },
-  {
-    "protocol": "http",
-    "ip": "77.242.177.57",
-    "port": 3128,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Biella",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 40.81,
-    "asn": "AS42669",
-    "isp": "MegaWeb",
-    "latency_ms": 2134.64,
-    "last_checked": 1788845889.1086304
+    "latency_ms": 1509.7,
+    "last_checked": 1788846516.2463949
   }
 ]
