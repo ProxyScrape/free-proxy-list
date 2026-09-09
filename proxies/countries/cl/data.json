@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "190.13.147.241",
-    "port": 5678,
-    "country": "Chile",
-    "country_code": "CL",
-    "city": "Osorno",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 47.48,
-    "asn": "AS14117",
-    "isp": "Telefonica del Sur S.A",
-    "latency_ms": 1165.93,
-    "last_checked": 1788913199.292895
-  },
-  {
-    "protocol": "http",
-    "ip": "45.4.0.12",
-    "port": 999,
-    "country": "Chile",
-    "country_code": "CL",
-    "city": "Santiago",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 16.16,
-    "asn": "AS265662",
-    "isp": "Tlink SPA",
-    "latency_ms": 3133.23,
-    "last_checked": 1788913178.5218194
-  },
-  {
     "protocol": "http",
     "ip": "152.230.215.123",
     "port": 80,
@@ -41,8 +11,53 @@
     "uptime_percent": 41.79,
     "asn": "AS14259",
     "isp": "Gtd Internet S.A.",
-    "latency_ms": 694.49,
-    "last_checked": 1788913170.975582
+    "latency_ms": 721.83,
+    "last_checked": 1788913743.3779426
+  },
+  {
+    "protocol": "socks4",
+    "ip": "190.13.147.241",
+    "port": 5678,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Osorno",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.48,
+    "asn": "AS14117",
+    "isp": "Telefonica del Sur S.A",
+    "latency_ms": 4196.81,
+    "last_checked": 1788913740.5259917
+  },
+  {
+    "protocol": "socks4",
+    "ip": "190.54.100.74",
+    "port": 5678,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Santiago",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.13,
+    "asn": "AS6429",
+    "isp": "Telmex Chile Internet S.A.",
+    "latency_ms": 8864.72,
+    "last_checked": 1788913737.271124
+  },
+  {
+    "protocol": "http",
+    "ip": "38.7.195.49",
+    "port": 999,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Santiago",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 36.79,
+    "asn": "AS263702",
+    "isp": "Grupo ZGH SpA",
+    "latency_ms": 6637.56,
+    "last_checked": 1788913684.4768343
   },
   {
     "protocol": "http",
@@ -56,22 +71,37 @@
     "uptime_percent": 30.04,
     "asn": "AS263702",
     "isp": "Grupo ZGH SpA",
-    "latency_ms": 3745.71,
-    "last_checked": 1788913166.3520916
+    "latency_ms": 6293.78,
+    "last_checked": 1788913679.4444969
   },
   {
     "protocol": "http",
-    "ip": "45.160.74.1",
+    "ip": "45.4.0.12",
     "port": 999,
     "country": "Chile",
     "country_code": "CL",
     "city": "Santiago",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 4.81,
-    "asn": "AS266878",
-    "isp": "Besthost Spa",
-    "latency_ms": 13351.72,
-    "last_checked": 1788913100.1749237
+    "ssl": false,
+    "uptime_percent": 16.16,
+    "asn": "AS265662",
+    "isp": "Tlink SPA",
+    "latency_ms": 6423.96,
+    "last_checked": 1788913619.6524825
+  },
+  {
+    "protocol": "http",
+    "ip": "38.7.206.186",
+    "port": 999,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Santiago",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 16.97,
+    "asn": "AS263702",
+    "isp": "Grupo ZGH SpA",
+    "latency_ms": 10461.91,
+    "last_checked": 1788913591.3007424
   }
 ]
