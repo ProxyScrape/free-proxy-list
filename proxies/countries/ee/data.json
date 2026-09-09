@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "132.243.168.30",
-    "port": 9150,
+    "protocol": "http",
+    "ip": "5.45.126.128",
+    "port": 8080,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Tallinn",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 48.22,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 147.7,
+    "last_checked": 1788917965.3911433
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tartu",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 54.51,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 478.69,
-    "last_checked": 1788917368.361027
+    "uptime_percent": 56.87,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 3234.61,
+    "last_checked": 1788917960.7384946
   },
   {
     "protocol": "socks5",
@@ -26,37 +41,7 @@
     "uptime_percent": 67.26,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 703.49,
-    "last_checked": 1788917364.2989864
-  },
-  {
-    "protocol": "socks4",
-    "ip": "185.157.111.3",
-    "port": 5678,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tartu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 56.86,
-    "asn": "AS202652",
-    "isp": "SkyLive Telecom ldt",
-    "latency_ms": 7352.53,
-    "last_checked": 1788917363.3313508
-  },
-  {
-    "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 48.22,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 143.68,
-    "last_checked": 1788917310.2867346
+    "latency_ms": 1178.4,
+    "last_checked": 1788917956.8919504
   }
 ]
