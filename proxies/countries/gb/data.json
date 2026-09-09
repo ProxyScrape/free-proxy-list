@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "176.35.25.216",
+    "port": 1080,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "Rugby",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 9.71,
+    "asn": "AS5413",
+    "isp": "Wavenet Limited",
+    "latency_ms": 7839.3,
+    "last_checked": 1788968662.7761874
+  },
+  {
+    "protocol": "http",
+    "ip": "57.128.183.212",
+    "port": 21,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "Erith",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 38.79,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 5610.4,
+    "last_checked": 1788968655.5699978
+  },
+  {
     "protocol": "http",
     "ip": "81.158.71.182",
     "port": 8888,
@@ -7,42 +37,12 @@
     "country_code": "GB",
     "city": "Darlington",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 93.57,
+    "ssl": false,
+    "uptime_percent": 93.59,
     "asn": "AS2856",
     "isp": "BT Public Internet Service",
-    "latency_ms": 1301.01,
-    "last_checked": 1788968351.8133824
-  },
-  {
-    "protocol": "socks5",
-    "ip": "194.164.125.208",
-    "port": 57422,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "Worcester",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 30.27,
-    "asn": "AS8560",
-    "isp": "IONOS SE",
-    "latency_ms": 3143.3,
-    "last_checked": 1788968335.9885335
-  },
-  {
-    "protocol": "socks5",
-    "ip": "144.126.197.184",
-    "port": 1088,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "Slough",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 96.41,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 3326.9,
-    "last_checked": 1788968333.578333
+    "latency_ms": 1287.53,
+    "last_checked": 1788968628.4831624
   },
   {
     "protocol": "http",
@@ -56,7 +56,7 @@
     "uptime_percent": 23.54,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 10452.66,
-    "last_checked": 1788968271.506189
+    "latency_ms": 8563.32,
+    "last_checked": 1788968602.5068598
   }
 ]
