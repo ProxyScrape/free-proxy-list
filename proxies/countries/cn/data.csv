@@ -1,36 +1,32 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks5,202.141.161.50,10808,China,CN,Hefei,elite,true,100.0,AS4134,Chinanet,3059.26,1788989988.8577962
-socks4,202.141.161.50,10808,China,CN,Hefei,elite,true,100.0,AS4134,Chinanet,2734.76,1788989987.7082283
-http,219.142.66.245,9090,China,CN,Beijing,transparent,true,96.49,AS4847,China Networks Inter-Exchange,1409.35,1788989986.4254165
-http,122.246.3.12,17981,China,CN,Ningbo,elite,true,99.41,AS136188,China Telecom,1258.18,1788989985.6118047
-http,61.186.243.6,9002,China,CN,Chongqing,elite,false,65.22,AS4134,Chinanet,2337.83,1788989984.897702
-http,202.141.161.50,10808,China,CN,Hefei,elite,true,100.0,AS4134,Chinanet,2314.35,1788989979.0660996
-http,114.236.137.41,21000,China,CN,Nanjing,transparent,true,98.5,AS4134,Chinanet,1161.54,1788989978.2669127
-socks5,117.50.194.130,7890,China,CN,Yangpu,elite,true,86.6,AS23724,UCLOUD,1175.18,1788989976.708021
-socks5,121.35.254.227,19000,China,CN,Shenzhen,elite,true,95.71,AS4134,China Telecom,2370.01,1788989976.3692186
-socks5,103.210.161.8,1080,China,CN,Guangzhou,elite,true,94.95,AS136958,China Unicom Guangdong IP network,1476.4,1788989975.8322198
-http,27.185.218.213,17981,China,CN,Shijiazhuang,elite,true,97.41,AS134760,"Shijiazhuang IDC network, CHINANET Hebei province",1599.85,1788989970.8616507
-http,116.196.150.180,17981,China,CN,Hangzhou,elite,true,93.31,AS131516,JHWA,845.19,1788989969.35844
-socks5,113.249.111.67,1080,China,CN,Chongqing,elite,true,98.64,AS134420,Chongqing Telecom,2273.79,1788989965.6577818
-http,111.206.4.163,18888,China,CN,Jinrongjie,elite,false,96.67,AS4808,China Unicom Beijing Province Network,9192.06,1788989964.3423324
-socks5,221.225.48.86,8989,China,CN,Suzhou,elite,true,6.38,AS140292,CHINANET jiangsu province network,1628.21,1788989962.603442
-http,58.254.153.146,17981,China,CN,Shanwei,elite,true,96.88,AS136958,CNC Group CHINA169 Guangdong Province Network,1246.21,1788989961.252101
-socks5,111.206.4.163,18888,China,CN,Jinrongjie,elite,true,97.69,AS4808,China Unicom Beijing Province Network,14745.78,1788989958.7846885
-socks5,116.236.146.234,4145,China,CN,Shanghai,elite,true,10.04,AS4812,China Telecom (Group),2060.3,1788989953.4562175
-http,111.199.234.107,9000,China,CN,Beijing,transparent,true,25.09,AS4808,China Unicom Beijing Province Network,2712.11,1788989945.8527277
-http,125.122.35.253,8087,China,CN,Hangzhou,elite,true,97.17,AS58461,Chinanet,8014.87,1788989942.8910418
-http,153.0.171.163,8085,China,CN,Haikou,elite,false,98.26,AS4837,China Unicom Hainan Province Network,1204.0,1788989942.2484121
-http,120.232.115.170,17981,China,CN,Guangzhou,elite,true,99.26,AS9808,China Mobile communications corporation,604.98,1788989938.955645
-http,36.137.204.11,8001,China,CN,Guangzhou,elite,false,53.87,AS9808,China Mobile Communications Corporation,15064.73,1788989937.9586723
-http,113.204.79.230,9091,China,CN,Jinrongjie,elite,false,97.81,AS4837,CHINA UNICOM China169 Backbone,928.17,1788989935.198982
-http,120.92.111.242,15010,China,CN,Beijing,transparent,true,89.1,AS59019,Beijing Kingsoft Cloud Internet Technology Co,15182.36,1788989932.631043
-http,119.188.131.55,17981,China,CN,Jinan,elite,true,86.65,AS4837,CNC Group CHINA169 Shandong Province Network,842.46,1788989926.2436652
-http,47.95.206.224,45120,China,CN,Beijing,elite,false,0.9,AS37963,Hangzhou Alibaba Advertising Co,1001.56,1788989924.7753096
-http,125.122.35.253,8086,China,CN,Hangzhou,elite,false,99.32,AS58461,Chinanet,1241.14,1788989924.5065374
-http,61.158.175.38,9002,China,CN,Zhengzhou,elite,false,98.23,AS4837,CNC Group CHINA169 Henan Province Network,835.13,1788989920.5656674
-http,36.25.247.27,6256,China,CN,Huzhou,elite,true,75.92,AS58461,Chinanet,13556.0,1788989919.9848084
-http,58.33.109.114,2021,China,CN,Shanghai,transparent,false,8.93,AS4812,China Telecom (Group),5311.71,1788989916.5869875
-http,183.236.232.160,8080,China,CN,Guangzhou,elite,true,6.64,AS9808,China Mobile communications corporation,3834.74,1788989911.706913
-http,101.206.186.99,8080,China,CN,Chengdu,elite,false,88.34,AS4837,China Unicom Sichuan Province Network,3226.99,1788989908.9991088
-http,36.152.150.243,8081,China,CN,Nanjing,elite,false,7.65,AS56046,China Mobile Communications Corporation,10448.54,1788989905.274652
-http,39.172.97.192,8060,China,CN,Jiaxing,elite,false,28.99,AS56041,China Mobile Communications Corporation,1853.45,1788989901.7326915
+socks5,113.249.111.67,1080,China,CN,Chongqing,elite,true,98.64,AS134420,Chongqing Telecom,1521.17,1788990558.4468708
+socks5,119.167.25.224,1081,China,CN,Jinan,elite,true,52.42,AS4837,CNC Group CHINA169 Shandong Province Network,1702.58,1788990558.1165876
+socks5,110.240.249.224,1082,China,CN,Chengde,elite,true,45.98,AS4837,China Unicom Hebei Province Network,4478.72,1788990555.1480787
+socks5,103.210.161.8,1080,China,CN,Guangzhou,elite,true,94.95,AS136958,China Unicom Guangdong IP network,3856.54,1788990555.0270374
+socks5,121.35.254.227,19000,China,CN,Shenzhen,elite,true,95.75,AS4134,China Telecom,2534.88,1788990553.2464325
+socks4,202.141.161.50,10808,China,CN,Hefei,elite,true,100.0,AS4134,Chinanet,2788.97,1788990552.9111152
+socks4,58.18.39.58,10800,China,CN,Hohhot,elite,true,21.83,AS4837,CNC Group CHINA169 Neimeng Province Network,8547.29,1788990550.157408
+http,153.0.171.163,8085,China,CN,Haikou,elite,false,98.26,AS4837,China Unicom Hainan Province Network,1350.5,1788990549.7186797
+socks4,114.218.59.11,7890,China,CN,Nanjing,elite,true,38.96,AS140292,China Telecom,4635.85,1788990548.840546
+http,113.204.79.230,9091,China,CN,Jinrongjie,elite,false,97.81,AS4837,CHINA UNICOM China169 Backbone,1019.73,1788990547.7000966
+socks5,111.206.4.163,18888,China,CN,Jinrongjie,elite,true,97.69,AS4808,China Unicom Beijing Province Network,5080.51,1788990546.9282074
+http,61.158.175.38,9002,China,CN,Zhengzhou,elite,false,98.23,AS4837,CNC Group CHINA169 Henan Province Network,943.49,1788990544.2519248
+socks5,202.141.161.50,10808,China,CN,Hefei,elite,true,100.0,AS4134,Chinanet,3029.67,1788990538.9606626
+http,123.112.240.170,9000,China,CN,Beijing,transparent,false,26.13,AS4808,China Unicom Beijing Province Network,3189.87,1788990537.3047035
+http,111.206.4.163,18888,China,CN,Jinrongjie,elite,false,96.68,AS4808,China Unicom Beijing Province Network,4422.65,1788990537.303499
+http,27.185.218.213,17981,China,CN,Shijiazhuang,elite,true,97.41,AS134760,"Shijiazhuang IDC network, CHINANET Hebei province",1267.75,1788990534.9041753
+http,202.141.161.50,10808,China,CN,Hefei,elite,true,100.0,AS4134,Chinanet,2351.7,1788990525.788756
+http,36.111.205.239,6666,China,CN,Hangzhou,elite,false,13.61,AS63835,"No.293, Wanbao Avenue",12016.42,1788990521.3065782
+socks5,123.112.120.208,1080,China,CN,Beijing,elite,true,47.48,AS4808,China Unicom Beijing Province Network,8687.29,1788990520.4882498
+http,116.196.150.180,17981,China,CN,Hangzhou,elite,true,93.31,AS131516,JHWA,1175.02,1788990516.9496357
+http,120.92.111.242,15010,China,CN,Beijing,transparent,true,89.1,AS59019,Beijing Kingsoft Cloud Internet Technology Co,7272.56,1788990516.7649128
+http,36.25.247.27,6256,China,CN,Huzhou,elite,true,75.88,AS58461,Chinanet,6586.21,1788990514.6814935
+http,219.142.66.245,9090,China,CN,Beijing,transparent,true,96.5,AS4847,China Networks Inter-Exchange,1346.71,1788990508.0590258
+http,122.246.3.12,17981,China,CN,Ningbo,elite,true,99.41,AS136188,China Telecom,1290.15,1788990502.9235528
+http,117.50.194.130,7890,China,CN,Yangpu,elite,false,83.17,AS23724,UCLOUD,1019.32,1788990498.9727762
+http,125.122.35.253,8086,China,CN,Hangzhou,elite,false,99.32,AS58461,Chinanet,1200.18,1788990491.5134904
+http,58.254.153.146,17981,China,CN,Shanwei,elite,true,96.87,AS136958,CNC Group CHINA169 Guangdong Province Network,1228.05,1788990484.9489691
+http,125.122.35.253,8087,China,CN,Hangzhou,elite,true,97.17,AS58461,Chinanet,11214.77,1788990483.019616
+http,120.232.115.170,17981,China,CN,Guangzhou,elite,true,99.26,AS9808,China Mobile communications corporation,560.89,1788990478.213104
+http,61.186.243.6,9002,China,CN,Chongqing,elite,false,65.22,AS4134,Chinanet,8631.97,1788990474.5071692
+http,111.199.234.107,9000,China,CN,Beijing,transparent,false,25.11,AS4808,China Unicom Beijing Province Network,8061.76,1788990461.5085273
