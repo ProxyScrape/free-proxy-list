@@ -1,6 +1,36 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "http",
+    "ip": "34.65.99.32",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.01,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 310.62,
+    "last_checked": 1788995402.2114606
+  },
+  {
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 43.76,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 7690.83,
+    "last_checked": 1788995389.986829
+  },
+  {
+    "protocol": "socks4",
     "ip": "188.244.117.60",
     "port": 9050,
     "country": "Switzerland",
@@ -8,25 +38,10 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.97,
+    "uptime_percent": 36.48,
     "asn": "AS63473",
     "isp": "HostHatch, LLC",
-    "latency_ms": 11847.12,
-    "last_checked": 1788994731.0235505
-  },
-  {
-    "protocol": "socks5",
-    "ip": "178.174.77.204",
-    "port": 1080,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Lucerne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 94.16,
-    "asn": "AS3303",
-    "isp": "Swisscom (Schweiz) AG",
-    "latency_ms": 49.86,
-    "last_checked": 1788994717.1713977
+    "latency_ms": 3405.77,
+    "last_checked": 1788995383.5149481
   }
 ]
