@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "82.115.60.51",
-    "port": 80,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 63.85,
-    "asn": "AS200590",
-    "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 783.61,
-    "last_checked": 1789082383.56309
-  },
-  {
     "protocol": "socks5",
     "ip": "178.236.16.4",
     "port": 1080,
@@ -26,8 +11,38 @@
     "uptime_percent": 67.74,
     "asn": "AS205516",
     "isp": "NLS ASTANA LLP",
-    "latency_ms": 506.44,
-    "last_checked": 1789082379.1780417
+    "latency_ms": 7695.82,
+    "last_checked": 1789082929.3297257
+  },
+  {
+    "protocol": "socks4",
+    "ip": "46.8.31.104",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Karaganda",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.24,
+    "asn": "AS203087",
+    "isp": "PE Fedinyak Sergey Vyacheslavovich",
+    "latency_ms": 14186.38,
+    "last_checked": 1789082928.219098
+  },
+  {
+    "protocol": "http",
+    "ip": "82.115.60.51",
+    "port": 80,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 63.85,
+    "asn": "AS200590",
+    "isp": "NLS Kazakhstan LLC",
+    "latency_ms": 643.63,
+    "last_checked": 1789082917.8217764
   },
   {
     "protocol": "http",
@@ -37,41 +52,11 @@
     "country_code": "KZ",
     "city": "Astana",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 23.28,
     "asn": "AS41798",
     "isp": "TTC Network",
-    "latency_ms": 8761.04,
-    "last_checked": 1789082359.5247643
-  },
-  {
-    "protocol": "socks5",
-    "ip": "46.8.31.104",
-    "port": 1080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Karaganda",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 29.28,
-    "asn": "AS203087",
-    "isp": "PE Fedinyak Sergey Vyacheslavovich",
-    "latency_ms": 15110.92,
-    "last_checked": 1789082348.9048982
-  },
-  {
-    "protocol": "http",
-    "ip": "178.236.16.4",
-    "port": 8888,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Astana",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 68.13,
-    "asn": "AS205516",
-    "isp": "NLS ASTANA LLP",
-    "latency_ms": 301.12,
-    "last_checked": 1789082337.1525753
+    "latency_ms": 4741.22,
+    "last_checked": 1789082869.7768092
   }
 ]
