@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks4",
-    "ip": "81.12.157.98",
-    "port": 5678,
+    "ip": "85.122.120.46",
+    "port": 30000,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Cârţişoara",
+    "city": "Năvodari",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 55.53,
-    "asn": "AS12302",
-    "isp": "Vodafone RO",
-    "latency_ms": 7407.76,
-    "last_checked": 1789026245.410101
+    "uptime_percent": 16.53,
+    "asn": "AS39347",
+    "isp": "STYLISH BY A&L SRL",
+    "latency_ms": 11455.17,
+    "last_checked": 1789026570.147214
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.122.120.119",
+    "port": 30016,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Năvodari",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 15.48,
+    "asn": "AS39347",
+    "isp": "STYLISH BY A&L SRL",
+    "latency_ms": 8924.49,
+    "last_checked": 1789026559.8594952
   },
   {
     "protocol": "socks5",
@@ -26,22 +41,37 @@
     "uptime_percent": 14.28,
     "asn": "AS39347",
     "isp": "STYLISH BY A&L SRL",
-    "latency_ms": 381.19,
-    "last_checked": 1789026213.8072314
+    "latency_ms": 803.63,
+    "last_checked": 1789026552.8408751
   },
   {
-    "protocol": "http",
-    "ip": "85.122.120.46",
-    "port": 20000,
+    "protocol": "socks4",
+    "ip": "85.122.120.119",
+    "port": 30016,
     "country": "Romania",
     "country_code": "RO",
     "city": "Năvodari",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 10.38,
+    "ssl": true,
+    "uptime_percent": 17.42,
     "asn": "AS39347",
     "isp": "STYLISH BY A&L SRL",
-    "latency_ms": 9826.01,
-    "last_checked": 1789026205.0120878
+    "latency_ms": 1848.15,
+    "last_checked": 1789026548.8392088
+  },
+  {
+    "protocol": "http",
+    "ip": "86.125.19.21",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Târgu Jiu",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 23.22,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 6527.66,
+    "last_checked": 1789026546.4865441
   }
 ]
