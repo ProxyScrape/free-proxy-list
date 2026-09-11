@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "195.225.116.15",
+    "port": 4145,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Tann",
+    "city": "Wädenswil",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 43.9,
-    "asn": "AS51395",
+    "ssl": true,
+    "uptime_percent": 24.71,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 50.74,
+    "last_checked": 1789127944.8433971
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.195.71.218",
+    "port": 18080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Hünenberg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 9.95,
+    "asn": "AS56803",
     "isp": "Datasource AG",
-    "latency_ms": 5540.85,
-    "last_checked": 1789127316.555914
+    "latency_ms": 91.07,
+    "last_checked": 1789127935.7887166
+  },
+  {
+    "protocol": "socks4",
+    "ip": "188.244.117.60",
+    "port": 9050,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.64,
+    "asn": "AS63473",
+    "isp": "HostHatch, LLC",
+    "latency_ms": 10991.37,
+    "last_checked": 1789127919.8637326
   },
   {
     "protocol": "socks5",
@@ -23,10 +53,25 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 36.09,
+    "uptime_percent": 36.08,
     "asn": "AS63473",
     "isp": "HostHatch, LLC",
-    "latency_ms": 8304.67,
-    "last_checked": 1789127277.0841484
+    "latency_ms": 19862.3,
+    "last_checked": 1789127907.8075664
+  },
+  {
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 43.91,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 8244.99,
+    "last_checked": 1789127896.523586
   }
 ]
