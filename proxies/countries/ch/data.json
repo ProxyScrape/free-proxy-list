@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "188.244.117.60",
+    "port": 9050,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.43,
+    "asn": "AS63473",
+    "isp": "HostHatch, LLC",
+    "latency_ms": 12510.75,
+    "last_checked": 1789154944.2977624
+  },
+  {
     "protocol": "socks5",
     "ip": "185.195.71.218",
     "port": 18080,
@@ -8,41 +23,11 @@
     "city": "Hünenberg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 31.78,
+    "uptime_percent": 31.94,
     "asn": "AS56803",
     "isp": "Datasource AG",
-    "latency_ms": 1096.27,
-    "last_checked": 1789154655.433673
-  },
-  {
-    "protocol": "socks4",
-    "ip": "195.225.116.14",
-    "port": 4145,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Wädenswil",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 25.51,
-    "asn": "AS48971",
-    "isp": "netz116",
-    "latency_ms": 2055.24,
-    "last_checked": 1789154646.7698982
-  },
-  {
-    "protocol": "socks4",
-    "ip": "188.244.117.60",
-    "port": 9050,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 32.39,
-    "asn": "AS63473",
-    "isp": "HostHatch, LLC",
-    "latency_ms": 13806.05,
-    "last_checked": 1789154632.9232335
+    "latency_ms": 86.03,
+    "last_checked": 1789154933.1599288
   },
   {
     "protocol": "socks5",
@@ -53,11 +38,11 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 35.88,
+    "uptime_percent": 35.92,
     "asn": "AS63473",
     "isp": "HostHatch, LLC",
-    "latency_ms": 17263.72,
-    "last_checked": 1789154621.2332425
+    "latency_ms": 21368.7,
+    "last_checked": 1789154912.6202397
   },
   {
     "protocol": "http",
@@ -67,11 +52,26 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 18.26,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 5311.57,
-    "last_checked": 1789154550.2601304
+    "latency_ms": 14670.57,
+    "last_checked": 1789154825.351502
+  },
+  {
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 43.93,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 2635.15,
+    "last_checked": 1789154781.4480345
   }
 ]
