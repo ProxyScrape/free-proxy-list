@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "5.45.119.70",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "5.45.126.128",
+    "port": 8080,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 66.95,
+    "ssl": false,
+    "uptime_percent": 48.54,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 219.34,
-    "last_checked": 1789157702.8869355
+    "latency_ms": 315.6,
+    "last_checked": 1789158242.9271133
+  },
+  {
+    "protocol": "http",
+    "ip": "193.42.112.26",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Kuusalu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.14,
+    "asn": "AS199144",
+    "isp": "HexCore cloud s.r.o.",
+    "latency_ms": 2767.4,
+    "last_checked": 1789158229.9873316
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tartu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.24,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 785.13,
+    "last_checked": 1789158220.8211882
   },
   {
     "protocol": "socks5",
@@ -26,37 +56,7 @@
     "uptime_percent": 56.42,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 2134.01,
-    "last_checked": 1789157698.0040233
-  },
-  {
-    "protocol": "http",
-    "ip": "193.42.112.26",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Kuusalu",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 39.11,
-    "asn": "AS199144",
-    "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 10234.04,
-    "last_checked": 1789157629.4696543
-  },
-  {
-    "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 48.54,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 137.53,
-    "last_checked": 1789157578.711931
+    "latency_ms": 8544.52,
+    "last_checked": 1789158217.7528493
   }
 ]
