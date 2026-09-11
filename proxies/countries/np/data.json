@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "116.90.234.106",
-    "port": 8080,
+    "port": 1080,
     "country": "Nepal",
     "country_code": "NP",
     "city": "Kathmandu",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 24.61,
+    "ssl": true,
+    "uptime_percent": 57.56,
     "asn": "AS24550",
     "isp": "Websurfer Nepal Communication System Pvt. Ltd",
-    "latency_ms": 10342.51,
-    "last_checked": 1789117981.9680834
+    "latency_ms": 931.67,
+    "last_checked": 1789118446.4921865
+  },
+  {
+    "protocol": "http",
+    "ip": "43.245.85.46",
+    "port": 808,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 22.84,
+    "asn": "AS45650",
+    "isp": "Vianet",
+    "latency_ms": 11623.67,
+    "last_checked": 1789118323.818858
   }
 ]
