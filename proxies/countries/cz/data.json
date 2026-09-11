@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "103.119.19.36",
+    "port": 1080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Brno",
+    "city": "Prague",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 68.85,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 9649.42,
-    "last_checked": 1789140510.808726
+    "ssl": true,
+    "uptime_percent": 39.08,
+    "asn": "AS215305",
+    "isp": "Mastersoft S.R.L.",
+    "latency_ms": 735.03,
+    "last_checked": 1789141200.5611343
+  },
+  {
+    "protocol": "socks4",
+    "ip": "85.132.139.45",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Slavkov u Brna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.7,
+    "asn": "AS205400",
+    "isp": "GIN's network",
+    "latency_ms": 7289.46,
+    "last_checked": 1789141186.8425777
   }
 ]
