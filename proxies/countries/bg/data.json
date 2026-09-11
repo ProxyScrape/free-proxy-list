@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "213.169.33.12",
-    "port": 8001,
+    "protocol": "socks4",
+    "ip": "77.85.171.92",
+    "port": 4153,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Asenovgrad",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.47,
+    "asn": "AS207371",
+    "isp": "GEC",
+    "latency_ms": 1217.98,
+    "last_checked": 1789136949.5708768
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.50.19.150",
+    "port": 4153,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 21.85,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.93,
     "asn": "AS8717",
-    "isp": "A1 Bulgaria EAD",
-    "latency_ms": 3704.48,
-    "last_checked": 1789136635.220852
+    "isp": "Spectrum NET",
+    "latency_ms": 130.21,
+    "last_checked": 1789136948.8731282
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pleven",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.28,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 207.79,
+    "last_checked": 1789136947.318104
   },
   {
     "protocol": "http",
@@ -22,11 +52,26 @@
     "country_code": "BG",
     "city": "Burgas",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 44.83,
+    "ssl": false,
+    "uptime_percent": 44.12,
     "asn": "AS29084",
     "isp": "ComNet Bulgaria Ltd.",
-    "latency_ms": 3065.89,
-    "last_checked": 1789136568.4550612
+    "latency_ms": 5691.2,
+    "last_checked": 1789136884.6688123
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.3",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.5,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 3300.93,
+    "last_checked": 1789136883.9891937
   }
 ]
