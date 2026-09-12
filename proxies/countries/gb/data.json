@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "198.244.254.77",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "91.107.122.209",
+    "port": 1080,
     "country": "United Kingdom",
     "country_code": "GB",
-    "city": "London",
+    "city": "Bromley",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 11.78,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 5197.2,
-    "last_checked": 1789240167.1879008
+    "uptime_percent": 27.96,
+    "asn": "AS29182",
+    "isp": "JSC IOT",
+    "latency_ms": 7154.17,
+    "last_checked": 1789240448.4651291
+  },
+  {
+    "protocol": "socks4",
+    "ip": "157.245.29.92",
+    "port": 1080,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "Slough",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 85.16,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 7175.31,
+    "last_checked": 1789240446.876234
   },
   {
     "protocol": "socks5",
@@ -26,8 +41,8 @@
     "uptime_percent": 95.88,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 101.36,
-    "last_checked": 1789240165.6455848
+    "latency_ms": 3150.81,
+    "last_checked": 1789240427.9606614
   },
   {
     "protocol": "http",
@@ -37,12 +52,12 @@
     "country_code": "GB",
     "city": "Erith",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.38,
+    "ssl": false,
+    "uptime_percent": 39.41,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 11480.41,
-    "last_checked": 1789240162.3587108
+    "latency_ms": 6299.21,
+    "last_checked": 1789240423.9088
   },
   {
     "protocol": "socks5",
@@ -53,26 +68,11 @@
     "city": "Slough",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 80.74,
+    "uptime_percent": 80.81,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 98.12,
-    "last_checked": 1789240151.0189831
-  },
-  {
-    "protocol": "socks5",
-    "ip": "141.147.109.224",
-    "port": 1080,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 24.59,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 8948.78,
-    "last_checked": 1789240146.1192102
+    "latency_ms": 11364.31,
+    "last_checked": 1789240416.290426
   },
   {
     "protocol": "http",
@@ -82,12 +82,12 @@
     "country_code": "GB",
     "city": "Darlington",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 93.11,
     "asn": "AS2856",
     "isp": "BT Public Internet Service",
-    "latency_ms": 7953.58,
-    "last_checked": 1789240135.1882944
+    "latency_ms": 3665.79,
+    "last_checked": 1789240369.9431458
   },
   {
     "protocol": "http",
@@ -97,11 +97,26 @@
     "country_code": "GB",
     "city": "Erith",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 23.56,
+    "ssl": false,
+    "uptime_percent": 23.57,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 11404.59,
-    "last_checked": 1789240090.7532518
+    "latency_ms": 12242.22,
+    "last_checked": 1789240362.2967596
+  },
+  {
+    "protocol": "http",
+    "ip": "198.244.254.77",
+    "port": 3128,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 11.78,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 2761.79,
+    "last_checked": 1789240326.8567805
   }
 ]
