@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "116.90.234.106",
+    "port": 1080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.66,
+    "asn": "AS24550",
+    "isp": "Websurfer Nepal Communication System Pvt. Ltd",
+    "latency_ms": 8050.51,
+    "last_checked": 1789189750.8923254
+  },
+  {
     "protocol": "socks5",
     "ip": "124.41.225.101",
     "port": 1080,
@@ -8,26 +23,11 @@
     "city": "Kathmandu",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 42.99,
+    "uptime_percent": 43.0,
     "asn": "AS17501",
     "isp": "WorldLink Communications",
-    "latency_ms": 8267.45,
-    "last_checked": 1789189140.5260909
-  },
-  {
-    "protocol": "http",
-    "ip": "103.1.93.184",
-    "port": 55443,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Patan",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 8.19,
-    "asn": "AS55915",
-    "isp": "Classic Tech Pvt. Ltd",
-    "latency_ms": 13121.21,
-    "last_checked": 1789189076.86472
+    "latency_ms": 4157.37,
+    "last_checked": 1789189742.4243412
   },
   {
     "protocol": "http",
@@ -37,11 +37,26 @@
     "country_code": "NP",
     "city": "Kathmandu",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 21.24,
     "asn": "AS4007",
     "isp": "Subisu Cablenet",
-    "latency_ms": 16418.7,
-    "last_checked": 1789189047.198924
+    "latency_ms": 2230.89,
+    "last_checked": 1789189694.2207537
+  },
+  {
+    "protocol": "http",
+    "ip": "43.245.93.193",
+    "port": 53805,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Butwal",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 5.68,
+    "asn": "AS55427",
+    "isp": "BroadLink Networks and Communications",
+    "latency_ms": 6374.08,
+    "last_checked": 1789189692.020829
   }
 ]
