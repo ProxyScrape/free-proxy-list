@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "90.146.196.18",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "185.196.178.238",
+    "port": 60606,
     "country": "Austria",
     "country_code": "AT",
-    "city": "Ansfelden",
+    "city": "Längenfeld",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 15.16,
+    "asn": "AS206091",
+    "isp": "Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG",
+    "latency_ms": 70.52,
+    "last_checked": 1789270135.9972715
+  },
+  {
+    "protocol": "http",
+    "ip": "46.102.156.44",
+    "port": 3128,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Wien",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 29.01,
-    "asn": "AS12605",
-    "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 15697.37,
-    "last_checked": 1789269514.996738
+    "uptime_percent": 46.76,
+    "asn": "AS40994",
+    "isp": "Alwyzon",
+    "latency_ms": 12540.13,
+    "last_checked": 1789270106.802753
   },
   {
     "protocol": "socks5",
@@ -23,10 +38,25 @@
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 36.61,
+    "uptime_percent": 36.64,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 4178.65,
-    "last_checked": 1789269463.6882648
+    "latency_ms": 2019.5,
+    "last_checked": 1789270102.5264351
+  },
+  {
+    "protocol": "http",
+    "ip": "90.146.196.18",
+    "port": 8080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Ansfelden",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 29.02,
+    "asn": "AS12605",
+    "isp": "LIWEST Kabelmedien GmbH",
+    "latency_ms": 11104.86,
+    "last_checked": 1789270046.4098446
   }
 ]
