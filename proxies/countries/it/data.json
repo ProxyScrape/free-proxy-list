@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "77.242.177.57",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "77.81.230.90",
+    "port": 9050,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Biella",
-    "anonymity": "anonymous",
+    "city": "Arezzo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.35,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 13346.0,
+    "last_checked": 1789325926.6837423
+  },
+  {
+    "protocol": "http",
+    "ip": "5.231.80.233",
+    "port": 3306,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 42.22,
-    "asn": "AS42669",
-    "isp": "MegaWeb",
-    "latency_ms": 7768.6,
-    "last_checked": 1789325349.077663
+    "uptime_percent": 31.51,
+    "asn": "AS6517",
+    "isp": "LAKENETWORKS",
+    "latency_ms": 12950.79,
+    "last_checked": 1789325921.0981994
+  },
+  {
+    "protocol": "http",
+    "ip": "79.54.119.155",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Laghetto",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.44,
+    "asn": "AS3269",
+    "isp": "INTERBUSINESS",
+    "latency_ms": 8187.13,
+    "last_checked": 1789325906.794999
   },
   {
     "protocol": "http",
@@ -26,23 +56,8 @@
     "uptime_percent": 12.13,
     "asn": "AS47242",
     "isp": "HOST-VDC",
-    "latency_ms": 17600.17,
-    "last_checked": 1789325275.5206916
-  },
-  {
-    "protocol": "socks5",
-    "ip": "109.73.177.230",
-    "port": 7080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Termoli",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 58.03,
-    "asn": "AS49924",
-    "isp": "ECROM-MAIN",
-    "latency_ms": 2393.09,
-    "last_checked": 1789325256.0122762
+    "latency_ms": 17180.83,
+    "last_checked": 1789325897.9003425
   },
   {
     "protocol": "http",
@@ -52,11 +67,11 @@
     "country_code": "IT",
     "city": "Arezzo",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 10.58,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 9344.31,
-    "last_checked": 1789325214.2524498
+    "latency_ms": 11370.38,
+    "last_checked": 1789325883.7299156
   }
 ]
