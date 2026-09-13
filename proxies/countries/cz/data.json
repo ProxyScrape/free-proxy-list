@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "85.132.139.45",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.93,
+    "asn": "AS205400",
+    "isp": "GIN's network",
+    "latency_ms": 69.43,
+    "last_checked": 1789276442.6597729
+  },
+  {
+    "protocol": "socks4",
     "ip": "109.69.211.18",
     "port": 1080,
     "country": "Czechia",
@@ -11,23 +26,8 @@
     "uptime_percent": 54.07,
     "asn": "AS196815",
     "isp": "LAN servis s.r.o",
-    "latency_ms": 1215.91,
-    "last_checked": 1789275880.3275495
-  },
-  {
-    "protocol": "http",
-    "ip": "90.181.120.18",
-    "port": 8082,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 25.82,
-    "asn": "AS5610",
-    "isp": "Telefonica O2 Czech Republic, a.s.",
-    "latency_ms": 5496.79,
-    "last_checked": 1789275874.546792
+    "latency_ms": 3244.78,
+    "last_checked": 1789276435.2834253
   },
   {
     "protocol": "http",
@@ -38,10 +38,40 @@
     "city": "Brno",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 69.09,
+    "uptime_percent": 69.1,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 5725.22,
-    "last_checked": 1789275821.9570262
+    "latency_ms": 6437.13,
+    "last_checked": 1789276403.8347285
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.119.19.36",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.55,
+    "asn": "AS215305",
+    "isp": "Mastersoft S.R.L.",
+    "latency_ms": 69.83,
+    "last_checked": 1789276361.900251
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.102.149",
+    "port": 800,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 31.68,
+    "asn": "AS42189",
+    "isp": "Druzstvo EUROSIGNAL",
+    "latency_ms": 2418.11,
+    "last_checked": 1789276351.888442
   }
 ]
