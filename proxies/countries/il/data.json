@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "195.20.17.203",
-    "port": 1080,
-    "country": "Israel",
-    "country_code": "IL",
-    "city": "Petah Tikva",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 21.07,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 393.76,
-    "last_checked": 1789272495.2526212
-  },
-  {
     "protocol": "http",
     "ip": "83.229.73.113",
     "port": 13554,
@@ -22,11 +7,26 @@
     "country_code": "IL",
     "city": "Haifa",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 26.6,
     "asn": "AS44709",
     "isp": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
-    "latency_ms": 9412.2,
-    "last_checked": 1789272433.0887702
+    "latency_ms": 20034.29,
+    "last_checked": 1789273058.1498535
+  },
+  {
+    "protocol": "http",
+    "ip": "199.203.152.99",
+    "port": 8111,
+    "country": "Israel",
+    "country_code": "IL",
+    "city": "Tel Aviv",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 3.52,
+    "asn": "AS1680",
+    "isp": "Cellcom Fixed Line Communication L.P",
+    "latency_ms": 334.23,
+    "last_checked": 1789273004.1783304
   }
 ]
