@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "154.64.219.4",
-    "port": 5555,
-    "country": "Puerto Rico",
-    "country_code": "PR",
-    "city": "Humacao",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 40.19,
-    "asn": "AS21559",
-    "isp": "OSNET Wireless",
-    "latency_ms": 1675.45,
-    "last_checked": 1789261766.5349822
-  },
-  {
     "protocol": "http",
     "ip": "23.138.88.1",
     "port": 999,
@@ -22,11 +7,26 @@
     "country_code": "PR",
     "city": "Adjuntas",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 24.87,
     "asn": "AS400354",
     "isp": "Alphanet Corp",
-    "latency_ms": 1159.72,
-    "last_checked": 1789261695.8874311
+    "latency_ms": 11188.3,
+    "last_checked": 1789262279.300537
+  },
+  {
+    "protocol": "http",
+    "ip": "192.203.0.118",
+    "port": 999,
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "city": "Comunas",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 12.71,
+    "asn": "AS63393",
+    "isp": "Boom NET",
+    "latency_ms": 3746.71,
+    "last_checked": 1789262277.2882884
   }
 ]
