@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "188.244.117.60",
+    "port": 9050,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Tann",
+    "city": "Zurich",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 44.06,
-    "asn": "AS51395",
+    "ssl": true,
+    "uptime_percent": 29.54,
+    "asn": "AS63473",
+    "isp": "HostHatch, LLC",
+    "latency_ms": 19798.58,
+    "last_checked": 1789313016.665224
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.195.71.218",
+    "port": 18080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Hünenberg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.51,
+    "asn": "AS56803",
     "isp": "Datasource AG",
-    "latency_ms": 5864.89,
-    "last_checked": 1789312445.3553417
+    "latency_ms": 6165.81,
+    "last_checked": 1789312973.4642699
   }
 ]
