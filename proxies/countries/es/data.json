@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "45.86.229.39",
-    "port": 11000,
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Ciempozuelos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.72,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 3233.18,
+    "last_checked": 1789403085.3014612
+  },
+  {
+    "protocol": "http",
+    "ip": "213.165.78.216",
+    "port": 3128,
     "country": "Spain",
     "country_code": "ES",
     "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 13.81,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 4266.37,
-    "last_checked": 1789402455.578196
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 73.0,
+    "asn": "AS8560",
+    "isp": "IONOS SE",
+    "latency_ms": 9056.64,
+    "last_checked": 1789403037.4042568
   },
   {
     "protocol": "http",
@@ -26,22 +41,7 @@
     "uptime_percent": 69.09,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 2118.96,
-    "last_checked": 1789402428.6774926
-  },
-  {
-    "protocol": "http",
-    "ip": "213.165.78.216",
-    "port": 3128,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 72.8,
-    "asn": "AS8560",
-    "isp": "IONOS SE",
-    "latency_ms": 13884.77,
-    "last_checked": 1789402420.6358047
+    "latency_ms": 4190.84,
+    "last_checked": 1789403018.048576
   }
 ]
