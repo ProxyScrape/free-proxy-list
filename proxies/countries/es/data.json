@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "65.20.105.241",
     "port": 10001,
     "country": "Spain",
@@ -8,41 +8,11 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 36.23,
+    "uptime_percent": 29.13,
     "asn": "AS20473",
     "isp": "The Constant Company, LLC",
-    "latency_ms": 3176.36,
-    "last_checked": 1789376985.301552
-  },
-  {
-    "protocol": "http",
-    "ip": "195.114.209.50",
-    "port": 80,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Alcobendas",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 69.08,
-    "asn": "AS57286",
-    "isp": "Gigas Hosting SL",
-    "latency_ms": 1451.77,
-    "last_checked": 1789376976.6854126
-  },
-  {
-    "protocol": "http",
-    "ip": "213.165.78.216",
-    "port": 3128,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 71.73,
-    "asn": "AS8560",
-    "isp": "IONOS SE",
-    "latency_ms": 12341.04,
-    "last_checked": 1789376965.526191
+    "latency_ms": 161.49,
+    "last_checked": 1789377545.7197964
   },
   {
     "protocol": "socks4",
@@ -56,7 +26,37 @@
     "uptime_percent": 35.66,
     "asn": "AS3352",
     "isp": "Telefonica de Espana SAU",
-    "latency_ms": 8369.84,
-    "last_checked": 1789376965.4570036
+    "latency_ms": 7370.94,
+    "last_checked": 1789377542.2014909
+  },
+  {
+    "protocol": "http",
+    "ip": "195.114.209.50",
+    "port": 80,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Alcobendas",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 69.08,
+    "asn": "AS57286",
+    "isp": "Gigas Hosting SL",
+    "latency_ms": 1674.3,
+    "last_checked": 1789377537.8998764
+  },
+  {
+    "protocol": "http",
+    "ip": "213.165.78.216",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 72.43,
+    "asn": "AS8560",
+    "isp": "IONOS SE",
+    "latency_ms": 10208.62,
+    "last_checked": 1789377506.7934394
   }
 ]
