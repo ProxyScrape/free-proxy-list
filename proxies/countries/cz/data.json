@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Jirkov",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.85,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 70.78,
+    "last_checked": 1789433081.6684947
+  },
+  {
+    "protocol": "socks4",
+    "ip": "85.132.139.45",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.39,
+    "asn": "AS205400",
+    "isp": "GIN's network",
+    "latency_ms": 64.88,
+    "last_checked": 1789433077.241003
+  },
+  {
     "protocol": "socks5",
     "ip": "103.119.19.36",
     "port": 1080,
@@ -8,11 +38,41 @@
     "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 36.92,
+    "uptime_percent": 36.94,
     "asn": "AS215305",
     "isp": "Mastersoft S.R.L.",
-    "latency_ms": 11686.03,
-    "last_checked": 1789432638.2680643
+    "latency_ms": 2227.41,
+    "last_checked": 1789433067.9080591
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 6.17,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 1079.68,
+    "last_checked": 1789433063.6170025
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.102.149",
+    "port": 800,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 31.18,
+    "asn": "AS42189",
+    "isp": "Druzstvo EUROSIGNAL",
+    "latency_ms": 1094.49,
+    "last_checked": 1789433062.4522512
   },
   {
     "protocol": "http",
@@ -28,20 +88,5 @@
     "isp": "O2 Czech Republic, a.s.",
     "latency_ms": 5853.78,
     "last_checked": 1789432625.470883
-  },
-  {
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Brno",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 69.56,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 12865.84,
-    "last_checked": 1789432599.147096
   }
 ]
