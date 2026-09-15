@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "103.119.19.36",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.85,
+    "asn": "AS215305",
+    "isp": "Mastersoft S.R.L.",
+    "latency_ms": 2294.85,
+    "last_checked": 1789453153.5646937
+  },
+  {
     "protocol": "socks4",
     "ip": "78.111.112.118",
     "port": 4145,
@@ -11,23 +26,8 @@
     "uptime_percent": 37.91,
     "asn": "AS47232",
     "isp": "ISP Alliance a.s.",
-    "latency_ms": 83.31,
-    "last_checked": 1789452542.7938519
-  },
-  {
-    "protocol": "socks4",
-    "ip": "109.69.211.18",
-    "port": 1080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Přerov",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 54.95,
-    "asn": "AS196815",
-    "isp": "LAN servis s.r.o",
-    "latency_ms": 123.28,
-    "last_checked": 1789452542.0181854
+    "latency_ms": 1095.68,
+    "last_checked": 1789453152.5417068
   },
   {
     "protocol": "socks4",
@@ -38,25 +38,55 @@
     "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 31.89,
+    "uptime_percent": 31.9,
     "asn": "AS5610",
     "isp": "Telefonica O2 Czech Republic, a.s.",
-    "latency_ms": 1176.04,
-    "last_checked": 1789452528.0117428
+    "latency_ms": 146.45,
+    "last_checked": 1789453151.982411
   },
   {
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "109.69.211.18",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Přerov",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.96,
+    "asn": "AS196815",
+    "isp": "LAN servis s.r.o",
+    "latency_ms": 3368.12,
+    "last_checked": 1789453144.5032418
+  },
+  {
+    "protocol": "socks4",
+    "ip": "85.132.139.45",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Brno",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 69.61,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 7774.08,
-    "last_checked": 1789452517.0812793
+    "ssl": true,
+    "uptime_percent": 37.35,
+    "asn": "AS205400",
+    "isp": "GIN's network",
+    "latency_ms": 3106.25,
+    "last_checked": 1789453140.7631788
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.102.149",
+    "port": 800,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 31.09,
+    "asn": "AS42189",
+    "isp": "Druzstvo EUROSIGNAL",
+    "latency_ms": 8220.22,
+    "last_checked": 1789453125.643745
   }
 ]
