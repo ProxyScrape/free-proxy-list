@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "46.8.31.104",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "91.185.20.162",
+    "port": 8080,
     "country": "Kazakhstan",
     "country_code": "KZ",
-    "city": "Karaganda",
+    "city": "Astana",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 23.11,
+    "asn": "AS41798",
+    "isp": "TTC Network",
+    "latency_ms": 418.67,
+    "last_checked": 1789488531.6407092
+  },
+  {
+    "protocol": "http",
+    "ip": "178.236.16.4",
+    "port": 8888,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.16,
-    "asn": "AS203087",
-    "isp": "PE Fedinyak Sergey Vyacheslavovich",
-    "latency_ms": 4164.4,
-    "last_checked": 1789487997.951822
+    "uptime_percent": 59.32,
+    "asn": "AS205516",
+    "isp": "NLS ASTANA LLP",
+    "latency_ms": 3400.98,
+    "last_checked": 1789488508.868998
+  },
+  {
+    "protocol": "socks5",
+    "ip": "217.151.230.186",
+    "port": 9055,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 16.77,
+    "asn": "AS9123",
+    "isp": "JSC \"TIMEWEB\"",
+    "latency_ms": 11343.44,
+    "last_checked": 1789488506.2555842
   }
 ]
