@@ -1,38 +1,168 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,45.91.248.107,80,United States,US,New York,elite,false,98.7,AS213535,YottaSrc,177.94,1789559995.484887
-http,137.66.1.45,80,United States,US,Gunnison,transparent,false,98.67,AS40509,"Fly.io, Inc.",265.57,1789559995.0223846
-http,67.203.23.79,8081,United States,US,Los Angeles,elite,false,99.93,AS17252,Colocation America Corporation,332.68,1789559994.4847848
-http,31.56.65.108,80,United States,US,Morehead City,elite,false,79.24,AS46177,White Sky Hosting,259.57,1789559991.235631
-http,162.214.159.94,8085,United States,US,Provo,elite,false,99.71,AS46606,Unified Layer,455.02,1789559991.1587996
-http,43.153.123.79,80,United States,US,Santa Clara,transparent,true,99.06,AS132203,Shenzhen Tencent Computer Systems Company Limited,2442.0,1789559990.5087671
-http,34.44.49.215,80,United States,US,Council Bluffs,elite,false,98.52,AS396982,Google LLC,305.34,1789559990.1387753
-http,107.167.18.122,443,United States,US,Los Angeles,elite,true,86.27,AS46844,Sharktech,300.85,1789559990.1263769
-http,47.85.161.37,3128,United States,US,Charlottesville,elite,false,99.2,AS45102,Alibaba.com LLC,204.45,1789559989.532684
-http,67.203.23.88,8081,United States,US,Los Angeles,elite,false,99.93,AS17252,Colocation America Corporation,334.95,1789559989.5014749
-http,153.72.68.0,8081,United States,US,Santa Clara,anonymous,false,99.98,AS396982,Google LLC,429.46,1789559987.6900103
-http,153.72.68.0,8080,United States,US,Santa Clara,anonymous,false,99.88,AS396982,Google LLC,414.64,1789559987.5286753
-http,34.134.231.117,3129,United States,US,Council Bluffs,anonymous,true,95.82,AS396982,Google LLC,1809.07,1789559983.8801298
-http,159.65.230.46,8888,United States,US,North Bergen,elite,false,59.57,AS14061,"DigitalOcean, LLC",177.85,1789559983.3529835
-http,23.95.91.167,80,United States,US,Marietta,elite,false,86.82,AS36352,HostPapa,318.25,1789559982.5069027
-http,20.110.224.54,3128,United States,US,Boydton,transparent,true,33.42,AS8075,Microsoft Corporation,9014.04,1789559980.1162012
-http,142.93.202.130,3128,United States,US,North Bergen,elite,false,71.12,AS14061,"DigitalOcean, LLC",172.27,1789559979.6970792
-http,23.228.86.236,8081,United States,US,Los Angeles,elite,false,99.93,AS17252,Vault Host,5340.12,1789559979.0970764
-http,43.162.115.85,8080,United States,US,Santa Clara,transparent,true,30.92,AS132203,Shenzhen Tencent Computer Systems Company Limited,11744.27,1789559975.9019966
-http,217.216.95.159,8899,United States,US,Orangeburg,elite,false,68.74,AS40021,Contabo Inc.,10512.38,1789559975.7471516
-http,162.214.74.29,8085,United States,US,Provo,elite,false,99.7,AS46606,Unified Layer,511.82,1789559975.6329877
-http,38.127.179.219,41923,United States,US,Washington,elite,false,15.14,AS174,Cogent Communications,1686.88,1789559975.1218
-http,167.99.236.14,80,United States,US,North Bergen,elite,false,31.65,AS14061,"DigitalOcean, LLC",2570.12,1789559971.6208751
-http,47.89.184.18,3128,United States,US,Charlottesville,elite,true,83.58,AS45102,Alibaba.com LLC,240.15,1789559970.4591424
-http,198.111.166.184,80,United States,US,Westland,elite,false,47.57,AS237,Merit Network Inc.,9167.8,1789559970.0592308
-http,104.251.93.236,16062,United States,US,Las Vegas,elite,false,15.59,AS5650,BraveWay LLC,11289.1,1789559968.0460203
-http,20.85.157.134,3128,United States,US,Boydton,anonymous,false,78.89,AS8075,Microsoft Corporation,8074.48,1789559965.133823
-http,85.209.156.148,1080,United States,US,Los Angeles,elite,true,93.71,AS51765,Oy Crea Nova Hosting Solution Ltd,9428.55,1789559965.0879242
-http,174.138.119.88,80,United States,US,Clifton,elite,false,73.54,AS14061,"DigitalOcean, LLC",195.57,1789559962.308456
-http,45.26.30.144,8888,United States,US,Friendswood,elite,false,34.81,AS7018,"AT&T Enterprises, LLC",1691.8,1789559961.9100258
-http,75.84.71.14,80,United States,US,North Hollywood,elite,false,49.26,AS20001,Spectrum,13990.99,1789559957.5049722
-http,154.12.231.32,80,United States,US,St Louis,elite,true,23.07,AS40021,Contabo Inc,13101.93,1789559947.481902
-http,167.99.124.118,80,United States,US,Clifton,anonymous,false,27.4,AS14061,"DigitalOcean, LLC",1416.6,1789559945.4460714
-http,24.153.226.234,8056,United States,US,Dallas,transparent,false,26.38,AS11427,Charter Communications Inc,4544.12,1789559940.1471605
-http,45.32.192.240,9000,United States,US,Dallas,elite,false,27.13,AS20473,Choopa,15512.47,1789559930.05891
-http,143.198.135.176,80,United States,US,Santa Clara,elite,false,46.52,AS14061,"DigitalOcean, LLC",4589.85,1789559917.3591683
-http,49.51.244.112,8888,United States,US,Santa Clara,anonymous,false,10.95,AS132203,OPHL,8323.35,1789559907.7378566
+http,162.214.159.94,8085,United States,US,Provo,elite,false,99.71,AS46606,Unified Layer,452.65,1789560511.6934667
+http,67.203.23.79,8081,United States,US,Los Angeles,elite,false,99.93,AS17252,Colocation America Corporation,339.69,1789560511.2651536
+http,162.214.74.29,8085,United States,US,Provo,elite,false,99.7,AS46606,Unified Layer,449.42,1789560509.6733747
+http,24.55.20.6,3030,United States,US,Austin,transparent,true,32.44,AS11427,Charter Communications Inc,999.83,1789560509.507333
+http,47.251.87.74,8081,United States,US,Minkler,elite,false,0.97,AS45102,Alibaba Cloud LLC,2321.6,1789560507.479901
+http,47.85.161.37,3128,United States,US,Charlottesville,elite,false,99.2,AS45102,Alibaba.com LLC,195.16,1789560502.325233
+http,66.94.104.255,3128,United States,US,Orangeburg,elite,false,38.83,AS40021,Contabo Inc.,1036.85,1789560501.25538
+http,153.72.68.0,8081,United States,US,Santa Clara,anonymous,false,99.98,AS396982,Google LLC,490.87,1789560501.2521243
+http,31.56.65.108,80,United States,US,Morehead City,elite,false,79.25,AS46177,White Sky Hosting,220.81,1789560500.0851011
+http,85.209.156.148,1080,United States,US,Los Angeles,elite,true,93.72,AS51765,Oy Crea Nova Hosting Solution Ltd,2424.13,1789560496.4955204
+http,174.138.165.211,8254,United States,US,Phoenix,elite,false,14.43,AS20454,Secured Servers LLC,499.79,1789560494.7127268
+http,47.251.87.74,1080,United States,US,Minkler,elite,true,1.08,AS45102,Alibaba Cloud LLC,2298.61,1789560494.477354
+http,174.138.165.204,27377,United States,US,Phoenix,elite,true,6.61,AS20454,Secured Servers LLC,440.73,1789560493.9187732
+http,23.95.91.167,80,United States,US,Marietta,elite,false,86.83,AS36352,HostPapa,1328.24,1789560492.887867
+http,174.138.165.205,25219,United States,US,Phoenix,elite,false,13.28,AS20454,Secured Servers LLC,6470.86,1789560490.849914
+http,174.138.165.204,36133,United States,US,Phoenix,elite,false,7.24,AS20454,Secured Servers LLC,5345.64,1789560489.9670906
+http,174.138.162.37,34577,United States,US,Phoenix,elite,false,6.34,AS20454,Secured Servers LLC,3314.3,1789560489.7233799
+http,107.167.18.122,443,United States,US,Los Angeles,elite,false,86.27,AS46844,Sharktech,299.21,1789560488.3809328
+http,174.138.162.38,34726,United States,US,Phoenix,elite,false,6.93,AS20454,Secured Servers LLC,7576.63,1789560486.8957624
+http,174.138.165.214,56098,United States,US,Phoenix,elite,true,6.1,AS20454,Secured Servers LLC,557.6,1789560486.7715561
+http,47.90.149.238,312,United States,US,Charlottesville,elite,true,0.75,AS45102,Alibaba.com LLC,2181.63,1789560486.1611931
+http,174.138.162.37,32130,United States,US,Phoenix,elite,false,5.42,AS20454,Secured Servers LLC,10121.83,1789560484.0068734
+http,49.51.252.36,3128,United States,US,Santa Clara,elite,false,9.75,AS132203,OPHL,989.72,1789560483.779713
+http,172.85.99.17,16062,United States,US,Atlanta,elite,false,11.99,AS5650,Host Wagon LLC,6118.27,1789560483.3327715
+http,174.138.165.202,36003,United States,US,Phoenix,elite,false,7.66,AS20454,Secured Servers LLC,7753.65,1789560482.836491
+http,137.66.1.45,80,United States,US,Gunnison,transparent,false,98.67,AS40509,"Fly.io, Inc.",1045.1,1789560482.518044
+http,174.138.165.202,37295,United States,US,Phoenix,elite,false,24.39,AS20454,Secured Servers LLC,13792.22,1789560482.3808904
+http,184.57.87.36,32650,United States,US,Cambridge,elite,false,16.18,AS10796,Charter Communications,6074.21,1789560481.112821
+http,174.138.165.204,31238,United States,US,Phoenix,elite,false,5.35,AS20454,Secured Servers LLC,15460.62,1789560480.8149347
+http,174.138.162.37,39942,United States,US,Phoenix,elite,false,5.64,AS20454,Secured Servers LLC,13361.34,1789560480.3819609
+http,174.138.165.202,38240,United States,US,Phoenix,elite,false,6.77,AS20454,Secured Servers LLC,6995.54,1789560479.7887568
+http,174.138.165.202,37247,United States,US,Phoenix,elite,false,5.77,AS20454,Secured Servers LLC,10886.52,1789560479.6968079
+http,174.138.165.202,35703,United States,US,Phoenix,elite,false,7.2,AS20454,Secured Servers LLC,9012.77,1789560479.188785
+http,174.138.165.213,32060,United States,US,Phoenix,elite,false,6.81,AS20454,Secured Servers LLC,13297.98,1789560477.7607255
+http,174.138.165.211,37443,United States,US,Phoenix,elite,false,3.93,AS20454,Secured Servers LLC,15228.42,1789560477.585489
+http,23.228.86.236,8081,United States,US,Los Angeles,elite,false,99.93,AS17252,Vault Host,307.29,1789560477.568824
+http,174.138.162.36,8254,United States,US,Phoenix,elite,false,28.46,AS20454,Secured Servers LLC,5298.44,1789560477.3861651
+http,174.138.165.204,32677,United States,US,Phoenix,elite,false,6.85,AS20454,Secured Servers LLC,14859.6,1789560477.2457361
+http,174.138.162.35,38431,United States,US,Phoenix,elite,false,6.1,AS20454,Secured Servers LLC,1411.23,1789560477.1981766
+http,108.181.246.55,9898,United States,US,Dallas,elite,false,28.09,AS40676,Psychz Networks,1171.2,1789560476.8524346
+http,34.134.231.117,3129,United States,US,Council Bluffs,anonymous,false,95.82,AS396982,Google LLC,10494.03,1789560476.8282664
+http,67.203.23.88,8081,United States,US,Los Angeles,elite,false,99.93,AS17252,Colocation America Corporation,334.66,1789560476.8022552
+http,174.138.162.37,36987,United States,US,Phoenix,elite,false,8.78,AS20454,Secured Servers LLC,3946.99,1789560476.672967
+http,174.138.165.202,53976,United States,US,Phoenix,elite,true,4.0,AS20454,Secured Servers LLC,11185.49,1789560476.5204186
+http,174.138.162.34,56735,United States,US,Phoenix,elite,true,4.85,AS20454,Secured Servers LLC,1289.57,1789560476.419428
+http,174.138.165.204,32926,United States,US,Phoenix,elite,false,4.01,AS20454,Secured Servers LLC,15099.44,1789560476.0288281
+http,174.138.165.204,34118,United States,US,Phoenix,elite,false,4.47,AS20454,Secured Servers LLC,9372.49,1789560475.5793672
+http,174.138.165.213,35721,United States,US,Phoenix,elite,false,7.6,AS20454,Secured Servers LLC,9213.11,1789560475.5136604
+http,174.138.162.37,36173,United States,US,Phoenix,elite,false,8.65,AS20454,Secured Servers LLC,14080.6,1789560475.3480775
+http,174.138.165.204,33443,United States,US,Phoenix,elite,false,4.18,AS20454,Secured Servers LLC,3566.89,1789560475.296824
+http,174.138.162.35,25674,United States,US,Phoenix,elite,false,7.38,AS20454,Secured Servers LLC,5639.96,1789560473.9612222
+http,174.138.165.202,38766,United States,US,Phoenix,elite,false,8.0,AS20454,Secured Servers LLC,8313.09,1789560473.3379781
+http,174.138.165.213,34355,United States,US,Phoenix,elite,false,3.37,AS20454,Secured Servers LLC,5987.92,1789560473.1607676
+http,174.138.165.204,34563,United States,US,Phoenix,elite,false,4.74,AS20454,Secured Servers LLC,10948.81,1789560472.9384396
+http,174.138.165.202,37368,United States,US,Phoenix,elite,false,2.24,AS20454,Secured Servers LLC,5395.68,1789560472.7778773
+http,174.138.165.202,36095,United States,US,Phoenix,elite,false,8.79,AS20454,Secured Servers LLC,15957.23,1789560471.300645
+http,174.138.165.202,37925,United States,US,Phoenix,elite,false,2.2,AS20454,Secured Servers LLC,18773.76,1789560470.14483
+http,174.138.165.211,52011,United States,US,Phoenix,elite,false,8.04,AS20454,Secured Servers LLC,7687.8,1789560470.1251564
+http,174.138.162.37,34114,United States,US,Phoenix,elite,false,4.29,AS20454,Secured Servers LLC,1702.1,1789560469.506453
+http,174.138.162.37,36245,United States,US,Phoenix,elite,true,10.08,AS20454,Secured Servers LLC,12298.31,1789560469.4613183
+http,174.138.162.37,30003,United States,US,Phoenix,elite,false,5.26,AS20454,Secured Servers LLC,8811.0,1789560469.4126272
+http,174.138.162.37,39824,United States,US,Phoenix,elite,false,2.89,AS20454,Secured Servers LLC,16229.28,1789560468.9592655
+http,174.138.162.37,28776,United States,US,Phoenix,elite,false,13.92,AS20454,Secured Servers LLC,9623.84,1789560468.92938
+http,174.138.119.88,80,United States,US,Clifton,elite,false,73.55,AS14061,"DigitalOcean, LLC",173.71,1789560468.5578043
+http,174.138.165.206,38781,United States,US,Phoenix,elite,false,10.34,AS20454,Secured Servers LLC,20354.83,1789560467.9427586
+http,174.138.165.204,36202,United States,US,Phoenix,elite,false,10.79,AS20454,Secured Servers LLC,10149.79,1789560467.6087422
+http,174.138.165.211,33454,United States,US,Phoenix,elite,false,7.57,AS20454,Secured Servers LLC,2988.78,1789560467.259105
+http,174.138.165.211,36411,United States,US,Phoenix,elite,false,8.09,AS20454,Secured Servers LLC,11345.42,1789560466.8081706
+http,174.138.162.38,39867,United States,US,Phoenix,elite,true,9.12,AS20454,Secured Servers LLC,6167.67,1789560466.6110656
+http,174.138.165.213,34654,United States,US,Phoenix,elite,false,7.08,AS20454,Secured Servers LLC,7673.67,1789560466.3482702
+http,174.138.162.37,36435,United States,US,Phoenix,elite,false,6.79,AS20454,Secured Servers LLC,6762.38,1789560465.9259434
+http,174.138.165.202,35638,United States,US,Phoenix,elite,false,5.84,AS20454,Secured Servers LLC,10309.87,1789560465.719395
+http,174.138.165.204,38237,United States,US,Phoenix,elite,false,8.99,AS20454,Secured Servers LLC,6397.65,1789560465.366744
+http,174.138.162.35,38027,United States,US,Phoenix,elite,false,11.57,AS20454,Secured Servers LLC,3004.15,1789560464.1084025
+http,174.138.165.202,36799,United States,US,Phoenix,elite,false,6.19,AS20454,Secured Servers LLC,10833.33,1789560463.442038
+http,104.218.199.17,16062,United States,US,Denver,elite,false,11.7,AS5650,BraveWay LLC,4478.64,1789560462.9725547
+http,153.72.68.0,8080,United States,US,Santa Clara,anonymous,false,99.88,AS396982,Google LLC,427.44,1789560462.0337243
+http,43.153.123.79,80,United States,US,Santa Clara,transparent,true,99.06,AS132203,Shenzhen Tencent Computer Systems Company Limited,300.58,1789560461.6555197
+http,47.85.58.247,3128,United States,US,Charlottesville,transparent,false,29.48,AS45102,Alibaba.com LLC,11050.56,1789560461.392877
+http,174.138.165.213,37599,United States,US,Phoenix,elite,false,3.76,AS20454,Secured Servers LLC,17059.93,1789560460.0208092
+http,174.138.165.211,58093,United States,US,Phoenix,elite,false,7.92,AS20454,Secured Servers LLC,10128.23,1789560459.2388113
+http,15.204.129.229,8080,United States,US,Reston,transparent,false,35.69,AS16276,OVH SAS,17714.79,1789560457.360976
+http,174.138.165.202,32085,United States,US,Phoenix,elite,false,5.36,AS20454,Secured Servers LLC,10429.43,1789560457.0414283
+http,47.89.184.18,3128,United States,US,Charlottesville,elite,true,83.58,AS45102,Alibaba.com LLC,193.98,1789560456.744865
+http,43.110.40.117,8888,United States,US,Minkler,elite,true,41.12,AS45102,"Alibaba (US) Technology Co., Ltd.",10897.9,1789560456.5116236
+http,174.138.165.202,37279,United States,US,Phoenix,elite,false,6.19,AS20454,Secured Servers LLC,2691.44,1789560456.216832
+http,45.61.133.104,7777,United States,US,Las Vegas,elite,false,43.47,AS14956,RouterHosting LLC,5618.81,1789560455.7894497
+http,45.91.248.107,80,United States,US,New York,elite,false,98.69,AS213535,YottaSrc,185.62,1789560455.781857
+http,174.138.165.213,36232,United States,US,Phoenix,elite,false,9.8,AS20454,Secured Servers LLC,9670.49,1789560453.4634733
+http,108.170.12.11,80,United States,US,Phoenix,elite,false,9.19,AS20454,Secured Servers LLC,1369.71,1789560453.0137265
+http,34.44.49.215,80,United States,US,Council Bluffs,elite,false,98.52,AS396982,Google LLC,319.07,1789560452.4325368
+http,174.138.165.205,24081,United States,US,Phoenix,elite,true,4.41,AS20454,Secured Servers LLC,9022.51,1789560451.0180523
+http,142.93.202.130,3128,United States,US,North Bergen,elite,false,71.12,AS14061,"DigitalOcean, LLC",159.95,1789560450.486124
+http,174.138.162.37,39892,United States,US,Phoenix,elite,true,3.74,AS20454,Secured Servers LLC,11716.64,1789560449.9684007
+http,174.138.165.204,37250,United States,US,Phoenix,elite,true,4.65,AS20454,Secured Servers LLC,5439.26,1789560449.9302359
+http,174.138.162.37,37011,United States,US,Phoenix,elite,false,5.05,AS20454,Secured Servers LLC,7619.13,1789560448.2957273
+http,174.138.165.202,34644,United States,US,Phoenix,elite,false,5.23,AS20454,Secured Servers LLC,9318.75,1789560447.9881418
+http,174.138.165.213,33404,United States,US,Phoenix,elite,false,2.36,AS20454,Secured Servers LLC,6257.98,1789560447.5602489
+http,174.138.162.38,26654,United States,US,Phoenix,elite,false,3.98,AS20454,Secured Servers LLC,8543.52,1789560447.4767287
+http,174.138.165.211,36446,United States,US,Phoenix,elite,false,7.18,AS20454,Secured Servers LLC,15527.55,1789560445.0089438
+http,174.138.165.202,35812,United States,US,Phoenix,elite,false,7.07,AS20454,Secured Servers LLC,10542.93,1789560444.7026916
+http,174.138.162.37,32703,United States,US,Phoenix,elite,false,7.09,AS20454,Secured Servers LLC,11108.47,1789560444.0887575
+http,174.138.165.213,32540,United States,US,Phoenix,elite,false,11.05,AS20454,Secured Servers LLC,15099.15,1789560443.838023
+http,174.138.162.37,39867,United States,US,Phoenix,elite,true,4.56,AS20454,Secured Servers LLC,13227.48,1789560443.4993312
+http,174.138.162.37,37497,United States,US,Phoenix,elite,false,8.08,AS20454,Secured Servers LLC,17931.27,1789560443.2380621
+http,174.138.165.211,34675,United States,US,Phoenix,elite,false,3.95,AS20454,Secured Servers LLC,9147.14,1789560442.373728
+http,174.138.162.37,39924,United States,US,Phoenix,elite,true,4.67,AS20454,Secured Servers LLC,8022.38,1789560441.9448717
+http,174.138.165.211,36685,United States,US,Phoenix,elite,false,8.17,AS20454,Secured Servers LLC,12978.77,1789560441.6927772
+http,174.138.165.211,34769,United States,US,Phoenix,elite,false,4.78,AS20454,Secured Servers LLC,5318.91,1789560441.0735524
+http,174.138.165.214,8013,United States,US,Phoenix,elite,false,7.44,AS20454,Secured Servers LLC,7321.09,1789560440.2528923
+http,174.138.162.37,24058,United States,US,Phoenix,elite,false,4.19,AS20454,Secured Servers LLC,9017.02,1789560440.034267
+http,174.138.165.204,38401,United States,US,Phoenix,elite,true,8.25,AS20454,Secured Servers LLC,9456.73,1789560439.8909917
+http,174.138.165.213,37787,United States,US,Phoenix,elite,false,5.46,AS20454,Secured Servers LLC,20913.75,1789560438.7517507
+http,174.138.162.37,32796,United States,US,Phoenix,elite,false,3.13,AS20454,Secured Servers LLC,4495.32,1789560438.5492084
+http,174.138.165.204,51836,United States,US,Phoenix,elite,false,5.65,AS20454,Secured Servers LLC,10778.9,1789560438.3011894
+http,174.138.165.213,35888,United States,US,Phoenix,elite,false,6.86,AS20454,Secured Servers LLC,14811.95,1789560437.732909
+http,174.138.165.211,36149,United States,US,Phoenix,elite,false,8.69,AS20454,Secured Servers LLC,20987.82,1789560436.7139382
+http,174.138.162.37,33428,United States,US,Phoenix,elite,false,8.73,AS20454,Secured Servers LLC,2067.34,1789560435.6169503
+http,174.138.165.202,32870,United States,US,Phoenix,elite,false,5.38,AS20454,Secured Servers LLC,20896.0,1789560435.2262433
+http,174.138.165.211,37946,United States,US,Phoenix,elite,false,4.55,AS20454,Secured Servers LLC,6992.13,1789560434.9327917
+http,174.138.162.37,31374,United States,US,Phoenix,elite,false,5.51,AS20454,Secured Servers LLC,16678.01,1789560434.1473236
+http,174.138.162.34,34238,United States,US,Phoenix,elite,false,3.87,AS20454,Secured Servers LLC,17010.64,1789560433.2701735
+http,104.218.199.26,16062,United States,US,Denver,elite,false,14.62,AS5650,BraveWay LLC,14413.94,1789560433.179731
+http,174.138.162.37,37012,United States,US,Phoenix,elite,false,9.83,AS20454,Secured Servers LLC,4671.57,1789560432.8712146
+http,174.138.165.210,51766,United States,US,Phoenix,elite,false,7.02,AS20454,Secured Servers LLC,18349.13,1789560432.3056452
+http,174.138.165.204,34049,United States,US,Phoenix,elite,false,4.63,AS20454,Secured Servers LLC,16079.65,1789560430.532799
+http,167.99.124.118,80,United States,US,Clifton,anonymous,false,27.4,AS14061,"DigitalOcean, LLC",11641.12,1789560430.0767462
+http,174.138.165.211,31853,United States,US,Phoenix,elite,false,3.34,AS20454,Secured Servers LLC,11915.63,1789560429.7398696
+http,174.138.165.204,32580,United States,US,Phoenix,elite,false,5.04,AS20454,Secured Servers LLC,4241.6,1789560429.477466
+http,174.138.165.211,32691,United States,US,Phoenix,elite,false,5.42,AS20454,Secured Servers LLC,11185.5,1789560429.45681
+http,174.138.165.213,32152,United States,US,Phoenix,elite,false,6.41,AS20454,Secured Servers LLC,8815.46,1789560429.0017033
+http,174.138.165.206,35821,United States,US,Phoenix,elite,true,3.39,AS20454,Secured Servers LLC,21921.67,1789560428.8432808
+http,172.85.99.179,16062,United States,US,Atlanta,elite,false,13.24,AS5650,Host Wagon LLC,13239.17,1789560428.7213135
+http,174.138.165.213,31001,United States,US,Phoenix,elite,false,5.52,AS20454,Secured Servers LLC,8590.4,1789560428.5837576
+http,174.138.165.204,35845,United States,US,Phoenix,elite,false,5.66,AS20454,Secured Servers LLC,11386.17,1789560427.912323
+http,174.138.162.37,37074,United States,US,Phoenix,elite,false,7.5,AS20454,Secured Servers LLC,10949.21,1789560427.5338504
+http,174.138.165.202,32588,United States,US,Phoenix,elite,false,4.72,AS20454,Secured Servers LLC,4101.24,1789560426.0475388
+http,174.138.165.202,34664,United States,US,Phoenix,elite,false,4.54,AS20454,Secured Servers LLC,2076.63,1789560528.0700243
+http,174.138.162.35,20005,United States,US,Phoenix,elite,false,6.2,AS20454,Secured Servers LLC,14509.04,1789560528.0059476
+http,174.138.165.213,32617,United States,US,Phoenix,elite,false,2.47,AS20454,Secured Servers LLC,10802.67,1789560526.7989085
+http,174.138.165.205,52931,United States,US,Phoenix,elite,false,8.24,AS20454,Secured Servers LLC,16395.52,1789560523.6225119
+http,174.138.165.202,33224,United States,US,Phoenix,elite,true,5.37,AS20454,Secured Servers LLC,20884.33,1789560523.1462002
+http,174.138.162.37,34868,United States,US,Phoenix,elite,false,4.67,AS20454,Secured Servers LLC,2525.58,1789560522.8058019
+http,174.138.162.35,33947,United States,US,Phoenix,elite,false,4.26,AS20454,Secured Servers LLC,17199.89,1789560519.6587524
+http,174.138.165.213,34902,United States,US,Phoenix,elite,false,2.42,AS20454,Secured Servers LLC,10597.81,1789560517.847776
+http,174.138.165.202,34545,United States,US,Phoenix,elite,false,4.33,AS20454,Secured Servers LLC,8660.74,1789560514.153436
+http,174.138.165.211,35082,United States,US,Phoenix,elite,false,3.63,AS20454,Secured Servers LLC,20605.94,1789560513.5494153
+http,174.138.165.204,37546,United States,US,Phoenix,elite,false,2.27,AS20454,Secured Servers LLC,9298.28,1789560513.1414447
+http,174.138.165.202,33759,United States,US,Phoenix,elite,false,7.51,AS20454,Secured Servers LLC,3636.09,1789560511.5920036
+http,174.138.162.34,8932,United States,US,Phoenix,elite,false,8.67,AS20454,Secured Servers LLC,10748.91,1789560510.8276265
+http,47.90.149.238,81,United States,US,Charlottesville,elite,false,0.74,AS45102,Alibaba.com LLC,2186.65,1789560510.2756662
+http,174.138.165.203,51784,United States,US,Phoenix,elite,false,5.06,AS20454,Secured Servers LLC,7361.65,1789560509.6808286
+http,174.138.165.211,35589,United States,US,Phoenix,elite,false,7.02,AS20454,Secured Servers LLC,4740.53,1789560509.3238008
+http,174.138.162.37,39904,United States,US,Phoenix,elite,true,3.57,AS20454,Secured Servers LLC,16191.46,1789560508.778064
+http,174.138.165.213,32181,United States,US,Phoenix,elite,false,2.66,AS20454,Secured Servers LLC,7971.67,1789560507.869497
+http,174.138.165.213,36043,United States,US,Phoenix,elite,false,8.37,AS20454,Secured Servers LLC,3957.68,1789560502.0928063
+http,174.138.162.35,34829,United States,US,Phoenix,elite,false,3.64,AS20454,Secured Servers LLC,12297.04,1789560499.1421473
+http,174.138.165.213,52244,United States,US,Phoenix,elite,false,8.2,AS20454,Secured Servers LLC,16339.43,1789560498.3933792
+http,137.131.20.13,80,United States,US,Phoenix,transparent,true,92.94,AS31898,Oracle Corporation,7296.34,1789560497.9529886
+http,174.138.165.213,36407,United States,US,Phoenix,elite,false,5.6,AS20454,Secured Servers LLC,12698.98,1789560496.7839525
+http,138.68.3.159,3128,United States,US,Santa Clara,transparent,false,20.71,AS14061,"DigitalOcean, LLC",10349.98,1789560495.8539152
+http,174.138.165.202,36037,United States,US,Phoenix,elite,false,7.2,AS20454,Secured Servers LLC,2572.63,1789560495.3603375
+http,174.138.165.204,32922,United States,US,Phoenix,elite,false,4.84,AS20454,Secured Servers LLC,4393.1,1789560494.4110014
+http,174.138.165.202,31673,United States,US,Phoenix,elite,false,4.79,AS20454,Secured Servers LLC,10136.87,1789560491.098134
+http,174.138.162.37,38751,United States,US,Phoenix,elite,false,4.81,AS20454,Secured Servers LLC,17580.38,1789560486.659611
+http,174.138.165.213,35967,United States,US,Phoenix,elite,false,6.53,AS20454,Secured Servers LLC,14115.86,1789560485.0315497
+http,174.138.165.204,34832,United States,US,Phoenix,elite,true,3.91,AS20454,Secured Servers LLC,14483.7,1789560480.8301744
