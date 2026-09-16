@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "24.37.245.42",
-    "port": 51056,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 22.3,
-    "asn": "AS5769",
-    "isp": "Le Groupe Videotron Ltee",
-    "latency_ms": 1759.57,
-    "last_checked": 1789598995.9529037
-  },
-  {
-    "protocol": "http",
-    "ip": "96.1.101.113",
-    "port": 80,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Calgary",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 32.14,
-    "asn": "AS852",
-    "isp": "TELUS Communications Inc.",
-    "latency_ms": 6244.63,
-    "last_checked": 1789598990.012467
-  },
-  {
     "protocol": "http",
     "ip": "147.182.156.27",
     "port": 8080,
@@ -37,12 +7,12 @@
     "country_code": "CA",
     "city": "Toronto",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 91.86,
+    "ssl": true,
+    "uptime_percent": 91.9,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 247.89,
-    "last_checked": 1789598974.4957047
+    "latency_ms": 245.46,
+    "last_checked": 1789599300.6013908
   },
   {
     "protocol": "http",
@@ -56,23 +26,8 @@
     "uptime_percent": 94.8,
     "asn": "AS32489",
     "isp": "Amanah Tech Inc.",
-    "latency_ms": 216.56,
-    "last_checked": 1789598974.2928057
-  },
-  {
-    "protocol": "socks4",
-    "ip": "138.197.148.194",
-    "port": 9050,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Toronto",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 16.62,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 16570.16,
-    "last_checked": 1789598964.8170803
+    "latency_ms": 213.79,
+    "last_checked": 1789599279.416985
   },
   {
     "protocol": "socks5",
@@ -86,37 +41,52 @@
     "uptime_percent": 83.24,
     "asn": "AS26832",
     "isp": "Rica Web Services",
-    "latency_ms": 578.23,
-    "last_checked": 1789598953.1344652
+    "latency_ms": 3582.8,
+    "last_checked": 1789599256.0037503
   },
   {
-    "protocol": "http",
-    "ip": "184.70.113.34",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "138.197.148.194",
+    "port": 9050,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Calgary",
-    "anonymity": "transparent",
+    "city": "Toronto",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 30.15,
-    "asn": "AS6327",
-    "isp": "Shaw Communications",
-    "latency_ms": 2842.55,
-    "last_checked": 1789598946.0768883
+    "uptime_percent": 15.49,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 17815.45,
+    "last_checked": 1789599249.3967285
   },
   {
     "protocol": "http",
-    "ip": "149.56.110.145",
+    "ip": "104.223.62.181",
     "port": 3128,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 61.47,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 21298.35,
-    "last_checked": 1789598876.7323415
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 73.52,
+    "asn": "AS36352",
+    "isp": "HostPapa",
+    "latency_ms": 17839.53,
+    "last_checked": 1789599229.8694174
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.38.57",
+    "port": 9050,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Winnipeg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.56,
+    "asn": "AS394352",
+    "isp": "Fastnet Communications",
+    "latency_ms": 15128.85,
+    "last_checked": 1789599125.4132802
   }
 ]
