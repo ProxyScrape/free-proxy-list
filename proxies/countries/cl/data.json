@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "190.54.100.74",
-    "port": 5678,
-    "country": "Chile",
-    "country_code": "CL",
-    "city": "Santiago",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 27.49,
-    "asn": "AS6429",
-    "isp": "Telmex Chile Internet S.A.",
-    "latency_ms": 1041.98,
-    "last_checked": 1789526649.3418791
-  },
-  {
-    "protocol": "socks4",
     "ip": "190.13.147.241",
     "port": 5678,
     "country": "Chile",
@@ -26,23 +11,38 @@
     "uptime_percent": 48.51,
     "asn": "AS14117",
     "isp": "Telefonica del Sur S.A",
-    "latency_ms": 2199.94,
-    "last_checked": 1789526644.2204626
+    "latency_ms": 4190.06,
+    "last_checked": 1789527260.292951
+  },
+  {
+    "protocol": "socks4",
+    "ip": "190.54.100.74",
+    "port": 5678,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Santiago",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.49,
+    "asn": "AS6429",
+    "isp": "Telmex Chile Internet S.A.",
+    "latency_ms": 2076.67,
+    "last_checked": 1789527256.1869743
   },
   {
     "protocol": "http",
-    "ip": "38.7.195.49",
+    "ip": "38.7.206.193",
     "port": 999,
     "country": "Chile",
     "country_code": "CL",
     "city": "Santiago",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 37.06,
+    "ssl": false,
+    "uptime_percent": 9.82,
     "asn": "AS263702",
     "isp": "Grupo ZGH SpA",
-    "latency_ms": 3588.41,
-    "last_checked": 1789526643.0879667
+    "latency_ms": 6627.41,
+    "last_checked": 1789527237.69276
   },
   {
     "protocol": "http",
@@ -53,11 +53,11 @@
     "city": "Santiago",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 38.88,
+    "uptime_percent": 38.91,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 1904.62,
-    "last_checked": 1789526633.6992981
+    "latency_ms": 14160.42,
+    "last_checked": 1789527231.6359057
   },
   {
     "protocol": "http",
@@ -67,27 +67,42 @@
     "country_code": "CL",
     "city": "Santiago",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 30.42,
     "asn": "AS263702",
     "isp": "Grupo ZGH SpA",
-    "latency_ms": 2929.36,
-    "last_checked": 1789526613.5808206
+    "latency_ms": 14564.04,
+    "last_checked": 1789527226.6074378
   },
   {
     "protocol": "http",
-    "ip": "190.54.100.74",
-    "port": 8080,
+    "ip": "38.7.195.55",
+    "port": 999,
     "country": "Chile",
     "country_code": "CL",
     "city": "Santiago",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 11.64,
-    "asn": "AS6429",
-    "isp": "Telmex Chile Internet S.A.",
-    "latency_ms": 7259.77,
-    "last_checked": 1789526582.4223235
+    "uptime_percent": 30.51,
+    "asn": "AS263702",
+    "isp": "Grupo ZGH SpA",
+    "latency_ms": 4335.98,
+    "last_checked": 1789527185.7143242
+  },
+  {
+    "protocol": "http",
+    "ip": "38.7.195.51",
+    "port": 999,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Santiago",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.34,
+    "asn": "AS263702",
+    "isp": "Grupo ZGH SpA",
+    "latency_ms": 3031.94,
+    "last_checked": 1789527176.357596
   },
   {
     "protocol": "http",
@@ -97,11 +112,26 @@
     "country_code": "CL",
     "city": "Los Ángeles",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 20.24,
+    "ssl": true,
+    "uptime_percent": 20.26,
     "asn": "AS27901",
     "isp": "Pacifico Cable SPA.",
-    "latency_ms": 4625.85,
-    "last_checked": 1789526572.5965376
+    "latency_ms": 8203.13,
+    "last_checked": 1789527162.056793
+  },
+  {
+    "protocol": "http",
+    "ip": "38.7.195.49",
+    "port": 999,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Santiago",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 37.06,
+    "asn": "AS263702",
+    "isp": "Grupo ZGH SpA",
+    "latency_ms": 5026.15,
+    "last_checked": 1789527138.8450089
   }
 ]
