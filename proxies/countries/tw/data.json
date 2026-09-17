@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "116.118.147.196",
-    "port": 1080,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taichung",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 43.03,
-    "asn": "AS18049",
-    "isp": "tinp",
-    "latency_ms": 1113.22,
-    "last_checked": 1789606185.5794609
-  },
-  {
     "protocol": "http",
     "ip": "220.128.223.136",
     "port": 8083,
@@ -23,11 +8,26 @@
     "city": "Taipei",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 11.12,
+    "uptime_percent": 11.13,
     "asn": "AS3462",
     "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 684.52,
-    "last_checked": 1789606164.9931958
+    "latency_ms": 676.01,
+    "last_checked": 1789606799.4226823
+  },
+  {
+    "protocol": "http",
+    "ip": "220.128.223.136",
+    "port": 8085,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 10.59,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 12314.01,
+    "last_checked": 1789606786.522534
   },
   {
     "protocol": "http",
@@ -41,8 +41,8 @@
     "uptime_percent": 39.42,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 6435.15,
-    "last_checked": 1789606157.2567604
+    "latency_ms": 5867.66,
+    "last_checked": 1789606776.49505
   },
   {
     "protocol": "http",
@@ -53,25 +53,40 @@
     "city": "Taipei",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 22.82,
+    "uptime_percent": 22.88,
     "asn": "AS3462",
     "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 672.15,
-    "last_checked": 1789606145.2914014
+    "latency_ms": 10411.33,
+    "last_checked": 1789606748.7614279
   },
   {
     "protocol": "http",
-    "ip": "220.128.223.136",
-    "port": 8085,
+    "ip": "122.117.203.252",
+    "port": 3128,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Taipei",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 10.57,
+    "city": "Kaohsiung",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 18.39,
     "asn": "AS3462",
     "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 744.96,
-    "last_checked": 1789606128.7564213
+    "latency_ms": 12372.18,
+    "last_checked": 1789606726.109319
+  },
+  {
+    "protocol": "http",
+    "ip": "210.201.86.72",
+    "port": 8080,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Banqiao",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.05,
+    "asn": "AS7482",
+    "isp": "Far EasTone Telecommunication",
+    "latency_ms": 12977.61,
+    "last_checked": 1789606712.420733
   }
 ]
