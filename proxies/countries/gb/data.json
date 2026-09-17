@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "192.252.210.233",
+    "port": 4145,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 53.62,
+    "asn": "AS46562",
+    "isp": "Performive LLC",
+    "latency_ms": 917.02,
+    "last_checked": 1789630193.0870311
+  },
+  {
     "protocol": "socks4",
     "ip": "213.171.212.110",
     "port": 8989,
@@ -8,26 +23,11 @@
     "city": "Worcester",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 65.2,
+    "uptime_percent": 64.83,
     "asn": "AS8560",
     "isp": "IONOS SE",
-    "latency_ms": 1142.4,
-    "last_checked": 1789629548.353033
-  },
-  {
-    "protocol": "socks4",
-    "ip": "88.80.186.173",
-    "port": 19100,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 25.89,
-    "asn": "AS63949",
-    "isp": "Akamai Technologies, Inc.",
-    "latency_ms": 11634.74,
-    "last_checked": 1789629530.3175876
+    "latency_ms": 3818.17,
+    "last_checked": 1789630180.9347548
   },
   {
     "protocol": "socks5",
@@ -38,11 +38,11 @@
     "city": "London",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 25.11,
+    "uptime_percent": 25.12,
     "asn": "AS63949",
     "isp": "Akamai Technologies, Inc.",
-    "latency_ms": 13299.54,
-    "last_checked": 1789629528.7046158
+    "latency_ms": 13988.36,
+    "last_checked": 1789630164.4502141
   },
   {
     "protocol": "socks5",
@@ -56,22 +56,37 @@
     "uptime_percent": 95.29,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 3139.83,
-    "last_checked": 1789629522.8180325
+    "latency_ms": 103.67,
+    "last_checked": 1789630143.4243267
   },
   {
     "protocol": "http",
-    "ip": "194.164.22.24",
+    "ip": "213.171.212.110",
     "port": 8080,
     "country": "United Kingdom",
     "country_code": "GB",
-    "city": "London",
-    "anonymity": "elite",
+    "city": "Worcester",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 25.75,
+    "uptime_percent": 57.84,
     "asn": "AS8560",
     "isp": "IONOS SE",
-    "latency_ms": 2611.98,
-    "last_checked": 1789629451.3936298
+    "latency_ms": 4407.41,
+    "last_checked": 1789630127.2367098
+  },
+  {
+    "protocol": "http",
+    "ip": "57.129.128.223",
+    "port": 3128,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "Bexley",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 83.95,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 10089.15,
+    "last_checked": 1789630111.5132496
   }
 ]
