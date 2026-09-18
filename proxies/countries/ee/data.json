@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Antsla",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.47,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 7419.25,
+    "last_checked": 1789769990.976838
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.45.119.70",
+    "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 49.13,
+    "ssl": true,
+    "uptime_percent": 66.92,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 168.12,
-    "last_checked": 1789769376.9340224
+    "latency_ms": 226.13,
+    "last_checked": 1789769974.4965284
   },
   {
     "protocol": "http",
@@ -26,7 +41,7 @@
     "uptime_percent": 37.88,
     "asn": "AS199144",
     "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 3625.56,
-    "last_checked": 1789769365.7471714
+    "latency_ms": 3597.53,
+    "last_checked": 1789769860.936812
   }
 ]
