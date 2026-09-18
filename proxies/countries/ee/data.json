@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.157.111.3",
-    "port": 5678,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Antsla",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 59.48,
-    "asn": "AS202652",
-    "isp": "SkyLive Telecom ldt",
-    "latency_ms": 3252.76,
-    "last_checked": 1789772093.2110689
-  },
-  {
-    "protocol": "http",
-    "ip": "5.188.23.147",
-    "port": 5555,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 60.04,
-    "asn": "AS198068",
-    "isp": "P.A.G.M. OU",
-    "latency_ms": 9837.69,
-    "last_checked": 1789772060.3533003
-  },
-  {
     "protocol": "http",
     "ip": "5.45.126.128",
     "port": 8080,
@@ -41,7 +11,52 @@
     "uptime_percent": 49.13,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 147.65,
-    "last_checked": 1789772044.5587044
+    "latency_ms": 156.9,
+    "last_checked": 1789772630.9016247
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Antsla",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.48,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 220.51,
+    "last_checked": 1789772626.3138385
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.45.119.70",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 66.92,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 260.86,
+    "last_checked": 1789772623.6945038
+  },
+  {
+    "protocol": "http",
+    "ip": "193.42.112.26",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Kuusalu",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 37.91,
+    "asn": "AS199144",
+    "isp": "HexCore cloud s.r.o.",
+    "latency_ms": 3961.81,
+    "last_checked": 1789772600.2262697
   }
 ]
