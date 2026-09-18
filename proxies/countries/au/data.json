@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.29,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 3284.54,
+    "last_checked": 1789717776.4769263
+  },
+  {
+    "protocol": "socks5",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.71,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 9650.78,
+    "last_checked": 1789717758.3120205
+  },
+  {
+    "protocol": "http",
+    "ip": "51.161.137.166",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 65.48,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 7103.85,
-    "last_checked": 1789717407.2413132
+    "uptime_percent": 31.24,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 14806.07,
+    "last_checked": 1789717742.180855
   },
   {
     "protocol": "http",
@@ -28,21 +58,6 @@
     "isp": "OVH SAS",
     "latency_ms": 13448.98,
     "last_checked": 1789717400.7073362
-  },
-  {
-    "protocol": "socks4",
-    "ip": "168.138.9.147",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 33.29,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 22081.16,
-    "last_checked": 1789717396.7609205
   },
   {
     "protocol": "http",
