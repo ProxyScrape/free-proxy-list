@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "83.56.15.57",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "195.114.209.50",
+    "port": 80,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Ciempozuelos",
+    "city": "Alcobendas",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 69.26,
+    "asn": "AS57286",
+    "isp": "Gigas Hosting SL",
+    "latency_ms": 6943.6,
+    "last_checked": 1789727049.7267761
+  },
+  {
+    "protocol": "http",
+    "ip": "81.0.49.104",
+    "port": 19775,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Jaca",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 17.0,
+    "asn": "AS15704",
+    "isp": "MasMovil Access Network",
+    "latency_ms": 609.13,
+    "last_checked": 1789727048.4432027
+  },
+  {
+    "protocol": "socks5",
+    "ip": "81.0.49.104",
+    "port": 18500,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Jaca",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 36.71,
-    "asn": "AS3352",
-    "isp": "Telefonica de Espana SAU",
-    "latency_ms": 187.21,
-    "last_checked": 1789726782.2497983
+    "uptime_percent": 47.21,
+    "asn": "AS15704",
+    "isp": "MasMovil Access Network",
+    "latency_ms": 238.86,
+    "last_checked": 1789727033.7542129
   },
   {
     "protocol": "socks5",
@@ -23,11 +53,11 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 13.92,
+    "uptime_percent": 13.93,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 9821.69,
-    "last_checked": 1789726765.3267534
+    "latency_ms": 13721.04,
+    "last_checked": 1789726992.9280415
   },
   {
     "protocol": "socks5",
@@ -41,22 +71,7 @@
     "uptime_percent": 28.88,
     "asn": "AS20473",
     "isp": "The Constant Company, LLC",
-    "latency_ms": 6225.02,
-    "last_checked": 1789726752.3456173
-  },
-  {
-    "protocol": "http",
-    "ip": "195.114.209.50",
-    "port": 80,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Alcobendas",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 69.26,
-    "asn": "AS57286",
-    "isp": "Gigas Hosting SL",
-    "latency_ms": 5316.57,
-    "last_checked": 1789726739.4827666
+    "latency_ms": 1186.79,
+    "last_checked": 1789726937.3041167
   }
 ]
