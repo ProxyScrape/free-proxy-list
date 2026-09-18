@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "15.235.21.254",
-    "port": 8080,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Beauharnois",
-    "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 75.1,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 304.02,
-    "last_checked": 1789706644.6467233
-  },
-  {
-    "protocol": "socks4",
-    "ip": "24.37.245.42",
-    "port": 51056,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 22.44,
-    "asn": "AS5769",
-    "isp": "Le Groupe Videotron Ltee",
-    "latency_ms": 1511.03,
-    "last_checked": 1789706638.0933058
-  },
-  {
     "protocol": "socks4",
     "ip": "45.73.0.118",
     "port": 5678,
@@ -41,8 +11,38 @@
     "uptime_percent": 28.42,
     "asn": "AS5769",
     "isp": "Videotron Ltee",
-    "latency_ms": 1567.51,
-    "last_checked": 1789706637.9530408
+    "latency_ms": 1596.55,
+    "last_checked": 1789706936.3770409
+  },
+  {
+    "protocol": "socks4",
+    "ip": "162.216.185.241",
+    "port": 1084,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Lytton",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.29,
+    "asn": "AS46915",
+    "isp": "Lyttonnet",
+    "latency_ms": 7831.71,
+    "last_checked": 1789706931.3964527
+  },
+  {
+    "protocol": "socks5",
+    "ip": "151.145.63.243",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.04,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 4537.53,
+    "last_checked": 1789706911.3590562
   },
   {
     "protocol": "http",
@@ -53,41 +53,11 @@
     "city": "Toronto",
     "anonymity": "anonymous",
     "ssl": true,
-    "uptime_percent": 94.95,
+    "uptime_percent": 94.94,
     "asn": "AS32489",
     "isp": "Amanah Tech Inc.",
-    "latency_ms": 228.04,
-    "last_checked": 1789706615.415097
-  },
-  {
-    "protocol": "http",
-    "ip": "54.39.28.106",
-    "port": 8082,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Beauharnois",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 29.6,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 7560.79,
-    "last_checked": 1789706590.743602
-  },
-  {
-    "protocol": "http",
-    "ip": "107.161.9.167",
-    "port": 8080,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 10.3,
-    "asn": "AS22652",
-    "isp": "Videotron Ltee",
-    "latency_ms": 4534.93,
-    "last_checked": 1789706277.8464742
+    "latency_ms": 3280.43,
+    "last_checked": 1789706903.5466676
   },
   {
     "protocol": "socks5",
@@ -101,7 +71,37 @@
     "uptime_percent": 83.27,
     "asn": "AS26832",
     "isp": "Rica Web Services",
-    "latency_ms": 558.85,
-    "last_checked": 1789706240.0057974
+    "latency_ms": 1643.42,
+    "last_checked": 1789706883.092116
+  },
+  {
+    "protocol": "http",
+    "ip": "54.39.28.106",
+    "port": 8082,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Beauharnois",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.61,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 13906.05,
+    "last_checked": 1789706871.7476242
+  },
+  {
+    "protocol": "http",
+    "ip": "192.99.44.178",
+    "port": 3128,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 23.76,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 12611.76,
+    "last_checked": 1789706925.0093179
   }
 ]
