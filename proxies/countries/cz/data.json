@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "78.111.112.118",
-    "port": 4145,
+    "protocol": "socks5",
+    "ip": "103.119.19.36",
+    "port": 1080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Žatec",
+    "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 38.66,
-    "asn": "AS47232",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 70.27,
-    "last_checked": 1789752576.5816154
+    "uptime_percent": 37.21,
+    "asn": "AS215305",
+    "isp": "Mastersoft S.R.L.",
+    "latency_ms": 96.67,
+    "last_checked": 1789752882.657169
+  },
+  {
+    "protocol": "http",
+    "ip": "185.17.101.28",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Nýrsko",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 24.43,
+    "asn": "AS197296",
+    "isp": "MAXTEL s.r.o. 2",
+    "latency_ms": 1769.18,
+    "last_checked": 1789752882.2648482
   },
   {
     "protocol": "http",
@@ -28,20 +43,5 @@
     "isp": "DOBRISNET",
     "latency_ms": 7090.24,
     "last_checked": 1789752524.9829307
-  },
-  {
-    "protocol": "socks5",
-    "ip": "103.119.19.36",
-    "port": 1080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 37.19,
-    "asn": "AS215305",
-    "isp": "Mastersoft S.R.L.",
-    "latency_ms": 93.23,
-    "last_checked": 1789752424.722126
   }
 ]
