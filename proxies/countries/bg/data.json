@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "212.50.19.150",
-    "port": 4153,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 21.3,
-    "asn": "AS8717",
-    "isp": "Spectrum NET",
-    "latency_ms": 1144.32,
-    "last_checked": 1789780793.1851115
-  },
-  {
-    "protocol": "socks4",
-    "ip": "77.85.171.92",
-    "port": 4153,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Asenovgrad",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 42.03,
-    "asn": "AS207371",
-    "isp": "GEC",
-    "latency_ms": 188.39,
-    "last_checked": 1789780777.93132
-  },
-  {
     "protocol": "socks5",
     "ip": "31.211.142.115",
     "port": 8192,
@@ -41,8 +11,38 @@
     "uptime_percent": 44.26,
     "asn": "AS197897",
     "isp": "5KOM",
-    "latency_ms": 1210.88,
-    "last_checked": 1789780712.0080774
+    "latency_ms": 7309.45,
+    "last_checked": 1789781318.4919658
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.8",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.66,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 8127.26,
+    "last_checked": 1789781312.242269
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.7",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.93,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 11896.4,
+    "last_checked": 1789781267.2526553
   },
   {
     "protocol": "http",
@@ -52,11 +52,11 @@
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 22.02,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 3510.76,
-    "last_checked": 1789780687.9290223
+    "latency_ms": 4219.4,
+    "last_checked": 1789781199.203998
   }
 ]
