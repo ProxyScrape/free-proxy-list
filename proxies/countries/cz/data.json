@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "78.108.110.171",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Pilsen",
+    "city": "Žatec",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.85,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 73.15,
+    "last_checked": 1789897789.6077998
+  },
+  {
+    "protocol": "http",
+    "ip": "85.207.11.133",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Hlučín",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 41.28,
-    "asn": "AS8251",
-    "isp": "Neutral Free eXchange members - FreeTel alternate",
-    "latency_ms": 5022.99,
-    "last_checked": 1789897120.4808486
+    "uptime_percent": 24.09,
+    "asn": "AS25248",
+    "isp": "BlueTone-CRa",
+    "latency_ms": 11403.49,
+    "last_checked": 1789897738.9407701
   },
   {
     "protocol": "http",
@@ -22,11 +37,11 @@
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 29.89,
     "asn": "AS42189",
     "isp": "Druzstvo EUROSIGNAL",
-    "latency_ms": 1633.26,
-    "last_checked": 1789897116.4804595
+    "latency_ms": 3342.41,
+    "last_checked": 1789897729.3734417
   }
 ]
