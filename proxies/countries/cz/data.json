@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.11,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 112.28,
+    "last_checked": 1789911885.5995638
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Uherské Hradiště",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.01,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 2335.27,
+    "last_checked": 1789911870.4840932
+  },
+  {
     "protocol": "http",
     "ip": "95.129.101.73",
     "port": 80,
@@ -8,25 +38,40 @@
     "city": "Brno",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 70.39,
+    "uptime_percent": 70.4,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 9435.36,
-    "last_checked": 1789911498.3614948
+    "latency_ms": 7844.97,
+    "last_checked": 1789911869.099606
   },
   {
     "protocol": "http",
-    "ip": "109.164.110.55",
-    "port": 2311,
+    "ip": "185.115.75.65",
+    "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "České Budějovice",
-    "anonymity": "elite",
+    "city": "Ostrava",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 5.94,
-    "asn": "AS44489",
-    "isp": "STARNET, s.r.o.",
-    "latency_ms": 1079.87,
-    "last_checked": 1789911445.303433
+    "uptime_percent": 26.55,
+    "asn": "AS212975",
+    "isp": "TeamCity s.r.o.",
+    "latency_ms": 822.33,
+    "last_checked": 1789911868.8682263
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.47.103.209",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Kyšice",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.79,
+    "asn": "AS8251",
+    "isp": "Neutral czFree eXchange members",
+    "latency_ms": 116.59,
+    "last_checked": 1789911829.079825
   }
 ]
