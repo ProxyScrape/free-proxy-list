@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "212.43.119.1",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Pescara",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.38,
+    "asn": "AS21034",
+    "isp": "MICSO-WADSL",
+    "latency_ms": 1202.09,
+    "last_checked": 1789866530.5816731
+  },
+  {
+    "protocol": "socks4",
     "ip": "109.70.206.178",
     "port": 5678,
     "country": "Italy",
@@ -8,26 +23,11 @@
     "city": "Blevio",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 61.01,
+    "uptime_percent": 61.04,
     "asn": "AS49979",
     "isp": "LA Wireless Srl",
-    "latency_ms": 1164.57,
-    "last_checked": 1789865972.0569627
-  },
-  {
-    "protocol": "socks5",
-    "ip": "80.211.131.230",
-    "port": 9050,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 25.44,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A. Network",
-    "latency_ms": 18533.02,
-    "last_checked": 1789865965.2151294
+    "latency_ms": 145.07,
+    "last_checked": 1789866517.8614128
   },
   {
     "protocol": "http",
@@ -37,11 +37,56 @@
     "country_code": "IT",
     "city": "Siena",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 26.71,
+    "ssl": true,
+    "uptime_percent": 26.74,
     "asn": "AS49605",
     "isp": "DIGITAL TELECOMMUNICATION SERVICES 1st",
-    "latency_ms": 1363.93,
-    "last_checked": 1789865951.6447022
+    "latency_ms": 10452.01,
+    "last_checked": 1789866498.584871
+  },
+  {
+    "protocol": "http",
+    "ip": "77.242.177.57",
+    "port": 3128,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Biella",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 42.88,
+    "asn": "AS42669",
+    "isp": "MegaWeb",
+    "latency_ms": 6179.54,
+    "last_checked": 1789866494.5364795
+  },
+  {
+    "protocol": "http",
+    "ip": "87.21.209.230",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rome",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 31.39,
+    "asn": "AS3269",
+    "isp": "Telecom Italia S.p.A. TIN EASY LITE",
+    "latency_ms": 2649.35,
+    "last_checked": 1789866493.1233356
+  },
+  {
+    "protocol": "http",
+    "ip": "79.54.119.155",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Laghetto",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.13,
+    "asn": "AS3269",
+    "isp": "INTERBUSINESS",
+    "latency_ms": 8908.64,
+    "last_checked": 1789866430.0407512
   }
 ]
