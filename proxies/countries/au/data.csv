@@ -1,3 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,157.20.42.1,8090,Australia,AU,Brisbane,transparent,false,20.52,AS152482,ERX,11496.22,1789924164.4615448
-http,130.162.192.208,8080,Australia,AU,Melbourne,elite,false,29.81,AS31898,Oracle Corporation,9048.05,1789924093.7524414
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,33.17,AS31898,Oracle Corporation,10086.84,1789924743.8704097
+socks5,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,28.6,AS31898,Oracle Corporation,7808.57,1789924739.4599736
+http,61.29.96.146,80,Australia,AU,Forest Lodge,anonymous,false,9.86,AS2764,AAPT Limited,10676.53,1789924724.2851834
+http,51.161.142.97,8080,Australia,AU,Sydney,elite,true,30.72,AS16276,OVH SAS,12250.65,1789924723.8985722
+http,130.162.192.208,8080,Australia,AU,Melbourne,elite,false,29.82,AS31898,Oracle Corporation,3772.46,1789924631.900827
