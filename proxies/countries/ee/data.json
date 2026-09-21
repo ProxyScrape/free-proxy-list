@@ -1,32 +1,47 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.157.111.3",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "95.153.31.229",
+    "port": 3128,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Antsla",
+    "city": "Tallinn",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 60.43,
-    "asn": "AS202652",
-    "isp": "SkyLive Telecom ldt",
-    "latency_ms": 10318.18,
-    "last_checked": 1790009330.5970745
+    "ssl": false,
+    "uptime_percent": 68.98,
+    "asn": "AS1257",
+    "isp": "TELE2/SWIPNET",
+    "latency_ms": 2907.7,
+    "last_checked": 1790009952.646763
   },
   {
     "protocol": "http",
-    "ip": "95.153.31.228",
+    "ip": "95.153.31.227",
     "port": 3128,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 69.8,
+    "uptime_percent": 59.01,
     "asn": "AS1257",
     "isp": "TELE2/SWIPNET",
-    "latency_ms": 2122.04,
-    "last_checked": 1790009308.999571
+    "latency_ms": 967.19,
+    "last_checked": 1790009927.478382
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.45.119.70",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 67.05,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 706.33,
+    "last_checked": 1790009917.0177908
   }
 ]
