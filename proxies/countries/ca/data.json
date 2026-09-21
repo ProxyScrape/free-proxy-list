@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "24.37.245.42",
-    "port": 51056,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 22.68,
-    "asn": "AS5769",
-    "isp": "Le Groupe Videotron Ltee",
-    "latency_ms": 3575.69,
-    "last_checked": 1789952335.9767785
-  },
-  {
-    "protocol": "socks4",
     "ip": "45.73.0.118",
     "port": 5678,
     "country": "Canada",
@@ -26,8 +11,23 @@
     "uptime_percent": 29.03,
     "asn": "AS5769",
     "isp": "Videotron Ltee",
-    "latency_ms": 7715.07,
-    "last_checked": 1789952330.5688486
+    "latency_ms": 526.65,
+    "last_checked": 1789953258.4392102
+  },
+  {
+    "protocol": "http",
+    "ip": "184.70.113.34",
+    "port": 3128,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Calgary",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.52,
+    "asn": "AS6327",
+    "isp": "Shaw Communications",
+    "latency_ms": 7585.29,
+    "last_checked": 1789953229.711656
   },
   {
     "protocol": "http",
@@ -38,26 +38,11 @@
     "city": "Beauharnois",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 23.01,
+    "uptime_percent": 23.05,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 227.31,
-    "last_checked": 1789952328.1552744
-  },
-  {
-    "protocol": "socks5",
-    "ip": "38.49.210.79",
-    "port": 40000,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 83.46,
-    "asn": "AS26832",
-    "isp": "Rica Web Services",
-    "latency_ms": 1547.34,
-    "last_checked": 1789952318.1790328
+    "latency_ms": 478.22,
+    "last_checked": 1789952926.3522925
   },
   {
     "protocol": "http",
@@ -73,20 +58,5 @@
     "isp": "OVH SAS",
     "latency_ms": 220.21,
     "last_checked": 1789952925.569644
-  },
-  {
-    "protocol": "http",
-    "ip": "184.70.113.34",
-    "port": 3128,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Calgary",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.51,
-    "asn": "AS6327",
-    "isp": "Shaw Communications",
-    "latency_ms": 3808.99,
-    "last_checked": 1789952913.3104541
   }
 ]
