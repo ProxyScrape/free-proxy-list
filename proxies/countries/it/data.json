@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "109.73.181.233",
-    "port": 7080,
+    "protocol": "socks4",
+    "ip": "212.43.119.1",
+    "port": 1080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Termoli",
+    "city": "Pescara",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 43.7,
-    "asn": "AS49924",
-    "isp": "ECROM-MAIN",
-    "latency_ms": 428.36,
-    "last_checked": 1789954470.9520435
+    "uptime_percent": 11.55,
+    "asn": "AS21034",
+    "isp": "MICSO-WADSL",
+    "latency_ms": 176.78,
+    "last_checked": 1789954765.4513173
   },
   {
     "protocol": "socks4",
@@ -23,11 +23,11 @@
     "city": "Isernia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 65.61,
+    "uptime_percent": 65.66,
     "asn": "AS201847",
     "isp": "Elektronica Networks",
-    "latency_ms": 2181.49,
-    "last_checked": 1789954468.9594843
+    "latency_ms": 3252.4,
+    "last_checked": 1789954764.0969434
   },
   {
     "protocol": "http",
@@ -37,12 +37,12 @@
     "country_code": "IT",
     "city": "Siena",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 27.36,
+    "ssl": false,
+    "uptime_percent": 27.37,
     "asn": "AS49605",
     "isp": "DIGITAL TELECOMMUNICATION SERVICES 1st",
-    "latency_ms": 6122.49,
-    "last_checked": 1789954451.4487007
+    "latency_ms": 1949.34,
+    "last_checked": 1789954753.5529678
   },
   {
     "protocol": "socks4",
@@ -56,8 +56,23 @@
     "uptime_percent": 26.72,
     "asn": "AS212271",
     "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 16487.56,
-    "last_checked": 1789954442.1377728
+    "latency_ms": 15731.38,
+    "last_checked": 1789954737.6590285
+  },
+  {
+    "protocol": "socks5",
+    "ip": "109.73.181.233",
+    "port": 7080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Termoli",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.71,
+    "asn": "AS49924",
+    "isp": "ECROM-MAIN",
+    "latency_ms": 7596.72,
+    "last_checked": 1789954728.963443
   },
   {
     "protocol": "http",
@@ -67,42 +82,12 @@
     "country_code": "IT",
     "city": "Laghetto",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 18.86,
+    "ssl": true,
+    "uptime_percent": 18.87,
     "asn": "AS3269",
     "isp": "INTERBUSINESS",
-    "latency_ms": 4736.63,
-    "last_checked": 1789954437.6989522
-  },
-  {
-    "protocol": "socks4",
-    "ip": "212.43.119.1",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Pescara",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 11.55,
-    "asn": "AS21034",
-    "isp": "MICSO-WADSL",
-    "latency_ms": 7356.31,
-    "last_checked": 1789954433.874552
-  },
-  {
-    "protocol": "http",
-    "ip": "77.242.177.57",
-    "port": 3128,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Biella",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 43.07,
-    "asn": "AS42669",
-    "isp": "MegaWeb",
-    "latency_ms": 8995.81,
-    "last_checked": 1789954394.4780762
+    "latency_ms": 3315.78,
+    "last_checked": 1789954723.643724
   },
   {
     "protocol": "socks5",
@@ -116,7 +101,52 @@
     "uptime_percent": 36.82,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 1290.39,
-    "last_checked": 1789954334.5762124
+    "latency_ms": 277.92,
+    "last_checked": 1789954698.3205853
+  },
+  {
+    "protocol": "http",
+    "ip": "87.21.209.230",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rome",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 36.41,
+    "asn": "AS3269",
+    "isp": "Telecom Italia S.p.A. TIN EASY LITE",
+    "latency_ms": 8336.99,
+    "last_checked": 1789954690.9940348
+  },
+  {
+    "protocol": "http",
+    "ip": "85.208.200.185",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.87,
+    "asn": "AS44092",
+    "isp": "HAL Service SpA",
+    "latency_ms": 7756.65,
+    "last_checked": 1789954686.8247452
+  },
+  {
+    "protocol": "socks5",
+    "ip": "80.211.131.230",
+    "port": 9050,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.57,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A. Network",
+    "latency_ms": 10012.44,
+    "last_checked": 1789954632.6079087
   }
 ]
