@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Antsla",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.42,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 3245.88,
+    "last_checked": 1790042344.8421519
+  },
+  {
+    "protocol": "http",
+    "ip": "95.153.31.228",
+    "port": 3128,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 67.83,
+    "asn": "AS1257",
+    "isp": "TELE2/SWIPNET",
+    "latency_ms": 9510.05,
+    "last_checked": 1790042330.9008603
+  },
+  {
     "protocol": "http",
     "ip": "95.153.31.227",
     "port": 3128,
@@ -7,12 +37,42 @@
     "country_code": "EE",
     "city": "Tallinn",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 57.84,
+    "ssl": true,
+    "uptime_percent": 57.9,
     "asn": "AS1257",
     "isp": "TELE2/SWIPNET",
-    "latency_ms": 2311.27,
-    "last_checked": 1790042058.8614018
+    "latency_ms": 7537.92,
+    "last_checked": 1790042317.5748394
+  },
+  {
+    "protocol": "http",
+    "ip": "95.153.31.229",
+    "port": 3128,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 66.98,
+    "asn": "AS1257",
+    "isp": "TELE2/SWIPNET",
+    "latency_ms": 4218.72,
+    "last_checked": 1790042313.6312742
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.45.119.70",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 67.04,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 335.0,
+    "last_checked": 1790042309.025401
   },
   {
     "protocol": "http",
@@ -26,22 +86,7 @@
     "uptime_percent": 49.32,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 200.3,
-    "last_checked": 1790042034.5387952
-  },
-  {
-    "protocol": "http",
-    "ip": "95.153.31.229",
-    "port": 3128,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 67.0,
-    "asn": "AS1257",
-    "isp": "TELE2/SWIPNET",
-    "latency_ms": 8381.15,
-    "last_checked": 1790042015.5612817
+    "latency_ms": 152.14,
+    "last_checked": 1790042287.3258915
   }
 ]
