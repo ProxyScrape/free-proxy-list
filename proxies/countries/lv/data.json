@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "http",
+    "ip": "216.173.68.250",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.6,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 152.05,
+    "last_checked": 1790114994.8747025
+  },
+  {
     "protocol": "socks5",
     "ip": "216.173.68.250",
     "port": 1080,
@@ -8,26 +23,11 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.86,
+    "uptime_percent": 39.82,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 1209.89,
-    "last_checked": 1790114352.7253292
-  },
-  {
-    "protocol": "socks4",
-    "ip": "31.170.17.225",
-    "port": 4153,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Saldus",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 9.41,
-    "asn": "AS43513",
-    "isp": "Sia Nano IT",
-    "latency_ms": 144.28,
-    "last_checked": 1790114350.2649496
+    "latency_ms": 1169.65,
+    "last_checked": 1790114925.7477221
   },
   {
     "protocol": "http",
@@ -37,12 +37,27 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 28.54,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 13709.27,
-    "last_checked": 1790114311.371482
+    "latency_ms": 16473.8,
+    "last_checked": 1790114890.9608622
+  },
+  {
+    "protocol": "http",
+    "ip": "213.111.180.252",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 50.12,
+    "asn": "AS57169",
+    "isp": "EDIS GmbH",
+    "latency_ms": 13572.18,
+    "last_checked": 1790114880.34326
   },
   {
     "protocol": "http",
@@ -52,11 +67,11 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 23.63,
+    "ssl": true,
+    "uptime_percent": 23.65,
     "asn": "AS12993",
     "isp": "Digitalas Ekonomikas Attistibas Centrs",
-    "latency_ms": 17763.72,
-    "last_checked": 1790114293.3600752
+    "latency_ms": 18630.88,
+    "last_checked": 1790114878.6087253
   }
 ]
