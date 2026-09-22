@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "216.173.68.250",
-    "port": 1080,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 51.54,
-    "asn": "AS42532",
-    "isp": "SIA VEESP",
-    "latency_ms": 235.91,
-    "last_checked": 1790094121.3694005
-  },
-  {
-    "protocol": "socks5",
-    "ip": "216.173.68.250",
-    "port": 1080,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 40.7,
-    "asn": "AS42532",
-    "isp": "SIA VEESP",
-    "latency_ms": 395.0,
-    "last_checked": 1790094079.589496
-  },
-  {
     "protocol": "http",
     "ip": "195.123.212.87",
     "port": 3056,
@@ -37,11 +7,41 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 22.74,
+    "ssl": true,
+    "uptime_percent": 22.8,
     "asn": "AS50979",
     "isp": "Green Floid LLC",
-    "latency_ms": 12501.16,
-    "last_checked": 1790094060.6328316
+    "latency_ms": 7223.93,
+    "last_checked": 1790094570.9770076
+  },
+  {
+    "protocol": "socks4",
+    "ip": "31.170.17.225",
+    "port": 4153,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Saldus",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 9.41,
+    "asn": "AS43513",
+    "isp": "Sia Nano IT",
+    "latency_ms": 145.92,
+    "last_checked": 1790094569.826741
+  },
+  {
+    "protocol": "socks4",
+    "ip": "31.170.17.141",
+    "port": 4153,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Saldus",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 8.28,
+    "asn": "AS43513",
+    "isp": "Sia Nano IT",
+    "latency_ms": 1150.64,
+    "last_checked": 1790094566.475041
   }
 ]
