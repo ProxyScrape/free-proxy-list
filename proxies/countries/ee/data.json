@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.157.111.3",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "5.45.126.128",
+    "port": 8080,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Antsla",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 49.31,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 159.44,
+    "last_checked": 1790035762.408684
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.45.119.70",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 60.37,
-    "asn": "AS202652",
-    "isp": "SkyLive Telecom ldt",
-    "latency_ms": 10259.61,
-    "last_checked": 1790035158.8780167
+    "uptime_percent": 67.05,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 442.04,
+    "last_checked": 1790035762.3864324
   },
   {
     "protocol": "http",
@@ -22,12 +37,12 @@
     "country_code": "EE",
     "city": "Tallinn",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 68.1,
+    "ssl": true,
+    "uptime_percent": 68.09,
     "asn": "AS1257",
     "isp": "TELE2/SWIPNET",
-    "latency_ms": 4315.83,
-    "last_checked": 1790035137.8736234
+    "latency_ms": 8555.24,
+    "last_checked": 1790035753.111125
   },
   {
     "protocol": "http",
@@ -37,11 +52,26 @@
     "country_code": "EE",
     "city": "Tallinn",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 66.96,
     "asn": "AS1257",
     "isp": "TELE2/SWIPNET",
-    "latency_ms": 1232.62,
-    "last_checked": 1790035071.0091271
+    "latency_ms": 3120.45,
+    "last_checked": 1790035752.2167218
+  },
+  {
+    "protocol": "http",
+    "ip": "95.153.31.227",
+    "port": 3128,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 57.82,
+    "asn": "AS1257",
+    "isp": "TELE2/SWIPNET",
+    "latency_ms": 7947.86,
+    "last_checked": 1790035728.184781
   }
 ]
