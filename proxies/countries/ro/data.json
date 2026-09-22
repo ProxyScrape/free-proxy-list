@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "85.122.120.119",
-    "port": 30016,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Năvodari",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 17.92,
-    "asn": "AS39347",
-    "isp": "STYLISH BY A&L SRL",
-    "latency_ms": 2460.15,
-    "last_checked": 1790041460.9852102
-  },
-  {
-    "protocol": "socks4",
     "ip": "81.12.157.98",
     "port": 5678,
     "country": "Romania",
@@ -26,8 +11,23 @@
     "uptime_percent": 58.07,
     "asn": "AS12302",
     "isp": "Vodafone RO",
-    "latency_ms": 3227.78,
-    "last_checked": 1790041460.2408195
+    "latency_ms": 1225.53,
+    "last_checked": 1790042068.6395147
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.122.120.119",
+    "port": 30016,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Năvodari",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 15.59,
+    "asn": "AS39347",
+    "isp": "STYLISH BY A&L SRL",
+    "latency_ms": 1714.27,
+    "last_checked": 1790042053.6736212
   },
   {
     "protocol": "http",
@@ -37,11 +37,26 @@
     "country_code": "RO",
     "city": "Făget",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 31.55,
+    "ssl": false,
+    "uptime_percent": 31.57,
     "asn": "AS214529",
     "isp": "DAM TELECOM SERVICES SRL",
-    "latency_ms": 117.8,
-    "last_checked": 1790041393.1929817
+    "latency_ms": 3911.51,
+    "last_checked": 1790042043.9864578
+  },
+  {
+    "protocol": "http",
+    "ip": "185.128.240.2",
+    "port": 3128,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Drobeta-Turnu Severin",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.03,
+    "asn": "AS49052",
+    "isp": "Data ZYX SRL",
+    "latency_ms": 8337.58,
+    "last_checked": 1790042031.5700169
   }
 ]
