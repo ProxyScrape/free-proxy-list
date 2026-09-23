@@ -1,18 +1,63 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "109.70.206.178",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "77.242.177.57",
+    "port": 3128,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Blevio",
+    "city": "Biella",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 43.42,
+    "asn": "AS42669",
+    "isp": "MegaWeb",
+    "latency_ms": 59.81,
+    "last_checked": 1790131463.1831443
+  },
+  {
+    "protocol": "http",
+    "ip": "85.235.150.219",
+    "port": 3128,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 11.08,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 12403.67,
+    "last_checked": 1790131446.3829317
+  },
+  {
+    "protocol": "socks5",
+    "ip": "80.211.131.230",
+    "port": 9050,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 46.14,
-    "asn": "AS49979",
-    "isp": "LA Wireless Srl",
-    "latency_ms": 134.57,
-    "last_checked": 1790131130.5799491
+    "uptime_percent": 25.87,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A. Network",
+    "latency_ms": 11736.09,
+    "last_checked": 1790131445.0221217
+  },
+  {
+    "protocol": "http",
+    "ip": "87.21.209.230",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rome",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.63,
+    "asn": "AS3269",
+    "isp": "Telecom Italia S.p.A. TIN EASY LITE",
+    "latency_ms": 5115.58,
+    "last_checked": 1790131416.2523913
   },
   {
     "protocol": "http",
@@ -43,20 +88,5 @@
     "isp": "Cinzia Tocci trading as Lumanex Srl",
     "latency_ms": 6057.72,
     "last_checked": 1790131104.3183296
-  },
-  {
-    "protocol": "socks5",
-    "ip": "80.211.131.230",
-    "port": 9050,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 25.87,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A. Network",
-    "latency_ms": 13947.95,
-    "last_checked": 1790131089.7523282
   }
 ]
