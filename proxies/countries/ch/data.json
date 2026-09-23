@@ -1,33 +1,48 @@
 [
   {
     "protocol": "socks4",
-    "ip": "195.225.116.14",
+    "ip": "195.225.116.15",
     "port": 4145,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Wädenswil",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 26.91,
+    "uptime_percent": 26.63,
     "asn": "AS48971",
     "isp": "netz116",
-    "latency_ms": 3064.07,
-    "last_checked": 1790126078.127293
+    "latency_ms": 44.22,
+    "last_checked": 1790126649.8240688
+  },
+  {
+    "protocol": "socks4",
+    "ip": "34.65.239.206",
+    "port": 4000,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.68,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 341.64,
+    "last_checked": 1790126640.9681513
   },
   {
     "protocol": "socks5",
-    "ip": "45.90.56.234",
-    "port": 1080,
+    "ip": "34.65.239.206",
+    "port": 4000,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Geneva",
+    "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 85.36,
-    "asn": "AS204957",
-    "isp": "Route 95 LLC",
-    "latency_ms": 125.47,
-    "last_checked": 1790126076.1823559
+    "uptime_percent": 4.72,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 510.59,
+    "last_checked": 1790126577.3191066
   },
   {
     "protocol": "socks5",
@@ -38,11 +53,11 @@
     "city": "Hünenberg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 70.03,
+    "uptime_percent": 70.04,
     "asn": "AS56803",
     "isp": "Datasource AG",
-    "latency_ms": 50.88,
-    "last_checked": 1790126066.8712583
+    "latency_ms": 50.86,
+    "last_checked": 1790126572.0966172
   },
   {
     "protocol": "http",
@@ -52,11 +67,11 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 23.01,
+    "ssl": false,
+    "uptime_percent": 23.05,
     "asn": "AS57043",
     "isp": "Hostkey B.V.",
-    "latency_ms": 19367.35,
-    "last_checked": 1790125995.8689954
+    "latency_ms": 7505.68,
+    "last_checked": 1790126540.8250532
   }
 ]
