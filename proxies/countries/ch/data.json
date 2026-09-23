@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "195.225.116.15",
-    "port": 4145,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Wädenswil",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 26.8,
-    "asn": "AS48971",
-    "isp": "netz116",
-    "latency_ms": 7560.87,
-    "last_checked": 1790147367.9529302
-  },
-  {
     "protocol": "socks5",
     "ip": "45.90.56.234",
     "port": 1080,
@@ -23,11 +8,26 @@
     "city": "Geneva",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 85.69,
+    "uptime_percent": 85.71,
     "asn": "AS204957",
     "isp": "Route 95 LLC",
-    "latency_ms": 145.67,
-    "last_checked": 1790147338.5270476
+    "latency_ms": 1152.5,
+    "last_checked": 1790147671.7224097
+  },
+  {
+    "protocol": "http",
+    "ip": "151.241.217.249",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 25.29,
+    "asn": "AS57043",
+    "isp": "Hostkey B.V.",
+    "latency_ms": 11134.73,
+    "last_checked": 1790147656.0176344
   },
   {
     "protocol": "http",
@@ -58,35 +58,5 @@
     "isp": "Datasource AG",
     "latency_ms": 68.82,
     "last_checked": 1790147337.059171
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.85.93.15",
-    "port": 4567,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Geneva",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 21.01,
-    "asn": "AS199058",
-    "isp": "Serva ONE LTD",
-    "latency_ms": 435.14,
-    "last_checked": 1790147324.8647084
-  },
-  {
-    "protocol": "http",
-    "ip": "151.241.217.249",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 25.17,
-    "asn": "AS57043",
-    "isp": "Hostkey B.V.",
-    "latency_ms": 13475.85,
-    "last_checked": 1790147283.601572
   }
 ]
