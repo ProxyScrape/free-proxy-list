@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 66.75,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 4394.6,
+    "last_checked": 1790195989.6622689
+  },
+  {
     "protocol": "socks4",
     "ip": "168.138.9.147",
     "port": 1080,
@@ -11,37 +26,37 @@
     "uptime_percent": 33.55,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 3600.82,
-    "last_checked": 1790195378.7370276
+    "latency_ms": 4337.17,
+    "last_checked": 1790195977.7087173
   },
   {
-    "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 8000,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Forest Lodge",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 10.51,
-    "asn": "AS2764",
-    "isp": "AAPT Limited",
-    "latency_ms": 4996.75,
-    "last_checked": 1790195292.6642857
-  },
-  {
-    "protocol": "http",
-    "ip": "103.18.205.162",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 28.0,
-    "asn": "AS134371",
-    "isp": "Circle Network",
-    "latency_ms": 1578.25,
-    "last_checked": 1790195272.083322
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.72,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 21464.77,
+    "last_checked": 1790195953.9871588
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.68,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 2860.24,
+    "last_checked": 1790195804.9251804
   }
 ]
