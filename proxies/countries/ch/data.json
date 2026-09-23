@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "185.195.71.218",
-    "port": 18080,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Hünenberg",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 69.99,
-    "asn": "AS56803",
-    "isp": "Datasource AG",
-    "latency_ms": 52.97,
-    "last_checked": 1790124591.9360008
-  },
-  {
     "protocol": "socks4",
     "ip": "195.225.116.15",
     "port": 4145,
@@ -23,11 +8,26 @@
     "city": "Wädenswil",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 26.61,
+    "uptime_percent": 26.62,
     "asn": "AS48971",
     "isp": "netz116",
-    "latency_ms": 1053.35,
-    "last_checked": 1790124574.730992
+    "latency_ms": 44.92,
+    "last_checked": 1790124873.4302776
+  },
+  {
+    "protocol": "socks4",
+    "ip": "195.225.116.14",
+    "port": 4145,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wädenswil",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.91,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 1062.42,
+    "last_checked": 1790124870.7174554
   },
   {
     "protocol": "http",
@@ -38,11 +38,11 @@
     "city": "Zurich",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 22.35,
+    "uptime_percent": 22.5,
     "asn": "AS57043",
     "isp": "Hostkey B.V.",
-    "latency_ms": 5508.73,
-    "last_checked": 1790124565.5804467
+    "latency_ms": 5655.57,
+    "last_checked": 1790124852.101682
   },
   {
     "protocol": "http",
@@ -56,7 +56,37 @@
     "uptime_percent": 18.62,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 1625.13,
-    "last_checked": 1790124463.311788
+    "latency_ms": 56.74,
+    "last_checked": 1790124835.6343274
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.90.56.234",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 85.39,
+    "asn": "AS204957",
+    "isp": "Route 95 LLC",
+    "latency_ms": 133.81,
+    "last_checked": 1790124832.203909
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.195.71.218",
+    "port": 18080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Hünenberg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 70.0,
+    "asn": "AS56803",
+    "isp": "Datasource AG",
+    "latency_ms": 53.45,
+    "last_checked": 1790124783.661505
   }
 ]
