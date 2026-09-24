@@ -1,5 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,61.29.96.146,8000,Australia,AU,Forest Lodge,anonymous,false,10.52,AS2764,AAPT Limited,6510.97,1790243371.2769415
-http,130.162.192.208,8080,Australia,AU,Melbourne,elite,false,30.06,AS31898,Oracle Corporation,4812.13,1790243364.040563
-http,114.111.151.41,80,Australia,AU,Melbourne,elite,false,66.79,AS45577,Intervolve Pty Ltd,11492.23,1790243312.7365692
-http,51.161.142.97,8080,Australia,AU,Sydney,elite,false,30.55,AS16276,OVH SAS,15660.18,1790243266.713148
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,33.56,AS31898,Oracle Corporation,9133.65,1790243928.91902
+http,51.161.142.97,8080,Australia,AU,Sydney,elite,true,30.56,AS16276,OVH SAS,8621.8,1790243895.7363524
+http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,true,30.12,AS4764,Aussie Fibre Pty Ltd,4029.94,1790243892.913032
+http,51.161.137.166,8080,Australia,AU,Sydney,elite,true,30.85,AS16276,OVH SAS,5775.0,1790243860.3406992
+socks5,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,28.72,AS31898,Oracle Corporation,3625.64,1790243784.2220485
