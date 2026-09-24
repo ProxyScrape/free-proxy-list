@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Brno",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.4,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 126.51,
+    "last_checked": 1790229599.7888381
+  },
+  {
+    "protocol": "http",
+    "ip": "109.164.110.55",
+    "port": 2311,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "České Budějovice",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 70.43,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 15345.41,
-    "last_checked": 1790228943.9287815
+    "uptime_percent": 6.43,
+    "asn": "AS44489",
+    "isp": "STARNET, s.r.o.",
+    "latency_ms": 525.86,
+    "last_checked": 1790229561.8207064
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.47.103.209",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Kyšice",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.45,
+    "asn": "AS8251",
+    "isp": "Neutral czFree eXchange members",
+    "latency_ms": 3131.59,
+    "last_checked": 1790229531.2404118
   }
 ]
