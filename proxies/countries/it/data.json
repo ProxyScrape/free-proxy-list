@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "109.73.181.233",
-    "port": 7080,
+    "protocol": "http",
+    "ip": "87.21.209.230",
+    "port": 8081,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Termoli",
+    "city": "Rome",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 32.27,
+    "asn": "AS3269",
+    "isp": "Telecom Italia S.p.A. TIN EASY LITE",
+    "latency_ms": 1968.74,
+    "last_checked": 1790282395.3690996
+  },
+  {
+    "protocol": "http",
+    "ip": "87.21.209.230",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rome",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 22.97,
+    "asn": "AS3269",
+    "isp": "Telecom Italia S.p.A. TIN EASY LITE",
+    "latency_ms": 986.37,
+    "last_checked": 1790282375.9952161
+  },
+  {
+    "protocol": "socks5",
+    "ip": "80.211.131.230",
+    "port": 9050,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 49.61,
-    "asn": "AS49924",
-    "isp": "ECROM-MAIN",
-    "latency_ms": 7739.6,
-    "last_checked": 1790281742.6608906
+    "uptime_percent": 25.92,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A. Network",
+    "latency_ms": 13462.09,
+    "last_checked": 1790282351.5720344
   },
   {
     "protocol": "http",
@@ -22,12 +52,12 @@
     "country_code": "IT",
     "city": "Arezzo",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 11.12,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 14877.81,
-    "last_checked": 1790281733.2379699
+    "latency_ms": 10017.88,
+    "last_checked": 1790282339.1528962
   },
   {
     "protocol": "http",
@@ -38,10 +68,40 @@
     "city": "Rivoli",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 38.87,
+    "uptime_percent": 38.88,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 3885.85,
-    "last_checked": 1790281695.7727568
+    "latency_ms": 1925.82,
+    "last_checked": 1790282333.242221
+  },
+  {
+    "protocol": "http",
+    "ip": "79.54.119.155",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Laghetto",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.06,
+    "asn": "AS3269",
+    "isp": "INTERBUSINESS",
+    "latency_ms": 10431.52,
+    "last_checked": 1790282315.2813613
+  },
+  {
+    "protocol": "http",
+    "ip": "77.242.177.57",
+    "port": 3128,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Biella",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 43.56,
+    "asn": "AS42669",
+    "isp": "MegaWeb",
+    "latency_ms": 8038.98,
+    "last_checked": 1790282275.1794076
   }
 ]
