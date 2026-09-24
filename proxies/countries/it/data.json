@@ -1,6 +1,36 @@
 [
   {
     "protocol": "socks4",
+    "ip": "45.86.231.96",
+    "port": 4000,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Palermo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 81.77,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 8702.1,
+    "last_checked": 1790238263.0279229
+  },
+  {
+    "protocol": "http",
+    "ip": "45.86.231.96",
+    "port": 4000,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Palermo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 77.94,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 21144.51,
+    "last_checked": 1790238249.5568123
+  },
+  {
+    "protocol": "socks4",
     "ip": "212.43.119.1",
     "port": 1080,
     "country": "Italy",
@@ -11,26 +41,11 @@
     "uptime_percent": 11.89,
     "asn": "AS21034",
     "isp": "MICSO-WADSL",
-    "latency_ms": 3185.26,
-    "last_checked": 1790237646.9853919
+    "latency_ms": 3185.3,
+    "last_checked": 1790238239.204952
   },
   {
-    "protocol": "http",
-    "ip": "217.112.96.5",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Siena",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 27.06,
-    "asn": "AS49605",
-    "isp": "DIGITAL TELECOMMUNICATION SERVICES 1st",
-    "latency_ms": 3214.6,
-    "last_checked": 1790237642.2613482
-  },
-  {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "45.86.231.96",
     "port": 4000,
     "country": "Italy",
@@ -38,26 +53,26 @@
     "city": "Palermo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 81.52,
+    "uptime_percent": 82.47,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 179.92,
-    "last_checked": 1790237638.5172822
+    "latency_ms": 8793.08,
+    "last_checked": 1790238230.87718
   },
   {
-    "protocol": "socks5",
-    "ip": "171.22.182.164",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "185.191.106.41",
+    "port": 8081,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Palermo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 37.24,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 3640.62,
-    "last_checked": 1790237637.1294022
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.52,
+    "asn": "AS44092",
+    "isp": "Mywic Costumers",
+    "latency_ms": 10442.26,
+    "last_checked": 1790238229.9985802
   },
   {
     "protocol": "socks5",
@@ -71,38 +86,8 @@
     "uptime_percent": 49.17,
     "asn": "AS49924",
     "isp": "ECROM-MAIN",
-    "latency_ms": 1533.76,
-    "last_checked": 1790237630.1960711
-  },
-  {
-    "protocol": "socks4",
-    "ip": "5.59.248.134",
-    "port": 8081,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Pomezia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 27.21,
-    "asn": "AS212271",
-    "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 5083.4,
-    "last_checked": 1790237627.179793
-  },
-  {
-    "protocol": "http",
-    "ip": "45.86.231.96",
-    "port": 4000,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Palermo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 78.2,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 5789.63,
-    "last_checked": 1790237922.365458
+    "latency_ms": 1661.04,
+    "last_checked": 1790237850.315755
   },
   {
     "protocol": "socks5",
@@ -118,5 +103,20 @@
     "isp": "Cinzia Tocci trading as Lumanex Srl",
     "latency_ms": 7693.0,
     "last_checked": 1790237815.8473778
+  },
+  {
+    "protocol": "socks5",
+    "ip": "171.22.182.164",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Palermo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.25,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 187.62,
+    "last_checked": 1790237791.4421587
   }
 ]
