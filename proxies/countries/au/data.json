@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 66.78,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 1139.28,
-    "last_checked": 1790271489.9888723
-  },
-  {
     "protocol": "socks5",
     "ip": "168.138.9.147",
     "port": 1080,
@@ -26,7 +11,52 @@
     "uptime_percent": 28.72,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 4081.46,
-    "last_checked": 1790271458.8920565
+    "latency_ms": 8171.44,
+    "last_checked": 1790272153.7855463
+  },
+  {
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.56,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 6998.97,
+    "last_checked": 1790272141.6365113
+  },
+  {
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 66.78,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 4063.41,
+    "last_checked": 1790272076.6306758
+  },
+  {
+    "protocol": "http",
+    "ip": "157.20.42.1",
+    "port": 8090,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 20.33,
+    "asn": "AS152482",
+    "isp": "ERX",
+    "latency_ms": 4597.86,
+    "last_checked": 1790272075.4717898
   }
 ]
