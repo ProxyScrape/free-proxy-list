@@ -1,6 +1,36 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "103.249.237.158",
+    "port": 8888,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.28,
+    "asn": "AS133159",
+    "isp": "Mammoth Media Pty Ltd",
+    "latency_ms": 591.1,
+    "last_checked": 1790221170.6194122
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Forest Lodge",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 10.52,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 5063.79,
+    "last_checked": 1790221150.932769
+  },
+  {
+    "protocol": "socks5",
     "ip": "168.138.9.147",
     "port": 1080,
     "country": "Australia",
@@ -8,41 +38,11 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.59,
+    "uptime_percent": 28.73,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 29373.29,
-    "last_checked": 1790220832.0773976
-  },
-  {
-    "protocol": "http",
-    "ip": "159.196.182.72",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.1,
-    "asn": "AS4764",
-    "isp": "Aussie Fibre Pty Ltd",
-    "latency_ms": 9123.61,
-    "last_checked": 1790220826.0412204
-  },
-  {
-    "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 66.76,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 6080.93,
-    "last_checked": 1790220819.1972942
+    "latency_ms": 1875.33,
+    "last_checked": 1790221120.5761538
   },
   {
     "protocol": "http",
@@ -52,26 +52,11 @@
     "country_code": "AU",
     "city": "Forest Lodge",
     "anonymity": "anonymous",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 9.91,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 18118.07,
-    "last_checked": 1790220793.9591408
-  },
-  {
-    "protocol": "http",
-    "ip": "103.249.237.158",
-    "port": 8888,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.28,
-    "asn": "AS133159",
-    "isp": "Mammoth Media Pty Ltd",
-    "latency_ms": 11106.3,
-    "last_checked": 1790220675.796629
+    "latency_ms": 13201.33,
+    "last_checked": 1790221062.1967545
   }
 ]
