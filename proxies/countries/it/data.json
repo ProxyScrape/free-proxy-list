@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "77.242.177.57",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "109.70.206.178",
+    "port": 5678,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Biella",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 43.59,
-    "asn": "AS42669",
-    "isp": "MegaWeb",
-    "latency_ms": 57.74,
-    "last_checked": 1790333311.833893
+    "city": "Blevio",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.68,
+    "asn": "AS49979",
+    "isp": "LA Wireless Srl",
+    "latency_ms": 136.7,
+    "last_checked": 1790333975.8925226
   },
   {
     "protocol": "socks4",
@@ -26,8 +26,8 @@
     "uptime_percent": 27.21,
     "asn": "AS212271",
     "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 10505.21,
-    "last_checked": 1790333305.1849194
+    "latency_ms": 5210.66,
+    "last_checked": 1790333964.3421013
   },
   {
     "protocol": "socks5",
@@ -41,22 +41,37 @@
     "uptime_percent": 37.41,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 184.24,
-    "last_checked": 1790333296.1044495
+    "latency_ms": 4289.53,
+    "last_checked": 1790333943.8347378
   },
   {
-    "protocol": "socks5",
-    "ip": "109.73.181.233",
-    "port": 7080,
+    "protocol": "http",
+    "ip": "217.112.96.5",
+    "port": 8080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Termoli",
-    "anonymity": "elite",
+    "city": "Siena",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 50.92,
-    "asn": "AS49924",
-    "isp": "ECROM-MAIN",
-    "latency_ms": 717.34,
-    "last_checked": 1790333233.3415182
+    "uptime_percent": 26.96,
+    "asn": "AS49605",
+    "isp": "DIGITAL TELECOMMUNICATION SERVICES 1st",
+    "latency_ms": 6660.28,
+    "last_checked": 1790333923.44724
+  },
+  {
+    "protocol": "http",
+    "ip": "77.242.177.57",
+    "port": 3128,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Biella",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 43.59,
+    "asn": "AS42669",
+    "isp": "MegaWeb",
+    "latency_ms": 2929.59,
+    "last_checked": 1790333919.2251928
   }
 ]
