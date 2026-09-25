@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Tann",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 44.33,
-    "asn": "AS51395",
-    "isp": "Datasource AG",
-    "latency_ms": 1734.63,
-    "last_checked": 1790303920.7921546
-  },
-  {
     "protocol": "socks5",
     "ip": "45.85.93.15",
     "port": 4567,
@@ -26,23 +11,53 @@
     "uptime_percent": 21.01,
     "asn": "AS199058",
     "isp": "Serva ONE LTD",
-    "latency_ms": 14753.16,
-    "last_checked": 1790303916.318188
+    "latency_ms": 6238.31,
+    "last_checked": 1790304582.125969
   },
   {
-    "protocol": "http",
-    "ip": "62.220.129.81",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "45.85.93.15",
+    "port": 4567,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Lausanne",
-    "anonymity": "transparent",
+    "city": "Geneva",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 36.38,
-    "asn": "AS6893",
-    "isp": "Saitis Network, N.Desir",
-    "latency_ms": 7165.1,
-    "last_checked": 1790303850.722521
+    "uptime_percent": 23.56,
+    "asn": "AS199058",
+    "isp": "Serva ONE LTD",
+    "latency_ms": 7087.22,
+    "last_checked": 1790304580.9930139
+  },
+  {
+    "protocol": "socks4",
+    "ip": "195.225.116.15",
+    "port": 4145,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wädenswil",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.24,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 3091.74,
+    "last_checked": 1790304572.8159297
+  },
+  {
+    "protocol": "socks4",
+    "ip": "195.225.116.14",
+    "port": 4145,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wädenswil",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.48,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 3076.57,
+    "last_checked": 1790304565.028831
   },
   {
     "protocol": "socks5",
@@ -53,10 +68,25 @@
     "city": "Hünenberg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 73.59,
+    "uptime_percent": 73.6,
     "asn": "AS56803",
     "isp": "Datasource AG",
-    "latency_ms": 48.49,
-    "last_checked": 1790303826.02903
+    "latency_ms": 93.4,
+    "last_checked": 1790304550.0374696
+  },
+  {
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 44.33,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 7239.03,
+    "last_checked": 1790304515.1369476
   }
 ]
