@@ -1,5 +1,7 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,61.29.96.146,8000,Australia,AU,Forest Lodge,anonymous,false,10.53,AS2764,AAPT Limited,8158.76,1790326739.3518867
-http,198.251.85.115,3128,Australia,AU,Sydney,transparent,false,62.17,AS14956,RouterHosting LLC,15236.28,1790326703.8255165
-http,159.196.182.72,8080,Australia,AU,Melbourne,transparent,false,25.07,AS4764,Aussie Fibre Pty Ltd,3664.65,1790326687.942093
-http,103.249.237.158,8888,Australia,AU,Sydney,transparent,false,30.49,AS133159,Mammoth Media Pty Ltd,21957.02,1790326518.651075
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,33.54,AS31898,Oracle Corporation,7355.33,1790327332.997174
+http,61.29.96.146,80,Australia,AU,Forest Lodge,anonymous,false,9.93,AS2764,AAPT Limited,4238.9,1790327332.3314567
+socks5,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,28.72,AS31898,Oracle Corporation,7681.8,1790327324.682989
+http,61.29.96.146,8000,Australia,AU,Forest Lodge,anonymous,false,10.53,AS2764,AAPT Limited,7590.57,1790327259.9167504
+http,130.162.192.208,8080,Australia,AU,Melbourne,elite,false,30.3,AS31898,Oracle Corporation,15143.4,1790327253.8699055
+http,198.251.85.115,3128,Australia,AU,Sydney,transparent,false,62.19,AS14956,RouterHosting LLC,13212.06,1790327238.3998353
