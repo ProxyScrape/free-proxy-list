@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "45.85.93.15",
-    "port": 4567,
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Geneva",
+    "city": "Tann",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 23.55,
-    "asn": "AS199058",
-    "isp": "Serva ONE LTD",
-    "latency_ms": 533.97,
-    "last_checked": 1790303342.9736807
+    "ssl": false,
+    "uptime_percent": 44.33,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 1734.63,
+    "last_checked": 1790303920.7921546
   },
   {
     "protocol": "socks5",
@@ -26,7 +26,37 @@
     "uptime_percent": 21.01,
     "asn": "AS199058",
     "isp": "Serva ONE LTD",
-    "latency_ms": 1840.03,
-    "last_checked": 1790303334.5259283
+    "latency_ms": 14753.16,
+    "last_checked": 1790303916.318188
+  },
+  {
+    "protocol": "http",
+    "ip": "62.220.129.81",
+    "port": 8080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Lausanne",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 36.38,
+    "asn": "AS6893",
+    "isp": "Saitis Network, N.Desir",
+    "latency_ms": 7165.1,
+    "last_checked": 1790303850.722521
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.195.71.218",
+    "port": 18080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Hünenberg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 73.59,
+    "asn": "AS56803",
+    "isp": "Datasource AG",
+    "latency_ms": 48.49,
+    "last_checked": 1790303826.02903
   }
 ]
