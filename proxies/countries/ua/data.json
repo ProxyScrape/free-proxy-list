@@ -1,51 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "81.162.249.129",
-    "port": 4153,
-    "country": "Ukraine",
-    "country_code": "UA",
-    "city": "Hlevakha",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 44.82,
-    "asn": "AS44032",
-    "isp": "PP \"TRC\"City TV center\"",
-    "latency_ms": 214.26,
-    "last_checked": 1790315954.6734874
-  },
-  {
-    "protocol": "socks4",
-    "ip": "193.106.57.96",
-    "port": 5678,
-    "country": "Ukraine",
-    "country_code": "UA",
-    "city": "Kyiv",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 24.95,
-    "asn": "AS42510",
-    "isp": "Magic Line",
-    "latency_ms": 208.74,
-    "last_checked": 1790315952.693626
-  },
-  {
-    "protocol": "socks5",
-    "ip": "195.114.7.6",
-    "port": 1080,
-    "country": "Ukraine",
-    "country_code": "UA",
-    "city": "Simferopol",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.34,
-    "asn": "AS41161",
-    "isp": "Artem Zubkov",
-    "latency_ms": 1545.34,
-    "last_checked": 1790315947.8401957
-  },
-  {
-    "protocol": "socks4",
     "ip": "46.98.192.116",
     "port": 5678,
     "country": "Ukraine",
@@ -53,11 +8,11 @@
     "city": "Kamyanske",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 46.31,
+    "uptime_percent": 46.32,
     "asn": "AS15377",
     "isp": "ISP \"Fregat\"",
-    "latency_ms": 1687.26,
-    "last_checked": 1790315943.929552
+    "latency_ms": 267.84,
+    "last_checked": 1790316550.5160398
   },
   {
     "protocol": "socks4",
@@ -71,8 +26,38 @@
     "uptime_percent": 21.35,
     "asn": "AS1820",
     "isp": "WNET TELECOM USA Corp.",
-    "latency_ms": 3430.44,
-    "last_checked": 1790315943.1293359
+    "latency_ms": 7634.34,
+    "last_checked": 1790316547.0849378
+  },
+  {
+    "protocol": "socks4",
+    "ip": "193.106.57.96",
+    "port": 5678,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Kyiv",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.95,
+    "asn": "AS42510",
+    "isp": "Magic Line",
+    "latency_ms": 3249.88,
+    "last_checked": 1790316545.2730598
+  },
+  {
+    "protocol": "socks4",
+    "ip": "81.162.249.129",
+    "port": 4153,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Hlevakha",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.82,
+    "asn": "AS44032",
+    "isp": "PP \"TRC\"City TV center\"",
+    "latency_ms": 230.62,
+    "last_checked": 1790316544.790282
   },
   {
     "protocol": "socks4",
@@ -86,38 +71,53 @@
     "uptime_percent": 59.67,
     "asn": "AS41985",
     "isp": "Stargroup LLC",
-    "latency_ms": 1258.74,
-    "last_checked": 1790315942.0327847
+    "latency_ms": 223.96,
+    "last_checked": 1790316536.0130243
   },
   {
-    "protocol": "socks4",
-    "ip": "195.78.100.186",
-    "port": 3629,
+    "protocol": "http",
+    "ip": "94.179.153.218",
+    "port": 8081,
     "country": "Ukraine",
     "country_code": "UA",
-    "city": "Kharkiv",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 17.9,
-    "asn": "AS50772",
-    "isp": "Ukrtranstelecom tc, ltd",
-    "latency_ms": 1539.73,
-    "last_checked": 1790315923.335357
+    "city": "Stepanivka",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.12,
+    "asn": "AS6849",
+    "isp": "UKRTELECOM",
+    "latency_ms": 1699.3,
+    "last_checked": 1790316532.6607358
   },
   {
     "protocol": "socks5",
-    "ip": "185.151.86.121",
-    "port": 3699,
+    "ip": "195.114.7.6",
+    "port": 1080,
     "country": "Ukraine",
     "country_code": "UA",
-    "city": "Khorol",
+    "city": "Simferopol",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 13.54,
-    "asn": "AS199995",
-    "isp": "Omega Telecom",
-    "latency_ms": 7358.62,
-    "last_checked": 1790315920.4286454
+    "uptime_percent": 34.35,
+    "asn": "AS41161",
+    "isp": "Artem Zubkov",
+    "latency_ms": 1491.16,
+    "last_checked": 1790316531.120965
+  },
+  {
+    "protocol": "http",
+    "ip": "134.249.86.47",
+    "port": 8080,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Kyiv",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.41,
+    "asn": "AS15895",
+    "isp": "Kyivstar UA",
+    "latency_ms": 3816.3,
+    "last_checked": 1790316502.2149646
   },
   {
     "protocol": "socks5",
@@ -131,8 +131,8 @@
     "uptime_percent": 44.72,
     "asn": "AS6702",
     "isp": "Science Production Company \"Trifle\" Ltd.",
-    "latency_ms": 276.84,
-    "last_checked": 1790315916.6334846
+    "latency_ms": 3275.16,
+    "last_checked": 1790316485.1042137
   },
   {
     "protocol": "http",
@@ -142,11 +142,11 @@
     "country_code": "UA",
     "city": "Fontanka",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 54.17,
+    "ssl": true,
+    "uptime_percent": 54.18,
     "asn": "AS197192",
     "isp": "Private Enterprise KTV AIDA",
-    "latency_ms": 2649.74,
-    "last_checked": 1790315891.783753
+    "latency_ms": 7125.29,
+    "last_checked": 1790316477.0310059
   }
 ]
