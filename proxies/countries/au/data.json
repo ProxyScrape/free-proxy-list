@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "103.18.205.162",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.93,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 6470.28,
+    "last_checked": 1790424553.9791868
+  },
+  {
+    "protocol": "http",
+    "ip": "103.249.237.158",
+    "port": 8888,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
     "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.57,
+    "asn": "AS133159",
+    "isp": "Mammoth Media Pty Ltd",
+    "latency_ms": 10330.72,
+    "last_checked": 1790424539.2705004
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Forest Lodge",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 27.92,
-    "asn": "AS134371",
-    "isp": "Circle Network",
-    "latency_ms": 5717.26,
-    "last_checked": 1790423884.512367
+    "uptime_percent": 9.96,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 5067.89,
+    "last_checked": 1790424537.3188052
   },
   {
     "protocol": "socks5",
@@ -26,7 +56,7 @@
     "uptime_percent": 28.85,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 12799.74,
-    "last_checked": 1790423776.3599827
+    "latency_ms": 5112.65,
+    "last_checked": 1790424533.2364714
   }
 ]
