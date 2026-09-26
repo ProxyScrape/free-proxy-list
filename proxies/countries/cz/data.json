@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "109.172.8.142",
+    "port": 666,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Veselí nad Lužnicí",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 85.27,
+    "asn": "AS62212",
+    "isp": "SmartApe OU",
+    "latency_ms": 92.87,
+    "last_checked": 1790425779.4929624
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.172.8.142",
+    "port": 666,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Veselí nad Lužnicí",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 89.52,
+    "asn": "AS62212",
+    "isp": "SmartApe OU",
+    "latency_ms": 58.81,
+    "last_checked": 1790425779.3216333
+  },
+  {
     "protocol": "http",
     "ip": "77.240.102.149",
     "port": 800,
@@ -7,41 +37,11 @@
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 29.71,
+    "ssl": true,
+    "uptime_percent": 29.72,
     "asn": "AS42189",
     "isp": "Druzstvo EUROSIGNAL",
-    "latency_ms": 3045.28,
-    "last_checked": 1790425106.127531
-  },
-  {
-    "protocol": "http",
-    "ip": "188.119.98.126",
-    "port": 9999,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Uherské Hradiště",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 14.08,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 2141.32,
-    "last_checked": 1790425016.0026379
-  },
-  {
-    "protocol": "http",
-    "ip": "91.139.78.174",
-    "port": 3128,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Blovice",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.92,
-    "asn": "AS13036",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 3991.04,
-    "last_checked": 1790424995.914963
+    "latency_ms": 4229.41,
+    "last_checked": 1790425734.3977869
   }
 ]
