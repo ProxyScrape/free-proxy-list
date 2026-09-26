@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "http",
     "ip": "5.181.158.54",
     "port": 1080,
     "country": "Moldova",
     "country_code": "MD",
     "city": "Chisinau",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 27.61,
+    "ssl": false,
+    "uptime_percent": 36.74,
     "asn": "AS39798",
     "isp": "MivoCloud SRL",
-    "latency_ms": 11163.63,
-    "last_checked": 1790437378.5114698
+    "latency_ms": 1179.82,
+    "last_checked": 1790438086.5322835
   },
   {
     "protocol": "http",
@@ -23,10 +23,25 @@
     "city": "Chisinau",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 36.01,
+    "uptime_percent": 36.02,
     "asn": "AS200019",
     "isp": "Alexhost SRL",
-    "latency_ms": 3222.49,
-    "last_checked": 1790437313.9211042
+    "latency_ms": 13126.28,
+    "last_checked": 1790438069.0485334
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.181.158.54",
+    "port": 1080,
+    "country": "Moldova",
+    "country_code": "MD",
+    "city": "Chisinau",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.67,
+    "asn": "AS39798",
+    "isp": "MivoCloud SRL",
+    "latency_ms": 405.5,
+    "last_checked": 1790438017.910694
   }
 ]
