@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "82.115.60.51",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "89.169.37.254",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.65,
+    "asn": "AS205516",
+    "isp": "NLS ASTANA LLP",
+    "latency_ms": 5403.15,
+    "last_checked": 1790386781.051268
+  },
+  {
+    "protocol": "socks5",
+    "ip": "170.168.101.28",
+    "port": 1080,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 8.73,
+    "asn": "AS41798",
+    "isp": "JSC Transtelecom",
+    "latency_ms": 2095.12,
+    "last_checked": 1790386738.8703334
+  },
+  {
+    "protocol": "http",
+    "ip": "93.185.68.82",
+    "port": 8080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Atyrau",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 63.81,
-    "asn": "AS200590",
-    "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 8829.84,
-    "last_checked": 1790386448.5661547
+    "uptime_percent": 29.23,
+    "asn": "AS35104",
+    "isp": "JSC \"KazTransCom\"",
+    "latency_ms": 1722.13,
+    "last_checked": 1790386737.0937128
   },
   {
     "protocol": "http",
@@ -23,10 +53,25 @@
     "city": "Almaty",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 21.12,
+    "uptime_percent": 21.13,
     "asn": "AS205431",
     "isp": "Netfire TEC",
-    "latency_ms": 9959.36,
-    "last_checked": 1790386143.219211
+    "latency_ms": 11932.28,
+    "last_checked": 1790386733.309173
+  },
+  {
+    "protocol": "http",
+    "ip": "91.185.20.162",
+    "port": 8080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 22.9,
+    "asn": "AS41798",
+    "isp": "TTC Network",
+    "latency_ms": 11585.03,
+    "last_checked": 1790386697.7055125
   }
 ]
