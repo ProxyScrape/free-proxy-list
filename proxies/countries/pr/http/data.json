@@ -1,33 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "23.138.88.1",
-    "port": 999,
-    "country": "Puerto Rico",
-    "country_code": "PR",
-    "city": "Adjuntas",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 24.35,
-    "asn": "AS400354",
-    "isp": "Alphanet Corp",
-    "latency_ms": 6057.26,
-    "last_checked": 1790469761.680231
-  },
-  {
-    "protocol": "http",
     "ip": "192.203.0.118",
     "port": 999,
     "country": "Puerto Rico",
     "country_code": "PR",
     "city": "Comunas",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 12.94,
     "asn": "AS63393",
     "isp": "Boom NET",
-    "latency_ms": 4838.33,
-    "last_checked": 1790469758.5367672
+    "latency_ms": 1483.85,
+    "last_checked": 1790470455.1719596
+  },
+  {
+    "protocol": "http",
+    "ip": "23.138.88.1",
+    "port": 999,
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "city": "Adjuntas",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 24.35,
+    "asn": "AS400354",
+    "isp": "Alphanet Corp",
+    "latency_ms": 4840.53,
+    "last_checked": 1790470439.4447353
   },
   {
     "protocol": "http",
@@ -41,7 +41,22 @@
     "uptime_percent": 23.64,
     "asn": "AS400354",
     "isp": "Alphanet Corp",
-    "latency_ms": 9273.06,
-    "last_checked": 1790469669.2047334
+    "latency_ms": 3503.12,
+    "last_checked": 1790470362.9079583
+  },
+  {
+    "protocol": "http",
+    "ip": "192.203.0.142",
+    "port": 999,
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "city": "Comunas",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 20.58,
+    "asn": "AS63393",
+    "isp": "Boom NET",
+    "latency_ms": 6335.72,
+    "last_checked": 1790470346.7327156
   }
 ]
