@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "36.253.25.10",
-    "port": 8181,
+    "protocol": "socks4",
+    "ip": "202.166.219.80",
+    "port": 4153,
     "country": "Nepal",
     "country_code": "NP",
     "city": "Kathmandu",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 15.81,
-    "asn": "AS38565",
-    "isp": "Ncell Pty. Ltd.",
-    "latency_ms": 6968.59,
-    "last_checked": 1790477313.321685
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 16.0,
+    "asn": "AS17501",
+    "isp": "WorldLink Communications",
+    "latency_ms": 929.21,
+    "last_checked": 1790477986.1996927
+  },
+  {
+    "protocol": "socks4",
+    "ip": "103.167.187.4",
+    "port": 1080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.72,
+    "asn": "AS58504",
+    "isp": "Techminds Network Pvt. Ltd.",
+    "latency_ms": 1039.71,
+    "last_checked": 1790477986.0707042
   },
   {
     "protocol": "http",
@@ -22,26 +37,11 @@
     "country_code": "NP",
     "city": "Patan",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 8.3,
     "asn": "AS55915",
     "isp": "Classic Tech Pvt. Ltd",
-    "latency_ms": 4264.52,
-    "last_checked": 1790477278.434181
-  },
-  {
-    "protocol": "http",
-    "ip": "116.90.234.106",
-    "port": 8080,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Kathmandu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 27.7,
-    "asn": "AS24550",
-    "isp": "Websurfer Nepal Communication System Pvt. Ltd",
-    "latency_ms": 2192.8,
-    "last_checked": 1790477225.1847606
+    "latency_ms": 4020.26,
+    "last_checked": 1790477901.7626662
   }
 ]
