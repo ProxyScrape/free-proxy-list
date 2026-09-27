@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "46.98.192.116",
+    "port": 5678,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Kamyanske",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.68,
+    "asn": "AS15377",
+    "isp": "ISP \"Fregat\"",
+    "latency_ms": 3355.13,
+    "last_checked": 1790542448.8410356
+  },
+  {
+    "protocol": "socks4",
     "ip": "185.244.158.4",
     "port": 3129,
     "country": "Ukraine",
@@ -11,23 +26,38 @@
     "uptime_percent": 61.17,
     "asn": "AS41985",
     "isp": "Stargroup LLC",
-    "latency_ms": 305.31,
-    "last_checked": 1790541897.0116944
+    "latency_ms": 1217.66,
+    "last_checked": 1790542432.9061592
   },
   {
-    "protocol": "socks4",
-    "ip": "185.132.1.221",
-    "port": 4145,
+    "protocol": "socks5",
+    "ip": "194.150.233.246",
+    "port": 1070,
     "country": "Ukraine",
     "country_code": "UA",
-    "city": "Odesa",
+    "city": "Kyiv",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 23.25,
-    "asn": "AS203447",
-    "isp": "Miratel Ltd",
-    "latency_ms": 7277.83,
-    "last_checked": 1790541892.5132358
+    "uptime_percent": 7.34,
+    "asn": "AS42546",
+    "isp": "Maetok rtr",
+    "latency_ms": 882.26,
+    "last_checked": 1790542419.9132414
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.254.198.155",
+    "port": 1080,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Kyiv",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.61,
+    "asn": "AS6698",
+    "isp": "Virtual Systems LLC",
+    "latency_ms": 7514.59,
+    "last_checked": 1790542380.168081
   },
   {
     "protocol": "http",
@@ -37,41 +67,11 @@
     "country_code": "UA",
     "city": "Fontanka",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 54.49,
+    "ssl": true,
+    "uptime_percent": 54.5,
     "asn": "AS197192",
     "isp": "Private Enterprise KTV AIDA",
-    "latency_ms": 11388.58,
-    "last_checked": 1790541865.6793568
-  },
-  {
-    "protocol": "socks5",
-    "ip": "212.3.127.242",
-    "port": 10801,
-    "country": "Ukraine",
-    "country_code": "UA",
-    "city": "Dnipro",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 44.94,
-    "asn": "AS6702",
-    "isp": "Science Production Company \"Trifle\" Ltd.",
-    "latency_ms": 1536.45,
-    "last_checked": 1790541800.6860278
-  },
-  {
-    "protocol": "socks5",
-    "ip": "185.254.198.182",
-    "port": 1080,
-    "country": "Ukraine",
-    "country_code": "UA",
-    "city": "Kyiv",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 23.69,
-    "asn": "AS6698",
-    "isp": "Virtual Systems LLC",
-    "latency_ms": 9764.68,
-    "last_checked": 1790541753.7302482
+    "latency_ms": 11691.7,
+    "last_checked": 1790542374.7447767
   }
 ]
