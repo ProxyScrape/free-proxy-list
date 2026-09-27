@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "45.85.93.15",
+    "port": 4567,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.8,
+    "asn": "AS199058",
+    "isp": "Serva ONE LTD",
+    "latency_ms": 1911.48,
+    "last_checked": 1790500429.3910754
+  },
+  {
+    "protocol": "http",
+    "ip": "149.33.15.246",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 82.51,
+    "asn": "AS51852",
+    "isp": "Private Layer INC",
+    "latency_ms": 14665.3,
+    "last_checked": 1790500135.4298182
+  },
+  {
     "protocol": "socks5",
     "ip": "185.195.71.218",
     "port": 18080,
@@ -28,20 +58,5 @@
     "isp": "Microsoft Corporation",
     "latency_ms": 3951.25,
     "last_checked": 1790500103.213308
-  },
-  {
-    "protocol": "http",
-    "ip": "149.33.15.246",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 82.51,
-    "asn": "AS51852",
-    "isp": "Private Layer INC",
-    "latency_ms": 14665.3,
-    "last_checked": 1790500135.4298182
   }
 ]
