@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "190.113.249.14",
+    "port": 50000,
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "city": "Zarcero",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.63,
+    "asn": "AS262241",
+    "isp": "Cooperativa De Electrificacion Rural De Alfaro Ruiz R.L.",
+    "latency_ms": 832.05,
+    "last_checked": 1790476749.6371737
+  },
+  {
+    "protocol": "http",
+    "ip": "190.113.249.14",
+    "port": 88,
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "city": "Zarcero",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.95,
+    "asn": "AS262241",
+    "isp": "Cooperativa De Electrificacion Rural De Alfaro Ruiz R.L.",
+    "latency_ms": 4579.09,
+    "last_checked": 1790476716.7698112
+  },
+  {
     "protocol": "http",
     "ip": "190.7.214.134",
     "port": 8080,
@@ -7,11 +37,11 @@
     "country_code": "CR",
     "city": "San José",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 29.83,
+    "ssl": true,
+    "uptime_percent": 29.85,
     "asn": "AS27876",
     "isp": "American Data Networks",
-    "latency_ms": 5658.6,
-    "last_checked": 1790476085.1648316
+    "latency_ms": 1536.74,
+    "last_checked": 1790476629.667366
   }
 ]
