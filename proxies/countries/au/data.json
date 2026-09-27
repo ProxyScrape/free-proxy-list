@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "168.138.9.147",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 66.83,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 7766.3,
+    "last_checked": 1790535565.5731018
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.91,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 10025.29,
-    "last_checked": 1790534961.2170334
+    "uptime_percent": 32.6,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 2962.85,
+    "last_checked": 1790535541.8883703
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Forest Lodge",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 10.57,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 12890.11,
+    "last_checked": 1790535378.6807673
   }
 ]
