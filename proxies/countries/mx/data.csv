@@ -1,11 +1,13 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,189.202.204.53,1080,Mexico,MX,Ramos Arizpe,elite,true,55.9,AS18734,"Operbes, S.A. de C.V.",1868.73,1790495387.509035
-http,201.159.107.165,8081,Mexico,MX,General Escobedo,transparent,false,7.69,AS28539,Administradora de Servicios de Internet Sandur S.A. de C.V.,4957.65,1790495377.159573
-socks4,45.174.243.96,5678,Mexico,MX,Candelaria,elite,true,20.06,AS265583,Sistemas Y Soluciones De Campeche SAS De CV,806.6,1790495375.6558332
-http,186.96.15.70,8080,Mexico,MX,Mexico City,transparent,true,8.17,AS22884,Total Play Telecomunicaciones SA De CV,3673.14,1790495366.6247973
-http,187.143.206.162,3128,Mexico,MX,Benito Juarez,elite,false,25.09,AS8151,Uninet S.A. de C.V.,3581.42,1790495363.3688815
-http,38.7.22.165,999,Mexico,MX,Huetamo de Núñez,transparent,false,25.9,AS28398,Internet Telefonia Y TV De Michoacan SA De CV,11480.59,1790495357.2786584
-http,38.194.251.246,999,Mexico,MX,San Cristóbal,transparent,false,16.13,AS28458,Cogent Communications,12259.78,1790495342.6167731
+http,187.190.58.152,8081,Mexico,MX,Mazatlán,transparent,false,19.52,AS22884,Total Play Telecomunicaciones SA De CV,4959.43,1790495664.6248615
+socks4,189.202.204.53,1080,Mexico,MX,Ramos Arizpe,elite,true,55.91,AS18734,"Operbes, S.A. de C.V.",839.99,1790495664.247919
+http,89.213.106.98,999,Mexico,MX,Dolores Hidalgo,transparent,false,22.29,AS270176,Wifimax Connection S.a.s De C.V,4185.37,1790495650.874592
+http,38.252.145.13,999,Mexico,MX,Actopan,transparent,true,33.63,AS274414,Osbaldo Tovar Campero,482.41,1790495650.8256412
+http,187.188.169.140,999,Mexico,MX,Oaxaca City,transparent,true,25.12,AS22884,Total Play Telecomunicaciones SA De CV,4576.34,1790495649.6687186
+http,187.147.164.22,8080,Mexico,MX,Mérida,transparent,false,27.38,AS8151,Uninet S.A. de C.V.,3508.6,1790495642.8907244
+http,38.252.145.15,999,Mexico,MX,Actopan,transparent,false,37.1,AS274414,Osbaldo Tovar Campero,1721.57,1790495642.2283545
+socks4,45.174.243.96,5678,Mexico,MX,Candelaria,elite,true,20.07,AS265583,Sistemas Y Soluciones De Campeche SAS De CV,8063.02,1790495640.5778713
+http,154.27.196.249,999,Mexico,MX,Ciudad de Villa de Álvarez,transparent,false,23.49,AS270207,Cogent Communications,11742.8,1790495635.8294919
 http,38.194.246.34,999,Mexico,MX,Huauchinango,transparent,true,49.25,AS28458,Cogent Communications,4058.25,1790495340.2811582
 socks5,103.88.234.239,40006,Mexico,MX,Mexico City,elite,true,75.62,AS396356,Latitude.sh,1046.98,1790495333.373332
 http,187.190.58.152,80,Mexico,MX,Mazatlán,transparent,false,19.45,AS22884,Total Play Telecomunicaciones SA De CV,8455.33,1790495323.0545564
@@ -15,10 +17,8 @@ http,148.244.144.194,8097,Mexico,MX,Silao de la Victoria,transparent,false,24.16
 http,187.190.114.59,999,Mexico,MX,Tepetlaoxtoc de Hidalgo,transparent,false,18.36,AS22884,Total Play Telecomunicaciones SA De CV,8507.53,1790495307.1728253
 http,38.43.88.102,999,Mexico,MX,Villahermosa,transparent,false,34.72,AS274404,Gotv S De RL De CV,10761.56,1790495302.8077521
 http,187.134.76.43,80,Mexico,MX,Ahome,transparent,false,39.39,AS8151,Uninet S.A. de C.V.,17771.05,1790495302.1251738
-http,154.27.196.249,999,Mexico,MX,Ciudad de Villa de Álvarez,transparent,false,23.31,AS270207,Cogent Communications,2199.31,1790495301.5219574
 http,148.224.14.250,999,Mexico,MX,Uruapan,transparent,false,9.36,AS270186,Jorge Luis Torres Fernandez,4547.83,1790495299.6790943
 http,187.188.171.231,10101,Mexico,MX,Puebla City,transparent,false,31.54,AS22884,Total Play Telecomunicaciones SA De CV,4850.49,1790495296.6964257
-http,38.252.145.15,999,Mexico,MX,Actopan,transparent,true,36.97,AS274414,Osbaldo Tovar Campero,1496.86,1790495293.0323725
 http,187.148.158.75,8080,Mexico,MX,Orizaba,transparent,false,22.06,AS8151,Uninet S.A. de C.V.,6944.61,1790495292.3929977
 socks5,103.88.234.239,40002,Mexico,MX,Mexico City,elite,true,83.06,AS396356,Latitude.sh,914.28,1790495279.4434664
 http,200.71.109.10,999,Mexico,MX,San Felipe Orizatlán,transparent,false,54.81,AS265606,Digy Networks,9494.01,1790495270.0407345
@@ -29,8 +29,6 @@ http,189.203.181.34,8080,Mexico,MX,Cuauhtémoc,transparent,false,7.82,AS22884,To
 http,45.174.243.96,999,Mexico,MX,Candelaria,transparent,true,27.16,AS265583,Sistemas Y Soluciones De Campeche SAS De CV,8191.27,1790495242.333016
 http,38.58.66.175,999,Mexico,MX,Huejutla de Reyes,transparent,false,18.68,AS265605,Velocom SA De CV,5340.3,1790495241.2370565
 http,45.174.255.1,999,Mexico,MX,Cancún,transparent,true,37.93,AS265580,"Digitcenter de México, S.A. de C.V.",2961.33,1790495240.5137272
-http,187.147.164.22,8080,Mexico,MX,Mérida,transparent,true,27.35,AS8151,Uninet S.A. de C.V.,7605.56,1790495230.1087549
-http,38.252.145.13,999,Mexico,MX,Actopan,transparent,true,33.53,AS274414,Osbaldo Tovar Campero,7551.43,1790495228.6554215
 http,45.174.243.24,999,Mexico,MX,Candelaria,transparent,true,15.18,AS265583,Sistemas Y Soluciones De Campeche SAS De CV,8346.13,1790495227.2048948
 http,89.42.71.35,999,Mexico,MX,La Barca,transparent,true,63.57,AS28467,Optical Line Terminal SAS De CV,8039.59,1790495225.2887142
 http,45.189.60.72,999,Mexico,MX,Tapachula,transparent,false,17.6,AS52468,Ufinet Panama S.A.,19496.28,1790495197.072964
