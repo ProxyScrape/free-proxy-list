@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "46.8.113.170",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "31.47.103.209",
+    "port": 1080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Veselí nad Lužnicí",
+    "city": "Kyšice",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 27.29,
-    "asn": "AS215305",
-    "isp": "Mastersoft S.R.L.",
-    "latency_ms": 108.49,
-    "last_checked": 1790536743.7034535
+    "ssl": true,
+    "uptime_percent": 11.17,
+    "asn": "AS8251",
+    "isp": "Neutral czFree eXchange members",
+    "latency_ms": 122.96,
+    "last_checked": 1790537401.595487
+  },
+  {
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Žatec",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.52,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 71.82,
+    "last_checked": 1790537401.0169945
+  },
+  {
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.43,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 113.36,
+    "last_checked": 1790537375.6809351
   },
   {
     "protocol": "http",
@@ -23,10 +53,25 @@
     "city": "Brno",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 70.4,
+    "uptime_percent": 70.41,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 6292.47,
-    "last_checked": 1790536720.059765
+    "latency_ms": 5239.25,
+    "last_checked": 1790537320.23764
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 22.52,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 7113.41,
+    "last_checked": 1790537257.733556
   }
 ]
