@@ -1,36 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "83.56.15.57",
-    "port": 5678,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Ciempozuelos",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.03,
-    "asn": "AS3352",
-    "isp": "Telefonica de Espana SAU",
-    "latency_ms": 190.03,
-    "last_checked": 1790476758.4374104
-  },
-  {
-    "protocol": "socks4",
-    "ip": "45.86.229.39",
-    "port": 11000,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 16.04,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 369.73,
-    "last_checked": 1790476757.187397
-  },
-  {
-    "protocol": "socks4",
     "ip": "45.81.154.75",
     "port": 1080,
     "country": "Spain",
@@ -41,23 +11,53 @@
     "uptime_percent": 97.49,
     "asn": "",
     "isp": "GINERNET",
-    "latency_ms": 438.34,
-    "last_checked": 1790476755.447346
+    "latency_ms": 438.21,
+    "last_checked": 1790477081.4734461
+  },
+  {
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Ciempozuelos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.04,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 3240.74,
+    "last_checked": 1790477067.6371932
   },
   {
     "protocol": "http",
-    "ip": "37.59.138.176",
-    "port": 8080,
+    "ip": "185.44.232.30",
+    "port": 53281,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Madrid",
+    "city": "Marbella",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 4.96,
+    "asn": "AS200845",
+    "isp": "AVATEL TELECOM, SA",
+    "latency_ms": 2909.59,
+    "last_checked": 1790477044.9895265
+  },
+  {
+    "protocol": "http",
+    "ip": "95.60.60.204",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Zubia",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 25.42,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 1282.66,
-    "last_checked": 1790476741.1011786
+    "uptime_percent": 25.81,
+    "asn": "AS12430",
+    "isp": "Vodafone Espana S.A.U.",
+    "latency_ms": 10023.71,
+    "last_checked": 1790477038.1967292
   },
   {
     "protocol": "socks5",
@@ -68,11 +68,11 @@
     "city": "Navalcarnero",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 98.14,
+    "uptime_percent": 98.15,
     "asn": "",
     "isp": "GINERNET",
-    "latency_ms": 540.74,
-    "last_checked": 1790476731.2430866
+    "latency_ms": 4113.33,
+    "last_checked": 1790477036.73489
   },
   {
     "protocol": "socks5",
@@ -118,20 +118,5 @@
     "isp": "BlueVPS OU",
     "latency_ms": 15380.62,
     "last_checked": 1790476650.8134634
-  },
-  {
-    "protocol": "http",
-    "ip": "95.60.60.204",
-    "port": 3128,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Zubia",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.81,
-    "asn": "AS12430",
-    "isp": "Vodafone Espana S.A.U.",
-    "latency_ms": 10453.86,
-    "last_checked": 1790476625.1915052
   }
 ]
