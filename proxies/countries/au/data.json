@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "159.196.182.72",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.92,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 14425.44,
+    "last_checked": 1790503178.7172253
+  },
+  {
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 66.79,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 4943.26,
+    "last_checked": 1790503076.6953208
+  },
+  {
+    "protocol": "http",
+    "ip": "157.20.42.1",
+    "port": 8090,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 25.1,
-    "asn": "AS4764",
-    "isp": "Aussie Fibre Pty Ltd",
-    "latency_ms": 3977.88,
-    "last_checked": 1790502844.1612325
+    "uptime_percent": 20.26,
+    "asn": "AS152482",
+    "isp": "ERX",
+    "latency_ms": 3740.22,
+    "last_checked": 1790503057.6287425
   },
   {
     "protocol": "socks5",
@@ -26,7 +56,7 @@
     "uptime_percent": 32.62,
     "asn": "AS133417",
     "isp": "Dicker Data Ltd",
-    "latency_ms": 2806.17,
-    "last_checked": 1790502809.2352383
+    "latency_ms": 4330.4,
+    "last_checked": 1790503034.3811302
   }
 ]
