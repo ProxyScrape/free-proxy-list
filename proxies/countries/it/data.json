@@ -1,21 +1,6 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "80.211.131.230",
-    "port": 9050,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 26.16,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A. Network",
-    "latency_ms": 5068.08,
-    "last_checked": 1790638117.0856178
-  },
-  {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "5.59.248.134",
     "port": 8081,
     "country": "Italy",
@@ -23,11 +8,26 @@
     "city": "Pomezia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 22.67,
+    "uptime_percent": 27.71,
     "asn": "AS212271",
     "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 572.46,
-    "last_checked": 1790638038.2932365
+    "latency_ms": 612.48,
+    "last_checked": 1790638790.4173026
+  },
+  {
+    "protocol": "http",
+    "ip": "79.54.119.155",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Laghetto",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.19,
+    "asn": "AS3269",
+    "isp": "INTERBUSINESS",
+    "latency_ms": 7819.13,
+    "last_checked": 1790638784.4207463
   },
   {
     "protocol": "http",
@@ -37,11 +37,56 @@
     "country_code": "IT",
     "city": "Rivoli",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 38.9,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 6071.34,
-    "last_checked": 1790638019.2044725
+    "latency_ms": 3064.87,
+    "last_checked": 1790638773.72728
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.70.206.178",
+    "port": 5678,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Blevio",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.8,
+    "asn": "AS49979",
+    "isp": "LA Wireless Srl",
+    "latency_ms": 3170.03,
+    "last_checked": 1790638761.5742166
+  },
+  {
+    "protocol": "http",
+    "ip": "93.187.26.134",
+    "port": 58080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "San Quirico d'Orcia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 28.12,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 7485.59,
+    "last_checked": 1790638740.983676
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.56.219.76",
+    "port": 40001,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 99.01,
+    "asn": "AS202675",
+    "isp": "Keliweb S.R.L",
+    "latency_ms": 3954.65,
+    "last_checked": 1790638721.9788024
   }
 ]
