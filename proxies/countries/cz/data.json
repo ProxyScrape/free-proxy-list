@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "90.181.120.18",
-    "port": 8082,
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 24.89,
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.7,
     "asn": "AS5610",
     "isp": "Telefonica O2 Czech Republic, a.s.",
-    "latency_ms": 8277.06,
-    "last_checked": 1790584420.4928036
+    "latency_ms": 2584.83,
+    "last_checked": 1790585076.5584047
+  },
+  {
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Žatec",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.65,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 94.22,
+    "last_checked": 1790585073.8590684
+  },
+  {
+    "protocol": "socks5",
+    "ip": "193.124.58.209",
+    "port": 7777,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Veselí nad Lužnicí",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 68.98,
+    "asn": "AS62212",
+    "isp": "SmartApe OU",
+    "latency_ms": 3116.55,
+    "last_checked": 1790584961.1400933
   }
 ]
