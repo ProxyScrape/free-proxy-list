@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "144.217.107.25",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "149.56.110.191",
+    "port": 8118,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Beauharnois",
+    "city": "Montreal",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 67.42,
+    "ssl": false,
+    "uptime_percent": 8.17,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 1837.35,
-    "last_checked": 1790578784.5289168
+    "latency_ms": 975.47,
+    "last_checked": 1790579396.3784938
+  },
+  {
+    "protocol": "http",
+    "ip": "185.196.61.251",
+    "port": 8081,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.26,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network, Inc",
+    "latency_ms": 362.43,
+    "last_checked": 1790579370.5137842
   },
   {
     "protocol": "http",
@@ -23,26 +38,26 @@
     "city": "Toronto",
     "anonymity": "anonymous",
     "ssl": true,
-    "uptime_percent": 93.94,
+    "uptime_percent": 93.93,
     "asn": "AS32489",
     "isp": "Amanah Tech Inc.",
-    "latency_ms": 224.82,
-    "last_checked": 1790578732.8709643
+    "latency_ms": 219.79,
+    "last_checked": 1790579350.3366988
   },
   {
-    "protocol": "http",
-    "ip": "96.44.137.126",
-    "port": 8118,
+    "protocol": "socks5",
+    "ip": "185.196.61.251",
+    "port": 1080,
     "country": "Canada",
     "country_code": "CA",
     "city": "Toronto",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 10.14,
-    "asn": "AS36352",
-    "isp": "HostPapa",
-    "latency_ms": 1658.71,
-    "last_checked": 1790578695.3156846
+    "uptime_percent": 34.79,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network, Inc",
+    "latency_ms": 701.95,
+    "last_checked": 1790579342.4211688
   },
   {
     "protocol": "socks5",
@@ -56,7 +71,22 @@
     "uptime_percent": 83.52,
     "asn": "AS26832",
     "isp": "Rica Web Services",
-    "latency_ms": 589.63,
-    "last_checked": 1790578689.7792506
+    "latency_ms": 641.35,
+    "last_checked": 1790579277.028214
+  },
+  {
+    "protocol": "http",
+    "ip": "184.70.113.34",
+    "port": 3128,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Calgary",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 31.01,
+    "asn": "AS6327",
+    "isp": "Shaw Communications",
+    "latency_ms": 16960.45,
+    "last_checked": 1790579267.2682261
   }
 ]
