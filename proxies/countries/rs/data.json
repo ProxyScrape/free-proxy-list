@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "95.140.120.18",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "109.245.110.145",
+    "port": 4145,
     "country": "Serbia",
     "country_code": "RS",
     "city": "Belgrade",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 36.73,
-    "asn": "AS9125",
-    "isp": "Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
-    "latency_ms": 164.03,
-    "last_checked": 1790650690.1921577
+    "uptime_percent": 46.7,
+    "asn": "AS15958",
+    "isp": "CETIN Ltd. Belgrade",
+    "latency_ms": 199.5,
+    "last_checked": 1790651395.7201073
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.190.154.121",
+    "port": 4145,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.31,
+    "asn": "AS8400",
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 7503.71,
+    "last_checked": 1790651386.8477445
+  },
+  {
+    "protocol": "http",
+    "ip": "82.117.211.42",
+    "port": 8085,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Novi Sad",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.87,
+    "asn": "AS31042",
+    "isp": "Serbia BroadBand",
+    "latency_ms": 11238.92,
+    "last_checked": 1790651296.5670404
   },
   {
     "protocol": "http",
@@ -22,26 +52,11 @@
     "country_code": "RS",
     "city": "Belgrade",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 38.6,
     "asn": "AS8400",
     "isp": "TELEKOM SRBIJA a.d.",
-    "latency_ms": 4137.88,
-    "last_checked": 1790650637.8863354
-  },
-  {
-    "protocol": "http",
-    "ip": "95.140.113.74",
-    "port": 6666,
-    "country": "Serbia",
-    "country_code": "RS",
-    "city": "Belgrade",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.51,
-    "asn": "AS9125",
-    "isp": "Orion Telekom Network",
-    "latency_ms": 9100.4,
-    "last_checked": 1790650503.974427
+    "latency_ms": 9971.04,
+    "last_checked": 1790651214.2486615
   }
 ]
