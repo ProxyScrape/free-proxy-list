@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Antsla",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 61.86,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 1231.33,
+    "last_checked": 1790665169.8654385
+  },
+  {
+    "protocol": "socks4",
     "ip": "146.19.143.200",
     "port": 1080,
     "country": "Estonia",
@@ -8,26 +23,11 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 53.69,
+    "uptime_percent": 53.7,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 195.8,
-    "last_checked": 1790664854.7222464
-  },
-  {
-    "protocol": "http",
-    "ip": "193.42.112.26",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Kuusalu",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 39.29,
-    "asn": "AS199144",
-    "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 4004.07,
-    "last_checked": 1790664825.7327313
+    "latency_ms": 159.13,
+    "last_checked": 1790665156.1696253
   },
   {
     "protocol": "socks5",
@@ -41,7 +41,22 @@
     "uptime_percent": 46.69,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 283.17,
-    "last_checked": 1790664767.46821
+    "latency_ms": 262.7,
+    "last_checked": 1790665148.3720162
+  },
+  {
+    "protocol": "http",
+    "ip": "193.42.112.26",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Kuusalu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.29,
+    "asn": "AS199144",
+    "isp": "HexCore cloud s.r.o.",
+    "latency_ms": 5697.45,
+    "last_checked": 1790665093.053208
   }
 ]
