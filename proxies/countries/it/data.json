@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "185.56.219.76",
     "port": 40001,
     "country": "Italy",
@@ -8,26 +8,26 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 88.35,
+    "uptime_percent": 54.67,
     "asn": "AS202675",
     "isp": "Keliweb S.R.L",
-    "latency_ms": 2939.62,
-    "last_checked": 1790710744.7990303
+    "latency_ms": 2412.75,
+    "last_checked": 1790711347.3808684
   },
   {
-    "protocol": "socks5",
-    "ip": "212.77.75.25",
-    "port": 1088,
+    "protocol": "http",
+    "ip": "77.242.177.57",
+    "port": 3128,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Empoli",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 97.5,
-    "asn": "AS15691",
-    "isp": "Leonet srl Empoli",
-    "latency_ms": 374.86,
-    "last_checked": 1790710740.8654017
+    "city": "Biella",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 43.93,
+    "asn": "AS42669",
+    "isp": "MegaWeb",
+    "latency_ms": 54.63,
+    "last_checked": 1790711332.9457674
   },
   {
     "protocol": "http",
@@ -41,11 +41,11 @@
     "uptime_percent": 11.27,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 6196.88,
-    "last_checked": 1790710740.1091247
+    "latency_ms": 2847.67,
+    "last_checked": 1790711273.3529549
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "185.56.219.76",
     "port": 40001,
     "country": "Italy",
@@ -53,10 +53,40 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 53.87,
+    "uptime_percent": 88.44,
     "asn": "AS202675",
     "isp": "Keliweb S.R.L",
-    "latency_ms": 3371.36,
-    "last_checked": 1790710724.831996
+    "latency_ms": 3577.49,
+    "last_checked": 1790711231.022337
+  },
+  {
+    "protocol": "http",
+    "ip": "185.191.106.0",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 23.54,
+    "asn": "AS44092",
+    "isp": "Mywic Costumers",
+    "latency_ms": 8635.79,
+    "last_checked": 1790711220.8568702
+  },
+  {
+    "protocol": "socks5",
+    "ip": "212.77.75.25",
+    "port": 1088,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Empoli",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 97.5,
+    "asn": "AS15691",
+    "isp": "Leonet srl Empoli",
+    "latency_ms": 283.25,
+    "last_checked": 1790711214.183559
   }
 ]
