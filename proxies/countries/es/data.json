@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks5",
-    "ip": "154.62.226.187",
-    "port": 9051,
+    "ip": "212.231.230.141",
+    "port": 18500,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Las Palmas de Gran Canaria",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 66.22,
+    "asn": "AS15704",
+    "isp": "Xtra Telecom S.A",
+    "latency_ms": 275.04,
+    "last_checked": 1790662777.6311023
+  },
+  {
+    "protocol": "http",
+    "ip": "47.62.2.168",
+    "port": 8080,
     "country": "Spain",
     "country_code": "ES",
     "city": "Madrid",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 13.99,
-    "asn": "AS214036",
-    "isp": "Ultahost, Inc.",
-    "latency_ms": 14966.73,
-    "last_checked": 1790662153.8753612
+    "uptime_percent": 83.02,
+    "asn": "AS12430",
+    "isp": "Vodafone Global Enterprise Inc.",
+    "latency_ms": 2835.15,
+    "last_checked": 1790662768.84405
   },
   {
     "protocol": "socks4",
@@ -26,53 +41,23 @@
     "uptime_percent": 95.92,
     "asn": "",
     "isp": "GINERNET",
-    "latency_ms": 3685.59,
-    "last_checked": 1790662149.1274478
+    "latency_ms": 3272.88,
+    "last_checked": 1790662755.6670032
   },
   {
     "protocol": "http",
-    "ip": "90.161.186.147",
-    "port": 3128,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Puerto de Santiago",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 9.18,
-    "asn": "AS12479",
-    "isp": "UNI2-ABI",
-    "latency_ms": 6713.22,
-    "last_checked": 1790662144.4748065
-  },
-  {
-    "protocol": "http",
-    "ip": "47.62.2.168",
+    "ip": "37.59.138.176",
     "port": 8080,
     "country": "Spain",
     "country_code": "ES",
     "city": "Madrid",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 83.67,
-    "asn": "AS12430",
-    "isp": "Vodafone Global Enterprise Inc.",
-    "latency_ms": 1243.12,
-    "last_checked": 1790662122.253694
-  },
-  {
-    "protocol": "socks5",
-    "ip": "212.231.230.141",
-    "port": 18500,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Las Palmas de Gran Canaria",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 66.22,
-    "asn": "AS15704",
-    "isp": "Xtra Telecom S.A",
-    "latency_ms": 1823.94,
-    "last_checked": 1790662407.0025136
+    "uptime_percent": 25.54,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 3092.57,
+    "last_checked": 1790662725.7487729
   },
   {
     "protocol": "http",
@@ -118,5 +103,20 @@
     "isp": "ZhouyiSat Communications",
     "latency_ms": 11550.64,
     "last_checked": 1790662272.2459862
+  },
+  {
+    "protocol": "http",
+    "ip": "90.161.186.147",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Puerto de Santiago",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.18,
+    "asn": "AS12479",
+    "isp": "UNI2-ABI",
+    "latency_ms": 6713.22,
+    "last_checked": 1790662144.4748065
   }
 ]

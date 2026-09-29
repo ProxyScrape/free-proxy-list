@@ -1,33 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "47.250.51.110",
-    "port": 5007,
+    "protocol": "socks5",
+    "ip": "47.250.11.111",
+    "port": 4002,
     "country": "Malaysia",
     "country_code": "MY",
     "city": "Kuala Lumpur",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 0.98,
+    "uptime_percent": 1.09,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 9550.67,
-    "last_checked": 1790662158.680823
+    "latency_ms": 6343.43,
+    "last_checked": 1790662772.9647987
+  },
+  {
+    "protocol": "socks5",
+    "ip": "47.250.11.111",
+    "port": 1000,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Kuala Lumpur",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 0.99,
+    "asn": "AS45102",
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 7023.86,
+    "last_checked": 1790662769.2069826
   },
   {
     "protocol": "http",
-    "ip": "58.84.16.214",
-    "port": 1231,
+    "ip": "47.250.137.200",
+    "port": 3128,
     "country": "Malaysia",
     "country_code": "MY",
-    "city": "Putrajaya",
-    "anonymity": "transparent",
+    "city": "Kuala Lumpur",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 12.51,
-    "asn": "AS38182",
-    "isp": "Extreme Broadband",
-    "latency_ms": 9889.8,
-    "last_checked": 1790662145.2653296
+    "uptime_percent": 33.33,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 11838.0,
+    "last_checked": 1790662763.812497
   },
   {
     "protocol": "http",
@@ -41,8 +56,8 @@
     "uptime_percent": 88.5,
     "asn": "AS4788",
     "isp": "ADSL Streamyx Telekom Malaysia",
-    "latency_ms": 586.87,
-    "last_checked": 1790662142.8870807
+    "latency_ms": 586.51,
+    "last_checked": 1790662759.1548412
   },
   {
     "protocol": "http",
@@ -56,23 +71,8 @@
     "uptime_percent": 87.36,
     "asn": "AS4788",
     "isp": "ADSL Streamyx Telekom Malaysia",
-    "latency_ms": 594.81,
-    "last_checked": 1790662141.316137
-  },
-  {
-    "protocol": "http",
-    "ip": "219.93.101.62",
-    "port": 80,
-    "country": "Malaysia",
-    "country_code": "MY",
-    "city": "Batu Caves",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 92.53,
-    "asn": "AS4788",
-    "isp": "ADSL Streamyx Telekom Malaysia",
-    "latency_ms": 598.53,
-    "last_checked": 1790662139.0187619
+    "latency_ms": 589.6,
+    "last_checked": 1790662755.1508079
   },
   {
     "protocol": "http",
@@ -133,5 +133,20 @@
     "isp": "TM TECHNOLOGY SERVICES SDN BHD",
     "latency_ms": 9359.27,
     "last_checked": 1790662363.5726917
+  },
+  {
+    "protocol": "http",
+    "ip": "58.84.16.214",
+    "port": 1231,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Putrajaya",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 12.51,
+    "asn": "AS38182",
+    "isp": "Extreme Broadband",
+    "latency_ms": 11308.31,
+    "last_checked": 1790662342.9679368
   }
 ]
