@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "88.87.6.135",
-    "port": 3030,
+    "protocol": "socks4",
+    "ip": "212.50.19.150",
+    "port": 4153,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Veliko Tarnovo",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 45.84,
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.36,
+    "asn": "AS8717",
+    "isp": "Spectrum NET",
+    "latency_ms": 130.77,
+    "last_checked": 1790685233.2621465
+  },
+  {
+    "protocol": "socks4",
+    "ip": "46.10.198.10",
+    "port": 4153,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.02,
     "asn": "AS8866",
-    "isp": "Telnet Limited",
-    "latency_ms": 2640.57,
-    "last_checked": 1790684548.859446
+    "isp": "Vivacom Bulgaria EAD",
+    "latency_ms": 1269.42,
+    "last_checked": 1790685229.6795197
+  },
+  {
+    "protocol": "socks4",
+    "ip": "77.85.171.92",
+    "port": 4153,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Asenovgrad",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.32,
+    "asn": "AS207371",
+    "isp": "GEC",
+    "latency_ms": 1322.52,
+    "last_checked": 1790685222.0698378
   },
   {
     "protocol": "socks5",
@@ -26,7 +56,22 @@
     "uptime_percent": 44.74,
     "asn": "AS197897",
     "isp": "5KOM",
-    "latency_ms": 215.42,
-    "last_checked": 1790684535.9155555
+    "latency_ms": 321.43,
+    "last_checked": 1790685214.274161
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.7",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.11,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 10935.88,
+    "last_checked": 1790685149.5551555
   }
 ]
