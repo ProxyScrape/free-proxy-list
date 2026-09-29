@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "3.24.55.190",
-    "port": 3000,
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "anonymous",
+    "city": "Melbourne",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 89.29,
-    "asn": "AS16509",
-    "isp": "Amazon Technologies Inc.",
-    "latency_ms": 3288.58,
-    "last_checked": 1790676460.2821336
+    "uptime_percent": 33.95,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 10243.81,
+    "last_checked": 1790677153.8111632
+  },
+  {
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 67.16,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 5005.46,
+    "last_checked": 1790677089.1459026
   }
 ]
