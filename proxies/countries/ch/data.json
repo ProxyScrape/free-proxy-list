@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "74.242.169.16",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "195.225.116.15",
+    "port": 4145,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "transparent",
+    "city": "Wädenswil",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 18.85,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 11866.71,
-    "last_checked": 1790696366.1681345
+    "uptime_percent": 27.98,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 1081.11,
+    "last_checked": 1790696942.8331046
+  },
+  {
+    "protocol": "socks4",
+    "ip": "195.225.116.14",
+    "port": 4145,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wädenswil",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.14,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 1052.4,
+    "last_checked": 1790696932.1055954
   },
   {
     "protocol": "http",
@@ -26,23 +41,8 @@
     "uptime_percent": 44.45,
     "asn": "AS51395",
     "isp": "Datasource AG",
-    "latency_ms": 10813.92,
-    "last_checked": 1790696345.1253371
-  },
-  {
-    "protocol": "http",
-    "ip": "62.220.129.81",
-    "port": 8080,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Lausanne",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 34.05,
-    "asn": "AS6893",
-    "isp": "Saitis Network, N.Desir",
-    "latency_ms": 2639.03,
-    "last_checked": 1790696342.3696678
+    "latency_ms": 295.07,
+    "last_checked": 1790696879.2753775
   },
   {
     "protocol": "socks5",
@@ -53,10 +53,25 @@
     "city": "Hünenberg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 78.12,
+    "uptime_percent": 78.13,
     "asn": "AS56803",
     "isp": "Datasource AG",
-    "latency_ms": 1299.5,
-    "last_checked": 1790696305.746675
+    "latency_ms": 326.82,
+    "last_checked": 1790696844.6553738
+  },
+  {
+    "protocol": "http",
+    "ip": "62.220.129.81",
+    "port": 8080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Lausanne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 34.05,
+    "asn": "AS6893",
+    "isp": "Saitis Network, N.Desir",
+    "latency_ms": 1756.39,
+    "last_checked": 1790696802.0616088
   }
 ]
