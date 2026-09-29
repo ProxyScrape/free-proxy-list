@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "185.190.154.121",
+    "port": 4145,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.31,
+    "asn": "AS8400",
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 210.59,
+    "last_checked": 1790657994.3297646
+  },
+  {
+    "protocol": "socks4",
     "ip": "109.245.110.145",
     "port": 4145,
     "country": "Serbia",
@@ -11,8 +26,8 @@
     "uptime_percent": 46.71,
     "asn": "AS15958",
     "isp": "CETIN Ltd. Belgrade",
-    "latency_ms": 1169.23,
-    "last_checked": 1790657379.3840194
+    "latency_ms": 3176.26,
+    "last_checked": 1790657979.7429957
   },
   {
     "protocol": "socks4",
@@ -26,22 +41,37 @@
     "uptime_percent": 13.04,
     "asn": "AS9125",
     "isp": "Orion Telekom Client Network",
-    "latency_ms": 7285.43,
-    "last_checked": 1790657368.7089026
+    "latency_ms": 7272.67,
+    "last_checked": 1790657978.72703
   },
   {
-    "protocol": "socks4",
-    "ip": "95.140.118.34",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "95.140.120.18",
+    "port": 8080,
     "country": "Serbia",
     "country_code": "RS",
     "city": "Belgrade",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 44.17,
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 35.43,
     "asn": "AS9125",
-    "isp": "Orion Telekom Network",
-    "latency_ms": 418.68,
-    "last_checked": 1790657363.7974722
+    "isp": "Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
+    "latency_ms": 3981.53,
+    "last_checked": 1790657910.1048572
+  },
+  {
+    "protocol": "http",
+    "ip": "212.200.223.89",
+    "port": 8080,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 38.59,
+    "asn": "AS8400",
+    "isp": "TELEKOM SRBIJA a.d.",
+    "latency_ms": 2390.69,
+    "last_checked": 1790657899.8168128
   }
 ]
