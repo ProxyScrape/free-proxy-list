@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.147.69.48",
-    "port": 1080,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Niechorze",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 45.76,
-    "asn": "AS203028",
-    "isp": "Prymas Inwestycje Spolka Z Ograniczona Odpowiedzialnoscia Spolka Komandytowa",
-    "latency_ms": 1201.91,
-    "last_checked": 1790764199.6136203
-  },
-  {
     "protocol": "http",
     "ip": "89.36.160.2",
     "port": 3128,
@@ -23,11 +8,26 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 97.28,
+    "uptime_percent": 97.16,
     "asn": "AS56630",
     "isp": "Melbikomas UAB",
-    "latency_ms": 222.27,
-    "last_checked": 1790764191.3453617
+    "latency_ms": 91.9,
+    "last_checked": 1790764790.2819965
+  },
+  {
+    "protocol": "socks4",
+    "ip": "46.151.113.10",
+    "port": 5678,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Lipsko",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.65,
+    "asn": "AS197418",
+    "isp": "KONTAKT",
+    "latency_ms": 181.67,
+    "last_checked": 1790764765.1809864
   },
   {
     "protocol": "socks4",
@@ -41,23 +41,8 @@
     "uptime_percent": 57.52,
     "asn": "AS197418",
     "isp": "KONTAKT",
-    "latency_ms": 3268.53,
-    "last_checked": 1790764181.339238
-  },
-  {
-    "protocol": "socks4",
-    "ip": "212.126.5.246",
-    "port": 42344,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Poznan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 10.13,
-    "asn": "AS8364",
-    "isp": "Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",
-    "latency_ms": 112.57,
-    "last_checked": 1790764166.3650746
+    "latency_ms": 183.78,
+    "last_checked": 1790764753.2626467
   },
   {
     "protocol": "socks4",
@@ -71,8 +56,23 @@
     "uptime_percent": 80.31,
     "asn": "AS42673",
     "isp": "Skyware Sp. z o.o.",
-    "latency_ms": 184.21,
-    "last_checked": 1790764144.443322
+    "latency_ms": 185.54,
+    "last_checked": 1790764750.0749207
+  },
+  {
+    "protocol": "http",
+    "ip": "148.81.121.5",
+    "port": 8080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.98,
+    "asn": "AS1887",
+    "isp": "WAWPOLIP",
+    "latency_ms": 4918.02,
+    "last_checked": 1790764746.9066794
   },
   {
     "protocol": "http",
@@ -83,55 +83,40 @@
     "city": "Wroclaw",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 77.13,
+    "uptime_percent": 77.14,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 11134.43,
-    "last_checked": 1790764116.7288516
+    "latency_ms": 7093.0,
+    "last_checked": 1790764733.3226862
+  },
+  {
+    "protocol": "socks4",
+    "ip": "46.171.28.162",
+    "port": 59311,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Krzywa Góra",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 21.53,
+    "asn": "AS5617",
+    "isp": "Orange Polska Spolka Akcyjna",
+    "latency_ms": 3174.06,
+    "last_checked": 1790764727.5918474
   },
   {
     "protocol": "http",
-    "ip": "148.81.121.5",
-    "port": 8080,
+    "ip": "91.150.189.122",
+    "port": 30389,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 15.98,
-    "asn": "AS1887",
-    "isp": "WAWPOLIP",
-    "latency_ms": 8597.47,
-    "last_checked": 1790764068.218474
-  },
-  {
-    "protocol": "socks5",
-    "ip": "194.177.28.66",
-    "port": 10808,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Ustroń",
+    "city": "Rzeszów",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 13.39,
-    "asn": "AS48790",
-    "isp": "(USTRONET ) INVICOM Sp. z o.o",
-    "latency_ms": 3183.09,
-    "last_checked": 1790764050.372079
-  },
-  {
-    "protocol": "socks5",
-    "ip": "88.218.206.170",
-    "port": 22,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Łęczyca",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 52.9,
-    "asn": "AS215467",
-    "isp": "Skhron OU",
-    "latency_ms": 2286.89,
-    "last_checked": 1790763992.3360827
+    "ssl": false,
+    "uptime_percent": 6.43,
+    "asn": "AS42673",
+    "isp": "Skyware Sp. z o.o.",
+    "latency_ms": 2820.93,
+    "last_checked": 1790764703.1008399
   }
 ]
