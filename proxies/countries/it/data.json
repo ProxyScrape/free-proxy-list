@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "5.59.248.134",
     "port": 8081,
     "country": "Italy",
@@ -8,11 +8,26 @@
     "city": "Pomezia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 22.75,
+    "uptime_percent": 27.68,
     "asn": "AS212271",
     "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 7509.95,
-    "last_checked": 1790783961.4599247
+    "latency_ms": 1447.83,
+    "last_checked": 1790784544.0357249
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.70.206.178",
+    "port": 5678,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Blevio",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.65,
+    "asn": "AS49979",
+    "isp": "LA Wireless Srl",
+    "latency_ms": 7412.99,
+    "last_checked": 1790784539.8878994
   },
   {
     "protocol": "http",
@@ -22,41 +37,11 @@
     "country_code": "IT",
     "city": "Pomezia",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 17.78,
     "asn": "AS212271",
     "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 15880.03,
-    "last_checked": 1790783890.4528437
-  },
-  {
-    "protocol": "socks5",
-    "ip": "212.77.75.25",
-    "port": 1088,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Empoli",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 97.51,
-    "asn": "AS15691",
-    "isp": "Leonet srl Empoli",
-    "latency_ms": 180.59,
-    "last_checked": 1790783876.7708757
-  },
-  {
-    "protocol": "http",
-    "ip": "77.242.177.57",
-    "port": 3128,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Biella",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 44.12,
-    "asn": "AS42669",
-    "isp": "MegaWeb",
-    "latency_ms": 7508.79,
-    "last_checked": 1790783849.0031314
+    "latency_ms": 10318.47,
+    "last_checked": 1790784491.2527733
   }
 ]
