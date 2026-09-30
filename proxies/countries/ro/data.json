@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "85.122.120.119",
-    "port": 20016,
+    "protocol": "socks4",
+    "ip": "86.127.209.234",
+    "port": 1080,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Năvodari",
+    "city": "Brăila",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 63.51,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 427.18,
+    "last_checked": 1790760573.693637
+  },
+  {
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Cârţişoara",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.37,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 1237.52,
+    "last_checked": 1790760529.562114
+  },
+  {
+    "protocol": "http",
+    "ip": "92.86.207.198",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 9.15,
-    "asn": "AS39347",
-    "isp": "STYLISH BY A&L SRL",
-    "latency_ms": 3887.07,
-    "last_checked": 1790759886.0005445
+    "uptime_percent": 14.42,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 1703.52,
+    "last_checked": 1790760529.0785527
   }
 ]
