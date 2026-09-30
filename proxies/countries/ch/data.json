@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "185.195.71.218",
+    "port": 18080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Hünenberg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 78.82,
+    "asn": "AS56803",
+    "isp": "Datasource AG",
+    "latency_ms": 80.07,
+    "last_checked": 1790782444.2301118
+  },
+  {
+    "protocol": "socks4",
+    "ip": "195.225.116.15",
+    "port": 4145,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wädenswil",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.97,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 3080.64,
+    "last_checked": 1790782442.085457
+  },
+  {
     "protocol": "socks4",
     "ip": "195.225.116.14",
     "port": 4145,
@@ -11,22 +41,37 @@
     "uptime_percent": 28.13,
     "asn": "AS48971",
     "isp": "netz116",
-    "latency_ms": 7525.91,
-    "last_checked": 1790782195.6248338
+    "latency_ms": 3539.79,
+    "last_checked": 1790782423.362698
   },
   {
-    "protocol": "socks5",
-    "ip": "185.195.71.218",
-    "port": 18080,
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Hünenberg",
+    "city": "Tann",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 78.81,
-    "asn": "AS56803",
+    "ssl": false,
+    "uptime_percent": 44.48,
+    "asn": "AS51395",
     "isp": "Datasource AG",
-    "latency_ms": 88.67,
-    "last_checked": 1790782185.5442412
+    "latency_ms": 12169.6,
+    "last_checked": 1790782394.3877683
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 18.93,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 20491.91,
+    "last_checked": 1790782716.5389276
   }
 ]
