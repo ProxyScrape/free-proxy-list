@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "213.21.229.84",
-    "port": 9081,
+    "protocol": "socks5",
+    "ip": "62.60.230.196",
+    "port": 1080,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 21.8,
+    "uptime_percent": 20.0,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 7866.05,
-    "last_checked": 1790776149.6530886
+    "latency_ms": 7688.26,
+    "last_checked": 1790776462.5235102
+  },
+  {
+    "protocol": "socks5",
+    "ip": "62.60.250.171",
+    "port": 40001,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.99,
+    "asn": "AS203273",
+    "isp": "NetCrafters OU",
+    "latency_ms": 406.54,
+    "last_checked": 1790776449.345151
   },
   {
     "protocol": "socks5",
@@ -23,26 +38,41 @@
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 68.76,
+    "uptime_percent": 68.88,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 404.34,
-    "last_checked": 1790776142.564945
+    "latency_ms": 534.4,
+    "last_checked": 1790776438.5685368
   },
   {
-    "protocol": "socks5",
-    "ip": "62.60.230.196",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "91.186.218.52",
+    "port": 3128,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 19.99,
-    "asn": "AS210644",
-    "isp": "Aeza International LTD",
-    "latency_ms": 1807.76,
-    "last_checked": 1790776126.0686476
+    "ssl": false,
+    "uptime_percent": 12.89,
+    "asn": "AS203273",
+    "isp": "NetCrafters OU",
+    "latency_ms": 5653.11,
+    "last_checked": 1790776437.7303514
+  },
+  {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 80,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 64.77,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 5970.89,
+    "last_checked": 1790776433.7161264
   },
   {
     "protocol": "socks5",
@@ -56,8 +86,8 @@
     "uptime_percent": 92.92,
     "asn": "AS35100",
     "isp": "Patrik Lagerman",
-    "latency_ms": 1655.96,
-    "last_checked": 1790776125.842959
+    "latency_ms": 3491.15,
+    "last_checked": 1790776429.1848211
   },
   {
     "protocol": "socks5",
@@ -75,21 +105,6 @@
     "last_checked": 1790776120.1204884
   },
   {
-    "protocol": "socks4",
-    "ip": "89.169.34.105",
-    "port": 8443,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 29.26,
-    "asn": "AS210644",
-    "isp": "xorek.cloud International LTD",
-    "latency_ms": 8133.07,
-    "last_checked": 1790776113.3089294
-  },
-  {
     "protocol": "socks5",
     "ip": "79.76.59.115",
     "port": 1080,
@@ -103,21 +118,6 @@
     "isp": "Oracle Corporation",
     "latency_ms": 3324.26,
     "last_checked": 1790776106.3219903
-  },
-  {
-    "protocol": "http",
-    "ip": "185.58.115.185",
-    "port": 8080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 71.71,
-    "asn": "AS41745",
-    "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 11073.78,
-    "last_checked": 1790776101.5942533
   },
   {
     "protocol": "socks5",
@@ -178,20 +178,5 @@
     "isp": "Aeza International LTD",
     "latency_ms": 11840.35,
     "last_checked": 1790776040.7778318
-  },
-  {
-    "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 80,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 64.77,
-    "asn": "AS206170",
-    "isp": "Yelles AB",
-    "latency_ms": 5490.54,
-    "last_checked": 1790776025.0169275
   }
 ]
