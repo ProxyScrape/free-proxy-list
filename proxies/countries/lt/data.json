@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "88.119.139.237",
-    "port": 53281,
+    "protocol": "socks5",
+    "ip": "78.63.115.20",
+    "port": 8899,
     "country": "Lithuania",
     "country_code": "LT",
-    "city": "Klaipėda",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 8.97,
+    "city": "Vilnius",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.91,
     "asn": "AS8764",
     "isp": "Telia Lietuva",
-    "latency_ms": 4916.88,
-    "last_checked": 1790861943.4389706
+    "latency_ms": 3204.82,
+    "last_checked": 1790862529.4935155
+  },
+  {
+    "protocol": "http",
+    "ip": "89.116.173.233",
+    "port": 2224,
+    "country": "Lithuania",
+    "country_code": "LT",
+    "city": "Vilnius",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 12.72,
+    "asn": "AS46475",
+    "isp": "Limestone Networks, Inc.",
+    "latency_ms": 20899.53,
+    "last_checked": 1790862518.0536501
   }
 ]
