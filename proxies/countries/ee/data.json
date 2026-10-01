@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 50.5,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 142.74,
-    "last_checked": 1790856589.504682
-  },
-  {
     "protocol": "socks4",
     "ip": "185.157.111.3",
     "port": 5678,
@@ -26,8 +11,23 @@
     "uptime_percent": 61.87,
     "asn": "AS202652",
     "isp": "SkyLive Telecom ldt",
-    "latency_ms": 1213.93,
-    "last_checked": 1790856572.0421524
+    "latency_ms": 218.09,
+    "last_checked": 1790857144.1974237
+  },
+  {
+    "protocol": "socks5",
+    "ip": "132.243.168.30",
+    "port": 9150,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.87,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 1081.11,
+    "last_checked": 1790857131.636137
   },
   {
     "protocol": "http",
@@ -38,10 +38,40 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 47.94,
+    "uptime_percent": 47.95,
     "asn": "AS198068",
     "isp": "P.A.G.M. OU",
-    "latency_ms": 9055.99,
-    "last_checked": 1790856552.429311
+    "latency_ms": 15202.27,
+    "last_checked": 1790857115.983343
+  },
+  {
+    "protocol": "socks4",
+    "ip": "146.19.143.200",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 51.86,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 11429.31,
+    "last_checked": 1790857115.7679646
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.128",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 50.5,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 162.13,
+    "last_checked": 1790857113.7941442
   }
 ]
