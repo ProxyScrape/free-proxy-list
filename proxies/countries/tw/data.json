@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "223.165.10.13",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "203.73.62.104",
+    "port": 60808,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Banqiao",
+    "city": "New Taipei City",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 6.38,
-    "asn": "AS133955",
-    "isp": "TWD-COM",
-    "latency_ms": 1607.25,
-    "last_checked": 1790840341.6691823
+    "ssl": false,
+    "uptime_percent": 3.42,
+    "asn": "AS4780",
+    "isp": "Digital United Inc.",
+    "latency_ms": 18773.7,
+    "last_checked": 1790840952.6098719
+  },
+  {
+    "protocol": "http",
+    "ip": "34.81.160.132",
+    "port": 80,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 40.08,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 4644.5,
+    "last_checked": 1790840945.2196372
   },
   {
     "protocol": "socks5",
@@ -23,11 +38,26 @@
     "city": "Neihu District",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 66.91,
+    "uptime_percent": 66.92,
     "asn": "AS148996",
     "isp": "SILKERA",
-    "latency_ms": 4277.89,
-    "last_checked": 1790840340.0960252
+    "latency_ms": 1612.72,
+    "last_checked": 1790840937.0228462
+  },
+  {
+    "protocol": "socks5",
+    "ip": "202.160.76.169",
+    "port": 1080,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Neihu District",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 66.66,
+    "asn": "AS148996",
+    "isp": "SILKERA",
+    "latency_ms": 1525.76,
+    "last_checked": 1790840901.7898717
   },
   {
     "protocol": "socks5",
@@ -38,10 +68,25 @@
     "city": "Neihu District",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 67.33,
+    "uptime_percent": 67.36,
     "asn": "AS148996",
     "isp": "SILKERA",
-    "latency_ms": 2863.19,
-    "last_checked": 1790840326.5871358
+    "latency_ms": 1936.39,
+    "last_checked": 1790840889.039783
+  },
+  {
+    "protocol": "http",
+    "ip": "122.117.203.252",
+    "port": 3128,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Kaohsiung",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.07,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 12496.28,
+    "last_checked": 1790840888.563565
   }
 ]
