@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "168.138.9.147",
     "port": 1080,
     "country": "Australia",
@@ -8,11 +8,26 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 28.88,
+    "uptime_percent": 33.76,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 7611.3,
-    "last_checked": 1790832878.8487089
+    "latency_ms": 2744.53,
+    "last_checked": 1790833470.4392853
+  },
+  {
+    "protocol": "http",
+    "ip": "198.251.85.115",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 61.19,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 15247.14,
+    "last_checked": 1790833445.1352253
   },
   {
     "protocol": "http",
@@ -26,37 +41,7 @@
     "uptime_percent": 67.63,
     "asn": "AS45577",
     "isp": "Intervolve Pty Ltd",
-    "latency_ms": 8317.38,
-    "last_checked": 1790832856.5768497
-  },
-  {
-    "protocol": "http",
-    "ip": "198.251.85.115",
-    "port": 3128,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 61.2,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 10512.4,
-    "last_checked": 1790832855.9208841
-  },
-  {
-    "protocol": "http",
-    "ip": "130.162.192.208",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 29.61,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 12956.47,
-    "last_checked": 1790832791.3567176
+    "latency_ms": 4284.48,
+    "last_checked": 1790833428.1214802
   }
 ]
