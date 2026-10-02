@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "195.225.116.15",
+    "port": 4145,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Tann",
+    "city": "Wädenswil",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 44.63,
-    "asn": "AS51395",
-    "isp": "Datasource AG",
-    "latency_ms": 7369.78,
-    "last_checked": 1790918980.983844
+    "ssl": true,
+    "uptime_percent": 27.97,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 1062.8,
+    "last_checked": 1790919550.0897007
   },
   {
     "protocol": "socks5",
@@ -26,7 +26,22 @@
     "uptime_percent": 79.93,
     "asn": "AS56803",
     "isp": "Datasource AG",
-    "latency_ms": 91.7,
-    "last_checked": 1790918963.0347748
+    "latency_ms": 1086.47,
+    "last_checked": 1790919526.443133
+  },
+  {
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 44.64,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 32.69,
+    "last_checked": 1790919497.2702332
   }
 ]
