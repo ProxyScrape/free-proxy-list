@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "190.104.143.94",
-    "port": 4153,
-    "country": "Paraguay",
-    "country_code": "PY",
-    "city": "Asunción",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 12.47,
-    "asn": "AS27895",
-    "isp": "Núcleo S.A.",
-    "latency_ms": 4299.17,
-    "last_checked": 1790905489.5216882
-  },
-  {
     "protocol": "socks5",
     "ip": "181.94.197.37",
     "port": 13049,
@@ -26,8 +11,23 @@
     "uptime_percent": 51.19,
     "asn": "AS27895",
     "isp": "Núcleo S.A.",
-    "latency_ms": 1477.03,
-    "last_checked": 1790905454.0840054
+    "latency_ms": 2510.06,
+    "last_checked": 1790906034.9989166
+  },
+  {
+    "protocol": "http",
+    "ip": "181.233.100.100",
+    "port": 8080,
+    "country": "Paraguay",
+    "country_code": "PY",
+    "city": "San Estanislao",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 16.04,
+    "asn": "AS272099",
+    "isp": "Wirschke Monges Ricardo Daniel",
+    "latency_ms": 17192.5,
+    "last_checked": 1790906041.3866885
   },
   {
     "protocol": "http",
@@ -37,41 +37,11 @@
     "country_code": "PY",
     "city": "Ciudad del Este",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 41.31,
+    "ssl": false,
+    "uptime_percent": 41.53,
     "asn": "AS61512",
     "isp": "Cogent Communications",
-    "latency_ms": 1078.29,
-    "last_checked": 1790905347.9290872
-  },
-  {
-    "protocol": "http",
-    "ip": "190.128.201.236",
-    "port": 3128,
-    "country": "Paraguay",
-    "country_code": "PY",
-    "city": "Asunción",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.93,
-    "asn": "AS23201",
-    "isp": "Telecel S.A.",
-    "latency_ms": 8303.76,
-    "last_checked": 1790905313.2702425
-  },
-  {
-    "protocol": "http",
-    "ip": "181.233.100.101",
-    "port": 8080,
-    "country": "Paraguay",
-    "country_code": "PY",
-    "city": "San Estanislao",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 17.33,
-    "asn": "AS272099",
-    "isp": "Wirschke Monges Ricardo Daniel",
-    "latency_ms": 13237.79,
-    "last_checked": 1790905308.2488248
+    "latency_ms": 4384.28,
+    "last_checked": 1790905890.0035644
   }
 ]
