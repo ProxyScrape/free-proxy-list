@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "82.115.60.51",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "217.151.230.186",
+    "port": 9055,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 64.06,
-    "asn": "AS200590",
-    "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 7812.36,
-    "last_checked": 1790938425.260738
+    "ssl": true,
+    "uptime_percent": 15.93,
+    "asn": "AS9123",
+    "isp": "JSC \"TIMEWEB\"",
+    "latency_ms": 1430.9,
+    "last_checked": 1790939092.2862086
+  },
+  {
+    "protocol": "socks4",
+    "ip": "217.151.230.186",
+    "port": 9055,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.24,
+    "asn": "AS9123",
+    "isp": "JSC \"TIMEWEB\"",
+    "latency_ms": 1444.3,
+    "last_checked": 1790939073.1360576
+  },
+  {
+    "protocol": "http",
+    "ip": "93.185.68.82",
+    "port": 8080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Atyrau",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 29.31,
+    "asn": "AS35104",
+    "isp": "JSC \"KazTransCom\"",
+    "latency_ms": 9198.85,
+    "last_checked": 1790939027.1909678
   }
 ]
