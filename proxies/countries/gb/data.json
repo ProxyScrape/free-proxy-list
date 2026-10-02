@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "82.9.133.51",
+    "port": 9150,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "Hinckley",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 21.87,
+    "asn": "AS5089",
+    "isp": "Virgin Media Limited",
+    "latency_ms": 3791.67,
+    "last_checked": 1790960983.1041305
+  },
+  {
     "protocol": "socks4",
     "ip": "185.73.39.118",
     "port": 9999,
@@ -8,26 +23,11 @@
     "city": "London",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 99.77,
+    "uptime_percent": 99.78,
     "asn": "AS6364",
     "isp": "Atlantic.net, Inc.",
-    "latency_ms": 65.6,
-    "last_checked": 1790960390.7615948
-  },
-  {
-    "protocol": "socks5",
-    "ip": "176.126.241.182",
-    "port": 1080,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 17.66,
-    "asn": "AS44684",
-    "isp": "Mythic Beasts Ltd",
-    "latency_ms": 3300.37,
-    "last_checked": 1790960377.944046
+    "latency_ms": 66.98,
+    "last_checked": 1790960979.3832655
   },
   {
     "protocol": "socks5",
@@ -41,23 +41,23 @@
     "uptime_percent": 99.87,
     "asn": "AS6364",
     "isp": "Atlantic.net, Inc.",
-    "latency_ms": 87.97,
-    "last_checked": 1790960362.2073655
+    "latency_ms": 1438.82,
+    "last_checked": 1790960958.5803225
   },
   {
-    "protocol": "socks5",
-    "ip": "8.211.194.85",
-    "port": 3128,
+    "protocol": "http",
+    "ip": "8.211.200.183",
+    "port": 8080,
     "country": "United Kingdom",
     "country_code": "GB",
     "city": "London",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 0.96,
+    "ssl": false,
+    "uptime_percent": 1.1,
     "asn": "AS45102",
     "isp": "Alibaba (US) Technology Co., Ltd.",
-    "latency_ms": 6985.75,
-    "last_checked": 1790960343.6053345
+    "latency_ms": 2049.58,
+    "last_checked": 1790960957.891781
   },
   {
     "protocol": "http",
@@ -71,38 +71,8 @@
     "uptime_percent": 99.88,
     "asn": "AS6364",
     "isp": "Atlantic.net, Inc.",
-    "latency_ms": 68.48,
-    "last_checked": 1790960343.066311
-  },
-  {
-    "protocol": "socks5",
-    "ip": "8.211.194.85",
-    "port": 312,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 0.96,
-    "asn": "AS45102",
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "latency_ms": 8196.88,
-    "last_checked": 1790960342.0026095
-  },
-  {
-    "protocol": "http",
-    "ip": "194.164.22.24",
-    "port": 8080,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 30.96,
-    "asn": "AS8560",
-    "isp": "IONOS SE",
-    "latency_ms": 5135.57,
-    "last_checked": 1790960322.248898
+    "latency_ms": 1601.61,
+    "last_checked": 1790960957.250523
   },
   {
     "protocol": "socks5",
@@ -113,10 +83,55 @@
     "city": "London",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 55.8,
+    "uptime_percent": 55.81,
     "asn": "AS46562",
     "isp": "Performive LLC",
-    "latency_ms": 891.34,
-    "last_checked": 1790960261.5969946
+    "latency_ms": 889.07,
+    "last_checked": 1790960956.5650578
+  },
+  {
+    "protocol": "socks5",
+    "ip": "8.211.195.139",
+    "port": 8443,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 0.85,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 11272.3,
+    "last_checked": 1790960865.0052567
+  },
+  {
+    "protocol": "http",
+    "ip": "8.211.194.78",
+    "port": 138,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 1.03,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 2042.18,
+    "last_checked": 1790960829.4402719
+  },
+  {
+    "protocol": "socks5",
+    "ip": "8.211.200.183",
+    "port": 45,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 1.24,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 15715.48,
+    "last_checked": 1790960726.933631
   }
 ]
