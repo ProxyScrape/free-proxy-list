@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "88.218.92.64",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "130.193.123.34",
+    "port": 5678,
     "country": "Armenia",
     "country_code": "AM",
     "city": "Yerevan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 63.91,
-    "asn": "AS196709",
-    "isp": "GNC-Alfa CJSC",
-    "latency_ms": 8363.84,
-    "last_checked": 1790916263.792903
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.72,
+    "asn": "AS49800",
+    "isp": "GNC",
+    "latency_ms": 280.09,
+    "last_checked": 1790916855.540857
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.142.195.110",
+    "port": 995,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.94,
+    "asn": "AS215929",
+    "isp": "Data Campus Limited",
+    "latency_ms": 5644.63,
+    "last_checked": 1790916805.914952
   }
 ]
