@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "195.123.212.87",
-    "port": 3056,
+    "protocol": "socks5",
+    "ip": "195.135.255.98",
+    "port": 1080,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 28.32,
-    "asn": "AS50979",
-    "isp": "Green Floid LLC",
-    "latency_ms": 9359.09,
-    "last_checked": 1790915044.744936
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 71.42,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 185.58,
+    "last_checked": 1790915671.6944654
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.242.107.224",
+    "port": 9999,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 6.57,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 11530.2,
+    "last_checked": 1790915629.9354432
   }
 ]
