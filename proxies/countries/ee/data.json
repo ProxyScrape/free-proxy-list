@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "146.19.143.200",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.34,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 3214.12,
+    "last_checked": 1791021572.5771375
+  },
+  {
+    "protocol": "socks4",
     "ip": "185.157.111.3",
     "port": 5678,
     "country": "Estonia",
@@ -11,8 +26,8 @@
     "uptime_percent": 61.87,
     "asn": "AS202652",
     "isp": "SkyLive Telecom ldt",
-    "latency_ms": 7398.66,
-    "last_checked": 1791020996.1592336
+    "latency_ms": 212.15,
+    "last_checked": 1791021565.8241308
   },
   {
     "protocol": "http",
@@ -26,38 +41,8 @@
     "uptime_percent": 50.96,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 164.29,
-    "last_checked": 1791020984.7182271
-  },
-  {
-    "protocol": "http",
-    "ip": "193.42.112.26",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Kuusalu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.95,
-    "asn": "AS199144",
-    "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 2120.57,
-    "last_checked": 1791020931.641228
-  },
-  {
-    "protocol": "http",
-    "ip": "5.188.23.147",
-    "port": 5555,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 45.6,
-    "asn": "AS198068",
-    "isp": "P.A.G.M. OU",
-    "latency_ms": 7279.81,
-    "last_checked": 1791020923.8797438
+    "latency_ms": 161.51,
+    "last_checked": 1791021550.6673737
   },
   {
     "protocol": "socks5",
@@ -68,10 +53,25 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 45.89,
+    "uptime_percent": 45.91,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 9457.24,
-    "last_checked": 1791020904.2328985
+    "latency_ms": 10513.92,
+    "last_checked": 1791021542.1176426
+  },
+  {
+    "protocol": "http",
+    "ip": "193.42.112.26",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Kuusalu",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 39.97,
+    "asn": "AS199144",
+    "isp": "HexCore cloud s.r.o.",
+    "latency_ms": 6603.31,
+    "last_checked": 1791021537.9551585
   }
 ]
