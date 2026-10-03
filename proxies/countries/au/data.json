@@ -1,18 +1,48 @@
 [
   {
     "protocol": "http",
-    "ip": "159.196.182.72",
+    "ip": "180.181.215.232",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.19,
+    "asn": "AS4764",
+    "isp": "Aussie Fibre Pty Ltd",
+    "latency_ms": 3625.91,
+    "last_checked": 1790999360.8373053
+  },
+  {
+    "protocol": "socks5",
+    "ip": "108.61.185.188",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 65.9,
+    "asn": "AS20473",
+    "isp": "Choopa",
+    "latency_ms": 3948.06,
+    "last_checked": 1790999325.1113544
+  },
+  {
+    "protocol": "http",
+    "ip": "51.161.142.97",
     "port": 8080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "transparent",
+    "city": "Sydney",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 25.06,
-    "asn": "AS4764",
-    "isp": "Aussie Fibre Pty Ltd",
-    "latency_ms": 10088.04,
-    "last_checked": 1790998766.3618062
+    "uptime_percent": 30.68,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 17877.48,
+    "last_checked": 1790999323.2687652
   },
   {
     "protocol": "socks4",
@@ -23,26 +53,11 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 55.31,
+    "uptime_percent": 55.45,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 6395.26,
-    "last_checked": 1790998754.8788922
-  },
-  {
-    "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 68.13,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 12520.55,
-    "last_checked": 1790998702.1847167
+    "latency_ms": 6801.45,
+    "last_checked": 1790999319.5519805
   },
   {
     "protocol": "http",
@@ -56,7 +71,37 @@
     "uptime_percent": 10.64,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 7853.53,
-    "last_checked": 1790998656.6207397
+    "latency_ms": 12276.94,
+    "last_checked": 1790999301.783824
+  },
+  {
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 68.13,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 6437.93,
+    "last_checked": 1790999293.0536382
+  },
+  {
+    "protocol": "http",
+    "ip": "103.18.205.162",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.93,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 3525.97,
+    "last_checked": 1790999243.5901728
   }
 ]
