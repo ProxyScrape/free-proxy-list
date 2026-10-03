@@ -1,21 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "62.220.129.81",
-    "port": 8080,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Lausanne",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 34.27,
-    "asn": "AS6893",
-    "isp": "Saitis Network, N.Desir",
-    "latency_ms": 3116.04,
-    "last_checked": 1791006877.0702112
-  },
-  {
-    "protocol": "http",
     "ip": "185.85.111.18",
     "port": 80,
     "country": "Switzerland",
@@ -26,8 +11,23 @@
     "uptime_percent": 44.78,
     "asn": "AS51395",
     "isp": "Datasource AG",
-    "latency_ms": 4756.26,
-    "last_checked": 1791006854.081218
+    "latency_ms": 4080.04,
+    "last_checked": 1791007183.650372
+  },
+  {
+    "protocol": "http",
+    "ip": "62.220.129.81",
+    "port": 8080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Lausanne",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 34.32,
+    "asn": "AS6893",
+    "isp": "Saitis Network, N.Desir",
+    "latency_ms": 7152.12,
+    "last_checked": 1791007182.0642548
   },
   {
     "protocol": "socks4",
@@ -41,7 +41,52 @@
     "uptime_percent": 27.93,
     "asn": "AS48971",
     "isp": "netz116",
-    "latency_ms": 3081.0,
-    "last_checked": 1791006831.8719392
+    "latency_ms": 49.67,
+    "last_checked": 1791007175.9240818
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.11,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 9167.56,
+    "last_checked": 1791007170.8648064
+  },
+  {
+    "protocol": "socks4",
+    "ip": "195.225.116.14",
+    "port": 4145,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wädenswil",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.07,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 1081.05,
+    "last_checked": 1791007162.4163017
+  },
+  {
+    "protocol": "socks5",
+    "ip": "91.92.155.207",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 2.26,
+    "asn": "AS61098",
+    "isp": "Akenes SA",
+    "latency_ms": 46.58,
+    "last_checked": 1791007063.3868916
   }
 ]
