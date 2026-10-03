@@ -1,22 +1,19 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,45.229.16.33,999,Ecuador,EC,San Juan,transparent,true,13.15,AS271967,Turbonet S.A.,3515.66,1791070429.7731943
-http,205.235.1.34,999,Ecuador,EC,Guayaquil,transparent,true,35.07,AS23031,Telecu Telecomunicaciones Del Ecuador Telecusa S.A.S.,2785.08,1791070428.6367645
-http,177.234.221.200,999,Ecuador,EC,Huaquillas,transparent,false,44.39,AS52468,Ufinet Panama S.A.,3338.14,1791070428.4329417
-http,181.188.203.40,999,Ecuador,EC,Montalvo,transparent,true,71.73,AS52468,Ufinet Panama S.A.,681.5,1791070426.503595
-http,157.100.52.68,999,Ecuador,EC,Guayaquil,transparent,false,21.19,AS52468,Ufinet Panama S.A.,3689.56,1791070425.8025124
-http,177.234.221.204,999,Ecuador,EC,Huaquillas,transparent,true,44.9,AS52468,Ufinet Panama S.A.,1677.89,1791070423.840423
-http,181.78.207.50,999,Ecuador,EC,Cuenca,transparent,true,20.14,AS52468,Ufinet Panama S.A.,3951.71,1791070423.4031565
-http,181.78.203.3,999,Ecuador,EC,Quito,transparent,false,17.54,AS52468,Ufinet Panama S.A.,1853.94,1791070422.4688008
-http,181.78.195.137,999,Ecuador,EC,Naranjito,transparent,false,41.08,AS52468,Ufinet Panama S.A.,1870.34,1791070413.2798426
-http,177.234.236.133,8080,Ecuador,EC,Machala,transparent,false,23.12,AS52468,Ufinet Panama S.A.,1734.74,1791070412.3207695
-http,181.188.203.112,999,Ecuador,EC,Montalvo,transparent,false,47.0,AS52468,Ufinet Panama S.A.,12065.46,1791070410.3556216
-http,177.234.217.43,999,Ecuador,EC,Quito,transparent,false,19.86,AS52468,Ufinet Panama S.A.,4861.05,1791070409.7607682
-http,177.234.217.88,999,Ecuador,EC,Quito,transparent,false,38.49,AS52468,Ufinet Panama S.A.,10201.18,1791070409.594953
-http,45.229.17.74,999,Ecuador,EC,Echeandia,transparent,true,12.67,AS271967,Turbonet S.A.,1653.61,1791070403.9762585
-http,45.229.17.62,999,Ecuador,EC,San Juan,transparent,false,9.71,AS271967,Turbonet S.A.,7876.47,1791070401.192172
+socks4,45.71.115.17,1080,Ecuador,EC,Guayaquil,elite,true,28.25,AS52468,Ufinet Panama S.A.,823.91,1791071056.4034321
+http,181.78.195.137,999,Ecuador,EC,Naranjito,transparent,false,41.08,AS52468,Ufinet Panama S.A.,4059.18,1791071053.4747007
+http,181.78.203.148,999,Ecuador,EC,Quito,transparent,true,15.15,AS52468,Ufinet Panama S.A.,5783.08,1791071052.3191855
+http,181.188.203.40,999,Ecuador,EC,Montalvo,transparent,false,71.71,AS52468,Ufinet Panama S.A.,6111.76,1791071051.6132574
+http,181.188.203.112,999,Ecuador,EC,Montalvo,transparent,false,47.0,AS52468,Ufinet Panama S.A.,6090.2,1791071047.29785
+socks4,160.20.165.242,8080,Ecuador,EC,Babahoyo,elite,true,50.33,AS52468,Ufinet Panama S.A.,856.45,1791071047.1999102
+http,177.234.217.235,999,Ecuador,EC,Quito,transparent,false,39.0,AS52468,Ufinet Panama S.A.,13466.56,1791071043.2448425
+http,190.12.150.244,999,Ecuador,EC,Quito,transparent,true,73.09,AS271795,Servitelconet Cia. Ltda.,1480.81,1791071040.7432075
+http,205.235.1.34,999,Ecuador,EC,Guayaquil,transparent,true,35.07,AS23031,Telecu Telecomunicaciones Del Ecuador Telecusa S.A.S.,2008.09,1791071039.9625282
+http,45.190.87.44,999,Ecuador,EC,Vinces,transparent,false,14.21,AS274063,Rimtel S.A.S.,3811.57,1791071031.2096782
+http,181.198.66.34,999,Ecuador,EC,Coronel Marcelino Maridueña,transparent,true,23.13,AS27947,Telconet S.A,10736.14,1791071029.6490264
+http,177.234.217.88,999,Ecuador,EC,Quito,transparent,false,38.49,AS52468,Ufinet Panama S.A.,10325.73,1791071022.9930186
 http,177.234.217.45,999,Ecuador,EC,Quito,transparent,true,20.44,AS52468,Ufinet Panama S.A.,5305.49,1791070736.4928536
 http,177.234.221.197,999,Ecuador,EC,Huaquillas,transparent,true,42.47,AS52468,Ufinet Panama S.A.,2721.25,1791070721.0047944
-http,190.12.150.244,999,Ecuador,EC,Quito,transparent,true,73.09,AS271795,Servitelconet Cia. Ltda.,5437.25,1791070706.096062
+http,177.234.221.200,999,Ecuador,EC,Huaquillas,transparent,false,44.39,AS52468,Ufinet Panama S.A.,9731.1,1791070719.4004967
 http,181.233.50.233,8787,Ecuador,EC,Loja,transparent,false,19.81,AS272094,Optilink CIA Ltda,3060.26,1791070700.5435424
 http,181.224.175.240,999,Ecuador,EC,Naranjal,transparent,false,10.59,AS273141,Micarmita S.A.S,10600.27,1791070695.424753
 http,200.24.153.151,999,Ecuador,EC,Manta,transparent,false,7.49,AS52468,Ufinet Panama S.A.,6710.76,1791070683.4398947
@@ -25,9 +22,13 @@ http,177.234.221.196,999,Ecuador,EC,Huaquillas,transparent,false,44.31,AS52468,U
 http,200.24.152.222,999,Ecuador,EC,Manta,transparent,false,20.57,AS52468,Negocios Y Telefonia Nedetel S.A,3852.16,1791070667.4075735
 http,45.224.22.63,999,Ecuador,EC,Santa Ana de Vuelta Larga,transparent,false,6.48,AS52468,Ufinet Panama S.A.,16270.32,1791070665.4661689
 http,177.234.221.198,999,Ecuador,EC,Huaquillas,transparent,false,44.67,AS52468,Ufinet Panama S.A.,951.9,1791070663.4144292
+http,177.234.221.204,999,Ecuador,EC,Huaquillas,transparent,false,44.91,AS52468,Ufinet Panama S.A.,2080.04,1791070649.091161
 http,181.224.175.200,999,Ecuador,EC,Naranjal,transparent,false,23.57,AS273141,Micarmita S.A.S,8012.58,1791070646.7242496
 http,45.229.17.137,999,Ecuador,EC,Guayaquil,transparent,false,14.88,AS271967,Turbonet S.A.,5553.34,1791070638.3893018
+http,177.234.236.133,8080,Ecuador,EC,Machala,transparent,false,23.12,AS52468,Ufinet Panama S.A.,11090.28,1791070636.5207899
 http,45.71.186.212,999,Ecuador,EC,Naranjito,transparent,false,34.04,AS52468,Ufinet Panama S.A.,3366.72,1791070634.4927332
+http,177.234.217.43,999,Ecuador,EC,Quito,transparent,true,19.86,AS52468,Ufinet Panama S.A.,3738.41,1791070630.3852859
 http,177.234.222.109,999,Ecuador,EC,Riobamba,transparent,false,10.94,AS52468,Ufinet Panama S.A.,5601.5,1791070625.6808739
 http,177.234.210.47,999,Ecuador,EC,Quito,transparent,false,15.59,AS52468,Ufinet Panama S.A.,9721.35,1791070624.13165
+http,45.229.17.74,999,Ecuador,EC,Echeandia,transparent,false,12.67,AS271967,Turbonet S.A.,7971.0,1791070623.4465263
 http,177.234.194.173,999,Ecuador,EC,Guayaquil,transparent,false,5.84,AS52468,Ufinet Panama S.A.,10303.38,1791070617.864862
