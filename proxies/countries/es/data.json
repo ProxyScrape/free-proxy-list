@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "45.81.154.75",
-    "port": 1080,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Navalcarnero",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 86.47,
-    "asn": "",
-    "isp": "GINERNET",
-    "latency_ms": 2876.64,
-    "last_checked": 1791071041.4957237
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.81.154.75",
-    "port": 1080,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Navalcarnero",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 86.36,
-    "asn": "",
-    "isp": "GINERNET",
-    "latency_ms": 4407.18,
-    "last_checked": 1791071038.0109537
-  },
-  {
     "protocol": "http",
     "ip": "195.114.209.50",
     "port": 80,
@@ -41,8 +11,23 @@
     "uptime_percent": 69.69,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 115.63,
-    "last_checked": 1791071021.39378
+    "latency_ms": 114.79,
+    "last_checked": 1791071666.098254
+  },
+  {
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Ciempozuelos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.31,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 7351.61,
+    "last_checked": 1791071658.6101105
   },
   {
     "protocol": "http",
@@ -52,12 +37,27 @@
     "country_code": "ES",
     "city": "Mollet del Vallès",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 23.58,
     "asn": "AS15704",
     "isp": "Xtra Telecom S.A.",
-    "latency_ms": 9797.96,
-    "last_checked": 1791071021.1015258
+    "latency_ms": 4666.7,
+    "last_checked": 1791071651.112725
+  },
+  {
+    "protocol": "socks5",
+    "ip": "212.231.230.141",
+    "port": 18500,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Las Palmas de Gran Canaria",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 61.28,
+    "asn": "AS15704",
+    "isp": "Xtra Telecom S.A",
+    "latency_ms": 417.01,
+    "last_checked": 1791071650.2788746
   },
   {
     "protocol": "http",
@@ -106,17 +106,17 @@
   },
   {
     "protocol": "socks5",
-    "ip": "212.231.230.141",
-    "port": 18500,
+    "ip": "45.81.154.75",
+    "port": 1080,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Las Palmas de Gran Canaria",
+    "city": "Navalcarnero",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 61.28,
-    "asn": "AS15704",
-    "isp": "Xtra Telecom S.A",
-    "latency_ms": 296.08,
-    "last_checked": 1791071178.7827418
+    "uptime_percent": 86.36,
+    "asn": "",
+    "isp": "GINERNET",
+    "latency_ms": 1957.3,
+    "last_checked": 1791071205.135372
   }
 ]

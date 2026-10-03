@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "46.10.198.10",
+    "port": 4153,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.97,
+    "asn": "AS8866",
+    "isp": "Vivacom Bulgaria EAD",
+    "latency_ms": 148.1,
+    "last_checked": 1791071669.3710637
+  },
+  {
     "protocol": "socks5",
     "ip": "185.232.170.87",
     "port": 10808,
@@ -8,26 +23,56 @@
     "city": "Sofia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 90.89,
+    "uptime_percent": 90.74,
     "asn": "AS200740",
     "isp": "First Server Limited",
-    "latency_ms": 9728.34,
-    "last_checked": 1791071064.464188
+    "latency_ms": 3362.63,
+    "last_checked": 1791071662.942472
   },
   {
-    "protocol": "socks5",
-    "ip": "31.211.142.115",
-    "port": 8192,
+    "protocol": "http",
+    "ip": "213.169.33.10",
+    "port": 8001,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Pleven",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.98,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 3765.34,
+    "last_checked": 1791071657.9847286
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.232.170.87",
+    "port": 10808,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 44.74,
-    "asn": "AS197897",
-    "isp": "5KOM",
-    "latency_ms": 3248.11,
-    "last_checked": 1791071051.8726897
+    "uptime_percent": 86.77,
+    "asn": "AS200740",
+    "isp": "First Server Limited",
+    "latency_ms": 2050.94,
+    "last_checked": 1791071639.3877738
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.73.134.234",
+    "port": 7777,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.81,
+    "asn": "AS34224",
+    "isp": "VPS.BG",
+    "latency_ms": 7701.3,
+    "last_checked": 1791071632.4105837
   },
   {
     "protocol": "socks5",
@@ -43,5 +88,20 @@
     "isp": "Akenes SA",
     "latency_ms": 4366.34,
     "last_checked": 1791071327.327995
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pleven",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.74,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 231.92,
+    "last_checked": 1791071207.739236
   }
 ]
