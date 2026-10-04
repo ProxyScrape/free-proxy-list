@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "193.23.200.117",
-    "port": 1085,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 40.78,
-    "asn": "AS207957",
-    "isp": "SERV.HOST GROUP LTD",
-    "latency_ms": 4035.56,
-    "last_checked": 1791119953.611756
-  },
-  {
-    "protocol": "socks5",
-    "ip": "79.76.59.115",
-    "port": 1080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 49.32,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 792.34,
-    "last_checked": 1791119931.632743
-  },
-  {
     "protocol": "http",
     "ip": "213.193.197.75",
     "port": 3128,
@@ -37,27 +7,12 @@
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 52.81,
+    "ssl": true,
+    "uptime_percent": 52.89,
     "asn": "AS48040",
     "isp": "Fornex Hosting S.L.",
-    "latency_ms": 17832.04,
-    "last_checked": 1791119929.8366807
-  },
-  {
-    "protocol": "http",
-    "ip": "217.64.149.146",
-    "port": 8118,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 3.45,
-    "asn": "AS42675",
-    "isp": "OVPN",
-    "latency_ms": 10233.49,
-    "last_checked": 1791120237.3341775
+    "latency_ms": 212.23,
+    "last_checked": 1791120559.872042
   },
   {
     "protocol": "socks5",
@@ -71,38 +26,8 @@
     "uptime_percent": 28.39,
     "asn": "AS210644",
     "isp": "xorek.cloud International LTD",
-    "latency_ms": 2084.05,
-    "last_checked": 1791120234.1484425
-  },
-  {
-    "protocol": "socks5",
-    "ip": "171.25.158.95",
-    "port": 1080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Vaxjo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 93.0,
-    "asn": "AS35100",
-    "isp": "Patrik Lagerman",
-    "latency_ms": 374.52,
-    "last_checked": 1791120222.324936
-  },
-  {
-    "protocol": "http",
-    "ip": "212.113.100.114",
-    "port": 8089,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 5.86,
-    "asn": "AS210644",
-    "isp": "xorek.cloud International LTD",
-    "latency_ms": 4503.66,
-    "last_checked": 1791120213.4378421
+    "latency_ms": 11331.49,
+    "last_checked": 1791120553.9891355
   },
   {
     "protocol": "socks5",
@@ -116,8 +41,23 @@
     "uptime_percent": 56.03,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 769.01,
-    "last_checked": 1791120179.9654195
+    "latency_ms": 1285.46,
+    "last_checked": 1791120539.1186624
+  },
+  {
+    "protocol": "socks5",
+    "ip": "171.25.158.95",
+    "port": 1080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Vaxjo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 93.0,
+    "asn": "AS35100",
+    "isp": "Patrik Lagerman",
+    "latency_ms": 1285.7,
+    "last_checked": 1791120536.3569438
   },
   {
     "protocol": "socks5",
@@ -128,26 +68,56 @@
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 34.66,
+    "uptime_percent": 34.68,
     "asn": "AS207957",
     "isp": "SERV.HOST GROUP LTD",
-    "latency_ms": 12449.43,
-    "last_checked": 1791120141.8810673
+    "latency_ms": 12875.87,
+    "last_checked": 1791120532.300086
+  },
+  {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 8001,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 63.76,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 205.12,
+    "last_checked": 1791120524.7947607
+  },
+  {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 80,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 64.93,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 149.21,
+    "last_checked": 1791120519.6192002
   },
   {
     "protocol": "socks5",
-    "ip": "91.90.25.89",
+    "ip": "79.76.52.220",
     "port": 1080,
     "country": "Sweden",
     "country_code": "SE",
-    "city": "Falköping",
+    "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 37.93,
-    "asn": "AS35100",
-    "isp": "Patrik Lagerman WEB, Enskild Firma",
-    "latency_ms": 12041.88,
-    "last_checked": 1791120116.8631783
+    "uptime_percent": 22.52,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 151.85,
+    "last_checked": 1791120431.2654994
   },
   {
     "protocol": "socks5",
@@ -161,7 +131,7 @@
     "uptime_percent": 72.46,
     "asn": "AS63473",
     "isp": "HostHatch",
-    "latency_ms": 8855.96,
-    "last_checked": 1791120062.8038192
+    "latency_ms": 15267.72,
+    "last_checked": 1791120352.1850402
   }
 ]
