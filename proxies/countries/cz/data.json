@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Brno",
+    "city": "Klatovy",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 6.69,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 1063.13,
+    "last_checked": 1791093554.3770435
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.102.149",
+    "port": 800,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 70.72,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 45.95,
-    "last_checked": 1791092924.649917
+    "uptime_percent": 30.14,
+    "asn": "AS42189",
+    "isp": "Druzstvo EUROSIGNAL",
+    "latency_ms": 1397.77,
+    "last_checked": 1791093544.496413
   },
   {
     "protocol": "http",
@@ -26,7 +41,22 @@
     "uptime_percent": 27.5,
     "asn": "AS212975",
     "isp": "TeamCity s.r.o.",
-    "latency_ms": 2903.81,
-    "last_checked": 1791092896.3737433
+    "latency_ms": 7719.63,
+    "last_checked": 1791093521.8755827
+  },
+  {
+    "protocol": "http",
+    "ip": "90.181.120.18",
+    "port": 8082,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.96,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 2416.6,
+    "last_checked": 1791093475.3613281
   }
 ]
