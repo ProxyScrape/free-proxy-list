@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "78.111.112.118",
-    "port": 4145,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Žatec",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.37,
-    "asn": "AS47232",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 77.25,
-    "last_checked": 1791151177.9364622
-  },
-  {
-    "protocol": "socks4",
     "ip": "185.218.93.36",
     "port": 1080,
     "country": "Czechia",
@@ -23,11 +8,26 @@
     "city": "Mokrá Hora",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 81.87,
+    "uptime_percent": 82.01,
     "asn": "AS28725",
     "isp": "CETIN a.s.",
-    "latency_ms": 1146.81,
-    "last_checked": 1791151149.6544733
+    "latency_ms": 142.09,
+    "last_checked": 1791151791.3666856
+  },
+  {
+    "protocol": "http",
+    "ip": "185.115.75.65",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Ostrava",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 27.37,
+    "asn": "AS212975",
+    "isp": "TeamCity s.r.o.",
+    "latency_ms": 8007.33,
+    "last_checked": 1791151774.0961378
   },
   {
     "protocol": "socks5",
@@ -41,8 +41,38 @@
     "uptime_percent": 100.0,
     "asn": "AS62212",
     "isp": "SmartApe OU",
-    "latency_ms": 159.73,
-    "last_checked": 1791151136.4267535
+    "latency_ms": 300.27,
+    "last_checked": 1791151761.541378
+  },
+  {
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 70.77,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 5954.91,
+    "last_checked": 1791151753.071972
+  },
+  {
+    "protocol": "http",
+    "ip": "217.75.208.178",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Chomutov",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.56,
+    "asn": "AS210712",
+    "isp": "Grape SC V",
+    "latency_ms": 3442.85,
+    "last_checked": 1791151742.0248249
   },
   {
     "protocol": "http",
@@ -52,26 +82,41 @@
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.05,
+    "ssl": true,
+    "uptime_percent": 30.06,
     "asn": "AS42189",
     "isp": "Druzstvo EUROSIGNAL",
-    "latency_ms": 5304.05,
-    "last_checked": 1791151075.840824
+    "latency_ms": 8412.47,
+    "last_checked": 1791151736.5256436
   },
   {
     "protocol": "http",
-    "ip": "85.207.11.133",
-    "port": 3128,
+    "ip": "77.240.97.77",
+    "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Hlučín",
-    "anonymity": "elite",
+    "city": "Dobříš",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 23.73,
-    "asn": "AS25248",
-    "isp": "BlueTone-CRa",
-    "latency_ms": 3322.98,
-    "last_checked": 1791150971.741318
+    "uptime_percent": 22.54,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 3802.37,
+    "last_checked": 1791151685.2131689
+  },
+  {
+    "protocol": "http",
+    "ip": "217.75.208.181",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Chomutov",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.3,
+    "asn": "AS210712",
+    "isp": "Grape SC V",
+    "latency_ms": 4138.92,
+    "last_checked": 1791151654.944321
   }
 ]
