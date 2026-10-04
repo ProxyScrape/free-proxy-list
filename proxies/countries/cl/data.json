@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "152.230.215.123",
+    "port": 80,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Santiago",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 43.91,
+    "asn": "AS14259",
+    "isp": "Gtd Internet S.A.",
+    "latency_ms": 704.64,
+    "last_checked": 1791134971.3036513
+  },
+  {
+    "protocol": "http",
+    "ip": "45.4.0.12",
+    "port": 999,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Santiago",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 15.81,
+    "asn": "AS265662",
+    "isp": "Tlink SPA",
+    "latency_ms": 8962.9,
+    "last_checked": 1791134960.205817
+  },
+  {
+    "protocol": "http",
     "ip": "38.7.195.52",
     "port": 999,
     "country": "Chile",
@@ -11,37 +41,37 @@
     "uptime_percent": 31.47,
     "asn": "AS263702",
     "isp": "Grupo ZGH SpA",
-    "latency_ms": 2019.74,
-    "last_checked": 1791134653.4440398
+    "latency_ms": 4571.38,
+    "last_checked": 1791134950.2898257
   },
   {
     "protocol": "http",
-    "ip": "38.7.195.49",
+    "ip": "45.225.204.192",
     "port": 999,
     "country": "Chile",
     "country_code": "CL",
-    "city": "Santiago",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 38.41,
-    "asn": "AS263702",
-    "isp": "Grupo ZGH SpA",
-    "latency_ms": 9414.1,
-    "last_checked": 1791134641.2062554
-  },
-  {
-    "protocol": "http",
-    "ip": "190.110.96.250",
-    "port": 999,
-    "country": "Chile",
-    "country_code": "CL",
-    "city": "Santiago",
+    "city": "Las Cabras",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 27.44,
-    "asn": "AS7049",
-    "isp": "Silica Networks Argentina S.A.",
-    "latency_ms": 9537.7,
-    "last_checked": 1791134614.036769
+    "uptime_percent": 17.47,
+    "asn": "AS265858",
+    "isp": "Netdelsur Telecomunicaciones SPA",
+    "latency_ms": 3871.14,
+    "last_checked": 1791134943.5329394
+  },
+  {
+    "protocol": "socks4",
+    "ip": "190.54.100.74",
+    "port": 5678,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Santiago",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.88,
+    "asn": "AS6429",
+    "isp": "Telmex Chile Internet S.A.",
+    "latency_ms": 4157.26,
+    "last_checked": 1791134938.6273403
   }
 ]
