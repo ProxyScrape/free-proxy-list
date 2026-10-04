@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "195.225.116.15",
+    "port": 4145,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wädenswil",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.79,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 3076.85,
+    "last_checked": 1791091779.9461367
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.59.123.127",
+    "port": 10800,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Bern",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.69,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 1397.69,
+    "last_checked": 1791091758.763721
+  },
+  {
     "protocol": "http",
     "ip": "185.85.111.18",
     "port": 80,
@@ -11,8 +41,23 @@
     "uptime_percent": 44.94,
     "asn": "AS51395",
     "isp": "Datasource AG",
-    "latency_ms": 32.6,
-    "last_checked": 1791091391.638418
+    "latency_ms": 31.03,
+    "last_checked": 1791091730.431184
+  },
+  {
+    "protocol": "http",
+    "ip": "62.220.129.81",
+    "port": 8080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Lausanne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 33.61,
+    "asn": "AS6893",
+    "isp": "Saitis Network, N.Desir",
+    "latency_ms": 3571.41,
+    "last_checked": 1791091695.9654415
   },
   {
     "protocol": "http",
@@ -22,11 +67,26 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 30.43,
+    "ssl": false,
+    "uptime_percent": 30.45,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 377.12,
-    "last_checked": 1791091351.3837013
+    "latency_ms": 13503.44,
+    "last_checked": 1791091664.5043871
+  },
+  {
+    "protocol": "socks5",
+    "ip": "91.92.155.207",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 16.81,
+    "asn": "AS61098",
+    "isp": "Akenes SA",
+    "latency_ms": 7275.71,
+    "last_checked": 1791091613.2317429
   }
 ]
