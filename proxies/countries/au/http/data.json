@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 68.26,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 637.39,
+    "last_checked": 1791072596.4467325
+  },
+  {
+    "protocol": "http",
     "ip": "130.162.192.208",
     "port": 8080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 29.45,
+    "ssl": false,
+    "uptime_percent": 29.46,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 4830.29,
-    "last_checked": 1791071953.1456242
+    "latency_ms": 12914.46,
+    "last_checked": 1791072560.677008
   },
   {
     "protocol": "http",
@@ -22,41 +37,11 @@
     "country_code": "AU",
     "city": "Forest Lodge",
     "anonymity": "anonymous",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 10.11,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 3223.55,
-    "last_checked": 1791071928.2290115
-  },
-  {
-    "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 8000,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Forest Lodge",
-    "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 10.66,
-    "asn": "AS2764",
-    "isp": "AAPT Limited",
-    "latency_ms": 11837.05,
-    "last_checked": 1791071926.760677
-  },
-  {
-    "protocol": "http",
-    "ip": "198.251.85.115",
-    "port": 3128,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 56.98,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 11528.08,
-    "last_checked": 1791071819.9220426
+    "latency_ms": 2837.56,
+    "last_checked": 1791072543.0187106
   }
 ]
