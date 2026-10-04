@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "196.223.129.21",
-    "port": 80,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Strand",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 36.84,
-    "asn": "AS328471",
-    "isp": "HERO TELECOMS (PTY) LTD",
-    "latency_ms": 878.03,
-    "last_checked": 1791156533.4463162
-  },
-  {
-    "protocol": "socks4",
-    "ip": "105.214.54.240",
-    "port": 5678,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Midrand",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 57.39,
-    "asn": "AS16637",
-    "isp": "MTN SA",
-    "latency_ms": 911.21,
-    "last_checked": 1791156531.9275835
-  },
-  {
     "protocol": "socks4",
     "ip": "105.214.51.182",
     "port": 5678,
@@ -41,8 +11,8 @@
     "uptime_percent": 71.97,
     "asn": "AS16637",
     "isp": "MTN SA",
-    "latency_ms": 1945.08,
-    "last_checked": 1791156526.727962
+    "latency_ms": 922.54,
+    "last_checked": 1791157199.7754006
   },
   {
     "protocol": "socks4",
@@ -53,11 +23,56 @@
     "city": "Johannesburg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 63.87,
+    "uptime_percent": 63.92,
     "asn": "AS16637",
     "isp": "MTN SA",
-    "latency_ms": 926.94,
-    "last_checked": 1791156521.3644202
+    "latency_ms": 3972.61,
+    "last_checked": 1791157195.8244605
+  },
+  {
+    "protocol": "http",
+    "ip": "196.251.212.52",
+    "port": 8081,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Brits",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.6,
+    "asn": "AS37403",
+    "isp": "Info-Gro (PTY) Ltd",
+    "latency_ms": 4183.5,
+    "last_checked": 1791157177.446517
+  },
+  {
+    "protocol": "http",
+    "ip": "196.223.129.21",
+    "port": 80,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Strand",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 36.84,
+    "asn": "AS328471",
+    "isp": "HERO TELECOMS (PTY) LTD",
+    "latency_ms": 986.43,
+    "last_checked": 1791157169.0093348
+  },
+  {
+    "protocol": "http",
+    "ip": "102.208.228.90",
+    "port": 3128,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Ducats",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 65.13,
+    "asn": "AS328882",
+    "isp": "VPS1",
+    "latency_ms": 2607.71,
+    "last_checked": 1791157166.6072059
   },
   {
     "protocol": "socks4",
@@ -68,26 +83,11 @@
     "city": "Johannesburg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 80.75,
+    "uptime_percent": 81.16,
     "asn": "AS16637",
     "isp": "MTN SA",
-    "latency_ms": 3963.94,
-    "last_checked": 1791156514.0047624
-  },
-  {
-    "protocol": "http",
-    "ip": "102.218.195.133",
-    "port": 8080,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Midrand",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 25.98,
-    "asn": "AS328826",
-    "isp": "Jumbo Technologies",
-    "latency_ms": 4000.36,
-    "last_checked": 1791156512.0362973
+    "latency_ms": 8167.49,
+    "last_checked": 1791157165.068658
   },
   {
     "protocol": "http",
@@ -101,23 +101,23 @@
     "uptime_percent": 22.64,
     "asn": "AS328471",
     "isp": "Herotel",
-    "latency_ms": 5907.37,
-    "last_checked": 1791156509.976395
+    "latency_ms": 4058.72,
+    "last_checked": 1791157128.8727531
   },
   {
-    "protocol": "http",
-    "ip": "196.251.213.192",
-    "port": 8081,
+    "protocol": "socks4",
+    "ip": "105.214.54.240",
+    "port": 5678,
     "country": "South Africa",
     "country_code": "ZA",
-    "city": "Brits",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 26.45,
-    "asn": "AS37403",
-    "isp": "Info-Gro (PTY) Ltd",
-    "latency_ms": 3173.95,
-    "last_checked": 1791156547.1007893
+    "city": "Midrand",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.4,
+    "asn": "AS16637",
+    "isp": "MTN SA",
+    "latency_ms": 916.77,
+    "last_checked": 1791157108.5793324
   },
   {
     "protocol": "http",
@@ -127,12 +127,42 @@
     "country_code": "ZA",
     "city": "Cape Town",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 27.9,
     "asn": "AS328723",
     "isp": "Cloud Hosting",
-    "latency_ms": 10166.38,
-    "last_checked": 1791156524.82474
+    "latency_ms": 10360.65,
+    "last_checked": 1791157092.080996
+  },
+  {
+    "protocol": "http",
+    "ip": "105.214.6.147",
+    "port": 8090,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Johannesburg",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 33.86,
+    "asn": "AS16637",
+    "isp": "MTN SA",
+    "latency_ms": 1069.5,
+    "last_checked": 1791157074.892765
+  },
+  {
+    "protocol": "http",
+    "ip": "102.66.8.18",
+    "port": 9999,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Oudtshoorn",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 26.94,
+    "asn": "AS328471",
+    "isp": "Herotel",
+    "latency_ms": 4751.5,
+    "last_checked": 1791157071.3321326
   },
   {
     "protocol": "socks5",
@@ -146,22 +176,7 @@
     "uptime_percent": 28.73,
     "asn": "AS327794",
     "isp": "Clear Access (Pty) Ltd",
-    "latency_ms": 2106.73,
-    "last_checked": 1791156490.307979
-  },
-  {
-    "protocol": "http",
-    "ip": "196.251.222.222",
-    "port": 8080,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Brits",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 17.57,
-    "asn": "AS37403",
-    "isp": "Info-Gro (PTY) Ltd",
-    "latency_ms": 4321.03,
-    "last_checked": 1791156462.8130608
+    "latency_ms": 2236.38,
+    "last_checked": 1791156992.0240276
   }
 ]
