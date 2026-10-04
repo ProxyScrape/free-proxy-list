@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "108.61.185.188",
     "port": 1080,
     "country": "Australia",
@@ -8,11 +8,41 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 70.66,
+    "uptime_percent": 60.4,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 20172.76,
-    "last_checked": 1791124182.5863497
+    "latency_ms": 10394.3,
+    "last_checked": 1791124747.8972838
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Forest Lodge",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 10.13,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 6165.47,
+    "last_checked": 1791124747.0201807
+  },
+  {
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 68.41,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 797.47,
+    "last_checked": 1791124734.9008212
   },
   {
     "protocol": "http",
@@ -26,52 +56,7 @@
     "uptime_percent": 10.69,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 8315.99,
-    "last_checked": 1791124172.5235164
-  },
-  {
-    "protocol": "socks4",
-    "ip": "108.61.185.188",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 60.38,
-    "asn": "AS20473",
-    "isp": "Choopa",
-    "latency_ms": 9711.25,
-    "last_checked": 1791124159.955393
-  },
-  {
-    "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 68.4,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 3328.27,
-    "last_checked": 1791124123.913252
-  },
-  {
-    "protocol": "http",
-    "ip": "103.249.237.158",
-    "port": 8888,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 31.46,
-    "asn": "AS133159",
-    "isp": "Mammoth Media Pty Ltd",
-    "latency_ms": 13307.79,
-    "last_checked": 1791124074.9232013
+    "latency_ms": 7733.04,
+    "last_checked": 1791124712.815646
   }
 ]
