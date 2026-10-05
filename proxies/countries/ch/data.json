@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "195.225.116.14",
-    "port": 4145,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Wädenswil",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 27.81,
-    "asn": "AS48971",
-    "isp": "netz116",
-    "latency_ms": 48.15,
-    "last_checked": 1791229253.8333478
-  },
-  {
-    "protocol": "socks4",
-    "ip": "195.225.116.15",
-    "port": 4145,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Wädenswil",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 27.65,
-    "asn": "AS48971",
-    "isp": "netz116",
-    "latency_ms": 1065.02,
-    "last_checked": 1791229231.293347
-  },
-  {
     "protocol": "http",
     "ip": "185.85.111.18",
     "port": 80,
@@ -41,8 +11,38 @@
     "uptime_percent": 45.25,
     "asn": "AS51395",
     "isp": "Datasource AG",
-    "latency_ms": 32.22,
-    "last_checked": 1791229408.2326498
+    "latency_ms": 32.12,
+    "last_checked": 1791229801.4466636
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.59.123.127",
+    "port": 10800,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Bern",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.01,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 1036.46,
+    "last_checked": 1791229786.020035
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 19.3,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 9418.15,
+    "last_checked": 1791229783.660269
   },
   {
     "protocol": "http",
@@ -53,11 +53,41 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 9.09,
+    "uptime_percent": 10.0,
     "asn": "AS62044",
     "isp": "Zscaler Switzerland GmbH",
-    "latency_ms": 896.04,
-    "last_checked": 1791229401.8568811
+    "latency_ms": 776.24,
+    "last_checked": 1791229776.6179988
+  },
+  {
+    "protocol": "http",
+    "ip": "62.220.129.81",
+    "port": 8080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Lausanne",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 32.6,
+    "asn": "AS6893",
+    "isp": "Saitis Network, N.Desir",
+    "latency_ms": 8018.69,
+    "last_checked": 1791229760.7278657
+  },
+  {
+    "protocol": "http",
+    "ip": "165.225.66.42",
+    "port": 11589,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 9.26,
+    "asn": "AS62044",
+    "isp": "Zscaler Switzerland GmbH",
+    "latency_ms": 409.72,
+    "last_checked": 1791229755.2881997
   },
   {
     "protocol": "socks5",
@@ -73,20 +103,5 @@
     "isp": "Akenes SA",
     "latency_ms": 813.19,
     "last_checked": 1791229396.3977134
-  },
-  {
-    "protocol": "http",
-    "ip": "74.242.169.16",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 19.3,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 9921.56,
-    "last_checked": 1791229370.5476742
   }
 ]

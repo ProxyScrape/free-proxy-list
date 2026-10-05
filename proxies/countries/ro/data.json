@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "81.12.157.98",
-    "port": 5678,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Cârţişoara",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 59.38,
-    "asn": "AS12302",
-    "isp": "Vodafone RO",
-    "latency_ms": 204.28,
-    "last_checked": 1791229262.120105
-  },
-  {
-    "protocol": "http",
-    "ip": "86.125.19.21",
-    "port": 8080,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Târgu Jiu",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 20.9,
-    "asn": "AS8708",
-    "isp": "RCS & RDS",
-    "latency_ms": 1162.64,
-    "last_checked": 1791229224.257426
-  },
-  {
     "protocol": "http",
     "ip": "185.128.240.2",
     "port": 3128,
@@ -43,5 +13,20 @@
     "isp": "Data ZYX SRL",
     "latency_ms": 10326.44,
     "last_checked": 1791229383.1776824
+  },
+  {
+    "protocol": "http",
+    "ip": "86.125.19.21",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Târgu Jiu",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 20.9,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 2929.45,
+    "last_checked": 1791229334.9328282
   }
 ]
