@@ -1,6 +1,21 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 68.68,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 3025.58,
+    "last_checked": 1791184186.9078057
+  },
+  {
+    "protocol": "socks5",
     "ip": "108.61.185.188",
     "port": 1080,
     "country": "Australia",
@@ -8,11 +23,26 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 60.3,
+    "uptime_percent": 71.18,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 3361.93,
-    "last_checked": 1791183553.6940722
+    "latency_ms": 15822.63,
+    "last_checked": 1791184137.037572
+  },
+  {
+    "protocol": "http",
+    "ip": "51.161.137.166",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.97,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 17750.34,
+    "last_checked": 1791184132.025292
   },
   {
     "protocol": "http",
@@ -22,26 +52,26 @@
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 30.56,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 9785.69,
-    "last_checked": 1791183530.5136743
+    "latency_ms": 13596.54,
+    "last_checked": 1791184085.5573404
   },
   {
     "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
+    "ip": "103.18.205.162",
+    "port": 8080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 68.67,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 2972.98,
-    "last_checked": 1791183507.5026395
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 27.88,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 1396.89,
+    "last_checked": 1791184053.0437665
   }
 ]
