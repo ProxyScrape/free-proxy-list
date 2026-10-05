@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "223.165.10.15",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "34.81.160.132",
+    "port": 80,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Banqiao",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 40.42,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 671.65,
+    "last_checked": 1791182967.5929759
+  },
+  {
+    "protocol": "socks5",
+    "ip": "112.105.12.235",
+    "port": 1111,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taichung",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 5.9,
-    "asn": "AS133955",
-    "isp": "TWD-COM",
-    "latency_ms": 3112.14,
-    "last_checked": 1791182384.4466796
+    "uptime_percent": 19.03,
+    "asn": "AS18049",
+    "isp": "TINP",
+    "latency_ms": 10764.33,
+    "last_checked": 1791182939.5384092
   },
   {
     "protocol": "http",
@@ -26,37 +41,7 @@
     "uptime_percent": 6.11,
     "asn": "AS7482",
     "isp": "Far EasTone Telecommunication",
-    "latency_ms": 7270.06,
-    "last_checked": 1791182378.3656852
-  },
-  {
-    "protocol": "http",
-    "ip": "34.81.160.132",
-    "port": 80,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taipei",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 40.42,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 2077.1,
-    "last_checked": 1791182374.8337233
-  },
-  {
-    "protocol": "socks5",
-    "ip": "223.165.10.17",
-    "port": 1080,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Banqiao",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 9.25,
-    "asn": "AS133955",
-    "isp": "TWD-COM",
-    "latency_ms": 1429.42,
-    "last_checked": 1791182291.7678602
+    "latency_ms": 12259.12,
+    "last_checked": 1791182913.168954
   }
 ]
