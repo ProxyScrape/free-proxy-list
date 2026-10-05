@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "223.165.10.13",
+    "port": 1080,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Banqiao",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 5.94,
+    "asn": "AS133955",
+    "isp": "TWD-COM",
+    "latency_ms": 776.65,
+    "last_checked": 1791191350.3049843
+  },
+  {
+    "protocol": "socks5",
     "ip": "223.165.10.15",
     "port": 1080,
     "country": "Taiwan",
@@ -8,10 +23,55 @@
     "city": "Banqiao",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 5.92,
+    "uptime_percent": 10.0,
     "asn": "AS133955",
     "isp": "TWD-COM",
-    "latency_ms": 768.89,
-    "last_checked": 1791190716.4869564
+    "latency_ms": 954.67,
+    "last_checked": 1791191348.8062131
+  },
+  {
+    "protocol": "socks5",
+    "ip": "112.105.12.235",
+    "port": 1111,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taichung",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.03,
+    "asn": "AS18049",
+    "isp": "TINP",
+    "latency_ms": 26825.25,
+    "last_checked": 1791191325.9197986
+  },
+  {
+    "protocol": "http",
+    "ip": "203.145.218.204",
+    "port": 3128,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Xitun",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 51.61,
+    "asn": "AS7539",
+    "isp": "National Center for High-performance Computing",
+    "latency_ms": 8812.42,
+    "last_checked": 1791191310.4408236
+  },
+  {
+    "protocol": "http",
+    "ip": "122.117.203.252",
+    "port": 3128,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Kaohsiung",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.18,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 9946.2,
+    "last_checked": 1791191280.0678966
   }
 ]
