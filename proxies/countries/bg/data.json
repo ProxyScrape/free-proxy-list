@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "213.169.33.10",
-    "port": 8001,
+    "protocol": "socks4",
+    "ip": "212.50.19.150",
+    "port": 4153,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 16.0,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.56,
     "asn": "AS8717",
-    "isp": "A1 Bulgaria EAD",
-    "latency_ms": 8931.2,
-    "last_checked": 1791181730.5459278
+    "isp": "Spectrum NET",
+    "latency_ms": 122.98,
+    "last_checked": 1791182386.4089131
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.160.97.49",
+    "port": 4145,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Opaka",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.98,
+    "asn": "AS205352",
+    "isp": "Kabelnet LTD",
+    "latency_ms": 1267.12,
+    "last_checked": 1791182382.9895236
   },
   {
     "protocol": "socks4",
@@ -26,38 +41,23 @@
     "uptime_percent": 45.51,
     "asn": "AS207371",
     "isp": "GEC",
-    "latency_ms": 1244.46,
-    "last_checked": 1791181720.333039
+    "latency_ms": 235.24,
+    "last_checked": 1791182364.8784335
   },
   {
     "protocol": "http",
-    "ip": "78.142.61.78",
+    "ip": "78.142.61.76",
     "port": 3128,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 51.22,
+    "uptime_percent": 50.99,
     "asn": "AS200628",
     "isp": "BGO Cloud OOD",
-    "latency_ms": 16283.12,
-    "last_checked": 1791181717.8344007
-  },
-  {
-    "protocol": "socks4",
-    "ip": "46.10.198.10",
-    "port": 4153,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 46.9,
-    "asn": "AS8866",
-    "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 3172.45,
-    "last_checked": 1791181714.8811371
+    "latency_ms": 15098.13,
+    "last_checked": 1791182347.0648434
   },
   {
     "protocol": "http",
@@ -67,11 +67,26 @@
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 48.31,
     "asn": "AS200628",
     "isp": "BGO Cloud OOD",
-    "latency_ms": 14688.02,
-    "last_checked": 1791181697.0841448
+    "latency_ms": 13206.75,
+    "last_checked": 1791182242.3592784
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pleven",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.8,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 1222.97,
+    "last_checked": 1791182142.1369581
   }
 ]
