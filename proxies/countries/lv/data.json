@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "159.148.146.65",
-    "port": 5678,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 51.15,
-    "asn": "AS2588",
-    "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 1178.43,
-    "last_checked": 1791157736.9964273
-  },
-  {
-    "protocol": "socks4",
-    "ip": "31.170.18.1",
-    "port": 4153,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Saldus",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 9.91,
-    "asn": "AS43513",
-    "isp": "Sia Nano IT",
-    "latency_ms": 7228.9,
-    "last_checked": 1791157727.1489074
-  },
-  {
     "protocol": "http",
     "ip": "188.253.20.105",
     "port": 3129,
@@ -37,11 +7,26 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 33.73,
+    "ssl": true,
+    "uptime_percent": 33.75,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 12745.82,
-    "last_checked": 1791157630.4680958
+    "latency_ms": 18179.36,
+    "last_checked": 1791158343.9343772
+  },
+  {
+    "protocol": "socks5",
+    "ip": "212.3.206.215",
+    "port": 10800,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 58.06,
+    "asn": "AS24921",
+    "isp": "Latvijas Mobilais Telefons SIA",
+    "latency_ms": 1499.48,
+    "last_checked": 1791158312.3430803
   }
 ]
