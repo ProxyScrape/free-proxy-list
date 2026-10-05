@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "213.169.33.8",
-    "port": 8001,
+    "protocol": "socks4",
+    "ip": "212.50.19.150",
+    "port": 4153,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 16.12,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.55,
     "asn": "AS8717",
-    "isp": "A1 Bulgaria EAD",
-    "latency_ms": 5055.58,
-    "last_checked": 1791164332.6981168
+    "isp": "Spectrum NET",
+    "latency_ms": 7334.82,
+    "last_checked": 1791164948.2700183
+  },
+  {
+    "protocol": "socks5",
+    "ip": "194.182.178.90",
+    "port": 1080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.9,
+    "asn": "AS61098",
+    "isp": "Akenes SA",
+    "latency_ms": 987.54,
+    "last_checked": 1791164930.4388258
   }
 ]
