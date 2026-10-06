@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "94.103.2.238",
-    "port": 1080,
-    "country": "Moldova",
-    "country_code": "MD",
-    "city": "Tighina",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 61.38,
-    "asn": "AS207713",
-    "isp": "GIR SER",
-    "latency_ms": 5836.6,
-    "last_checked": 1791314334.3899338
-  },
-  {
     "protocol": "socks5",
     "ip": "217.156.65.66",
     "port": 1080,
@@ -23,14 +8,29 @@
     "city": "Chisinau",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 73.79,
+    "uptime_percent": 74.05,
     "asn": "AS200019",
     "isp": "Alexhost SRL",
-    "latency_ms": 751.13,
-    "last_checked": 1791314325.9776127
+    "latency_ms": 743.26,
+    "last_checked": 1791314991.717923
   },
   {
     "protocol": "socks5",
+    "ip": "217.156.65.66",
+    "port": 11080,
+    "country": "Moldova",
+    "country_code": "MD",
+    "city": "Chisinau",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 65.73,
+    "asn": "AS200019",
+    "isp": "Alexhost SRL",
+    "latency_ms": 803.24,
+    "last_checked": 1791314987.547147
+  },
+  {
+    "protocol": "socks4",
     "ip": "94.103.2.238",
     "port": 1080,
     "country": "Moldova",
@@ -38,10 +38,25 @@
     "city": "Tighina",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 75.57,
+    "uptime_percent": 61.36,
     "asn": "AS207713",
     "isp": "GIR SER",
-    "latency_ms": 4772.6,
-    "last_checked": 1791314261.2260854
+    "latency_ms": 2990.89,
+    "last_checked": 1791314966.442077
+  },
+  {
+    "protocol": "http",
+    "ip": "176.125.242.58",
+    "port": 3128,
+    "country": "Moldova",
+    "country_code": "MD",
+    "city": "Chisinau",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 39.24,
+    "asn": "AS200019",
+    "isp": "Alexhost SRL",
+    "latency_ms": 7867.85,
+    "last_checked": 1791314895.7976491
   }
 ]
