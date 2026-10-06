@@ -1,18 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "5.200.72.60",
+    "ip": "5.200.72.62",
     "port": 3128,
     "country": "Iran",
     "country_code": "IR",
     "city": "Tehran",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 42.93,
+    "uptime_percent": 35.51,
     "asn": "AS24631",
     "isp": "Bahar Samaneh Shargh",
-    "latency_ms": 600.4,
-    "last_checked": 1791258885.1032827
+    "latency_ms": 630.26,
+    "last_checked": 1791259482.993413
   },
   {
     "protocol": "http",
@@ -26,8 +26,8 @@
     "uptime_percent": 70.37,
     "asn": "AS201691",
     "isp": "Fannavari Etelaate Samane Kavoshgar Ide Ltd.",
-    "latency_ms": 412.74,
-    "last_checked": 1791258876.1332884
+    "latency_ms": 416.6,
+    "last_checked": 1791259471.4267228
   },
   {
     "protocol": "http",
@@ -41,8 +41,38 @@
     "uptime_percent": 90.98,
     "asn": "AS209783",
     "isp": "Avaye Segal Net Co. PJS",
-    "latency_ms": 10111.22,
-    "last_checked": 1791258875.6468709
+    "latency_ms": 8073.83,
+    "last_checked": 1791259461.6311808
+  },
+  {
+    "protocol": "http",
+    "ip": "81.12.28.35",
+    "port": 3128,
+    "country": "Iran",
+    "country_code": "IR",
+    "city": "Tehran",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.8,
+    "asn": "AS58224",
+    "isp": "Iran Telecommunication Company PJS",
+    "latency_ms": 17586.44,
+    "last_checked": 1791259449.7789907
+  },
+  {
+    "protocol": "socks4",
+    "ip": "81.12.89.74",
+    "port": 4153,
+    "country": "Iran",
+    "country_code": "IR",
+    "city": "Tehran",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 17.44,
+    "asn": "AS42337",
+    "isp": "Respina Networks & Beyond PJSC",
+    "latency_ms": 1606.56,
+    "last_checked": 1791259440.5142226
   },
   {
     "protocol": "http",
@@ -52,72 +82,12 @@
     "country_code": "IR",
     "city": "Tehran",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 90.0,
+    "ssl": true,
+    "uptime_percent": 89.99,
     "asn": "AS198154",
     "isp": "Pars Abr Toseeh Ertebatat LTD",
-    "latency_ms": 427.08,
-    "last_checked": 1791258874.6025736
-  },
-  {
-    "protocol": "http",
-    "ip": "78.39.253.48",
-    "port": 8080,
-    "country": "Iran",
-    "country_code": "IR",
-    "city": "Kermanshah",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 20.86,
-    "asn": "AS58224",
-    "isp": "Iran Telecommunication Company PJS",
-    "latency_ms": 9286.32,
-    "last_checked": 1791258860.377124
-  },
-  {
-    "protocol": "http",
-    "ip": "31.14.124.45",
-    "port": 8080,
-    "country": "Iran",
-    "country_code": "IR",
-    "city": "Tehran",
-    "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 27.02,
-    "asn": "AS25184",
-    "isp": "Afranet",
-    "latency_ms": 5707.18,
-    "last_checked": 1791258858.9135413
-  },
-  {
-    "protocol": "http",
-    "ip": "77.104.76.230",
-    "port": 9001,
-    "country": "Iran",
-    "country_code": "IR",
-    "city": "Tehran",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.76,
-    "asn": "AS42337",
-    "isp": "Respina Networks & Beyond PJSC",
-    "latency_ms": 7680.85,
-    "last_checked": 1791258856.144874
-  },
-  {
-    "protocol": "http",
-    "ip": "89.46.219.133",
-    "port": 80,
-    "country": "Iran",
-    "country_code": "IR",
-    "city": "Kerman",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 36.01,
-    "asn": "AS198357",
-    "isp": "Padidar Technology",
-    "latency_ms": 7427.47,
-    "last_checked": 1791258849.3958287
+    "latency_ms": 629.76,
+    "last_checked": 1791259439.3437226
   },
   {
     "protocol": "http",
@@ -196,6 +166,21 @@
   },
   {
     "protocol": "http",
+    "ip": "31.14.124.45",
+    "port": 8080,
+    "country": "Iran",
+    "country_code": "IR",
+    "city": "Tehran",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 27.03,
+    "asn": "AS25184",
+    "isp": "Afranet",
+    "latency_ms": 7031.64,
+    "last_checked": 1791259116.9485154
+  },
+  {
+    "protocol": "http",
     "ip": "188.136.208.253",
     "port": 8080,
     "country": "Iran",
@@ -208,5 +193,20 @@
     "isp": "Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS",
     "latency_ms": 17867.49,
     "last_checked": 1791259102.164022
+  },
+  {
+    "protocol": "http",
+    "ip": "77.104.76.230",
+    "port": 9001,
+    "country": "Iran",
+    "country_code": "IR",
+    "city": "Tehran",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 25.77,
+    "asn": "AS42337",
+    "isp": "Respina Networks & Beyond PJSC",
+    "latency_ms": 7809.8,
+    "last_checked": 1791259095.474045
   }
 ]
