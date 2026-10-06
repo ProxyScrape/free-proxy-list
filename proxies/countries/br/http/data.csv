@@ -1,13 +1,14 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,200.128.84.82,3128,Brazil,BR,Cruz das Almas,transparent,true,99.08,AS53164,Universidade Federal DA Bahia,667.13,1791285880.812717
-http,147.15.126.122,28080,Brazil,BR,São Paulo,elite,true,97.42,AS31898,Oracle Corporation,1917.79,1791285878.9857569
-http,201.91.248.67,20183,Brazil,BR,Itapecerica da Serra,transparent,false,7.19,AS10429,Vivo,4515.69,1791285853.5495484
-http,187.94.220.85,8080,Brazil,BR,Vitória,transparent,false,7.39,AS53078,Acesse Comunicação Ltda,7371.64,1791285850.6277056
-http,179.48.8.1,8088,Brazil,BR,Campo Maior,transparent,false,10.46,AS271113,Carnaubanet Ltda,5095.32,1791285847.1607506
-http,143.208.84.2,8589,Brazil,BR,Ubiratã,transparent,true,14.63,AS265125,V. GRAZIOLI & CIA. LTDA. - ME,2632.64,1791285842.8607588
-http,201.76.9.115,8080,Brazil,BR,Araranguá,transparent,false,11.76,AS28642,Contato Internet EIRELI,3398.39,1791285834.7059333
-http,189.84.157.245,3126,Brazil,BR,Sertãozinho,transparent,true,74.88,AS28370,GUIFAMI Informática Ltda.,9355.0,1791286149.6408966
+http,189.84.157.245,3126,Brazil,BR,Sertãozinho,transparent,false,74.9,AS28370,GUIFAMI Informática Ltda.,5739.88,1791286481.0519953
+http,131.0.120.162,9292,Brazil,BR,Pirapozinho,transparent,true,28.11,AS262744,Icenet Telecomunicacoes Ltda - ME,820.78,1791286478.9127595
+http,45.4.192.225,8080,Brazil,BR,Brasília,transparent,false,23.33,AS266087,Orbitel Telecomunicações e Informática Ltda,3708.52,1791286477.6352274
+http,147.15.126.122,28080,Brazil,BR,São Paulo,elite,true,97.43,AS31898,Oracle Corporation,11854.89,1791286475.9121046
+http,138.97.37.53,58080,Brazil,BR,Birigui,transparent,true,32.73,AS264129,Fast Telecomunicacoes Birigui Ltda - ME,2544.84,1791286474.8287375
+http,200.201.134.184,8787,Brazil,BR,São Paulo,elite,false,10.52,AS11432,Telium TelecomunicaÔÔes Ltda,17384.93,1791286463.9447942
+http,186.65.106.90,2024,Brazil,BR,Salvador,transparent,false,10.18,AS266142,Bahiadados Telecom Ltda.,5007.77,1791286457.975563
+http,201.20.42.46,3127,Brazil,BR,São Paulo,transparent,true,65.87,AS15830,Equinix (EMEA) Acquisition Enterprises B.V.,9227.59,1791286449.7483993
 http,187.94.16.59,39665,Brazil,BR,Irecê,elite,false,7.63,AS53075,Holistica Provedor Internet Ltda,8438.41,1791286148.6266618
+http,200.128.84.82,3128,Brazil,BR,Cruz das Almas,transparent,true,99.08,AS53164,Universidade Federal DA Bahia,1946.75,1791286145.09621
 http,179.184.163.133,44443,Brazil,BR,Belo Horizonte,transparent,false,21.64,AS18881,TELEFÔNICA BRASIL S.A,14697.49,1791286139.7813616
 http,168.181.151.168,8081,Brazil,BR,Dois Córregos,transparent,false,26.1,AS52579,TELLIUS & ALLNET TELECOMUNICAÇÕES DAS AMÉRICAS,6105.38,1791286137.6752777
 http,201.20.79.182,8088,Brazil,BR,Abaiara,transparent,false,20.22,AS28598,DB3 SERVICOS DE TELECOMUNICACOES S.A,9972.01,1791286137.545769
@@ -20,7 +21,6 @@ http,191.160.36.7,8080,Brazil,BR,Palmeirândia,transparent,false,25.06,AS272720,
 http,201.62.125.142,8080,Brazil,BR,Rio Claro,transparent,false,8.83,AS28573,Claro NXT Telecomunicacoes Ltda,9201.47,1791286126.9953287
 http,187.86.158.254,3128,Brazil,BR,Rio Grande,transparent,true,27.78,AS53066,VETORIALNET INF. E SERVIÇOS DE INTERNET LTDA,8168.19,1791286124.5888083
 http,45.234.101.120,8081,Brazil,BR,Recife,transparent,false,17.32,AS61592,Fortlink Internet Corporativa,2457.37,1791286124.2042737
-http,186.65.106.90,2024,Brazil,BR,Salvador,transparent,false,10.18,AS266142,Bahiadados Telecom Ltda.,1346.33,1791286123.879593
 http,45.232.76.98,9292,Brazil,BR,Buritama,transparent,true,15.68,AS267252,D. A. F. BANSI & CIA LTDA,13862.64,1791286120.5261736
 http,187.110.232.118,8080,Brazil,BR,Fortaleza,transparent,false,26.26,AS28598,DB3 SERVICOS DE TELECOMUNICACOES S.A,5032.02,1791286115.1946785
 http,191.6.112.5,8086,Brazil,BR,Macapá,transparent,true,13.19,AS262753,Voce Telecomunicacoes Ltda,6000.25,1791286107.1007025
@@ -30,6 +30,7 @@ http,45.234.101.122,8081,Brazil,BR,Recife,transparent,true,17.56,AS61592,Fortlin
 http,187.49.83.166,53000,Brazil,BR,Cascavel,transparent,false,8.91,AS28142,DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI,10353.89,1791286086.7184427
 http,191.7.114.63,8080,Brazil,BR,Campo Novo do Parecis,transparent,false,22.66,AS264268,Teleturbo Servicos De Telecomunicacoes Ltda,4236.5,1791286079.7379446
 http,201.150.148.227,8080,Brazil,BR,São Caetano de Odivelas,transparent,false,15.88,AS61817,Halley Telecom Comercio & Serviço Ltda,4446.94,1791286077.236714
+http,143.208.84.2,8589,Brazil,BR,Ubiratã,transparent,false,14.64,AS265125,V. GRAZIOLI & CIA. LTDA. - ME,4346.29,1791286071.756837
 http,201.182.204.18,9999,Brazil,BR,Candeias,transparent,false,8.35,AS267555,Conect Fiber Telecomunicacoes Ltda - ME,6200.91,1791286070.5144372
 http,164.163.237.196,9091,Brazil,BR,Luiziânia,transparent,true,32.64,AS24429,"Zhejiang Taobao Network Co., Ltd",2147.17,1791286062.189459
 http,138.204.95.193,8989,Brazil,BR,São Paulo,transparent,true,30.24,AS273490,Fibrion Internet Ltda,2994.51,1791286032.8270328
