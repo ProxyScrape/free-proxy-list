@@ -1,6 +1,21 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
+    "ip": "185.62.48.193",
+    "port": 5678,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Isernia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.31,
+    "asn": "AS201847",
+    "isp": "Elektronica Networks",
+    "latency_ms": 3111.77,
+    "last_checked": 1791302067.6382804
+  },
+  {
+    "protocol": "socks4",
     "ip": "5.59.248.134",
     "port": 8081,
     "country": "Italy",
@@ -8,41 +23,11 @@
     "city": "Pomezia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 22.86,
+    "uptime_percent": 27.49,
     "asn": "AS212271",
     "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 3715.68,
-    "last_checked": 1791301472.5730255
-  },
-  {
-    "protocol": "socks4",
-    "ip": "45.66.207.175",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Sortino",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 65.31,
-    "asn": "AS209410",
-    "isp": "SiciLink s.r.l.s",
-    "latency_ms": 1245.18,
-    "last_checked": 1791301460.6936204
-  },
-  {
-    "protocol": "socks5",
-    "ip": "212.77.75.25",
-    "port": 1088,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Empoli",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 97.57,
-    "asn": "AS15691",
-    "isp": "Leonet srl Empoli",
-    "latency_ms": 327.96,
-    "last_checked": 1791301459.3241258
+    "latency_ms": 9834.08,
+    "last_checked": 1791302065.0140748
   },
   {
     "protocol": "http",
@@ -56,22 +41,37 @@
     "uptime_percent": 45.6,
     "asn": "AS42669",
     "isp": "MegaWeb",
-    "latency_ms": 6149.3,
-    "last_checked": 1791301454.011528
+    "latency_ms": 3421.14,
+    "last_checked": 1791302040.4528794
   },
   {
     "protocol": "http",
-    "ip": "149.86.203.217",
-    "port": 8080,
+    "ip": "85.235.150.219",
+    "port": 3128,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Milan",
+    "city": "Arezzo",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 6.14,
-    "asn": "AS60501",
-    "isp": "Sirius Technology SRL",
-    "latency_ms": 4060.27,
-    "last_checked": 1791301450.9284742
+    "uptime_percent": 11.51,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 17183.05,
+    "last_checked": 1791302038.2094233
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.66.207.175",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Sortino",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 65.23,
+    "asn": "AS209410",
+    "isp": "SiciLink s.r.l.s",
+    "latency_ms": 3398.63,
+    "last_checked": 1791302033.561317
   }
 ]
