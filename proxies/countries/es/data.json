@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Ciempozuelos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.42,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 230.33,
+    "last_checked": 1791272702.1598704
+  },
+  {
+    "protocol": "http",
+    "ip": "5.188.183.157",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 90.01,
+    "asn": "AS56630",
+    "isp": "Melbikomas UAB",
+    "latency_ms": 417.82,
+    "last_checked": 1791272682.9568477
+  },
+  {
     "protocol": "http",
     "ip": "195.114.209.50",
     "port": 80,
@@ -11,8 +41,8 @@
     "uptime_percent": 69.79,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 117.05,
-    "last_checked": 1791272397.7653182
+    "latency_ms": 277.4,
+    "last_checked": 1791272667.6543927
   },
   {
     "protocol": "socks4",
@@ -26,23 +56,38 @@
     "uptime_percent": 87.15,
     "asn": "",
     "isp": "GINERNET",
-    "latency_ms": 6806.15,
-    "last_checked": 1791272354.674266
+    "latency_ms": 3344.64,
+    "last_checked": 1791272662.236215
   },
   {
-    "protocol": "socks4",
-    "ip": "83.56.15.57",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "81.0.49.104",
+    "port": 19775,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Ciempozuelos",
+    "city": "Jaca",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 18.09,
+    "asn": "AS15704",
+    "isp": "MasMovil Access Network",
+    "latency_ms": 5193.89,
+    "last_checked": 1791272633.6102908
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.81.154.75",
+    "port": 1080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Navalcarnero",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.42,
-    "asn": "AS3352",
-    "isp": "Telefonica de Espana SAU",
-    "latency_ms": 3239.15,
-    "last_checked": 1791272349.2112613
+    "uptime_percent": 87.9,
+    "asn": "",
+    "isp": "GINERNET",
+    "latency_ms": 2819.55,
+    "last_checked": 1791272503.3565753
   },
   {
     "protocol": "socks5",
@@ -58,20 +103,5 @@
     "isp": "MasMovil Access Network",
     "latency_ms": 1411.1,
     "last_checked": 1791272345.9065807
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.81.154.75",
-    "port": 1080,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Navalcarnero",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 87.9,
-    "asn": "",
-    "isp": "GINERNET",
-    "latency_ms": 14319.77,
-    "last_checked": 1791272261.568163
   }
 ]
