@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "172.105.22.22",
-    "port": 3128,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Toronto",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 47.71,
-    "asn": "AS63949",
-    "isp": "Akamai Technologies",
-    "latency_ms": 234.94,
-    "last_checked": 1791256577.3316667
-  },
-  {
-    "protocol": "http",
-    "ip": "68.183.193.205",
-    "port": 10000,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Toronto",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 98.04,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 260.45,
-    "last_checked": 1791256569.0606823
-  },
-  {
     "protocol": "socks4",
     "ip": "144.217.107.25",
     "port": 1080,
@@ -41,23 +11,8 @@
     "uptime_percent": 54.25,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 7911.97,
-    "last_checked": 1791256560.329633
-  },
-  {
-    "protocol": "http",
-    "ip": "192.99.44.178",
-    "port": 3128,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 24.91,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 17627.63,
-    "last_checked": 1791256555.7108462
+    "latency_ms": 1551.61,
+    "last_checked": 1791257077.0929918
   },
   {
     "protocol": "http",
@@ -68,26 +23,71 @@
     "city": "Beauharnois",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 55.79,
+    "uptime_percent": 55.8,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 257.21,
-    "last_checked": 1791256555.697261
+    "latency_ms": 3709.66,
+    "last_checked": 1791257075.4138937
   },
   {
     "protocol": "socks5",
-    "ip": "38.49.210.79",
-    "port": 40000,
+    "ip": "144.217.107.25",
+    "port": 1080,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Montreal",
+    "city": "Beauharnois",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 83.8,
-    "asn": "AS26832",
-    "isp": "Rica Web Services",
-    "latency_ms": 7573.03,
-    "last_checked": 1791256551.2261088
+    "uptime_percent": 54.61,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 1489.05,
+    "last_checked": 1791257071.969154
+  },
+  {
+    "protocol": "http",
+    "ip": "68.183.193.205",
+    "port": 10000,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 98.44,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 369.55,
+    "last_checked": 1791257061.2861042
+  },
+  {
+    "protocol": "http",
+    "ip": "54.39.28.106",
+    "port": 8082,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Beauharnois",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 32.05,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 6847.04,
+    "last_checked": 1791257040.9947312
+  },
+  {
+    "protocol": "socks4",
+    "ip": "155.138.139.189",
+    "port": 32768,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 21.87,
+    "asn": "AS20473",
+    "isp": "The Constant Company",
+    "latency_ms": 11438.09,
+    "last_checked": 1791257039.7878923
   },
   {
     "protocol": "http",
@@ -101,8 +101,23 @@
     "uptime_percent": 94.71,
     "asn": "AS32489",
     "isp": "Amanah Tech Inc.",
-    "latency_ms": 216.12,
-    "last_checked": 1791256541.8605125
+    "latency_ms": 3037.02,
+    "last_checked": 1791257030.6457188
+  },
+  {
+    "protocol": "socks5",
+    "ip": "38.49.210.79",
+    "port": 40000,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 83.8,
+    "asn": "AS26832",
+    "isp": "Rica Web Services",
+    "latency_ms": 3600.27,
+    "last_checked": 1791256622.4192524
   },
   {
     "protocol": "socks5",
@@ -118,20 +133,5 @@
     "isp": "DigitalOcean, LLC",
     "latency_ms": 437.1,
     "last_checked": 1791256534.9630907
-  },
-  {
-    "protocol": "http",
-    "ip": "54.39.28.106",
-    "port": 8082,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Beauharnois",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 32.05,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 10022.33,
-    "last_checked": 1791256728.2128458
   }
 ]
