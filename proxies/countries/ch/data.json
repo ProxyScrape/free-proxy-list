@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "62.220.129.81",
+    "port": 8080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Lausanne",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 32.33,
+    "asn": "AS6893",
+    "isp": "Saitis Network, N.Desir",
+    "latency_ms": 4280.4,
+    "last_checked": 1791374978.3537672
+  },
+  {
+    "protocol": "socks5",
+    "ip": "194.182.163.117",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.64,
+    "asn": "AS61098",
+    "isp": "Akenes SA",
+    "latency_ms": 136.0,
+    "last_checked": 1791374976.0543263
+  },
+  {
+    "protocol": "http",
     "ip": "165.225.66.42",
     "port": 11589,
     "country": "Switzerland",
@@ -8,25 +38,25 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 79.92,
+    "uptime_percent": 79.98,
     "asn": "AS62044",
     "isp": "Zscaler Switzerland GmbH",
-    "latency_ms": 2936.46,
-    "last_checked": 1791374342.4693675
+    "latency_ms": 357.92,
+    "last_checked": 1791374950.4471765
   },
   {
-    "protocol": "socks5",
-    "ip": "91.92.155.207",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "165.225.66.42",
+    "port": 11588,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 31.48,
-    "asn": "AS61098",
-    "isp": "Akenes SA",
-    "latency_ms": 1795.44,
-    "last_checked": 1791374266.763785
+    "ssl": false,
+    "uptime_percent": 80.2,
+    "asn": "AS62044",
+    "isp": "Zscaler Switzerland GmbH",
+    "latency_ms": 405.03,
+    "last_checked": 1791374948.1805663
   }
 ]
