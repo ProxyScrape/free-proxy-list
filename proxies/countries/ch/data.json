@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "179.237.106.243",
-    "port": 443,
+    "protocol": "http",
+    "ip": "165.225.66.42",
+    "port": 11588,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Geneva",
+    "city": "Zurich",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 100.0,
-    "asn": "AS29222",
-    "isp": "Infomaniak Network SA",
-    "latency_ms": 6675.33,
-    "last_checked": 1791378527.3400784
+    "ssl": false,
+    "uptime_percent": 80.6,
+    "asn": "AS62044",
+    "isp": "Zscaler Switzerland GmbH",
+    "latency_ms": 843.88,
+    "last_checked": 1791379186.0540285
   },
   {
     "protocol": "http",
@@ -23,10 +23,40 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 80.33,
+    "uptime_percent": 80.4,
     "asn": "AS62044",
     "isp": "Zscaler Switzerland GmbH",
-    "latency_ms": 679.73,
-    "last_checked": 1791378512.275194
+    "latency_ms": 500.64,
+    "last_checked": 1791379180.7677865
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 19.41,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 14610.92,
+    "last_checked": 1791379170.4196181
+  },
+  {
+    "protocol": "socks4",
+    "ip": "179.237.106.243",
+    "port": 443,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 70.0,
+    "asn": "AS29222",
+    "isp": "Infomaniak Network SA",
+    "latency_ms": 13963.91,
+    "last_checked": 1791379165.9342542
   }
 ]
