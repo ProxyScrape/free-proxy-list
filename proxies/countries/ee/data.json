@@ -1,33 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 52.06,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 155.58,
-    "last_checked": 1791351572.149367
-  },
-  {
-    "protocol": "http",
     "ip": "5.188.23.147",
     "port": 5555,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 41.82,
+    "ssl": true,
+    "uptime_percent": 41.84,
     "asn": "AS198068",
     "isp": "P.A.G.M. OU",
-    "latency_ms": 4966.58,
-    "last_checked": 1791351545.2488105
+    "latency_ms": 4094.51,
+    "last_checked": 1791352137.403092
   },
   {
     "protocol": "socks4",
@@ -38,25 +23,40 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 47.93,
+    "uptime_percent": 47.94,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 4376.6,
-    "last_checked": 1791351533.854828
+    "latency_ms": 199.5,
+    "last_checked": 1791352130.990679
   },
   {
     "protocol": "socks5",
-    "ip": "146.19.143.200",
-    "port": 1080,
+    "ip": "132.243.168.30",
+    "port": 9150,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 45.15,
+    "uptime_percent": 55.3,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 295.55,
-    "last_checked": 1791351528.501702
+    "latency_ms": 3938.21,
+    "last_checked": 1791352126.918549
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.128",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 52.06,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 161.97,
+    "last_checked": 1791352088.285996
   }
 ]
