@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "178.217.12.232",
-    "port": 6669,
+    "protocol": "socks4",
+    "ip": "185.190.154.121",
+    "port": 4145,
     "country": "Serbia",
     "country_code": "RS",
-    "city": "Mladenovac",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.26,
+    "asn": "AS8400",
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 7339.45,
+    "last_checked": 1791389984.6192422
+  },
+  {
+    "protocol": "socks4",
+    "ip": "217.169.223.18",
+    "port": 1080,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.81,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Client Network",
+    "latency_ms": 7270.05,
+    "last_checked": 1791389980.7736852
+  },
+  {
+    "protocol": "http",
+    "ip": "95.140.120.18",
+    "port": 8080,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 33.04,
-    "asn": "AS51002",
-    "isp": "G NET-Gracija",
-    "latency_ms": 6373.34,
-    "last_checked": 1791389330.5504513
+    "uptime_percent": 32.07,
+    "asn": "AS9125",
+    "isp": "Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
+    "latency_ms": 2890.45,
+    "last_checked": 1791389961.9969933
   },
   {
     "protocol": "http",
@@ -23,10 +53,10 @@
     "city": "Belgrade",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 37.86,
+    "uptime_percent": 37.87,
     "asn": "AS8400",
     "isp": "TELEKOM SRBIJA a.d.",
-    "latency_ms": 620.49,
-    "last_checked": 1791389319.2616131
+    "latency_ms": 4075.11,
+    "last_checked": 1791389956.8797836
   }
 ]
