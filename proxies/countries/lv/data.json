@@ -1,6 +1,21 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
+    "ip": "31.170.18.129",
+    "port": 4153,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Saldus",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 10.69,
+    "asn": "AS43513",
+    "isp": "Sia Nano IT",
+    "latency_ms": 1154.46,
+    "last_checked": 1791339894.918725
+  },
+  {
+    "protocol": "socks4",
     "ip": "185.242.107.224",
     "port": 9999,
     "country": "Latvia",
@@ -8,26 +23,11 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 10.51,
+    "uptime_percent": 6.37,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 11695.09,
-    "last_checked": 1791339296.400958
-  },
-  {
-    "protocol": "http",
-    "ip": "178.16.16.17",
-    "port": 3128,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 26.39,
-    "asn": "AS12993",
-    "isp": "Digitalas Ekonomikas Attistibas Centrs",
-    "latency_ms": 11229.22,
-    "last_checked": 1791339287.1750667
+    "latency_ms": 6025.68,
+    "last_checked": 1791339886.0343976
   },
   {
     "protocol": "socks4",
@@ -38,10 +38,40 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 84.05,
+    "uptime_percent": 83.72,
     "asn": "AS12578",
     "isp": "SIA Tet",
-    "latency_ms": 1218.21,
-    "last_checked": 1791339264.375179
+    "latency_ms": 1477.23,
+    "last_checked": 1791339885.5899782
+  },
+  {
+    "protocol": "http",
+    "ip": "188.253.20.105",
+    "port": 3129,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 34.63,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 4959.12,
+    "last_checked": 1791339875.8298454
+  },
+  {
+    "protocol": "http",
+    "ip": "178.16.16.17",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 26.4,
+    "asn": "AS12993",
+    "isp": "Digitalas Ekonomikas Attistibas Centrs",
+    "latency_ms": 10672.44,
+    "last_checked": 1791339859.4646733
   }
 ]
