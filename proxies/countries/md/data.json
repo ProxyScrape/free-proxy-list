@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "176.125.242.58",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "217.156.65.66",
+    "port": 1080,
     "country": "Moldova",
     "country_code": "MD",
     "city": "Chisinau",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 39.35,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 80.4,
     "asn": "AS200019",
     "isp": "Alexhost SRL",
-    "latency_ms": 16162.51,
-    "last_checked": 1791335335.9559646
+    "latency_ms": 786.78,
+    "last_checked": 1791335967.4552996
   },
   {
     "protocol": "socks5",
@@ -23,10 +23,40 @@
     "city": "Chisinau",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 75.83,
+    "uptime_percent": 76.05,
     "asn": "AS200019",
     "isp": "Alexhost SRL",
-    "latency_ms": 1206.24,
-    "last_checked": 1791335278.8566618
+    "latency_ms": 978.33,
+    "last_checked": 1791335930.9040227
+  },
+  {
+    "protocol": "http",
+    "ip": "176.125.242.58",
+    "port": 3128,
+    "country": "Moldova",
+    "country_code": "MD",
+    "city": "Chisinau",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 39.35,
+    "asn": "AS200019",
+    "isp": "Alexhost SRL",
+    "latency_ms": 13245.13,
+    "last_checked": 1791335924.758951
+  },
+  {
+    "protocol": "http",
+    "ip": "5.181.158.54",
+    "port": 1080,
+    "country": "Moldova",
+    "country_code": "MD",
+    "city": "Chisinau",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 28.82,
+    "asn": "AS39798",
+    "isp": "MivoCloud SRL",
+    "latency_ms": 5956.91,
+    "last_checked": 1791335862.6221783
   }
 ]
