@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "203.145.218.204",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "223.165.10.17",
+    "port": 1080,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Xitun",
+    "city": "Banqiao",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 49.91,
-    "asn": "AS7539",
-    "isp": "National Center for High-performance Computing",
-    "latency_ms": 5972.87,
-    "last_checked": 1791347295.7000456
+    "ssl": true,
+    "uptime_percent": 5.6,
+    "asn": "AS133955",
+    "isp": "TWD-COM",
+    "latency_ms": 812.57,
+    "last_checked": 1791347943.5197039
   },
   {
     "protocol": "socks5",
@@ -26,7 +26,37 @@
     "uptime_percent": 35.02,
     "asn": "AS18049",
     "isp": "tinp",
-    "latency_ms": 1152.03,
-    "last_checked": 1791347153.988952
+    "latency_ms": 1047.68,
+    "last_checked": 1791347940.8157606
+  },
+  {
+    "protocol": "http",
+    "ip": "203.145.218.204",
+    "port": 3128,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Xitun",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 49.92,
+    "asn": "AS7539",
+    "isp": "National Center for High-performance Computing",
+    "latency_ms": 21303.76,
+    "last_checked": 1791347944.6999714
+  },
+  {
+    "protocol": "http",
+    "ip": "59.124.62.9",
+    "port": 3128,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Bade District",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 17.45,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 17932.77,
+    "last_checked": 1791347941.9796472
   }
 ]
