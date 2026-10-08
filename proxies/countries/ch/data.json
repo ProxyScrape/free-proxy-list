@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "165.225.66.42",
-    "port": 11588,
+    "protocol": "socks5",
+    "ip": "194.182.163.117",
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Zurich",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.06,
+    "asn": "AS61098",
+    "isp": "Akenes SA",
+    "latency_ms": 1454.28,
+    "last_checked": 1791482693.5751517
+  },
+  {
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Tann",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 88.45,
-    "asn": "AS62044",
-    "isp": "Zscaler Switzerland GmbH",
-    "latency_ms": 595.86,
-    "last_checked": 1791482358.6822739
+    "uptime_percent": 45.61,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 4272.41,
+    "last_checked": 1791482661.564754
   },
   {
     "protocol": "http",
@@ -23,10 +38,40 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 88.31,
+    "uptime_percent": 88.33,
     "asn": "AS62044",
     "isp": "Zscaler Switzerland GmbH",
-    "latency_ms": 538.51,
-    "last_checked": 1791482327.5042555
+    "latency_ms": 1216.62,
+    "last_checked": 1791482636.7106261
+  },
+  {
+    "protocol": "socks5",
+    "ip": "91.92.155.207",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.41,
+    "asn": "AS61098",
+    "isp": "Akenes SA",
+    "latency_ms": 829.81,
+    "last_checked": 1791482634.842938
+  },
+  {
+    "protocol": "http",
+    "ip": "165.225.66.42",
+    "port": 11588,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 88.46,
+    "asn": "AS62044",
+    "isp": "Zscaler Switzerland GmbH",
+    "latency_ms": 2024.3,
+    "last_checked": 1791482625.2052975
   }
 ]
