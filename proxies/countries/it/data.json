@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "77.242.177.57",
-    "port": 3128,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Biella",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 45.9,
-    "asn": "AS42669",
-    "isp": "MegaWeb",
-    "latency_ms": 56.0,
-    "last_checked": 1791433741.6158388
-  },
-  {
     "protocol": "socks5",
     "ip": "212.77.75.25",
     "port": 1088,
@@ -26,8 +11,53 @@
     "uptime_percent": 97.59,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 261.64,
-    "last_checked": 1791433714.9349785
+    "latency_ms": 1300.67,
+    "last_checked": 1791434384.6930203
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.62.48.193",
+    "port": 5678,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Isernia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.06,
+    "asn": "AS201847",
+    "isp": "Elektronica Networks",
+    "latency_ms": 3617.98,
+    "last_checked": 1791434360.0680015
+  },
+  {
+    "protocol": "http",
+    "ip": "77.242.177.57",
+    "port": 3128,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Biella",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 45.9,
+    "asn": "AS42669",
+    "isp": "MegaWeb",
+    "latency_ms": 57.15,
+    "last_checked": 1791434347.198157
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.56.219.76",
+    "port": 40001,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.34,
+    "asn": "AS202675",
+    "isp": "Keliweb S.R.L",
+    "latency_ms": 6536.73,
+    "last_checked": 1791434312.7564614
   },
   {
     "protocol": "http",
@@ -37,11 +67,11 @@
     "country_code": "IT",
     "city": "Arezzo",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 11.54,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 20315.86,
-    "last_checked": 1791433684.76994
+    "latency_ms": 12023.81,
+    "last_checked": 1791434272.1847508
   }
 ]
