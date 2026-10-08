@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "150.107.107.152",
-    "port": 1080,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Tulsipur",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 55.95,
-    "asn": "AS45650",
-    "isp": "Vianet Communications Pvt. Ltd",
-    "latency_ms": 1086.53,
-    "last_checked": 1791485382.9770782
-  },
-  {
-    "protocol": "socks4",
-    "ip": "103.167.187.4",
-    "port": 1080,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Kathmandu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 57.54,
-    "asn": "AS58504",
-    "isp": "Techminds Network Pvt. Ltd.",
-    "latency_ms": 3998.06,
-    "last_checked": 1791485365.8102486
-  },
-  {
     "protocol": "http",
     "ip": "110.34.1.180",
     "port": 32650,
@@ -37,12 +7,27 @@
     "country_code": "NP",
     "city": "Kathmandu",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 9.6,
     "asn": "AS4007",
     "isp": "Subisu Cablenet",
-    "latency_ms": 7515.73,
-    "last_checked": 1791485351.9666152
+    "latency_ms": 10288.88,
+    "last_checked": 1791485980.453535
+  },
+  {
+    "protocol": "http",
+    "ip": "110.34.1.178",
+    "port": 7777,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.17,
+    "asn": "AS4007",
+    "isp": "Subisu Cablenet",
+    "latency_ms": 460.6,
+    "last_checked": 1791485923.5663302
   },
   {
     "protocol": "http",
@@ -58,20 +43,5 @@
     "isp": "Ncell Pty. Ltd.",
     "latency_ms": 3750.08,
     "last_checked": 1791485542.4377615
-  },
-  {
-    "protocol": "http",
-    "ip": "110.34.1.178",
-    "port": 7777,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Kathmandu",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 21.17,
-    "asn": "AS4007",
-    "isp": "Subisu Cablenet",
-    "latency_ms": 1495.58,
-    "last_checked": 1791485531.2456663
   }
 ]
