@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "82.117.211.42",
-    "port": 8085,
+    "protocol": "socks4",
+    "ip": "109.245.110.145",
+    "port": 4145,
     "country": "Serbia",
     "country_code": "RS",
-    "city": "Novi Sad",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.08,
+    "asn": "AS15958",
+    "isp": "CETIN Ltd. Belgrade",
+    "latency_ms": 148.43,
+    "last_checked": 1791489303.8689218
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.190.154.121",
+    "port": 4145,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.24,
+    "asn": "AS8400",
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 186.59,
+    "last_checked": 1791489293.8276656
+  },
+  {
+    "protocol": "http",
+    "ip": "212.200.223.89",
+    "port": 8080,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 27.66,
-    "asn": "AS31042",
-    "isp": "Serbia BroadBand",
-    "latency_ms": 722.18,
-    "last_checked": 1791488937.7445552
+    "uptime_percent": 37.76,
+    "asn": "AS8400",
+    "isp": "TELEKOM SRBIJA a.d.",
+    "latency_ms": 2736.75,
+    "last_checked": 1791489254.1922698
   },
   {
     "protocol": "http",
@@ -26,7 +56,7 @@
     "uptime_percent": 31.22,
     "asn": "AS51002",
     "isp": "G NET-Gracija",
-    "latency_ms": 6839.37,
-    "last_checked": 1791488904.3448222
+    "latency_ms": 3606.59,
+    "last_checked": 1791489203.744721
   }
 ]
