@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "108.61.185.188",
     "port": 1080,
     "country": "Australia",
@@ -8,11 +8,11 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 65.71,
+    "uptime_percent": 52.9,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 13086.27,
-    "last_checked": 1791488685.765516
+    "latency_ms": 2658.76,
+    "last_checked": 1791488938.0030658
   },
   {
     "protocol": "http",
@@ -26,7 +26,37 @@
     "uptime_percent": 69.42,
     "asn": "AS45577",
     "isp": "Intervolve Pty Ltd",
-    "latency_ms": 7945.15,
-    "last_checked": 1791488665.8729563
+    "latency_ms": 3646.83,
+    "last_checked": 1791488933.8565624
+  },
+  {
+    "protocol": "http",
+    "ip": "103.18.205.162",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.77,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 6300.37,
+    "last_checked": 1791488928.72843
+  },
+  {
+    "protocol": "socks5",
+    "ip": "108.61.185.188",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 65.74,
+    "asn": "AS20473",
+    "isp": "Choopa",
+    "latency_ms": 10129.62,
+    "last_checked": 1791488924.3253546
   }
 ]
