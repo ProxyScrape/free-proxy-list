@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "165.225.66.42",
-    "port": 11588,
+    "protocol": "socks4",
+    "ip": "195.225.116.14",
+    "port": 4145,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Zurich",
+    "city": "Wädenswil",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 86.57,
-    "asn": "AS62044",
-    "isp": "Zscaler Switzerland GmbH",
-    "latency_ms": 373.81,
-    "last_checked": 1791451477.0083406
+    "ssl": true,
+    "uptime_percent": 27.56,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 7251.57,
+    "last_checked": 1791451789.873124
+  },
+  {
+    "protocol": "socks5",
+    "ip": "194.182.163.117",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.2,
+    "asn": "AS61098",
+    "isp": "Akenes SA",
+    "latency_ms": 89.87,
+    "last_checked": 1791451766.5705307
   },
   {
     "protocol": "http",
@@ -23,10 +38,25 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 86.4,
+    "uptime_percent": 86.43,
     "asn": "AS62044",
     "isp": "Zscaler Switzerland GmbH",
-    "latency_ms": 233.76,
-    "last_checked": 1791451434.238193
+    "latency_ms": 424.34,
+    "last_checked": 1791451764.6223545
+  },
+  {
+    "protocol": "http",
+    "ip": "165.225.66.42",
+    "port": 11588,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 86.59,
+    "asn": "AS62044",
+    "isp": "Zscaler Switzerland GmbH",
+    "latency_ms": 2200.02,
+    "last_checked": 1791451757.5549164
   }
 ]
