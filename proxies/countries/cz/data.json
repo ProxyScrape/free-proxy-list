@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Brno",
+    "city": "Prague",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 71.08,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 6759.02,
-    "last_checked": 1791518301.7540693
+    "ssl": true,
+    "uptime_percent": 34.99,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 3286.57,
+    "last_checked": 1791518933.221576
+  },
+  {
+    "protocol": "http",
+    "ip": "88.146.222.250",
+    "port": 8000,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 29.59,
+    "asn": "AS16019",
+    "isp": "Vodafone Czech Republic a.s.",
+    "latency_ms": 7909.03,
+    "last_checked": 1791518949.4789035
   }
 ]
