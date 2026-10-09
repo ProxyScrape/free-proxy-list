@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "168.138.9.147",
     "port": 1080,
     "country": "Australia",
@@ -8,11 +8,26 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 28.79,
+    "uptime_percent": 33.19,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 14055.28,
-    "last_checked": 1791530678.1103642
+    "latency_ms": 10004.68,
+    "last_checked": 1791530978.0556362
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 10.26,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 3051.86,
+    "last_checked": 1791530939.1140752
   },
   {
     "protocol": "http",
@@ -26,37 +41,22 @@
     "uptime_percent": 69.48,
     "asn": "AS45577",
     "isp": "Intervolve Pty Ltd",
-    "latency_ms": 9634.41,
-    "last_checked": 1791530656.7522767
-  },
-  {
-    "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 10.25,
-    "asn": "AS2764",
-    "isp": "AAPT Limited",
-    "latency_ms": 11606.16,
-    "last_checked": 1791530627.8459358
+    "latency_ms": 15177.93,
+    "last_checked": 1791530887.6888235
   },
   {
     "protocol": "socks5",
-    "ip": "108.61.185.188",
+    "ip": "168.138.9.147",
     "port": 1080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Sydney",
+    "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 66.66,
-    "asn": "AS20473",
-    "isp": "Choopa",
-    "latency_ms": 5486.66,
-    "last_checked": 1791530622.7649198
+    "uptime_percent": 28.79,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 24973.79,
+    "last_checked": 1791530850.780316
   }
 ]
