@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "http",
+    "ip": "31.14.124.45",
+    "port": 8080,
+    "country": "Iran",
+    "country_code": "IR",
+    "city": "Tehran",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 26.65,
+    "asn": "AS25184",
+    "isp": "Afranet",
+    "latency_ms": 2794.18,
+    "last_checked": 1791576694.4387178
+  },
+  {
+    "protocol": "http",
+    "ip": "81.90.158.110",
+    "port": 3128,
+    "country": "Iran",
+    "country_code": "IR",
+    "city": "Varāmīn",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 19.17,
+    "asn": "AS25184",
+    "isp": "Afranet Co",
+    "latency_ms": 781.73,
+    "last_checked": 1791576675.3851202
+  },
+  {
     "protocol": "socks4",
     "ip": "80.191.40.133",
     "port": 5678,
@@ -11,53 +41,23 @@
     "uptime_percent": 16.42,
     "asn": "AS58224",
     "isp": "Telecommunication Company of Iran",
-    "latency_ms": 7566.08,
-    "last_checked": 1791576331.5817945
+    "latency_ms": 1422.9,
+    "last_checked": 1791576673.174577
   },
   {
-    "protocol": "http",
-    "ip": "185.118.153.110",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "87.107.68.231",
+    "port": 1081,
     "country": "Iran",
     "country_code": "IR",
     "city": "Tehran",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 36.27,
-    "asn": "AS62250",
-    "isp": "SINA ATINET Company (Ltd)",
-    "latency_ms": 5266.38,
-    "last_checked": 1791576311.3412437
-  },
-  {
-    "protocol": "http",
-    "ip": "93.118.120.60",
-    "port": 8080,
-    "country": "Iran",
-    "country_code": "IR",
-    "city": "Tehran",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 23.7,
-    "asn": "AS58224",
-    "isp": "Telecommunication Company of Iran",
-    "latency_ms": 706.54,
-    "last_checked": 1791576307.5092862
-  },
-  {
-    "protocol": "http",
-    "ip": "31.14.124.45",
-    "port": 8080,
-    "country": "Iran",
-    "country_code": "IR",
-    "city": "Tehran",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 26.64,
-    "asn": "AS25184",
-    "isp": "Afranet",
-    "latency_ms": 12427.88,
-    "last_checked": 1791576299.1697495
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.13,
+    "asn": "AS21341",
+    "isp": "Soroush Rasanheh Company Ltd",
+    "latency_ms": 12096.16,
+    "last_checked": 1791576664.6723874
   },
   {
     "protocol": "socks4",
@@ -118,20 +118,5 @@
     "isp": "Padidar Technology",
     "latency_ms": 10205.99,
     "last_checked": 1791576514.0393646
-  },
-  {
-    "protocol": "socks5",
-    "ip": "87.107.68.231",
-    "port": 1081,
-    "country": "Iran",
-    "country_code": "IR",
-    "city": "Tehran",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 22.13,
-    "asn": "AS21341",
-    "isp": "Soroush Rasanheh Company Ltd",
-    "latency_ms": 3675.79,
-    "last_checked": 1791576494.4823866
   }
 ]
