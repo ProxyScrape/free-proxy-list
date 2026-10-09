@@ -1,21 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 8000,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 10.78,
-    "asn": "AS2764",
-    "isp": "AAPT Limited",
-    "latency_ms": 8474.57,
-    "last_checked": 1791556768.9326982
-  },
-  {
-    "protocol": "http",
     "ip": "114.111.151.41",
     "port": 80,
     "country": "Australia",
@@ -26,23 +11,23 @@
     "uptime_percent": 69.45,
     "asn": "AS45577",
     "isp": "Intervolve Pty Ltd",
-    "latency_ms": 20002.24,
-    "last_checked": 1791556738.8773816
+    "latency_ms": 7795.56,
+    "last_checked": 1791557334.4767797
   },
   {
-    "protocol": "http",
-    "ip": "198.251.85.115",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "108.61.185.188",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 51.3,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 11503.68,
-    "last_checked": 1791556737.8333025
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 53.25,
+    "asn": "AS20473",
+    "isp": "Choopa",
+    "latency_ms": 11001.33,
+    "last_checked": 1791557318.8654108
   },
   {
     "protocol": "socks5",
@@ -53,10 +38,40 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 67.08,
+    "uptime_percent": 67.12,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 6052.68,
-    "last_checked": 1791556734.0005553
+    "latency_ms": 23096.37,
+    "last_checked": 1791557314.8761246
+  },
+  {
+    "protocol": "http",
+    "ip": "198.251.85.115",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 51.29,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 16529.97,
+    "last_checked": 1791557293.6207542
+  },
+  {
+    "protocol": "http",
+    "ip": "130.162.192.208",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 29.31,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 7818.89,
+    "last_checked": 1791557269.7128701
   }
 ]
