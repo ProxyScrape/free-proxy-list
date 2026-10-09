@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "184.107.179.79",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.79,
+    "asn": "AS32613",
+    "isp": "Leaseweb Canada Inc.",
+    "latency_ms": 2441.48,
+    "last_checked": 1791509039.8371136
+  },
+  {
+    "protocol": "socks4",
     "ip": "144.217.107.25",
     "port": 1080,
     "country": "Canada",
@@ -11,26 +26,11 @@
     "uptime_percent": 53.24,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 3744.38,
-    "last_checked": 1791508791.375154
+    "latency_ms": 8266.69,
+    "last_checked": 1791509031.2410972
   },
   {
-    "protocol": "http",
-    "ip": "151.243.236.236",
-    "port": 80,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Beauharnois",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 56.11,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 3313.03,
-    "last_checked": 1791508787.9677622
-  },
-  {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "184.107.179.79",
     "port": 1080,
     "country": "Canada",
@@ -38,11 +38,41 @@
     "city": "Montreal",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 40.71,
+    "uptime_percent": 67.48,
     "asn": "AS32613",
     "isp": "Leaseweb Canada Inc.",
-    "latency_ms": 4467.44,
-    "last_checked": 1791508781.597664
+    "latency_ms": 1563.56,
+    "last_checked": 1791509029.4301674
+  },
+  {
+    "protocol": "http",
+    "ip": "192.99.44.178",
+    "port": 3128,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 25.13,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 15166.77,
+    "last_checked": 1791509016.446539
+  },
+  {
+    "protocol": "http",
+    "ip": "51.222.30.140",
+    "port": 3128,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Beauharnois",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 24.41,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 18453.64,
+    "last_checked": 1791509003.6368527
   },
   {
     "protocol": "http",
@@ -52,12 +82,12 @@
     "country_code": "CA",
     "city": "Beauharnois",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 32.03,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 10584.44,
-    "last_checked": 1791508724.500733
+    "latency_ms": 15212.39,
+    "last_checked": 1791509000.2408042
   },
   {
     "protocol": "socks5",
@@ -103,20 +133,5 @@
     "isp": "Rica Web Services",
     "latency_ms": 719.42,
     "last_checked": 1791508703.8506565
-  },
-  {
-    "protocol": "socks5",
-    "ip": "184.107.179.79",
-    "port": 1080,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 67.36,
-    "asn": "AS32613",
-    "isp": "Leaseweb Canada Inc.",
-    "latency_ms": 2983.02,
-    "last_checked": 1791508701.2883923
   }
 ]

@@ -1,47 +1,32 @@
 [
   {
     "protocol": "http",
-    "ip": "38.7.24.17",
-    "port": 8080,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "San Pedro Sula",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 4.89,
-    "asn": "AS263725",
-    "isp": "Multicable De Honduras",
-    "latency_ms": 414.49,
-    "last_checked": 1791508777.7630796
-  },
-  {
-    "protocol": "http",
-    "ip": "181.78.44.63",
-    "port": 999,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "La Unión",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 52.43,
-    "asn": "AS52468",
-    "isp": "Ufinet Panama S.A.",
-    "latency_ms": 6426.95,
-    "last_checked": 1791508752.977189
-  },
-  {
-    "protocol": "http",
     "ip": "164.163.73.5",
     "port": 999,
     "country": "Honduras",
     "country_code": "HN",
     "city": "Santa Rosa de Copán",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 27.69,
     "asn": "AS265767",
     "isp": "Grupo Inma S.A",
-    "latency_ms": 11887.86,
-    "last_checked": 1791508723.9448302
+    "latency_ms": 1977.58,
+    "last_checked": 1791508991.52335
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.4.136.106",
+    "port": 10801,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Ciudad Choluteca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 8.31,
+    "asn": "AS27884",
+    "isp": "Cablecolor S.A.",
+    "latency_ms": 7985.94,
+    "last_checked": 1791508985.9553063
   }
 ]
