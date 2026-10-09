@@ -1,69 +1,123 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,8.215.112.214,7777,Indonesia,ID,Jakarta,elite,true,72.7,AS45102,"Alibaba (US) Technology Co., Ltd.",835.47,1791587966.4407725
-http,8.215.25.3,2080,Indonesia,ID,Jakarta,elite,true,50.97,AS45102,"Alibaba (US) Technology Co., Ltd.",833.28,1791587964.6212964
-http,103.131.19.41,8080,Indonesia,ID,Batang,transparent,true,25.78,AS138089,PT Global Media Data Prima,4476.71,1791587959.1905055
-http,154.19.39.220,8090,Indonesia,ID,Tangerang,transparent,true,19.52,AS150279,PT Lintas Network Solusi,4072.23,1791587956.7500916
-http,103.169.225.58,8080,Indonesia,ID,Paseh,transparent,true,23.62,AS142354,SUPERSPACE,3530.83,1791587956.6848876
-http,112.215.62.81,8080,Indonesia,ID,Mataram,transparent,false,24.89,AS17885,XL-AXIATA Tbk GSM,974.35,1791587955.1703591
-http,36.66.130.147,8080,Indonesia,ID,Kota Cilegon,transparent,true,10.44,AS7713,PT. Telekomunikasi Indonesia,5988.68,1791587954.6861615
-http,202.10.55.50,3128,Indonesia,ID,Jakarta Pusat,transparent,true,24.36,AS140475,HIGEN,1497.29,1791587953.806578
-http,182.253.181.10,8080,Indonesia,ID,Bandung,transparent,false,15.07,AS38060,BIZNET,6083.85,1791587953.6727238
-http,103.174.122.210,3128,Indonesia,ID,Sumedang,anonymous,false,13.2,AS147096,PT Jaya Sejahtra Nugraha,4171.65,1791587952.6411467
-http,103.173.72.24,1111,Indonesia,ID,Randudongkal,transparent,false,10.04,AS147113,PT Eyza Kausa Sinergi Abadi,2279.22,1791587952.6126857
-http,165.101.231.68,8080,Indonesia,ID,Arjawinangun,transparent,false,23.34,AS141127,PT Anugerah Cimanuk Raya,1584.61,1791587952.2761376
-http,103.160.202.174,3125,Indonesia,ID,Ponorogo,transparent,false,18.91,AS141606,PT Sembilan Mediadata Nusaraya,5201.92,1791587951.0209448
-http,103.156.17.139,8818,Indonesia,ID,Jatibarang,transparent,false,21.06,AS141077,RSTNET,4231.83,1791587950.7110412
-http,103.35.216.34,8080,Indonesia,ID,Gununganyar,transparent,true,28.88,AS150192,Politeknik Pelayaran Surabaya,2929.43,1791587950.4492037
-http,103.141.150.147,8080,Indonesia,ID,Bandung,transparent,true,19.41,AS133815,PRIMACOM,6231.33,1791587949.8200624
-http,38.183.146.251,8080,Indonesia,ID,Bekasi,transparent,false,14.85,AS140457,PT Ikhlas Cipta Teknologi,3541.04,1791587949.6240153
-http,103.122.1.14,8181,Indonesia,ID,Cempaka,transparent,true,6.35,AS135477,PT. Java Digital Nusantara,7378.98,1791587949.3171222
-http,103.183.8.243,8080,Indonesia,ID,Cikadondongdesa,transparent,false,25.73,AS149404,PT Cepat Multi Data,4376.0,1791587948.5137982
-http,45.198.10.39,9191,Indonesia,ID,Jatiroto,transparent,false,31.3,AS142386,PT Jaringan Lintas Artha,8374.49,1791587948.2614381
-http,103.156.17.71,8818,Indonesia,ID,Jatibarang,transparent,false,21.17,AS141077,RSTNET,6594.6,1791587947.6408043
+http,103.65.237.92,5678,Indonesia,ID,Jakarta,elite,false,85.94,AS135450,PT Berkah Solusi Teknologi Informasi,1397.06,1791588268.998399
+http,160.19.18.115,3127,Indonesia,ID,Comal,transparent,true,27.73,AS149360,PT Indo Telemedia Solusi,8800.5,1791588266.2195575
+http,8.215.112.214,7777,Indonesia,ID,Jakarta,elite,false,72.7,AS45102,"Alibaba (US) Technology Co., Ltd.",846.5,1791588264.476496
+http,203.201.190.33,8080,Indonesia,ID,Wiralaga Mulya,transparent,true,27.49,AS154833,PT WIRA HASTA JITU,8003.36,1791588263.533082
+http,38.46.214.193,1080,Indonesia,ID,Sukabumi,elite,false,25.16,AS55701,PT. Usaha Adi Sanggoro,3557.92,1791588257.8269546
+http,103.229.164.178,3128,Indonesia,ID,Pamulang,transparent,false,24.33,AS9341,PT Indonesia Comnets Plus,10860.13,1791588255.216826
+http,103.22.99.95,1111,Indonesia,ID,Magetan,transparent,false,15.07,AS45305,KHALISTAGROUP,7818.97,1791588254.4809296
+http,38.58.114.3,3125,Indonesia,ID,South Jakarta,transparent,false,30.11,AS58821,PT Lintas Jaringan Nusantara,5427.22,1791588254.292746
+http,121.101.134.199,8080,Indonesia,ID,Sleman,transparent,false,25.68,AS131706,PT SELARAS CITRA TERABIT,6483.41,1791588252.999251
+http,103.172.42.115,1111,Indonesia,ID,Kemantren Satu,transparent,false,21.14,AS142393,PT Media Solusi Sukses,13005.46,1791588252.63711
+http,103.94.250.22,8080,Indonesia,ID,Pelalawan,transparent,false,31.18,AS138884,PT Centronet Data Indonesia,9067.54,1791588251.835169
+http,163.61.50.3,3125,Indonesia,ID,Jakarta,transparent,false,4.46,AS153636,Erzar Inti Solusi,11832.25,1791588251.5745568
+http,192.145.228.212,8082,Indonesia,ID,Bandar Lampung,transparent,false,9.54,AS140031,PT Mandala Lintas Nusa,6158.99,1791588251.5167441
+http,103.67.85.150,3127,Indonesia,ID,Penataban Krajan Satu,transparent,false,25.02,AS152004,PT Tujuh Fondasi Teknologi,6239.41,1791588251.2163827
+http,103.176.97.108,3128,Indonesia,ID,Purwakarta,transparent,true,16.43,AS147131,PT Global Sarana Elektronika,7680.53,1791588249.7487042
+http,111.95.161.133,8080,Indonesia,ID,Bekasi,transparent,false,33.55,AS23700,Linknet-Fastnet ASN,3561.26,1791588249.3578506
+http,103.171.255.204,8080,Indonesia,ID,Sleman,transparent,true,23.04,AS142399,PT Zona Kolektif Indonesia,1571.06,1791588247.5535955
+http,160.19.19.194,3125,Indonesia,ID,Margahayukencana,transparent,false,7.51,AS149360,PT Indo Telemedia Solusi,18032.5,1791588247.1485617
+http,103.154.76.18,8080,Indonesia,ID,Sleman,transparent,false,30.19,AS140481,T2NET,740.53,1791588247.019501
+http,113.192.12.199,3125,Indonesia,ID,Bogor,transparent,false,13.46,AS58495,PT Parsaoran Global Datatrans,20118.79,1791588245.5338707
+http,103.75.96.70,8080,Indonesia,ID,Bogor,transparent,false,8.93,AS131111,MORATELINDO,13185.98,1791588245.4531639
+http,103.124.197.227,8080,Indonesia,ID,Batam,transparent,false,5.99,AS138096,PT INFORMASI NUSANTARA TEKNOLOGI,10318.49,1791588245.2887552
+http,114.5.97.150,8080,Indonesia,ID,Surabaya,transparent,false,8.3,AS4761,PT. INDOSAT Tbk,9775.44,1791588245.0207214
+http,103.160.69.161,8080,Indonesia,ID,Jakarta,transparent,false,21.34,AS141607,PT Gayatri Lintas Nusantara,2786.75,1791588244.5020375
+http,103.87.149.133,8080,Indonesia,ID,Tipar,transparent,false,20.18,AS45305,"Lintas Data Prima, PT",460.49,1791588244.384837
+http,202.58.73.246,1111,Indonesia,ID,Blitar,transparent,true,11.31,AS138886,PT Data Buana Nusantara,526.28,1791588244.284106
+http,113.192.31.221,3125,Indonesia,ID,South Jakarta,transparent,false,3.35,AS149360,PT Indo Telemedia Solusi,12219.62,1791588244.197799
+http,103.204.46.2,8090,Indonesia,ID,Pacitan,transparent,false,16.45,AS151585,PT Wifa Lintas Data,6188.36,1791588243.550296
+http,103.154.178.101,3125,Indonesia,ID,Pelabuhan Dagang,transparent,false,8.03,AS131705,ANEKANET,9149.82,1791588243.5298183
+http,103.156.233.49,3125,Indonesia,ID,Ciampea,transparent,false,11.76,AS141098,MULTIMEDIALINKTECH,15120.82,1791588243.3246498
+http,103.242.104.150,8080,Indonesia,ID,Subang,transparent,false,23.43,AS58821,PT Lintas Jaringan Nusantara,11142.24,1791588243.2955964
+http,103.142.255.32,8080,Indonesia,ID,Jombang,transparent,false,30.36,AS139381,PT.CITRA BERDIKARI NUSANTARA,1425.34,1791588243.149476
+http,160.25.242.250,8080,Indonesia,ID,Caruban,transparent,true,22.57,AS142347,PT Sarana Media Cemerlang,2073.98,1791588242.9643254
+http,103.26.131.29,3125,Indonesia,ID,Salatiga,transparent,false,19.66,AS132663,PT Indonesia Media Komunikasi Masyarakat,1368.81,1791588242.7796326
+http,103.189.250.47,8080,Indonesia,ID,Banyuwangi,elite,false,24.02,AS150247,PT Pandawa Lima Java Network,1628.48,1791588242.3067684
+http,103.189.249.210,8080,Indonesia,ID,Jatiroto,transparent,false,17.97,AS149888,PT Berkah Media Kusuma Vision,2025.96,1791588241.9438255
+http,165.101.231.107,8181,Indonesia,ID,Arjawinangun,transparent,true,24.19,AS141127,PT Anugerah Cimanuk Raya,9124.48,1791588241.875915
+http,103.151.177.221,8080,Indonesia,ID,Jakarta,anonymous,false,18.49,AS140415,PT JASAMARGA TOLLROAD OPERATOR,3838.24,1791588241.5141199
+http,203.190.46.103,8080,Indonesia,ID,Pekalongan,transparent,false,18.93,AS45317,PT Jaring Lintas Utara,8041.92,1791588241.3663623
+http,113.192.30.240,8080,Indonesia,ID,South Jakarta,transparent,false,26.52,AS149360,PT Indo Telemedia Solusi,4711.66,1791588241.3429012
+http,203.201.190.31,8080,Indonesia,ID,Wiralaga Mulya,transparent,false,40.19,AS154833,PT WIRA HASTA JITU,7139.17,1791588240.3554208
+http,103.155.198.138,3125,Indonesia,ID,Jakarta,transparent,true,21.8,AS58821,PT Lintas Jaringan Nusantara,3314.65,1791588239.671871
+http,103.138.14.29,8080,Indonesia,ID,Belawan,transparent,false,28.42,AS138839,Adidaya Infocom Lestari,3042.35,1791588239.5100627
+http,163.223.78.163,8080,Indonesia,ID,Jombang,elite,false,20.99,AS153697,PT Big Network Indonesia,4118.46,1791588239.2852626
+http,160.22.134.63,1111,Indonesia,ID,Tangerang,transparent,false,26.87,AS152810,PT GALAXY SINERGI NETWORK,8438.28,1791588239.2007747
+http,103.88.169.42,3125,Indonesia,ID,Surabaya,transparent,false,3.9,AS136093,PT Mitra Lintas Multimedia,14593.07,1791588239.078804
+http,123.253.4.50,8080,Indonesia,ID,Margahayukencana,transparent,false,20.44,AS17995,PT. iForte Global Internet,4972.21,1791588238.7419677
+http,160.25.237.163,1111,Indonesia,ID,Cikarang,transparent,false,13.99,AS153105,PT Nada Freedom Indonesia,5020.61,1791588238.5407472
+http,113.192.48.82,8080,Indonesia,ID,Weleri,transparent,false,14.0,AS138089,PT.Global Media Data Prima,9901.8,1791588238.3794248
+http,117.102.86.146,8080,Indonesia,ID,Bekasi,transparent,true,6.24,AS17451,BIZNET,14246.5,1791588238.3648171
+http,103.227.187.23,8080,Indonesia,ID,Curahjati,transparent,false,23.2,AS142370,PT Master Star Network,6693.33,1791588237.9364238
+http,103.145.34.9,55443,Indonesia,ID,Umbulan Tebingsuluh,elite,false,11.08,AS139449,PT Lintas Data Multimedia,5998.06,1791588237.7683153
+http,103.186.62.212,8080,Indonesia,ID,Denpasar,transparent,true,23.79,AS45701,"Internet Madju Abad Millenindo, PT",13640.86,1791588237.1572602
+http,103.153.135.2,8181,Indonesia,ID,Tigaraksa,transparent,true,23.61,AS140464,WMINET,5268.06,1791588235.591129
+http,157.20.207.54,3125,Indonesia,ID,Kudus,transparent,false,6.83,AS152436,PT Erajaya Telco Indonesia,9561.82,1791588235.4282522
+http,160.19.146.173,2022,Indonesia,ID,Tasikmalaya,transparent,false,24.13,AS152775,PT Taska Sarana Nusantara,8281.07,1791588234.550256
+http,103.113.3.25,8080,Indonesia,ID,South Tangerang,transparent,false,7.79,AS137342,Diskominfo Tangerang Selatan,4476.98,1791588234.4207962
+http,101.255.151.89,8181,Indonesia,ID,Central Jakarta,transparent,true,25.33,AS38511,PT Remala Abadi,8176.44,1791588234.232865
+http,210.87.125.57,8080,Indonesia,ID,Kediri,transparent,false,14.68,AS152059,CV Brawijaya Giga Network,5795.08,1791588234.1477203
+http,103.227.187.177,6090,Indonesia,ID,Wirodayan,transparent,false,18.66,AS142370,PT Master Star Network,12205.23,1791588234.1345823
+http,45.198.11.177,9191,Indonesia,ID,Colomadu,transparent,false,26.26,AS142386,PT Jaringan Lintas Artha,9259.57,1791588233.9769583
+http,103.166.0.50,1111,Indonesia,ID,Banjar Sambangan,anonymous,false,25.31,AS141928,PT Balian Media Online Nusantara,10178.32,1791588233.822116
+http,103.245.16.133,8080,Indonesia,ID,Depok,transparent,false,7.92,AS46023,PT Quantum Tera Network,7194.8,1791588233.3719068
+http,103.184.180.2,1111,Indonesia,ID,Magetan,transparent,false,23.39,AS45305,"Lintas Data Prima, PT",5917.86,1791588232.8
+http,103.4.76.237,1111,Indonesia,ID,Depok,transparent,false,22.76,AS150216,PT Khazanah Net Indonesia,3135.43,1791588231.5113077
+http,38.183.146.170,8090,Indonesia,ID,Bekasi,transparent,false,14.21,AS140457,PT Ikhlas Cipta Teknologi,9768.4,1791588231.2088928
+http,101.255.209.93,8090,Indonesia,ID,Bogor,transparent,false,21.56,AS38511,PT Remala Abadi,12834.51,1791588230.560729
+http,160.19.19.165,3125,Indonesia,ID,Subang,transparent,false,42.84,AS149360,PT Indo Telemedia Solusi,7911.24,1791588228.034053
+http,103.165.123.109,8080,Indonesia,ID,Bogor,transparent,false,14.93,AS17995,PT iForte Global Internet,6782.0,1791588227.0287433
+http,38.103.250.205,8080,Indonesia,ID,Kudus,transparent,false,23.52,AS152436,PT Erajaya Telco Indonesia / Eratel /Eratelindo,11004.5,1791588226.3567393
+http,36.50.56.237,8080,Indonesia,ID,Cibinong,transparent,true,30.83,AS152029,PT Andromega Data Nusantara,8076.51,1791588226.349599
+http,160.25.237.73,1111,Indonesia,ID,Cikarang,transparent,false,13.54,AS153105,PT Nada Freedom Indonesia,4819.04,1791588226.1374748
+http,103.193.145.1,8080,Indonesia,ID,Batam,transparent,false,21.83,AS58821,PT Lintas Jaringan Nusantara,1320.82,1791588224.9929912
+http,103.171.245.126,8080,Indonesia,ID,Ngawi,transparent,false,31.57,AS141674,PT Data Arta Sedaya,5613.3,1791588224.4727185
+http,182.23.35.242,8080,Indonesia,ID,Jakarta,transparent,false,16.42,AS4800,PT Aplikanusa Lintasarta,5671.94,1791588223.2131171
+http,103.130.63.13,1080,Indonesia,ID,Cirebon,transparent,true,27.18,AS138079,Fastama,4078.26,1791588223.0095184
+http,103.156.16.235,8818,Indonesia,ID,Jatibarang,anonymous,false,21.18,AS141077,RSTNET,4157.26,1791588222.8008811
+http,103.178.21.104,3125,Indonesia,ID,Malang,transparent,false,13.33,AS149319,PT Trisna Mega Abadi,4924.22,1791588222.6050775
+http,103.172.42.147,1111,Indonesia,ID,Karawang,transparent,false,25.14,AS142393,PT Media Solusi Sukses,4522.32,1791588222.1785479
+http,163.227.248.119,8818,Indonesia,ID,Sukabumi,transparent,false,24.7,AS153895,PT Rajasa Sinergi Komunikasi,1658.45,1791588222.1565776
+http,103.162.61.49,8080,Indonesia,ID,Kroya,transparent,false,19.47,AS141648,PT Indo Prima Akses,10615.42,1791588221.4098723
+http,103.173.72.25,1111,Indonesia,ID,Randudongkal,transparent,true,9.66,AS147113,PT Eyza Kausa Sinergi Abadi,7085.46,1791588220.8268914
+http,180.148.25.78,8080,Indonesia,ID,Cianjur,transparent,false,25.21,AS154201,PT GIGA NETWORK INDONESIA,2412.27,1791588220.3647547
+http,198.15.30.70,8080,Indonesia,ID,Pamekasan,transparent,false,23.5,AS154503,PT Trimafa Computindo Networking,535.54,1791588219.8367293
+http,202.136.82.119,8080,Indonesia,ID,Driyorejo,transparent,false,15.36,AS154208,PT GIRI DATA SOLUSINDO,6436.06,1791588219.6319842
+http,103.189.223.38,8080,Indonesia,ID,Kresek,transparent,true,26.06,AS149881,PT. WIKAPLUS GLOBAL NUSANTARA,8567.77,1791588219.5139117
+http,144.79.180.45,8080,Indonesia,ID,Lubuk Pakam,transparent,true,29.41,AS154747,PT SAHABAT INDONESIA INTERNET,4658.16,1791588219.3588989
+http,103.154.231.249,3125,Indonesia,ID,Gunung Kendil,transparent,false,3.89,AS136121,DIGITNET,16093.25,1791588219.2350483
+http,103.155.47.57,3125,Indonesia,ID,Probolinggo,transparent,false,12.24,AS141049,PRONETINDO,11069.85,1791588218.076739
+http,45.198.33.65,8080,Indonesia,ID,Jakarta,transparent,true,22.38,AS138089,PT.Global Media Data Prima,5776.08,1791588217.4376166
+http,103.160.205.51,8080,Indonesia,ID,Gerung,transparent,false,28.67,AS141595,PRIME,8812.07,1791588217.4336665
+http,103.184.56.146,8080,Indonesia,ID,Bandung,transparent,false,25.02,AS149667,PT Gading Bhakti Utama,7664.73,1791588215.9528332
+http,103.193.145.155,8080,Indonesia,ID,Batam,transparent,false,13.96,AS58821,PT Lintas Jaringan Nusantara,7683.26,1791588214.852831
+http,103.180.123.49,8788,Indonesia,ID,South Jakarta,transparent,false,22.78,AS149360,PT Indo Telemedia Solusi,10837.63,1791588214.759547
 http,103.174.122.83,3128,Indonesia,ID,Sumedang,anonymous,true,24.85,AS147096,PT Jaya Sejahtra Nugraha,516.8,1791587947.491049
-http,165.101.231.107,8181,Indonesia,ID,Arjawinangun,transparent,false,24.16,AS141127,PT Anugerah Cimanuk Raya,493.56,1791587947.1608229
+http,103.167.31.154,8080,Indonesia,ID,South Tangerang,transparent,false,4.65,AS17995,PT iForte Global Internet,14836.63,1791587947.367025
 http,123.176.126.95,8080,Indonesia,ID,Perbaungan,transparent,false,25.46,AS136106,FIBERSTAR,4999.88,1791587947.0889828
-http,103.175.81.252,8080,Indonesia,ID,Rejanegara,elite,false,16.57,AS149704,PT Panglima Kamayo Media,7633.53,1791587946.907549
-http,103.165.155.22,2016,Indonesia,ID,Pasarkemis,transparent,false,8.42,AS141921,PT Jaringan Keluarga Bersama,10186.54,1791587946.2647746
-http,38.103.250.205,8080,Indonesia,ID,Kudus,transparent,false,23.52,AS152436,PT Erajaya Telco Indonesia / Eratel /Eratelindo,1860.09,1791587944.0901818
-http,103.24.214.169,8081,Indonesia,ID,Ungaran,transparent,true,23.99,AS132649,PT. ADAU PUTRA NETWORK,492.03,1791587943.8642757
 http,210.87.92.84,3128,Indonesia,ID,Mranggen,transparent,false,24.91,AS149360,PT Indo Telemedia Solusi,4298.11,1791587943.82543
 http,103.193.144.251,8080,Indonesia,ID,Batam,transparent,true,24.16,AS58821,PT Lintas Jaringan Nusantara,2145.48,1791587943.6923695
 http,162.4.225.37,8083,Indonesia,ID,Jombang,transparent,false,27.92,AS154709,Indonesia Network Information Center,3777.35,1791587943.5619743
 http,202.58.77.214,8080,Indonesia,ID,Blitar,anonymous,false,22.78,AS138886,PT Data Buana Nusantara,3568.42,1791587943.1895192
 http,103.82.246.237,3125,Indonesia,ID,Ciputat,transparent,false,25.61,AS142370,PT Master Star Network,462.44,1791587943.1223507
-http,160.19.146.128,2022,Indonesia,ID,Tasikmalaya,transparent,false,27.98,AS152775,PT Taska Sarana Nusantara,1557.68,1791587942.5645018
-http,192.188.80.146,8080,Indonesia,ID,Siak Sri Indrapura,transparent,true,25.09,AS154123,PT Rayunet Broadcast Solution,6857.85,1791587942.3248425
-http,38.47.180.4,3128,Indonesia,ID,South Jakarta,transparent,false,54.09,AS140443,Cogent Communications,7588.91,1791587942.2274802
 http,103.172.42.179,1111,Indonesia,ID,Karawang,transparent,false,18.14,AS142393,PT Media Solusi Sukses,11245.06,1791587942.100015
 http,103.133.25.247,8080,Indonesia,ID,Bekasi,transparent,false,13.43,AS138130,PT PHATRIA INTI PERSADA,11725.4,1791587941.90186
-http,116.68.162.174,8080,Indonesia,ID,Kediri,transparent,true,28.53,AS56246,PT. Sumber Data Indonesia,3694.23,1791587941.5772767
-http,157.66.36.103,8080,Indonesia,ID,Ciranjang-hilir,transparent,false,26.09,AS140016,PT Trik Media Data,3491.5,1791587941.5462582
 http,103.180.126.237,8080,Indonesia,ID,Jakarta,elite,false,14.27,AS149374,PT Alam Media Data,9551.13,1791587941.3895545
 http,103.125.212.130,8080,Indonesia,ID,West Jakarta,transparent,false,24.94,AS17995,SOLUSINET,4577.68,1791587940.8943195
 http,103.46.11.129,8090,Indonesia,ID,Sukoanyar,transparent,true,26.62,AS45305,"Lintas Data Prima, PT",2719.85,1791587940.732825
 http,101.255.104.54,8080,Indonesia,ID,West Jakarta,transparent,true,23.97,AS38511,PT Remala Abadi,2810.89,1791587940.7167635
 http,103.163.13.36,1111,Indonesia,ID,Bojonegoro,transparent,false,11.19,AS141889,PT Solusi Media Telekomunikasi,16791.97,1791587940.4625201
 http,160.22.134.77,1111,Indonesia,ID,Tangerang,transparent,false,24.53,AS152810,PT GALAXY SINERGI NETWORK,5869.38,1791587939.825239
-http,160.19.19.165,3125,Indonesia,ID,Subang,transparent,false,42.84,AS149360,PT Indo Telemedia Solusi,7604.83,1791587939.808746
-http,103.4.76.237,1111,Indonesia,ID,Depok,transparent,true,22.76,AS150216,PT Khazanah Net Indonesia,3329.15,1791587939.5328639
-http,113.192.48.159,8080,Indonesia,ID,Kresek,transparent,false,24.66,AS138089,PT.Global Media Data Prima,7379.18,1791587939.4062355
 http,160.19.18.173,3125,Indonesia,ID,Comal,transparent,false,32.19,AS149360,PT Indo Telemedia Solusi,2807.3,1791587939.1168196
-http,113.192.30.27,7777,Indonesia,ID,South Jakarta,transparent,false,21.96,AS149360,PT Indo Telemedia Solusi,6877.89,1791587938.9863436
 http,121.101.134.181,8080,Indonesia,ID,Sleman,transparent,false,23.8,AS131706,PT SELARAS CITRA TERABIT,12300.58,1791587938.8186023
-http,103.39.70.5,8181,Indonesia,ID,Pemangkat,transparent,false,23.87,AS150274,PT Gateway media Zafira,3266.45,1791587938.4285278
 http,45.198.20.172,3125,Indonesia,ID,Bekasi,transparent,true,8.42,AS140457,PT IKHLAS CIPTA TEKNOLOGI,13648.87,1791587938.38184
-http,103.124.137.193,8181,Indonesia,ID,Tangerang,transparent,true,22.24,AS138089,Global Media Data Prima,4871.25,1791587938.224755
 http,149.129.226.9,4145,Indonesia,ID,Jakarta,elite,false,1.01,AS45102,Alibaba.com Singapore E-Commerce Private Limited,3488.74,1791587937.751946
 http,160.19.145.101,3127,Indonesia,ID,Demak,transparent,true,23.2,AS45305,"Lintas Data Prima, PT",1534.24,1791587937.6737757
-http,103.132.41.198,7777,Indonesia,ID,Wonosobo,transparent,true,23.44,AS150970,PT Kalimasada Inti Sarana,2767.2,1791587937.5935824
 http,154.18.255.103,1111,Indonesia,ID,Karawang,transparent,false,26.0,AS142393,PT Media Solusi Sukses,9003.13,1791587937.5522056
-http,160.19.178.61,8080,Indonesia,ID,Sepatan,transparent,false,15.41,AS152787,PT Jaringan Cyber Evo,5239.28,1791587937.3169158
-http,154.18.255.121,1111,Indonesia,ID,Karawang,transparent,false,23.61,AS142393,PT Media Solusi Sukses,4593.0,1791587936.8111918
 http,110.76.147.31,8080,Indonesia,ID,Magetan,transparent,true,22.22,AS140481,PT Pika Media Komunika,1659.74,1791587936.3242574
 http,154.18.255.43,8080,Indonesia,ID,Karawang,transparent,false,25.33,AS142393,PT Media Solusi Sukses,2985.2,1791587935.6567962
 http,103.247.21.83,8446,Indonesia,ID,Bekasi,transparent,false,16.0,AS58485,PT wifian Solution,8827.52,1791587935.4181037
-http,223.25.110.250,8088,Indonesia,ID,Purbalingga,transparent,false,24.7,AS136873,SinergiNet,8478.09,1791587935.3997736
 http,163.61.225.180,1111,Indonesia,ID,Banjar Buayang,transparent,false,27.73,AS64300,PT. Jaringan Internet Terpadu,2028.11,1791587934.9349952
 http,203.2.151.21,8080,Indonesia,ID,Subang,transparent,false,26.97,AS142043,PT BARAYA BARENG SADULUR,2844.44,1791587934.8089414
 http,112.78.141.79,9091,Indonesia,ID,Jakarta,transparent,false,23.31,AS38482,Biznet Networks,13038.94,1791587934.671532
@@ -77,20 +131,15 @@ http,103.156.16.241,8081,Indonesia,ID,Jatibarang,transparent,false,25.19,AS14107
 http,103.247.15.103,9090,Indonesia,ID,Mertoyudan,transparent,false,25.93,AS131706,PT SELARAS CITRA TERABIT,5721.64,1791587933.4002066
 http,163.227.248.98,8818,Indonesia,ID,Sukabumi,transparent,false,16.54,AS153895,PT Rajasa Sinergi Komunikasi,3481.58,1791587933.116732
 http,38.226.243.95,8080,Indonesia,ID,Randudongkal,transparent,false,26.62,AS152032,PT Putra Garsel Interkoneksi,5574.15,1791587932.8906345
-http,103.156.114.46,8080,Indonesia,ID,Tangerang,transparent,true,22.39,AS63859,MYREPUBLIC,2482.95,1791587932.1206872
 http,103.163.103.213,8080,Indonesia,ID,Jatiroto,transparent,true,28.61,AS141673,PT Mamura Inter Media,2815.38,1791587931.8968062
-http,103.183.8.139,8080,Indonesia,ID,Cikadondongdesa,transparent,false,24.42,AS149404,PT Cepat Multi Data,1870.33,1791587931.4936767
 http,38.46.214.249,7777,Indonesia,ID,Sukabumi,transparent,true,23.08,AS55701,PT. Usaha Adi Sanggoro,1480.19,1791587931.4708457
 http,103.247.23.103,1111,Indonesia,ID,Cilacap,transparent,false,24.73,AS58485,PT wifian Solution,5535.68,1791587930.2368562
 http,103.153.62.78,3125,Indonesia,ID,Bekasi,transparent,false,9.69,AS140457,PT Ikhlas Cipta Teknologi,8916.51,1791587930.2085485
-http,103.193.145.233,3125,Indonesia,ID,Batam,transparent,false,8.4,AS58821,PT Lintas Jaringan Nusantara,14022.67,1791587930.1914628
 http,103.98.116.10,3128,Indonesia,ID,Sengkang,elite,false,27.09,AS136820,TESOLCITYNET,3823.89,1791587930.187112
 http,156.230.187.234,8081,Indonesia,ID,Bandung,transparent,false,28.26,AS63859,My Republic Indonesia,5356.59,1791587930.0171475
 http,103.126.86.130,8080,Indonesia,ID,Karanganyar,anonymous,false,26.87,AS138109,PT. Rasi Bintang Perkasa,4285.8,1791587929.917009
-http,103.171.245.126,8080,Indonesia,ID,Ngawi,transparent,false,31.48,AS141674,PT Data Arta Sedaya,1239.42,1791587929.8049915
 http,103.151.223.168,8080,Indonesia,ID,Bangkinang,transparent,false,20.41,AS140423,CMEDIANET,9347.99,1791587929.800121
 http,103.158.13.191,3125,Indonesia,ID,Bojonegoro,anonymous,false,14.35,AS138089,PT.Global Media Data Prima,11872.83,1791587929.5340889
-http,103.170.100.96,8080,Indonesia,ID,Jakarta,transparent,false,7.12,AS142364,Subnet Data Nusantara,1413.42,1791587929.407386
 http,103.1.51.115,3125,Indonesia,ID,Situbondo,transparent,false,11.18,AS142352,PT. PRATAMA HASTA UTAMA SOLUSINDO,8214.57,1791587928.8247507
 http,103.171.161.96,9090,Indonesia,ID,Central Jakarta,elite,false,19.39,AS63859,MYREPUBLIC,1478.84,1791587928.7355034
 http,103.31.235.253,8080,Indonesia,ID,Caringin,transparent,true,29.77,AS55701,PT Usaha Adi Sanggoro,3982.69,1791587928.6248238
@@ -99,37 +148,27 @@ http,103.123.64.234,3128,Indonesia,ID,East Jakarta,transparent,false,7.56,AS1311
 http,103.80.215.99,8080,Indonesia,ID,Sidoarjo,transparent,true,26.97,AS153092,PT Redi Revolusi Digital Solusi,2160.23,1791587928.120856
 http,103.193.144.223,8080,Indonesia,ID,Batam,transparent,false,14.39,AS58821,PT Lintas Jaringan Nusantara,11294.84,1791587927.8930001
 http,103.172.71.83,9191,Indonesia,ID,Karawang,transparent,false,12.0,AS142386,AZNET,3505.87,1791587927.7567585
-http,36.92.24.12,9100,Indonesia,ID,Central Jakarta,transparent,true,14.57,AS7713,PT. Telekomunikasi Indonesia,1273.43,1791587927.7379038
-http,157.10.97.163,3125,Indonesia,ID,Palembang,transparent,false,2.86,AS58821,PT Lintas Jaringan Nusantara,2265.23,1791587927.5704048
 http,103.183.13.94,8080,Indonesia,ID,Palembang,transparent,false,19.25,AS17995,PT iForte Global Internet,9904.7,1791587927.1299467
 http,103.97.140.62,3125,Indonesia,ID,Lembang,transparent,true,12.57,AS141071,PT Jembatan Data Pangrango,14539.58,1791587926.8218138
-http,144.79.228.174,8080,Indonesia,ID,Semarang Regency,transparent,false,25.31,AS142189,PT Teja Bala Abadi,5428.85,1791587926.7730088
 http,202.169.229.139,53281,Indonesia,ID,Yogyakarta,elite,true,15.44,AS23671,IP JMN Soho,14741.25,1791587926.6088593
 http,157.20.121.83,3125,Indonesia,ID,South Jakarta,transparent,false,9.82,AS141955,PT Core Digital Network,20353.53,1791587926.585604
 http,103.172.42.129,1111,Indonesia,ID,Karawang,transparent,false,24.99,AS142393,PT Media Solusi Sukses,12773.83,1791587926.5452292
-http,157.20.253.20,3125,Indonesia,ID,Semarang,transparent,false,25.82,AS138089,PT.Global Media Data Prima,4253.15,1791587925.9767072
-http,202.47.188.205,1111,Indonesia,ID,Madiun,transparent,false,30.3,AS45305,"Lintas Data Prima, PT",10823.22,1791587925.931813
 http,149.129.226.9,8118,Indonesia,ID,Jakarta,elite,false,0.99,AS45102,Alibaba.com Singapore E-Commerce Private Limited,10683.07,1791587925.9164565
 http,76.13.18.53,3128,Indonesia,ID,Jakarta,transparent,true,20.15,AS47583,Hostinger ID,17523.98,1791587925.3544993
 http,103.180.123.183,3125,Indonesia,ID,South Jakarta,transparent,true,23.06,AS149360,PT Indo Telemedia Solusi,5460.04,1791587924.5658135
 http,103.31.232.110,8080,Indonesia,ID,Ciampea,transparent,true,28.87,AS55701,PT. Usaha Adisanggoro,9577.02,1791587924.475886
-http,103.178.3.253,8818,Indonesia,ID,Bandung,transparent,false,22.6,AS141077,RSTNET,1891.35,1791587924.4127617
 http,103.165.232.82,8080,Indonesia,ID,Semarang,transparent,false,27.53,AS17995,PT iForte Global Internet,8233.32,1791587922.4145877
 http,103.31.235.178,3125,Indonesia,ID,Bogor,transparent,true,7.02,AS55701,PT Usaha Adi Sanggoro,11387.96,1791587922.4012165
 http,103.155.196.183,8080,Indonesia,ID,Sukabumi,transparent,true,14.61,AS141071,JEMBATANDATA,7926.04,1791587922.1647449
-http,103.187.113.241,1111,Indonesia,ID,Tabanan,transparent,true,23.61,AS149720,PT Adi Solusindo Teknologi,8858.21,1791587921.6093016
 http,103.175.202.165,8090,Indonesia,ID,Loklaga,transparent,false,21.75,AS147118,PT Ameera Mega Buana,10434.04,1791587921.2248738
-http,103.167.31.154,8080,Indonesia,ID,South Tangerang,transparent,false,4.65,AS17995,PT iForte Global Internet,14836.63,1791587947.367025
 http,103.185.43.117,1080,Indonesia,ID,Pandaan,transparent,false,25.17,AS133360,PT Awinet Global Mandiri,572.75,1791587918.7009933
 http,103.184.181.220,8080,Indonesia,ID,Mojokerto,transparent,false,19.77,AS45305,"Lintas Data Prima, PT",1295.03,1791587918.6716337
 http,202.1.24.206,8080,Indonesia,ID,Brebes,transparent,false,24.5,AS154124,PT Global Media Jaringan Nasional,8197.08,1791587918.5967865
 http,103.124.137.150,20,Indonesia,ID,Tangerang,transparent,false,8.94,AS138089,Global Media Data Prima,978.93,1791587917.973565
 http,103.151.23.74,8080,Indonesia,ID,North Jakarta,transparent,true,22.09,AS140404,TERABYTE,1492.6,1791587917.88857
 http,103.253.124.230,80,Indonesia,ID,Batam,elite,true,11.41,AS59142,Pemerintah Kota Batam,1439.95,1791587917.6301632
-http,103.186.62.212,8080,Indonesia,ID,Denpasar,transparent,false,23.79,AS45701,"Internet Madju Abad Millenindo, PT",9241.63,1791587917.2893784
 http,103.196.41.255,3125,Indonesia,ID,Bangkinang,transparent,false,7.98,AS150200,PT Sarana Working Akses Indonesia,11734.16,1791587916.8473675
 http,103.158.162.226,8080,Indonesia,ID,Malang,transparent,true,27.77,AS17995,PT iForte Global Internet,5999.23,1791587916.637321
-http,103.204.46.2,8090,Indonesia,ID,Pacitan,transparent,false,16.45,AS151585,PT Wifa Lintas Data,4519.43,1791587916.0886843
 http,103.180.126.246,8080,Indonesia,ID,Jakarta,transparent,true,9.74,AS149374,PT Alam Media Data,7638.66,1791587915.9767053
 http,113.192.12.4,3333,Indonesia,ID,Bogor,transparent,true,24.99,AS58495,PT Parsaoran Global Datatrans,1408.83,1791587915.9322097
 http,103.227.187.19,6090,Indonesia,ID,Wirodayan,transparent,false,18.8,AS142370,PT Master Star Network,5626.18,1791587915.5447183
@@ -146,9 +185,7 @@ http,45.198.20.173,8080,Indonesia,ID,Bekasi,transparent,false,21.73,AS140457,PT 
 http,103.162.16.7,8080,Indonesia,ID,Pati,transparent,false,10.99,AS141636,PT Mega Data Perkasa,14317.7,1791587911.0134544
 http,36.68.150.7,3128,Indonesia,ID,Cileungsir,transparent,true,13.56,AS7713,PT. TELKOM INDONESIA,17092.34,1791587910.808646
 http,103.101.219.118,8080,Indonesia,ID,Magetan,transparent,false,13.29,AS142347,PT Sarana Media Cemerlang,3790.63,1791587910.5374143
-http,103.184.56.146,8080,Indonesia,ID,Bandung,transparent,false,25.02,AS149667,PT Gading Bhakti Utama,12149.47,1791587909.8927746
 http,38.58.117.72,8080,Indonesia,ID,Batam,transparent,false,22.27,AS58821,PT Lintas Jaringan Nusantara,12266.51,1791587908.705303
-http,202.58.73.246,1111,Indonesia,ID,Blitar,transparent,true,11.31,AS138886,PT Data Buana Nusantara,3384.41,1791587906.715822
 http,103.82.246.93,6080,Indonesia,ID,Ciputat,transparent,false,28.61,AS142370,PT Master Star Network,3647.56,1791587906.264286
 http,223.25.110.76,3125,Indonesia,ID,Purbalingga,transparent,false,22.04,AS136873,SinergiNet,5657.36,1791587905.7929418
 http,103.171.31.77,8080,Indonesia,ID,Depok,transparent,false,14.38,AS131111,MORATELINDONAP,10425.08,1791587904.7608614
@@ -159,7 +196,6 @@ http,210.79.141.137,8080,Indonesia,ID,Margahayukencana,transparent,true,22.2,AS1
 http,118.97.164.19,8080,Indonesia,ID,Bekasi,transparent,false,8.78,AS7713,Telekomunikasi Indonesia,12112.62,1791587901.5005562
 http,115.85.88.18,8080,Indonesia,ID,Jakarta,anonymous,false,25.8,AS23953,Sudirman Central Business District,4018.71,1791587901.088162
 http,103.80.215.100,8080,Indonesia,ID,Sidoarjo,transparent,false,26.48,AS153092,PT Redi Revolusi Digital Solusi,1921.44,1791587900.4086568
-http,103.67.85.150,3127,Indonesia,ID,Penataban Krajan Satu,transparent,false,25.02,AS152004,PT Tujuh Fondasi Teknologi,6896.09,1791587899.8961637
 http,103.102.12.67,8080,Indonesia,ID,Rembang,transparent,false,17.79,AS136865,FISNET,15025.64,1791587899.656973
 http,203.190.53.210,8080,Indonesia,ID,Bandung,transparent,false,30.5,AS24530,PT POWER TELECOM,2798.41,1791587899.1167066
 http,103.158.210.88,8090,Indonesia,ID,Babat,transparent,false,22.79,AS136121,DIGITNET,10085.02,1791587898.6456985
@@ -175,7 +211,6 @@ http,139.255.94.122,39635,Indonesia,ID,Central Jakarta,elite,false,5.45,AS9905,P
 http,180.148.25.46,8181,Indonesia,ID,Cianjur,transparent,true,23.91,AS154201,PT GIGA NETWORK INDONESIA,10350.98,1791587896.152846
 http,103.154.25.58,3125,Indonesia,ID,Sepit,transparent,false,11.7,AS140478,HIJRAHNET,10591.82,1791587895.9780202
 http,103.180.126.149,8080,Indonesia,ID,Jakarta,transparent,true,11.04,AS149374,PT Alam Media Data,2817.56,1791587895.8687315
-http,103.193.145.155,8080,Indonesia,ID,Batam,transparent,false,13.96,AS58821,PT Lintas Jaringan Nusantara,3936.47,1791587895.8368464
 http,103.124.138.149,8080,Indonesia,ID,Tangerang,transparent,true,19.1,AS138089,Global Media Data Prima,7726.84,1791587895.2065594
 http,103.172.71.202,1111,Indonesia,ID,Karangampel,transparent,false,12.26,AS142386,AZNET,10259.58,1791587894.7115405
 http,111.68.26.237,8080,Indonesia,ID,Klitren,transparent,false,5.83,AS55666,GMEDIA,14542.74,1791587894.4728684
@@ -186,7 +221,6 @@ http,103.180.123.27,8080,Indonesia,ID,South Jakarta,transparent,false,9.51,AS149
 http,111.68.125.34,8080,Indonesia,ID,Jakarta,transparent,false,23.02,AS45287,"Varnion Technology Semesta, PT",2858.25,1791587892.2929277
 http,113.192.48.195,7777,Indonesia,ID,Babakan,transparent,false,24.27,AS138089,PT.Global Media Data Prima,3969.9,1791587892.0127063
 http,103.156.248.100,3128,Indonesia,ID,Kota Batam,anonymous,true,25.55,AS58821,Trans Media Telekomunikasi,2590.78,1791587891.9699874
-http,103.124.197.227,8080,Indonesia,ID,Batam,transparent,false,5.99,AS138096,PT INFORMASI NUSANTARA TEKNOLOGI,13658.14,1791587891.7191384
 http,103.152.148.19,8282,Indonesia,ID,South Jakarta,transparent,true,35.86,AS152032,PT Satu Nusa Bangsa,2163.57,1791587891.2642484
 http,103.80.215.77,8080,Indonesia,ID,Sidoarjo,transparent,false,17.61,AS153092,PT Redi Revolusi Digital Solusi,5069.92,1791587890.9207406
 http,157.15.187.195,7777,Indonesia,ID,Banyuwangi,transparent,false,31.98,AS150208,HAPPYINET,3071.36,1791587890.8796082
@@ -194,17 +228,14 @@ http,113.192.31.79,8099,Indonesia,ID,South Jakarta,transparent,false,26.21,AS149
 http,103.164.212.125,8080,Indonesia,ID,East Jakarta,transparent,false,16.89,AS17995,PT iForte Global Internet,2396.29,1791587889.600191
 http,103.26.176.31,8080,Indonesia,ID,Utan,transparent,false,11.55,AS58821,PT Lintas Jaringan Nusantara,13505.54,1791587889.4854858
 http,103.125.19.94,8080,Indonesia,ID,Kresek,transparent,true,28.87,AS138087,JAVAMEDIA,10758.96,1791587889.2505734
-http,163.227.248.119,8818,Indonesia,ID,Sukabumi,transparent,false,24.7,AS153895,PT Rajasa Sinergi Komunikasi,3352.01,1791587889.077874
 http,103.172.121.28,8080,Indonesia,ID,Purwodadi Grobogan,transparent,false,17.65,AS142398,PT Digital Akses Nusantara,3409.49,1791587888.4002934
 http,101.255.209.249,3128,Indonesia,ID,Bogor,transparent,false,13.26,AS38511,PT Remala Abadi,9889.84,1791587888.2367606
-http,103.242.104.150,8080,Indonesia,ID,Subang,transparent,true,23.42,AS58821,PT Lintas Jaringan Nusantara,5691.13,1791587888.0548246
 http,103.247.23.65,3125,Indonesia,ID,Bekasi,transparent,false,8.29,AS58485,PT wifian Solution,12749.48,1791587885.7536545
 http,103.181.255.105,8080,Indonesia,ID,Kadengan,transparent,true,17.89,AS141145,PT Giga Digital Nusantara,6314.85,1791587884.53479
 http,103.177.11.118,8080,Indonesia,ID,Kediri,transparent,false,15.64,AS147164,PT Nalendra Gigantara Media,8211.59,1791587883.9325013
 http,103.203.234.75,8080,Indonesia,ID,Muarapinang,transparent,true,8.15,AS151006,PT Nesta Indo Media,9021.49,1791587883.4243486
 http,154.18.255.25,1111,Indonesia,ID,Karawang,transparent,false,22.39,AS142393,PT Media Solusi Sukses,7020.44,1791587883.114402
 http,43.252.106.175,3125,Indonesia,ID,Temanggung,transparent,false,8.69,AS45305,PT Lintas Data Prima,15862.99,1791587882.332138
-http,103.151.177.221,8080,Indonesia,ID,Jakarta,anonymous,false,18.49,AS140415,PT JASAMARGA TOLLROAD OPERATOR,6165.06,1791587881.4901469
 http,160.25.196.25,3125,Indonesia,ID,Bojonegoro,transparent,false,7.14,AS153107,PT Rnet Mitra Sentosa,12090.28,1791587881.318078
 http,160.19.16.186,8181,Indonesia,ID,Tanjungbalai,transparent,false,11.21,AS152073,PT Media Balai Nusa,3005.68,1791587881.1868017
 http,144.79.94.211,8080,Indonesia,ID,Selong,transparent,false,25.16,AS154444,PT Nusa Data Koneksi,5622.88,1791587880.9167573
@@ -218,7 +249,6 @@ http,103.158.210.7,8090,Indonesia,ID,Babat,transparent,true,24.04,AS136121,DIGIT
 http,103.177.199.111,1111,Indonesia,ID,Cikarang,transparent,false,8.86,AS147113,PT Eyza Kausa Sinergi Abadi,8341.18,1791587871.996712
 http,103.120.175.243,9191,Indonesia,ID,Bekasi,transparent,false,7.71,AS63859,PT. Eka Mas Republik,10134.34,1791587871.5767968
 http,103.122.64.156,8080,Indonesia,ID,Sonder,transparent,true,28.69,AS138064,PT. Jinom Network Indonesia,5076.97,1791587871.2488363
-http,45.198.33.65,8080,Indonesia,ID,Jakarta,transparent,false,22.38,AS138089,PT.Global Media Data Prima,5944.19,1791587870.1675327
 http,180.211.93.91,8080,Indonesia,ID,Bekasi,anonymous,false,26.32,AS45725,KINGS,1566.57,1791587869.6977293
 http,202.136.82.116,8099,Indonesia,ID,Driyorejo,transparent,true,22.23,AS154208,PT GIRI DATA SOLUSINDO,9030.72,1791587869.4911997
 http,160.19.19.127,8080,Indonesia,ID,Mranggen,transparent,false,37.2,AS149360,PT Indo Telemedia Solusi,10348.56,1791587869.133393
@@ -229,17 +259,14 @@ http,103.130.129.231,10001,Indonesia,ID,Cibinong,transparent,false,23.03,AS63859
 http,103.234.35.159,8080,Indonesia,ID,Jember,transparent,false,22.11,AS151521,PT. EXABIT GROUP NETWORK,519.73,1791587868.3914835
 http,103.251.153.75,8282,Indonesia,ID,Magetan,transparent,false,22.21,AS45305,"Lintas Data Prima, PT",6971.87,1791587867.6339984
 http,38.103.250.121,8080,Indonesia,ID,Kudus,transparent,false,28.17,AS152436,PT Erajaya Telco Indonesia / Eratel /Eratelindo,8032.34,1791587866.7151036
-http,103.171.255.204,8080,Indonesia,ID,Sleman,transparent,false,23.04,AS142399,PT Zona Kolektif Indonesia,3704.91,1791587866.3504975
 http,103.156.96.129,8080,Indonesia,ID,Malili,anonymous,false,24.42,AS141087,PT Karya Panca Telekomunikasi,3377.01,1791587865.4509296
 http,202.136.83.167,8090,Indonesia,ID,Diwek,transparent,false,24.71,AS154208,PT GIRI DATA SOLUSINDO,9785.39,1791587865.3487585
 http,103.174.122.89,3128,Indonesia,ID,Sumedang,transparent,true,25.31,AS147096,PT Jaya Sejahtra Nugraha,7248.55,1791587864.6867845
 http,36.92.61.75,8080,Indonesia,ID,Central Jakarta,transparent,true,24.83,AS7713,Telekomunikasi Indonesia,7915.54,1791587863.984843
 http,103.194.46.99,8082,Indonesia,ID,Cikokong,transparent,true,19.09,AS149971,JABNET,2145.84,1791587863.58471
-http,160.22.134.63,1111,Indonesia,ID,Tangerang,transparent,true,26.87,AS152810,PT GALAXY SINERGI NETWORK,4837.94,1791587862.8892508
 http,103.167.222.16,3128,Indonesia,ID,Pontianak,transparent,false,34.01,AS153904,PT Equator Telecom Indonesia,4250.48,1791587862.357838
 http,157.20.252.203,8080,Indonesia,ID,Pati,transparent,false,14.91,AS138089,PT.Global Media Data Prima,5269.55,1791587861.3247643
 http,210.87.92.212,8080,Indonesia,ID,Mranggen,transparent,false,27.91,AS149360,PT Indo Telemedia Solusi,10406.92,1791587860.8808932
-http,113.192.12.199,3125,Indonesia,ID,Bogor,transparent,false,13.44,AS58495,PT Parsaoran Global Datatrans,10948.0,1791587860.7690458
 http,103.166.0.30,1111,Indonesia,ID,Banjar Sambangan,anonymous,false,27.01,AS141928,PT Balian Media Online Nusantara,4582.51,1791587860.6229956
 http,36.93.56.58,8080,Indonesia,ID,Jakarta,transparent,false,13.07,AS7713,Telekomunikasi Indonesia,8711.94,1791587860.0702693
 http,103.247.23.238,1111,Indonesia,ID,Bogor,transparent,false,9.63,AS58485,PT wifian Solution,1598.72,1791587859.8015785
@@ -278,7 +305,6 @@ http,157.20.204.25,3125,Indonesia,ID,Probolinggo,anonymous,false,11.4,AS152419,P
 http,103.165.212.26,8080,Indonesia,ID,Malang,elite,true,23.46,AS17995,PT iForte Global Internet,9157.31,1791587815.9967623
 http,157.10.179.127,3125,Indonesia,ID,Bekasi,transparent,false,8.19,AS152346,PT Persegi Nusa Media,2570.89,1791587815.9725218
 http,103.217.224.29,8089,Indonesia,ID,Ungaran,transparent,false,22.09,AS151006,PT Nesta Indo Media,5036.86,1791587813.6256645
-http,103.172.42.147,1111,Indonesia,ID,Karawang,transparent,false,25.14,AS142393,PT Media Solusi Sukses,888.45,1791587808.7281196
 http,103.133.26.119,8080,Indonesia,ID,Bekasi,anonymous,false,20.95,AS138130,PT PHATRIA INTI PERSADA,3786.68,1791587805.0954762
 http,163.227.248.51,8818,Indonesia,ID,Sukabumi,transparent,true,26.88,AS153895,PT Rajasa Sinergi Komunikasi,2798.72,1791587804.7975707
 http,144.79.74.50,3125,Indonesia,ID,Cileungsir,transparent,false,11.18,AS154413,PT Busano Internet Kita,14333.83,1791587800.556877
