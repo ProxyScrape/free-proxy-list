@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "154.113.18.189",
-    "port": 9779,
+    "protocol": "socks4",
+    "ip": "41.75.84.86",
+    "port": 4153,
     "country": "Nigeria",
     "country_code": "NG",
     "city": "Lagos",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 8.25,
+    "ssl": true,
+    "uptime_percent": 45.43,
     "asn": "AS37282",
     "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 13499.11,
-    "last_checked": 1791587860.4731643
+    "latency_ms": 3612.31,
+    "last_checked": 1791588576.827549
+  },
+  {
+    "protocol": "http",
+    "ip": "129.222.204.27",
+    "port": 10000,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 25.05,
+    "asn": "AS14593",
+    "isp": "Space Exploration Technologies Corporation",
+    "latency_ms": 4231.15,
+    "last_checked": 1791588475.6344745
   },
   {
     "protocol": "http",
@@ -22,11 +37,11 @@
     "country_code": "NG",
     "city": "Obalende",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 9.26,
     "asn": "AS37148",
     "isp": "Globacom Limited",
-    "latency_ms": 2304.18,
-    "last_checked": 1791587831.870496
+    "latency_ms": 4203.26,
+    "last_checked": 1791588454.9038055
   }
 ]
