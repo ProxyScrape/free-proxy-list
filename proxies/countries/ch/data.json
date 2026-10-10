@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "195.225.116.14",
-    "port": 4145,
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Wädenswil",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 45.84,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 36.02,
+    "last_checked": 1791613155.4647672
+  },
+  {
+    "protocol": "socks4",
+    "ip": "179.237.106.243",
+    "port": 443,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 27.37,
-    "asn": "AS48971",
-    "isp": "netz116",
-    "latency_ms": 7237.91,
-    "last_checked": 1791612507.2289374
+    "uptime_percent": 6.41,
+    "asn": "AS29222",
+    "isp": "Infomaniak Network SA",
+    "latency_ms": 13833.23,
+    "last_checked": 1791613143.510216
+  },
+  {
+    "protocol": "socks5",
+    "ip": "194.182.163.117",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.41,
+    "asn": "AS61098",
+    "isp": "Akenes SA",
+    "latency_ms": 5163.04,
+    "last_checked": 1791613120.067527
   },
   {
     "protocol": "socks5",
@@ -23,25 +53,10 @@
     "city": "Geneva",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 10.1,
+    "uptime_percent": 10.86,
     "asn": "AS29222",
     "isp": "Infomaniak Network SA",
-    "latency_ms": 4450.72,
-    "last_checked": 1791612491.7973685
-  },
-  {
-    "protocol": "http",
-    "ip": "34.65.99.32",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 29.48,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 17439.46,
-    "last_checked": 1791612400.396413
+    "latency_ms": 11490.48,
+    "last_checked": 1791613105.2701893
   }
 ]
