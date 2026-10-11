@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "144.217.107.25",
     "port": 1080,
     "country": "Canada",
@@ -8,41 +8,26 @@
     "city": "Beauharnois",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 59.58,
+    "uptime_percent": 53.09,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 4342.95,
-    "last_checked": 1791725335.088707
+    "latency_ms": 2570.01,
+    "last_checked": 1791725957.7137098
   },
   {
-    "protocol": "socks4",
-    "ip": "45.81.154.75",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "151.243.236.236",
+    "port": 80,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Vancouver",
+    "city": "Beauharnois",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 85.03,
-    "asn": "AS400992",
-    "isp": "ZhouyiSat Communications",
-    "latency_ms": 3800.34,
-    "last_checked": 1791725326.9103913
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.81.154.75",
-    "port": 1080,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Vancouver",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 88.8,
-    "asn": "AS400992",
-    "isp": "ZhouyiSat Communications",
-    "latency_ms": 6019.2,
-    "last_checked": 1791725314.3102207
+    "ssl": false,
+    "uptime_percent": 56.1,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 3226.5,
+    "last_checked": 1791725942.198058
   },
   {
     "protocol": "http",
@@ -53,11 +38,11 @@
     "city": "Montreal",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 25.11,
+    "uptime_percent": 25.12,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 16862.36,
-    "last_checked": 1791725307.499029
+    "latency_ms": 15019.19,
+    "last_checked": 1791725937.9339876
   },
   {
     "protocol": "http",
@@ -67,27 +52,42 @@
     "country_code": "CA",
     "city": "Toronto",
     "anonymity": "anonymous",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 93.66,
     "asn": "AS32489",
     "isp": "Amanah Tech Inc.",
-    "latency_ms": 7492.43,
-    "last_checked": 1791725298.7348554
+    "latency_ms": 6482.32,
+    "last_checked": 1791725933.8048675
   },
   {
-    "protocol": "socks5",
-    "ip": "158.69.54.232",
-    "port": 9050,
+    "protocol": "socks4",
+    "ip": "24.37.245.42",
+    "port": 51056,
     "country": "Canada",
     "country_code": "CA",
     "city": "Montreal",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 22.49,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 19120.44,
-    "last_checked": 1791725293.9800653
+    "uptime_percent": 23.4,
+    "asn": "AS5769",
+    "isp": "Le Groupe Videotron Ltee",
+    "latency_ms": 542.69,
+    "last_checked": 1791725931.0642626
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.81.154.75",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Vancouver",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 85.04,
+    "asn": "AS400992",
+    "isp": "ZhouyiSat Communications",
+    "latency_ms": 3181.23,
+    "last_checked": 1791725929.5896542
   },
   {
     "protocol": "socks5",
@@ -101,7 +101,37 @@
     "uptime_percent": 83.94,
     "asn": "AS26832",
     "isp": "Rica Web Services",
-    "latency_ms": 1605.26,
-    "last_checked": 1791725279.7439284
+    "latency_ms": 568.43,
+    "last_checked": 1791725920.9183185
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.81.154.75",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Vancouver",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 88.81,
+    "asn": "AS400992",
+    "isp": "ZhouyiSat Communications",
+    "latency_ms": 2584.92,
+    "last_checked": 1791725913.3295898
+  },
+  {
+    "protocol": "socks5",
+    "ip": "144.217.107.25",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Beauharnois",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.59,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 1371.0,
+    "last_checked": 1791725890.993318
   }
 ]
