@@ -1,50 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "95.217.167.252",
-    "port": 11108,
-    "country": "Finland",
-    "country_code": "FI",
-    "city": "Helsinki",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 7.57,
-    "asn": "AS24940",
-    "isp": "Hetzner Online GmbH",
-    "latency_ms": 13966.19,
-    "last_checked": 1791754774.61339
-  },
-  {
-    "protocol": "socks5",
-    "ip": "65.21.252.66",
-    "port": 10801,
-    "country": "Finland",
-    "country_code": "FI",
-    "city": "Helsinki",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 81.03,
-    "asn": "AS24940",
-    "isp": "Hetzner Online GmbH",
-    "latency_ms": 2164.95,
-    "last_checked": 1791754764.751111
-  },
-  {
-    "protocol": "socks5",
-    "ip": "65.21.252.66",
-    "port": 10813,
-    "country": "Finland",
-    "country_code": "FI",
-    "city": "Helsinki",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 75.97,
-    "asn": "AS24940",
-    "isp": "Hetzner Online GmbH",
-    "latency_ms": 785.1,
-    "last_checked": 1791754761.6091528
-  },
-  {
     "protocol": "http",
     "ip": "66.151.34.89",
     "port": 80,
@@ -56,23 +11,38 @@
     "uptime_percent": 95.08,
     "asn": "AS57043",
     "isp": "Hostkey B.V.",
-    "latency_ms": 124.56,
-    "last_checked": 1791754754.900987
+    "latency_ms": 118.25,
+    "last_checked": 1791755339.3400269
   },
   {
-    "protocol": "http",
-    "ip": "65.109.213.109",
+    "protocol": "socks5",
+    "ip": "103.85.112.65",
     "port": 8080,
     "country": "Finland",
     "country_code": "FI",
     "city": "Helsinki",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 40.87,
-    "asn": "AS24940",
-    "isp": "Hetzner Online GmbH",
-    "latency_ms": 15727.48,
-    "last_checked": 1791754749.3593502
+    "uptime_percent": 68.72,
+    "asn": "AS200740",
+    "isp": "First Server Limited",
+    "latency_ms": 12183.17,
+    "last_checked": 1791755336.3783364
+  },
+  {
+    "protocol": "socks4",
+    "ip": "103.85.112.65",
+    "port": 8080,
+    "country": "Finland",
+    "country_code": "FI",
+    "city": "Helsinki",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 49.64,
+    "asn": "AS200740",
+    "isp": "First Server Limited",
+    "latency_ms": 8760.94,
+    "last_checked": 1791755325.3894825
   },
   {
     "protocol": "socks5",
@@ -86,8 +56,23 @@
     "uptime_percent": 85.61,
     "asn": "AS24940",
     "isp": "Hetzner Online GmbH",
-    "latency_ms": 4056.72,
-    "last_checked": 1791754708.7790434
+    "latency_ms": 3441.27,
+    "last_checked": 1791755312.8417335
+  },
+  {
+    "protocol": "socks5",
+    "ip": "65.21.252.66",
+    "port": 10813,
+    "country": "Finland",
+    "country_code": "FI",
+    "city": "Helsinki",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 75.98,
+    "asn": "AS24940",
+    "isp": "Hetzner Online GmbH",
+    "latency_ms": 584.09,
+    "last_checked": 1791755299.9472668
   },
   {
     "protocol": "socks5",
@@ -98,11 +83,11 @@
     "city": "Helsinki",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 74.34,
+    "uptime_percent": 74.35,
     "asn": "AS24940",
     "isp": "Hetzner Online GmbH",
-    "latency_ms": 3453.98,
-    "last_checked": 1791754697.7796133
+    "latency_ms": 5807.55,
+    "last_checked": 1791755343.0816967
   },
   {
     "protocol": "http",
@@ -113,11 +98,26 @@
     "city": "Turku",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 33.49,
+    "uptime_percent": 33.52,
     "asn": "AS207003",
     "isp": "Web1 Oy",
-    "latency_ms": 21527.83,
-    "last_checked": 1791754695.636324
+    "latency_ms": 13661.46,
+    "last_checked": 1791755279.4359674
+  },
+  {
+    "protocol": "socks5",
+    "ip": "13.143.173.60",
+    "port": 8080,
+    "country": "Finland",
+    "country_code": "FI",
+    "city": "Helsinki",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.28,
+    "asn": "AS219337",
+    "isp": "HSTQ-HOSTING-SERVICE",
+    "latency_ms": 2856.54,
+    "last_checked": 1791755243.2287292
   },
   {
     "protocol": "http",
@@ -127,26 +127,11 @@
     "country_code": "FI",
     "city": "Helsinki",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 43.95,
+    "ssl": true,
+    "uptime_percent": 43.98,
     "asn": "AS202053",
     "isp": "UpCloud Ltd",
-    "latency_ms": 10268.76,
-    "last_checked": 1791754690.4205458
-  },
-  {
-    "protocol": "socks5",
-    "ip": "103.85.112.65",
-    "port": 8080,
-    "country": "Finland",
-    "country_code": "FI",
-    "city": "Helsinki",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 68.62,
-    "asn": "AS200740",
-    "isp": "First Server Limited",
-    "latency_ms": 13041.03,
-    "last_checked": 1791754596.3240106
+    "latency_ms": 2759.1,
+    "last_checked": 1791755222.266386
   }
 ]
