@@ -1,33 +1,48 @@
 [
   {
     "protocol": "http",
-    "ip": "195.158.8.123",
-    "port": 3128,
-    "country": "Uzbekistan",
-    "country_code": "UZ",
-    "city": "Tashkent",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 86.01,
-    "asn": "AS8193",
-    "isp": "\"Uzbektelekom\" Joint Stock Company",
-    "latency_ms": 10774.19,
-    "last_checked": 1791708515.8375707
-  },
-  {
-    "protocol": "http",
     "ip": "90.156.160.234",
     "port": 3128,
     "country": "Uzbekistan",
     "country_code": "UZ",
     "city": "Tashkent",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 95.55,
+    "ssl": false,
+    "uptime_percent": 95.53,
     "asn": "AS8193",
     "isp": "Uzbektelecom JSC",
-    "latency_ms": 866.81,
-    "last_checked": 1791708515.085991
+    "latency_ms": 3198.24,
+    "last_checked": 1791708827.5567153
+  },
+  {
+    "protocol": "socks5",
+    "ip": "193.149.18.217",
+    "port": 1080,
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "city": "Tashkent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 100.0,
+    "asn": "AS43647",
+    "isp": "Servercore CIS LLC",
+    "latency_ms": 571.56,
+    "last_checked": 1791708825.8635426
+  },
+  {
+    "protocol": "http",
+    "ip": "83.222.7.47",
+    "port": 3333,
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "city": "Tashkent",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 25.14,
+    "asn": "AS8193",
+    "isp": "\"Uzbektelekom\" Joint Stock Company",
+    "latency_ms": 6577.02,
+    "last_checked": 1791708801.9746213
   },
   {
     "protocol": "socks5",
@@ -43,20 +58,5 @@
     "isp": "\"Uzbektelekom\" Joint Stock Company",
     "latency_ms": 7636.94,
     "last_checked": 1791708477.5601344
-  },
-  {
-    "protocol": "socks5",
-    "ip": "193.149.18.217",
-    "port": 1080,
-    "country": "Uzbekistan",
-    "country_code": "UZ",
-    "city": "Tashkent",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 100.0,
-    "asn": "AS43647",
-    "isp": "Servercore CIS LLC",
-    "latency_ms": 585.53,
-    "last_checked": 1791708399.676695
   }
 ]
