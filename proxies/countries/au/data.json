@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "130.162.192.208",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 28.74,
+    "ssl": true,
+    "uptime_percent": 33.17,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 8973.28,
-    "last_checked": 1791816237.8390152
+    "latency_ms": 7610.51,
+    "last_checked": 1791816548.6404212
   },
   {
     "protocol": "socks4",
@@ -23,11 +23,11 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 54.44,
+    "uptime_percent": 54.46,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 5201.15,
-    "last_checked": 1791816222.8592396
+    "latency_ms": 4460.67,
+    "last_checked": 1791816517.1061425
   },
   {
     "protocol": "socks5",
@@ -41,8 +41,53 @@
     "uptime_percent": 29.02,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 9352.69,
-    "last_checked": 1791816208.0083356
+    "latency_ms": 15906.18,
+    "last_checked": 1791816516.0513353
+  },
+  {
+    "protocol": "http",
+    "ip": "103.18.205.162",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 27.51,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 9490.56,
+    "last_checked": 1791816514.4908094
+  },
+  {
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 70.34,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 658.61,
+    "last_checked": 1791816511.8441112
+  },
+  {
+    "protocol": "http",
+    "ip": "130.162.192.208",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 28.74,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 8973.28,
+    "last_checked": 1791816237.8390152
   },
   {
     "protocol": "socks5",
