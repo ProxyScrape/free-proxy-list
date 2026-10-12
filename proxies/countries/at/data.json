@@ -1,18 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "90.146.196.18",
+    "ip": "89.185.126.101",
     "port": 8080,
     "country": "Austria",
     "country_code": "AT",
-    "city": "Ansfelden",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 26.48,
-    "asn": "AS12605",
-    "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 9004.05,
-    "last_checked": 1791833379.7285972
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.58,
+    "asn": "AS24953",
+    "isp": "Netplanet IT Solutions",
+    "latency_ms": 7164.95,
+    "last_checked": 1791833974.810232
   },
   {
     "protocol": "socks5",
@@ -23,10 +23,25 @@
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 37.53,
+    "uptime_percent": 37.54,
     "asn": "AS61098",
     "isp": "Akenes SA",
-    "latency_ms": 3670.36,
-    "last_checked": 1791833254.4313247
+    "latency_ms": 5648.94,
+    "last_checked": 1791833892.510244
+  },
+  {
+    "protocol": "socks5",
+    "ip": "83.215.25.66",
+    "port": 9050,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Zell am See",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.56,
+    "asn": "AS8445",
+    "isp": "SALZBURG-AG",
+    "latency_ms": 12988.8,
+    "last_checked": 1791833865.5499568
   }
 ]
