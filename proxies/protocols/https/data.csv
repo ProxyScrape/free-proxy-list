@@ -1,53 +1,235 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,130.110.103.245,3128,Saudi Arabia,SA,Jeddah,transparent,true,96.33,AS31898,Oracle Corporation,513.87,1791809053.3748617
-http,188.73.182.140,10809,Russia,RU,Yekaterinburg,elite,true,8.47,AS12668,"LLC ""KomTehCentr""",706.62,1791809052.8532941
-http,47.91.65.23,3128,Germany,DE,Frankfurt am Main,elite,true,77.08,AS45102,Alibaba.com LLC,14.01,1791809050.6284661
-http,104.225.162.20,8082,United States,US,Charlotte,elite,true,92.34,AS396253,"iboss, inc",1053.06,1791809050.441695
-http,43.249.227.186,83,India,IN,Hyderabad,transparent,true,45.16,AS150008,Pioneer Elabs Ltd.,2262.0,1791809049.0949202
-http,5.192.21.185,8080,United Arab Emirates,AE,Dubai,transparent,true,88.14,AS5384,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC,1242.39,1791809048.2101738
-http,102.244.78.61,8080,Cameroon,CM,Douala,elite,true,90.8,AS36912,Orange CAM INTERNET,1050.82,1791809047.660133
-http,205.234.123.109,8080,The Netherlands,NL,Amsterdam,transparent,true,27.95,AS50049,RedSwitches Pty LTD.,2658.79,1791809047.161775
-http,203.205.49.2,10109,Vietnam,VN,Mai Dich,elite,true,6.81,AS45903,CMC Telecom Infrastructure Company,790.41,1791809046.9580057
-http,102.244.78.61,8082,Cameroon,CM,Douala,elite,true,89.47,AS36912,Orange CAM INTERNET,1049.57,1791809046.8157022
-http,178.185.244.154,8080,Russia,RU,St Petersburg,transparent,true,19.03,AS12389,PJSC Rostelecom,2713.4,1791809046.6687298
-http,45.93.94.227,3128,Israel,IL,Tel Aviv,transparent,true,74.94,AS44709,O.M.C. COMPUTERS & COMMUNICATIONS LTD,2448.99,1791809046.6566968
-http,113.176.92.71,3128,Vietnam,VN,Lao Cai,transparent,true,60.45,AS45899,VNPT,5346.23,1791809046.3683097
-http,200.76.169.46,999,Mexico,MX,Ramos Arizpe,anonymous,true,77.18,AS11172,"Alestra, S. de R.L. de C.V.",4497.85,1791809044.8948793
-http,38.158.83.65,999,Peru,PE,Arequipa,transparent,true,10.86,AS272838,Fiberred SAC,4161.72,1791809044.783338
-http,148.135.181.168,8082,Turkey,TR,Kurttepe,elite,true,25.2,AS210538,KEYUBU Internet ve Bilisim Tic. Ltd. Sti.,198.08,1791809043.7307227
-http,103.145.176.162,8080,Indonesia,ID,South Tangerang,transparent,true,21.89,AS9341,PT. Indonesia Comnets Plus,1727.82,1791809043.6888885
-http,47.242.218.151,9020,Hong Kong,HK,Hong Kong,elite,true,82.59,AS45102,Alibaba.com LLC,604.41,1791809043.3242342
-http,190.121.146.79,8080,Colombia,CO,Barranquilla,transparent,true,23.73,AS27951,Media Commerce Partners S.A,5053.49,1791809043.221861
-http,38.75.82.216,999,Dominican Republic,DO,Santo Domingo Este,transparent,true,25.01,AS273217,Cogent Communications,6332.0,1791809042.9929745
-http,103.151.223.168,8080,Indonesia,ID,Bangkinang,transparent,true,20.29,AS140423,CMEDIANET,1557.27,1791809042.9654167
-http,64.181.247.193,443,United States,US,San Jose,elite,true,80.31,AS31898,Oracle Corporation,1340.87,1791809042.377281
-http,43.156.66.78,12345,Singapore,SG,Singapore,elite,true,58.76,AS132203,Shenzhen Tencent Computer Systems Company Limited,391.64,1791809040.9761264
-http,134.185.85.16,3128,Singapore,SG,Singapore,elite,true,51.86,AS31898,Oracle Corporation,3465.17,1791809040.877186
-http,170.245.50.65,8080,Chile,CL,Santiago,transparent,true,22.43,AS52510,MI INTERNET SPA,5899.64,1791809039.7103255
-http,90.156.160.234,3128,Uzbekistan,UZ,Tashkent,elite,true,95.54,AS8193,Uzbektelecom JSC,576.53,1791809039.4865725
-http,223.85.21.195,8080,China,CN,Jinrongjie,elite,true,85.96,AS139080,China Mobile communications corporation,5358.61,1791809039.053565
+http,185.171.202.73,8443,France,FR,Paris,elite,true,90.34,AS212815,Dyjix SAS,182.26,1791809353.5016952
+http,4.144.146.21,80,Singapore,SG,Singapore,anonymous,true,88.21,AS8075,Microsoft Corporation,458.09,1791809352.277321
+http,45.195.90.142,8080,India,IN,Noida,elite,true,37.34,AS18229,Shanxi Liyun Breeding Co,374.43,1791809351.5350688
+http,135.149.41.223,3128,Japan,JP,Tokyo,anonymous,true,75.0,AS8075,Microsoft Corporation,742.22,1791809350.8998582
+http,160.22.65.129,4004,Indonesia,ID,Mojorejo,transparent,true,39.15,AS45305,"Lintas Data Prima, PT",526.05,1791809349.3627253
+http,196.251.222.222,8080,South Africa,ZA,Brits,transparent,true,17.1,AS37403,Info-Gro (PTY) Ltd,2052.25,1791809348.977537
+http,201.4.65.107,8080,Turkey,TR,Adana,transparent,true,57.65,AS216472,High Speed For Internet Services L.L.C,2644.3,1791809348.156215
+http,220.135.222.226,3128,Taiwan,TW,Zuoying,transparent,true,34.32,AS3462,"Chunghwa Telecom Co., Ltd.",1342.12,1791809348.149789
+http,1.20.101.32,8080,Thailand,TH,Chon Buri,transparent,true,21.92,AS23969,TOT Public Company Limited,3624.18,1791809347.6495504
+http,157.10.226.93,8080,Pakistan,PK,Lahore,elite,true,25.88,AS135660,ROUTE 1 DIGITAL (PVT.) LIMITED,3839.73,1791809346.784473
+http,64.188.57.241,8889,Germany,DE,Frankfurt am Main,elite,true,15.55,AS210976,"Timeweb, LLP",574.67,1791809346.7173312
+http,178.92.72.94,8080,India,IN,Mumbai,elite,true,49.18,AS134926,Micro Hosting Private Limited,403.51,1791809346.0754778
+http,102.244.78.61,8083,Cameroon,CM,Douala,elite,true,90.08,AS36912,Orange CAM INTERNET,1052.74,1791809345.993109
+http,154.201.127.46,8080,India,IN,Noida,elite,true,32.33,AS18229,Real Time Data Services Private Limited,369.45,1791809345.710267
+http,112.211.38.208,8081,Philippines,PH,Pasay,transparent,true,25.48,AS9299,Philippine Long Distance Telephone Co.,3082.68,1791809345.4815485
+http,140.238.32.108,3128,Japan,JP,Tokyo,elite,true,83.93,AS31898,Oracle Corporation,906.24,1791809345.4211843
+http,38.137.232.134,999,Venezuela,VE,Caracas,transparent,true,18.79,AS263767,CORPORACIÓN GALA IT C.A,981.74,1791809344.7278416
+http,78.155.66.84,8080,Syria,SY,Kafr Baţnā,transparent,true,19.27,AS29256,ISP-TARASSUL,4417.02,1791809344.7107155
+http,201.7.31.146,8080,Turkey,TR,Istanbul,transparent,true,19.35,AS216472,High Speed For Internet Services L.L.C,4160.54,1791809344.5733757
+http,34.43.46.91,443,United States,US,Mountain View,elite,true,78.77,AS396982,Google LLC,261.21,1791809344.4642951
+http,201.7.31.232,8080,Turkey,TR,Istanbul,transparent,true,18.49,AS216472,High Speed For Internet Services L.L.C,3136.07,1791809344.074975
+http,13.143.128.118,3128,Germany,DE,Frankfurt am Main,elite,true,20.79,AS215590,DpkgSoft International Limited,1614.1,1791809343.8906162
+http,125.25.167.187,80,Thailand,TH,Bangkok,transparent,true,24.69,AS23969,TOT Public Company Limited,499.7,1791809343.5426214
+http,103.119.101.59,8080,Bangladesh,BD,Dhaka,transparent,true,12.82,AS134732,Dot Internet,2094.47,1791809343.4972286
+http,43.229.254.221,8181,Indonesia,ID,Jakarta,transparent,true,11.52,AS23679,PT. Media Antar Nusa,6444.87,1791809343.3923545
+http,101.36.112.205,1081,Hong Kong,HK,Hong Kong,elite,true,80.06,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,2690.78,1791809343.0261233
+http,27.185.218.213,17981,China,CN,Shijiazhuang,elite,true,97.47,AS134760,"Shijiazhuang IDC network, CHINANET Hebei province",5198.79,1791809342.9242353
+http,41.216.191.85,8080,Indonesia,ID,South Jakarta,anonymous,true,56.49,AS211407,Perwira,3584.71,1791809342.532303
+http,8.215.76.82,3333,Indonesia,ID,Jakarta,elite,true,61.99,AS45102,"Alibaba (US) Technology Co., Ltd.",543.09,1791809342.4061985
+http,38.46.214.178,1111,Indonesia,ID,Sukabumi,transparent,true,25.98,AS55701,PT. Usaha Adi Sanggoro,3523.03,1791809341.3673892
+http,103.189.117.82,1111,Indonesia,ID,Banyumas,transparent,true,17.96,AS149878,PT Callysta Total Solusindo,3048.27,1791809340.8437932
+http,103.253.127.202,3125,Indonesia,ID,Jombang,transparent,true,8.56,AS150989,PT Media Akses Telematika,1804.43,1791809340.0289555
+http,202.141.161.52,10808,China,CN,Hefei,elite,true,48.56,AS4134,Chinanet,2745.48,1791809339.9843204
+http,103.156.15.55,8080,Indonesia,ID,Bogor,transparent,true,20.59,AS58821,PT Lintas Jaringan Nusantara,4368.04,1791809339.832747
+http,116.196.150.180,17981,China,CN,Hangzhou,elite,true,94.54,AS131516,JHWA,1330.43,1791809339.821314
+http,37.221.202.30,8080,Kazakhstan,KZ,Urzhar,transparent,true,28.8,AS43370,Obit Telecommunications,1262.48,1791809339.5557225
+http,45.146.234.141,8080,Indonesia,ID,Surabaya,transparent,true,31.72,AS150208,PT Internusa Duta Makmur,9652.26,1791809339.3671858
+http,219.148.171.178,9445,China,CN,Hechi,transparent,true,86.64,AS4134,Chinanet,2069.55,1791809339.3166869
+http,103.43.191.71,8888,Hong Kong,HK,Kwai Chung,elite,true,93.84,AS139021,West263 International Limited,755.03,1791809339.2853656
+http,49.145.53.55,8080,Philippines,PH,Bacolod City,transparent,true,59.05,AS9299,Philippine Long Distance Telephone Co.,3207.14,1791809338.7782063
+http,190.12.150.244,999,Ecuador,EC,Quininde,transparent,true,73.71,AS271795,Servitelconet Cia. Ltda.,1872.56,1791809338.679995
+http,103.247.15.103,9090,Indonesia,ID,Mertoyudan,transparent,true,25.86,AS131706,PT SELARAS CITRA TERABIT,9499.7,1791809338.6007652
+http,201.150.6.201,8081,Mexico,MX,Apodaca,transparent,true,15.44,AS28539,Administradora de Servicios de Internet Sandur S.A. de C.V.,9939.96,1791809338.48905
+http,122.246.4.30,17981,China,CN,Ningbo,elite,true,99.44,AS136188,China Telecom,11044.79,1791809337.9973023
+http,103.146.38.53,1080,Indonesia,ID,Karawang,elite,true,27.96,AS142393,MEDIASOLUSISUKSES,4246.27,1791809337.6110308
+http,111.206.4.163,18888,China,CN,Jinrongjie,elite,true,96.87,AS4808,China Unicom Beijing Province Network,1638.31,1791809337.19898
+http,92.249.110.22,8080,Ukraine,UA,Kyiv,transparent,true,39.82,AS29107,SYNAPSE,1426.95,1791809337.0247724
+http,104.239.83.12,8082,Turkey,TR,Yildirim,elite,true,38.84,AS215391,Cafer Eser,155.05,1791809336.7465384
+http,115.247.115.38,8080,India,IN,Indore,transparent,true,11.86,AS55836,Reliance Jio Infocomm Limited,7871.68,1791809336.1607718
+http,186.148.160.8,999,Colombia,CO,Granada,transparent,true,22.68,AS262186,TV AZTECA SUCURSAL COLOMBIA,9662.92,1791809336.1478925
+http,101.255.104.54,8080,Indonesia,ID,West Jakarta,transparent,true,23.82,AS38511,PT Remala Abadi,8198.22,1791809335.8328512
+http,34.105.252.3,3128,United Kingdom,GB,London,anonymous,true,50.0,AS396982,Google LLC,66.67,1791809335.674668
+http,103.147.211.34,8080,Indonesia,ID,Jakarta,transparent,true,26.61,AS150544,PT Global Visi Vindici,8205.62,1791809335.4252834
+http,187.251.222.69,8080,Mexico,MX,Benito Juarez,transparent,true,7.96,AS22884,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",3079.21,1791809335.4088762
+http,160.22.134.77,1111,Indonesia,ID,Tangerang,transparent,true,24.92,AS152810,PT GALAXY SINERGI NETWORK,4516.97,1791809335.1587172
+http,195.158.8.123,3128,Uzbekistan,UZ,Tashkent,elite,true,86.0,AS8193,"""Uzbektelekom"" Joint Stock Company",3416.87,1791809335.1010282
+http,24.172.82.94,53281,United States,US,Charlotte,elite,true,13.45,AS11426,Spectrum,4155.61,1791809335.0839279
+http,86.110.236.27,8080,Slovakia,SK,Bratislava,transparent,true,29.46,AS29405,VNET a.s.,9297.45,1791809334.948559
+http,112.207.166.195,8082,Philippines,PH,Pasig,transparent,true,24.95,AS9299,Philippine Long Distance Telephone Co.,915.68,1791809334.897103
+http,201.163.152.54,999,Mexico,MX,Frontera,transparent,true,25.44,AS11172,"Alestra, S. de R.L. de C.V.",6049.32,1791809334.7855117
+http,5.192.21.185,8080,United Arab Emirates,AE,Dubai,transparent,true,87.3,AS5384,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC,428.89,1791809334.7609782
+http,1.20.178.251,80,Thailand,TH,Pattaya,transparent,true,59.36,AS23969,TOT Public Company Limited,596.15,1791809334.5961864
+http,103.109.96.180,1994,Bangladesh,BD,Sarishābāri,elite,true,31.39,AS131464,Digi Jadoo Broadband Ltd,3524.72,1791809334.375424
+http,151.80.18.85,3128,France,FR,Roubaix,anonymous,true,89.09,AS16276,OVH SAS,316.54,1791809334.2018125
+http,103.191.218.171,8080,Indonesia,ID,Kuningan,transparent,true,25.33,AS149930,PT Replay Inti Media,9468.47,1791809334.091387
+http,193.42.112.26,8080,Estonia,EE,Kuusalu,elite,true,38.73,AS199144,HexCore cloud s.r.o.,6375.23,1791809333.8648884
+http,38.158.83.233,999,Peru,PE,Arequipa,transparent,true,15.85,AS272838,Fiberred SAC,2706.8,1791809333.66094
+http,36.50.56.237,8080,Indonesia,ID,Cibinong,transparent,true,29.84,AS152029,PT Andromega Data Nusantara,5143.3,1791809333.6100938
+http,181.78.195.137,999,Ecuador,EC,Guayaquil,transparent,true,42.2,AS52468,Ufinet Panama S.A.,2002.89,1791809333.3916128
+http,103.155.168.99,8299,Indonesia,ID,Karawang,transparent,true,7.02,AS141065,PT Arozak Bima Yudho Sangkara,12616.11,1791809333.3406987
+http,45.38.22.64,999,United States,US,Santa Clara,transparent,true,26.9,AS263767,Corporacion Gala IT C.A,5395.27,1791809333.0865622
+http,201.4.69.164,8080,Syria,SY,Aleppo,transparent,true,24.18,AS216472,High Speed For Internet Services L.L.C,4260.16,1791809332.9395614
+http,38.194.246.34,999,Mexico,MX,Los Ramírez,transparent,true,50.36,AS28458,IENTC S de RL de CV,3908.6,1791809332.8754022
+http,38.51.233.97,999,Colombia,CO,Pasto,transparent,true,23.55,AS267708,SP SISTEMAS PALACIOS,2889.56,1791809332.7129188
+http,120.232.115.57,17981,China,CN,Guangzhou,elite,true,99.68,AS9808,China Mobile communications corporation,937.43,1791809332.2884598
+http,43.245.93.193,53805,Nepal,NP,Butwal,transparent,true,6.1,AS55427,BroadLink Networks and Communications,7434.46,1791809332.2167594
+http,103.49.166.193,83,India,IN,Pune,transparent,true,20.72,AS150572,Nettvox Private Limited,10595.17,1791809332.004798
+http,209.14.115.9,999,Colombia,CO,Purificación,transparent,true,22.87,AS262186,Cogent Communications,6042.4,1791809331.7531533
+http,154.18.255.121,1111,Indonesia,ID,Karawang,transparent,true,23.71,AS142393,PT Media Solusi Sukses,1444.94,1791809331.4233177
+http,178.128.26.157,10000,Singapore,SG,Singapore,elite,true,42.2,AS14061,"DigitalOcean, LLC",1543.16,1791809331.1035416
+http,51.225.138.29,80,Germany,DE,Berlin,transparent,true,98.96,AS16509,"Amazon.com, Inc.",45.83,1791809330.6830292
+http,45.198.10.106,8080,Indonesia,ID,Jatiroto,transparent,true,28.47,AS142386,PT Jaringan Lintas Artha,1104.18,1791809330.6664448
+http,103.66.62.105,8080,Indonesia,ID,Sarolangun,transparent,true,20.82,AS139982,PT Buana Visualnet Sentra,917.44,1791809330.5977037
+http,78.131.58.60,80,Hungary,HU,Budapest,transparent,true,28.73,AS20845,DIGI,2540.88,1791809330.3389254
+http,1.32.48.243,8081,Malaysia,MY,Malacca,transparent,true,26.79,AS4788,TM TECHNOLOGY SERVICES SDN BHD,2509.98,1791809330.1624084
+http,47.79.33.142,3128,Japan,JP,Tokyo,transparent,true,55.03,AS45102,Alibaba.com LLC,1629.85,1791809329.9887695
+http,171.249.85.253,8080,Vietnam,VN,Ho Chi Minh City,transparent,true,29.32,AS7552,Viettel Corporation,7876.84,1791809329.4647403
+http,160.22.45.1,8080,Indonesia,ID,Marisa,transparent,true,23.18,,CELEBESMULTINET,825.94,1791809329.179464
+http,38.210.106.24,999,Peru,PE,Lima,transparent,true,30.87,AS273913,Net Cable,2909.85,1791809328.8730006
+http,161.132.45.20,1084,Peru,PE,Tucsipampa,elite,true,21.41,AS3132,Red Cientifica Peruana,9696.6,1791809328.776109
+http,112.201.179.242,5050,Philippines,PH,Taytay,transparent,true,23.4,AS9299,Philippine Long Distance Telephone Co.,3953.15,1791809328.7248642
+http,103.156.75.243,3125,Indonesia,ID,Gianyar,transparent,true,16.36,AS141082,PT Trika Global Media,1985.23,1791809328.3732984
+http,182.52.149.42,8080,Thailand,TH,Bangkok,transparent,true,25.46,AS23969,TOT Public Company Limited,715.0,1791809328.3318753
+http,124.217.6.168,5050,Philippines,PH,Cebu City,transparent,true,24.25,AS9299,Philippine Long Distance Telephone Co.,3195.1,1791809328.31264
+http,1.20.178.208,80,Thailand,TH,Pattaya,transparent,true,25.86,AS23969,TOT Public Company Limited,1772.93,1791809328.073483
+http,58.187.121.4,8081,Vietnam,VN,Ho Chi Minh City,transparent,true,60.0,AS18403,FPT Telecom Company,660.51,1791809327.4371598
+http,49.149.174.69,8082,Philippines,PH,Cagayan de Oro,transparent,true,76.07,AS9299,Philippine Long Distance Telephone Co.,3211.81,1791809327.1268718
+http,124.217.32.160,8082,Philippines,PH,Lucena City,transparent,true,23.34,AS9299,Philippine Long Distance Telephone Co.,7962.32,1791809326.5037115
+http,89.43.134.35,8080,Syria,SY,Aleppo,transparent,true,22.08,AS216472,High Speed For Internet Services L.L.C,12317.75,1791809326.4799726
+http,103.61.16.20,8780,Indonesia,ID,Sukabumi,transparent,true,22.35,AS150509,TWINSDATAPRATAMA,3705.5,1791809326.4171138
+http,113.197.55.155,8080,Pakistan,PK,Islamabad,elite,true,43.62,AS23888,National Telecom Corporation,9547.27,1791809326.3836718
+http,90.156.160.234,3128,Uzbekistan,UZ,Tashkent,elite,true,95.55,AS8193,Uzbektelecom JSC,504.89,1791809326.2507744
+http,181.79.57.57,8080,Colombia,CO,Cartago,transparent,true,31.54,AS18747,IFX Corporation,5505.11,1791809326.2191522
+http,176.215.132.226,10808,Russia,RU,Kurgan,elite,true,6.01,AS56330,"CJSC ""ER-Telecom Holding"" Kurgan branch",515.49,1791809326.218319
+http,139.135.160.13,8083,Philippines,PH,San Fernando,transparent,true,25.31,AS17639,ComClark Network & Technology Corp,8471.81,1791809326.0347705
+http,184.75.221.82,3118,Canada,CA,Toronto,anonymous,true,93.5,AS32489,Amanah Tech Inc.,221.42,1791809325.9608152
+http,103.80.215.83,8080,Indonesia,ID,Sidoarjo,transparent,true,26.91,AS153092,PT Redi Revolusi Digital Solusi,5973.77,1791809325.6900663
+http,64.181.247.193,443,United States,US,San Jose,elite,true,80.29,AS31898,Oracle Corporation,1381.31,1791809325.6040368
+http,36.89.212.250,8080,Indonesia,ID,Central Jakarta,transparent,true,6.03,AS7713,PT. Telekomunikasi Indonesia,5689.4,1791809325.234102
+http,177.55.68.68,8080,Brazil,BR,Canaã dos Carajás,transparent,true,21.28,AS264496,IR Tecnologia (Fibralink),9571.85,1791809325.1635754
+http,94.198.188.140,81,Kazakhstan,KZ,Semey,transparent,true,26.41,AS203530,7sat LLP,8066.0,1791809325.1471736
+http,38.199.31.69,9992,Colombia,CO,Cali,transparent,true,11.58,AS272137,Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Construccion De Redes HFC Del SUR Colombia,6923.7,1791809325.0918407
+http,157.66.36.103,8080,Indonesia,ID,Ciranjang-hilir,transparent,true,26.27,AS140016,PT Trik Media Data,3357.86,1791809325.0237043
+http,190.8.165.192,999,Venezuela,VE,Valencia,transparent,true,14.11,AS264628,"CORPORACION FIBEX TELECOM, C.A.",3329.15,1791809324.9491963
+http,103.124.139.197,8181,Indonesia,ID,Tangerang,transparent,true,23.82,AS138089,Global Media Data Prima,10528.63,1791809324.2250564
+http,103.194.175.51,7777,Indonesia,ID,Sempu,transparent,true,18.14,AS63885,MYNET,3982.41,1791809323.959896
+http,103.171.245.126,8080,Indonesia,ID,Ngawi,transparent,true,28.99,AS141674,PT Data Arta Sedaya,2139.84,1791809323.9213188
+http,23.94.112.168,8080,United States,US,Los Angeles,elite,true,10.45,AS36352,HostPapa,4172.12,1791809323.4746554
+http,8.215.112.240,7777,Indonesia,ID,Jakarta,elite,true,71.28,AS45102,"Alibaba (US) Technology Co., Ltd.",836.6,1791809323.1276026
+http,103.66.62.187,8080,Indonesia,ID,Rantau Panjang,transparent,true,27.13,AS139982,PT Buana Visualnet Sentra,6291.21,1791809323.0384743
+http,23.95.197.107,3128,United States,US,Buffalo,transparent,true,100.0,AS36352,HostPapa,1831.19,1791809322.947363
+http,181.78.19.82,999,Colombia,CO,Fonseca,transparent,true,22.89,AS52468,Ufinet Panama S.A.,5497.22,1791809322.601776
+http,203.205.49.2,10128,Vietnam,VN,Mai Dich,elite,true,14.61,AS45903,CMC Telecom Infrastructure Company,1567.41,1791809322.2551184
+http,45.198.11.219,9191,Indonesia,ID,Colomadu,elite,true,22.74,AS142386,PT Jaringan Lintas Artha,7783.76,1791809322.2536378
+http,160.22.45.14,8080,Indonesia,ID,Marisa,transparent,true,47.85,,CELEBESMULTINET,8043.48,1791809321.6006649
+http,200.118.71.12,8080,Colombia,CO,Girón,transparent,true,26.83,AS14080,Telmex Colombia S.A.,3282.9,1791809321.4550295
+http,125.25.167.129,8080,Thailand,TH,Bangkok,transparent,true,30.93,AS23969,TOT Public Company Limited,2180.77,1791809321.340218
+http,157.15.211.48,8080,Indonesia,ID,VILLA PERMATA HIJAU,transparent,true,27.71,AS152393,PT Gaisar Teknologi Bersama,940.38,1791809320.8286428
+http,102.244.78.61,8088,Cameroon,CM,Douala,elite,true,87.83,AS36912,Orange CAM INTERNET,1072.05,1791809320.6519756
+http,213.199.53.16,8888,France,FR,Lauterbourg,elite,true,74.48,AS51167,Contabo GmbH,6698.66,1791809320.6337464
+http,103.4.95.90,8080,Pakistan,PK,Islamabad,elite,true,55.2,AS45773,HEC,9072.03,1791809320.6240592
+http,14.225.240.23,8562,Vietnam,VN,Ho Chi Minh City,elite,true,50.93,AS135905,Vietnam Posts and Telecommunications Group,5666.51,1791809320.0858812
+http,103.172.42.147,1111,Indonesia,ID,Karawang,transparent,true,25.01,AS142393,PT Media Solusi Sukses,8294.74,1791809320.0430043
+http,1.20.101.31,80,Thailand,TH,Chon Buri,transparent,true,29.67,AS23969,TOT Public Company Limited,614.94,1791809320.013924
+http,160.22.45.6,8080,Indonesia,ID,Marisa,transparent,true,29.45,,CELEBESMULTINET,2602.67,1791809319.9505875
+http,8.243.73.66,8080,Colombia,CO,San Alberto,transparent,true,23.27,AS3356,CTL Colombia,14311.3,1791809319.8487468
+http,4.240.96.243,3128,India,IN,Pune,transparent,true,48.13,AS8075,Microsoft Corporation,13740.43,1791809319.7767289
+http,103.55.106.81,8080,India,IN,Jhajjar,transparent,true,13.07,AS133989,SBR Telecom Pvt. Ltd,6031.31,1791809319.6708806
+http,119.93.158.162,9090,Philippines,PH,Caloocan,transparent,true,57.89,AS9299,Philippine Long Distance Telephone Co.,3623.45,1791809319.5985067
+http,54.39.28.106,8082,Canada,CA,Beauharnois,transparent,true,32.18,AS16276,OVH SAS,16681.66,1791809319.4430292
+http,64.130.54.246,3128,United States,US,Pittsburgh,transparent,true,28.79,AS20326,TeraSwitch Networks Inc.,10241.6,1791809319.4087763
+http,41.242.117.3,50003,Mayotte,YT,Kaouéni,transparent,true,18.9,AS37614,STOI-block2,5682.02,1791809319.3488421
+http,181.198.66.34,999,Ecuador,EC,Coronel Marcelino Maridueña,transparent,true,22.79,AS27947,Telconet S.A,8657.74,1791809319.286648
+http,103.158.210.21,8090,Indonesia,ID,Babat,transparent,true,26.6,AS136121,DIGITNET,6499.56,1791809319.2408605
+http,160.19.145.101,3127,Indonesia,ID,Demak,transparent,true,23.07,AS45305,"Lintas Data Prima, PT",573.15,1791809318.944152
+http,95.73.123.25,3128,Russia,RU,Moscow,elite,true,53.35,AS12389,CTC-JNPR,2864.78,1791809318.8869057
+http,116.212.149.218,8080,Cambodia,KH,Phnom Penh,transparent,true,12.79,AS38235,MekongNet,8597.28,1791809318.7622764
+http,38.137.234.193,999,Venezuela,VE,Caracas,anonymous,true,41.57,AS263767,CORPORACIÓN GALA IT C.A,5763.92,1791809318.7407808
+http,43.156.66.78,12345,Singapore,SG,Singapore,elite,true,59.32,AS132203,Shenzhen Tencent Computer Systems Company Limited,14129.28,1791809318.6816561
+http,160.19.41.48,80,India,IN,New Delhi,transparent,true,33.81,AS142461,ATC INFOCOM SOLUTIONS PVT LTD,408.7,1791809318.5599923
+http,103.80.215.100,8080,Indonesia,ID,Sidoarjo,transparent,true,26.58,AS153092,PT Redi Revolusi Digital Solusi,3739.89,1791809318.3248928
+http,79.98.32.68,8080,Turkey,TR,Hıdırbey,transparent,true,18.75,AS216472,High Speed For Internet Services L.L.C,1067.26,1791809318.2957523
+http,45.198.147.14,8080,Indonesia,ID,Central Jakarta,transparent,true,27.05,AS63859,PT. Eka Mas Republik,7222.76,1791809318.218147
+http,41.65.71.152,1976,Egypt,EG,Cairo,transparent,true,16.57,AS36992,Etisalat Misr,2191.09,1791809318.0329397
+http,38.7.195.55,999,Chile,CL,Santiago,transparent,true,31.91,AS263702,Grupo ZGH SpA,2707.34,1791809317.9433784
+http,8.243.167.51,999,Colombia,CO,Piojó,transparent,true,26.87,AS3356,CTL Colombia,1760.06,1791809317.9119573
+http,173.249.50.95,3128,France,FR,Lauterbourg,transparent,true,19.2,AS51167,Contabo GmbH,13230.79,1791809317.8012288
+http,203.205.49.2,10055,Vietnam,VN,Mai Dich,elite,true,10.93,AS45903,CMC Telecom Infrastructure Company,1546.81,1791809317.6811373
+http,182.95.79.172,3128,India,IN,Chennai,transparent,true,65.8,AS9498,Bharti Airtel Limited,9195.56,1791809317.5867712
+http,160.250.6.18,8082,Philippines,PH,Taguig,transparent,true,25.43,AS153455,G Links Solution,1821.13,1791809317.583435
+http,181.78.25.252,999,Colombia,CO,Bogotá,transparent,true,22.01,AS52468,Ufinet Panama S.A.,11291.06,1791809317.1319132
+http,103.174.122.230,3128,Indonesia,ID,Sumedang,anonymous,true,16.84,AS147096,PT Jaya Sejahtra Nugraha,1579.54,1791809317.1151247
+http,47.250.51.110,8081,Malaysia,MY,Kuala Lumpur,elite,true,1.05,AS45102,Alibaba Cloud LLC,8285.72,1791809317.0314245
+http,178.208.72.165,3128,The Netherlands,NL,Amsterdam,transparent,true,43.75,AS216139,Iron Hosting Centre LTD,9022.12,1791809317.0137165
+http,180.194.14.117,8081,Philippines,PH,Dipolog City,transparent,true,28.62,AS9299,Philippine Long Distance Telephone Co.,5387.27,1791809316.9770236
+http,103.174.122.120,8080,Indonesia,ID,Sumedang,transparent,true,30.38,AS147096,PT Jaya Sejahtra Nugraha,1853.95,1791809316.6682405
+http,203.76.222.172,1212,Bangladesh,BD,Narayanganj,transparent,true,98.31,AS134204,BUSINESSNETWORK,482.23,1791809316.5693488
+http,88.247.171.120,8080,Türkiye,TR,Konak,elite,true,31.63,AS9121,Turk Telekomunikasyon A.S,4938.87,1791809315.5993326
+http,45.7.64.8,999,Mexico,MX,Zacualtipán,transparent,true,22.32,AS270143,Maysnet SA De CV,4631.72,1791809315.5788321
+http,38.211.76.17,999,Colombia,CO,Florencia,transparent,true,16.28,AS270062,Cogent Communications,3909.49,1791809315.5724707
+http,119.17.211.204,8080,Vietnam,VN,Hanoi,transparent,true,23.82,AS24173,Netnam Corporation,8476.14,1791809314.8193357
+http,119.188.131.55,17981,China,CN,Jinan,elite,true,90.03,AS4837,CNC Group CHINA169 Shandong Province Network,825.41,1791809314.5161433
+http,163.43.113.134,80,Japan,JP,Osaka,elite,true,30.96,AS9370,SAKURA Internet Inc.,7869.63,1791809314.4247985
+http,84.236.116.119,18080,Hungary,HU,Budapest,transparent,true,66.92,AS20845,DIGI Tavkozlesi es Szolgaltato Kft.,402.12,1791809313.9018788
+http,146.83.216.227,80,Chile,CL,Ñuñoa,elite,true,15.25,AS11340,Red Universitaria Nacional,1452.27,1791809313.8034177
+http,190.43.92.112,999,Peru,PE,Lima,transparent,true,22.2,AS6147,Telefonica Del Peru,5800.74,1791809313.7069464
+http,157.245.129.124,3128,United States,US,North Bergen,elite,true,80.68,AS14061,"DigitalOcean, LLC",6932.89,1791809313.2951243
+http,43.248.15.35,50009,Pakistan,PK,Lahore,transparent,true,63.5,AS152605,Z COM Networks (Private) Limited,806.77,1791809313.2675567
+http,163.223.78.205,9090,Indonesia,ID,Diwek,transparent,true,24.77,AS153697,PT Big Network Indonesia,3069.13,1791809312.9648223
+http,103.82.246.23,6080,Indonesia,ID,Ciputat,transparent,true,19.99,AS142370,PT Master Star Network,1972.49,1791809312.9417806
+http,222.167.236.42,8080,Turkey,TR,Kilis,transparent,true,25.57,AS216472,High Speed For Internet Services L.L.C,3947.55,1791809312.9203746
+http,84.44.39.159,9090,Türkiye,TR,Istanbul,transparent,true,45.86,AS15924,Vodafone Net Iletisim Hizmetler,4717.07,1791809312.5950606
+http,46.100.44.35,8080,Iran,IR,Tehran,transparent,true,21.85,AS58224,Iran Telecommunication Company PJS,1102.72,1791809312.5336895
+http,8.213.151.128,3128,South Korea,KR,Seoul,elite,true,93.22,AS45102,"Alibaba (US) Technology Co., Ltd.",708.48,1791809312.3821707
+http,116.204.166.199,8080,Turkey,TR,Istanbul,transparent,true,26.64,AS216472,High Speed For Internet Services L.L.C,9102.87,1791809311.5619507
+http,202.4.127.89,81,Bangladesh,BD,Dhaka,transparent,true,22.17,AS23956,dhakaCom Limited,8561.15,1791809311.453806
+http,51.225.138.217,80,Germany,DE,Berlin,transparent,true,100.0,AS16509,"Amazon.com, Inc.",57.91,1791809311.2478456
+http,200.94.38.46,2604,Mexico,MX,Campanario,transparent,true,64.8,AS11172,"Alestra, S. de R.L. de C.V.",6147.83,1791809311.052194
+http,57.128.44.204,3128,France,FR,Gravelines,elite,true,14.61,AS16276,OVH SAS,17631.3,1791809311.0163188
+http,136.232.116.2,48976,India,IN,Anand,elite,true,5.03,AS55836,Reliance Jio Infocomm Limited,7543.23,1791809310.6688879
+http,151.253.146.146,8080,United Arab Emirates,AE,Dubai,transparent,true,54.45,AS5384,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC,374.39,1791809310.5267644
+http,181.78.205.7,999,Ecuador,EC,Portoviejo,transparent,true,20.21,AS52468,Ufinet Panama S.A.,10367.79,1791809310.3969927
+http,143.208.57.165,999,Guatemala,GT,Tecpán Guatemala,transparent,true,12.8,AS22869,Comunicaciones Metropolitanas Cablecolor,8869.32,1791809310.124968
+http,118.193.37.78,3128,Hong Kong,HK,Hong Kong,transparent,true,31.33,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,14965.63,1791809309.8902373
+http,159.194.228.40,8888,Russia,RU,St Petersburg,elite,true,71.89,AS198610,Beget LLC,7105.16,1791809309.369622
+http,130.110.103.245,3128,Saudi Arabia,SA,Jeddah,transparent,true,96.33,AS31898,Oracle Corporation,1080.13,1791809309.3314538
+http,202.164.220.226,1111,Indonesia,ID,Dalung,transparent,true,31.57,AS149400,CYBERAKSES,1997.83,1791809309.235411
+http,196.74.218.1,1910,Morocco,MA,Rabat,elite,true,55.4,AS36903,ADSL Maroc telecom,228.32,1791809309.067967
+http,102.244.78.61,8081,Cameroon,CM,Douala,elite,true,86.83,AS36912,Orange CAM INTERNET,1052.45,1791809308.0097258
+http,115.132.248.246,8081,Malaysia,MY,Batu Caves,transparent,true,26.81,AS4788,TM TECHNOLOGY SERVICES SDN BHD,3019.51,1791809307.9785998
+http,191.97.16.18,999,Venezuela,VE,Guatire,transparent,true,9.3,AS264844,INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION),10696.75,1791809307.9617143
+http,45.235.41.162,8080,Colombia,CO,Cereté,anonymous,true,27.33,AS262191,Liberty Networks De Colombia S.A.S,5282.32,1791809307.5779402
+http,43.108.35.203,8899,South Korea,KR,Seoul,elite,true,14.74,AS45102,"Alibaba (US) Technology Co., Ltd.",713.3,1791809307.166114
+http,185.32.4.210,8090,Poland,PL,Chociwel,transparent,true,16.47,AS60645,AS Consulting Sp. z o. o.,12021.05,1791809306.491678
+http,38.211.76.193,999,Colombia,CO,Florencia,transparent,true,24.7,AS270062,Cogent Communications,8753.59,1791809306.2101882
+http,81.90.144.170,9000,Iran,IR,Tehran,transparent,true,29.25,AS25184,Afranet Co,9774.0,1791809305.4328437
+http,209.141.62.12,5555,United States,US,Las Vegas,elite,true,4.99,AS53667,FranTech Solutions,12910.04,1791809305.326305
+http,103.152.148.15,8080,Indonesia,ID,South Jakarta,transparent,true,26.8,AS152032,PT Satu Nusa Bangsa,6502.77,1791809305.2249794
+http,175.29.125.242,8080,Bangladesh,BD,Dhaka,transparent,true,19.76,AS17469,Access Telecom (BD) Ltd,13378.52,1791809305.2048714
+http,102.244.78.61,8089,Cameroon,CM,Douala,elite,true,89.43,AS36912,Orange CAM INTERNET,1029.2,1791809305.0632997
+http,102.244.78.61,8087,Cameroon,CM,Douala,elite,true,89.94,AS36912,Orange CAM INTERNET,1061.63,1791809304.8275187
+http,64.76.73.131,999,Peru,PE,Lima,transparent,true,24.12,AS274087,Fiberlink E.I.R.L.,2611.32,1791809304.4258137
+http,178.208.64.27,3128,The Netherlands,NL,Amsterdam,transparent,true,39.37,AS216139,Iron Hosting Centre LTD,17678.57,1791809303.4390564
+http,201.4.69.92,8080,Syria,SY,Aleppo,transparent,true,28.26,AS216472,High Speed For Internet Services L.L.C,4349.12,1791809302.7557116
+http,1.20.178.221,80,Thailand,TH,Pattaya,transparent,true,27.63,AS23969,TOT Public Company Limited,878.08,1791809302.6407669
+http,38.226.243.95,8080,Indonesia,ID,Randudongkal,transparent,true,28.09,AS152032,PT Putra Garsel Interkoneksi,7586.83,1791809302.501186
+http,165.154.7.156,8888,Hong Kong,HK,Hong Kong,elite,true,48.81,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1084.79,1791809302.3448913
+http,186.38.100.130,999,Argentina,AR,Buenos Aires,transparent,true,24.95,AS22927,Telefonica de Argentina,7229.52,1791809302.015333
+http,47.243.92.199,3128,Hong Kong,HK,Hong Kong,elite,true,87.33,AS45102,Alibaba Cloud LLC,625.17,1791809301.9848688
+http,3.239.61.209,8084,United States,US,Ashburn,anonymous,true,100.0,AS14618,Amazon Technologies Inc.,603.29,1791809301.727438
+http,41.72.199.106,8089,Kenya,KE,Nairobi,transparent,true,23.35,AS30844,Maintainer Liquid Telecommunications Operations Limited,4776.81,1791809301.0418615
+http,188.73.182.140,10808,Russia,RU,Yekaterinburg,elite,true,14.14,AS12668,"LLC ""KomTehCentr""",698.35,1791809299.4721706
+http,47.89.184.18,3128,United States,US,Charlottesville,elite,true,84.18,AS45102,Alibaba.com LLC,240.14,1791809299.1013553
+http,124.217.77.233,8082,Philippines,PH,Cabiao,transparent,true,20.16,AS9299,Philippine Long Distance Telephone Co.,14829.17,1791809039.0087643
 http,167.99.8.113,8011,United States,US,North Bergen,elite,true,7.05,AS14061,"DigitalOcean, LLC",178.26,1791809037.4934287
-http,202.58.77.114,8080,Indonesia,ID,Blitar,anonymous,true,12.79,AS138886,PT Data Buana Nusantara,4789.62,1791809037.4325428
-http,185.225.42.134,8080,Syria,SY,Kafr Baţnā,transparent,true,19.8,AS29256,sy-samaweb,9022.75,1791809037.275566
-http,102.244.78.61,8087,Cameroon,CM,Douala,elite,true,89.94,AS36912,Orange CAM INTERNET,1101.73,1791809037.1620007
-http,201.7.31.55,8080,Turkey,TR,Istanbul,transparent,true,25.95,AS216472,High Speed For Internet Services L.L.C,6546.27,1791809036.3847115
 http,125.25.167.208,80,Thailand,TH,Bangkok,transparent,true,70.37,AS23969,TOT Public Company Limited,3593.05,1791809036.3691416
-http,125.25.167.208,8080,Thailand,TH,Bangkok,transparent,true,71.43,AS23969,TOT Public Company Limited,1249.78,1791809036.3465927
-http,151.80.18.85,3128,France,FR,Roubaix,anonymous,true,88.99,AS16276,OVH SAS,349.48,1791809034.8037655
-http,85.209.156.148,1080,United States,US,Los Angeles,elite,true,94.18,AS51765,Oy Crea Nova Hosting Solution Ltd,2153.42,1791809034.6301506
-http,194.87.10.245,1234,Singapore,SG,Singapore,elite,true,55.32,AS26383,Baxet Group Inc.,1481.68,1791809034.3478487
-http,146.190.211.220,3128,United States,US,North Bergen,elite,true,83.02,AS14061,"DigitalOcean, LLC",6924.61,1791809034.1689138
-http,34.148.25.49,8080,United States,US,North Charleston,anonymous,true,19.01,AS396982,Google LLC,10007.21,1791809033.5928123
+http,112.137.128.108,80,Vietnam,VN,Hanoi,elite,true,47.65,AS45542,VietNam National University,17537.59,1791809035.368188
 http,125.27.192.162,8081,Thailand,TH,Khwaeng Thung Song Hong,transparent,true,14.93,AS23974,TOT Public Company Limited,11638.91,1791809033.4571276
 http,103.174.122.89,3128,Indonesia,ID,Sumedang,transparent,true,25.2,AS147096,PT Jaya Sejahtra Nugraha,11340.32,1791809033.1619463
-http,38.252.145.13,999,Mexico,MX,Actopan,transparent,true,26.74,AS274414,Osbaldo Tovar Campero,3397.18,1791809032.496798
 http,103.122.67.97,8080,Indonesia,ID,Ponorogo,transparent,true,23.51,AS138064,PT. Jinom Network Indonesia,482.15,1791809032.3369923
-http,176.114.203.165,10808,Russia,RU,Tver,elite,true,21.06,AS50060,Annet Ltd.,952.59,1791809031.83164
-http,49.151.189.78,8082,Philippines,PH,Clark Freeport Zone,transparent,true,22.99,AS9299,Philippine Long Distance Telephone Co.,759.14,1791809031.3087368
-http,146.83.216.227,80,Chile,CL,Ñuñoa,elite,true,15.23,AS11340,Red Universitaria Nacional,10811.06,1791809030.4145103
 http,45.151.69.56,3128,Turkey,TR,Istanbul,transparent,true,46.47,AS34984,Superonline Iletisim Hizmetleri A.S.,8781.64,1791809030.4023848
-http,190.97.229.118,999,Venezuela,VE,El Tocuyo,transparent,true,71.52,AS263703,Viginet C.A,3932.32,1791809029.9687757
-http,160.19.112.18,8080,South Africa,ZA,Cape Town,transparent,true,23.51,AS327983,Interworks,5164.45,1791809029.722302
 http,34.43.46.91,80,United States,US,Mountain View,elite,true,79.05,AS396982,Google LLC,651.17,1791809029.521965
 http,41.203.76.166,8080,Nigeria,NG,Lagos,transparent,true,12.91,AS37148,GLO,3879.87,1791809029.39687
 http,8.220.141.8,4145,Philippines,PH,Manila,elite,true,0.96,AS45102,"Alibaba (US) Technology Co., Ltd.",3101.88,1791809029.054151
@@ -55,112 +237,51 @@ http,122.102.126.74,8080,India,IN,Chennai,transparent,true,21.6,AS133000,Chandra
 http,65.75.201.86,3128,United States,US,Jamestown,transparent,true,28.58,AS62633,HostRush,12542.21,1791809028.848423
 http,187.216.141.46,3128,Mexico,MX,Unión de Tabiqueros del Río Grande de Morelia,transparent,true,18.01,AS8151,Uninet S.A. de C.V.,12383.37,1791809028.6659625
 http,103.46.186.126,8080,Indonesia,ID,Tempaling,transparent,true,43.49,AS150462,PT Air Lintas Komunikasi,1517.97,1791809028.5847774
-http,187.190.114.59,999,Mexico,MX,Plan del Palmar,transparent,true,18.66,AS22884,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",2482.18,1791809028.5200915
-http,103.82.246.129,8181,Indonesia,ID,Ciputat,transparent,true,21.32,AS142370,PT Master Star Network,1495.79,1791809028.3431559
 http,69.5.23.38,3128,Indonesia,ID,Yogyakarta,anonymous,true,33.58,AS150436,Byteplus Pte. Ltd.,12162.71,1791809028.1543145
-http,38.137.234.193,999,Venezuela,VE,Caracas,anonymous,true,41.51,AS263767,CORPORACIÓN GALA IT C.A,399.29,1791809028.1301756
 http,88.255.227.34,3128,Türkiye,TR,Ankara,transparent,true,5.63,AS9121,Turk Telekomunikasyon Anonim Sirketi,13748.52,1791809028.1113567
+http,124.243.150.41,3128,Singapore,SG,Singapore,transparent,true,31.86,AS136907,Huawei International Pte. LTD,13383.5,1791809028.0065403
 http,38.123.48.67,999,Dominican Republic,DO,Santo Domingo Este,transparent,true,35.23,AS273224,Bravic SRL,5061.51,1791809027.931872
 http,113.192.48.159,8080,Indonesia,ID,Kresek,transparent,true,24.8,AS138089,PT.Global Media Data Prima,6011.42,1791809027.655874
-http,38.41.0.116,999,Venezuela,VE,Mérida,anonymous,true,22.13,AS269832,MDS TELECOM C.A.,2059.73,1791809027.477791
 http,49.0.79.138,8080,Thailand,TH,Chon Buri,transparent,true,25.21,AS133481,AIS-Fibre,1076.87,1791809027.3246272
 http,116.101.54.121,8080,Vietnam,VN,Hanoi,elite,true,24.99,AS7552,Viettel Group,4220.32,1791809026.0967522
-http,51.225.138.217,80,Germany,DE,Berlin,transparent,true,100.0,AS16509,"Amazon.com, Inc.",76.63,1791809025.866044
 http,103.237.102.191,11111,Germany,DE,Frankfurt am Main,elite,true,98.31,AS62610,Zenlayer Inc,24.84,1791809025.8565094
-http,85.209.157.251,3128,United States,US,Los Angeles,transparent,true,53.73,AS206446,CLOUD LEASE Ltd,13378.52,1791809025.6689386
 http,102.217.139.31,8180,South Africa,ZA,Simon's Town,transparent,true,20.91,AS329181,Bluedog Technology,6036.28,1791809025.5819929
 http,103.173.162.95,8818,Indonesia,ID,Jatiwangi,transparent,true,21.8,AS141077,Paket Data Andal,1484.21,1791809025.4369135
-http,157.20.252.170,8080,Indonesia,ID,Tanjung Pinang,transparent,true,23.33,AS138089,PT.Global Media Data Prima,1733.08,1791809024.5380785
 http,103.156.16.67,8080,Indonesia,ID,Jatibarang,transparent,true,27.28,AS141077,RSTNET,3093.54,1791809024.1821036
 http,8.209.255.13,3128,Japan,JP,Tokyo,elite,true,79.91,AS45102,"Alibaba (US) Technology Co., Ltd.",1087.4,1791809024.175317
 http,124.158.184.21,64999,Indonesia,ID,Cibinong,transparent,true,10.33,AS55685,PT Jala Lintas Media,15971.06,1791809024.1169221
 http,103.81.255.141,8080,Indonesia,ID,Rengasdengklok,transparent,true,15.92,AS150553,PT. Nusa Jaya Prasetyo,4635.98,1791809024.0905252
 http,204.13.233.74,3128,United States,US,Secaucus,transparent,true,39.58,AS19318,"Interserver, Inc",8075.67,1791809024.017017
-http,122.246.3.12,17981,China,CN,Ningbo,elite,true,98.45,AS136188,China Telecom,9229.47,1791809023.9592862
-http,125.209.110.83,39617,Pakistan,PK,Karachi,elite,true,10.42,AS9260,Multinet 125-110/24,1831.74,1791809023.9560006
 http,103.227.187.23,8080,Indonesia,ID,Wirodayan,transparent,true,23.16,AS142370,PT Master Star Network,4665.66,1791809023.3124833
-http,93.55.126.184,8080,Italy,IT,Marsala,transparent,true,23.28,AS12874,Fastweb Networks,8049.56,1791809023.126668
-http,121.46.226.221,10808,China,CN,Beijing,elite,true,96.66,AS4811,ZHAOONE,5112.96,1791809023.0987375
 http,201.4.69.178,8080,Syria,SY,Aleppo,transparent,true,26.51,AS216472,High Speed For Internet Services L.L.C,3326.83,1791809022.9261463
 http,94.159.110.64,5555,Germany,DE,Frankfurt am Main,elite,true,12.8,AS215730,H2nexus Cloud Services - Fzco,8795.83,1791809022.8167472
-http,120.232.115.170,17981,China,CN,Guangzhou,elite,true,99.21,AS9808,China Mobile communications corporation,830.81,1791809022.240071
 http,187.62.191.3,61456,Brazil,BR,Bariri,elite,true,7.37,AS262662,Conexao Networks Provedor de Internet,5390.36,1791809021.9361923
-http,8.215.76.82,3333,Indonesia,ID,Jakarta,elite,true,61.42,AS45102,"Alibaba (US) Technology Co., Ltd.",688.23,1791809021.6503086
-http,160.22.45.14,8080,Indonesia,ID,Marisa,transparent,true,47.65,,CELEBESMULTINET,2672.66,1791809021.1585999
-http,123.112.214.167,9000,China,CN,Beijing,transparent,true,27.83,AS4808,China Unicom Beijing Province Network,3800.83,1791809021.1567802
-http,103.82.20.76,8080,Vietnam,VN,Dich Vong,elite,true,62.41,AS135905,INETACADEMY,1908.49,1791809019.0900178
-http,103.172.71.202,1111,Indonesia,ID,Karangampel,transparent,true,12.3,AS142386,AZNET,2836.58,1791809019.0767612
-http,140.238.32.108,3128,Japan,JP,Tokyo,elite,true,83.93,AS31898,Oracle Corporation,3921.72,1791809018.9780264
-http,116.147.106.5,8081,China,CN,Nanjing,elite,true,24.14,AS4837,China Unicom CHINA169 Network,5259.98,1791809018.688524
 http,201.4.69.40,8080,Syria,SY,Aleppo,transparent,true,16.67,AS216472,High Speed For Internet Services L.L.C,7308.04,1791809018.6172056
-http,181.78.195.137,999,Ecuador,EC,Guayaquil,transparent,true,42.2,AS52468,Ufinet Panama S.A.,3603.2,1791809018.6052139
-http,89.251.21.163,8080,Turkey,TR,Kilis,transparent,true,26.04,AS216472,High Speed For Internet Services L.L.C,7336.94,1791809018.3648684
 http,217.182.195.221,30008,France,FR,Roubaix,elite,true,40.94,AS16276,OVH SAS,13708.29,1791809018.1669347
 http,179.1.126.25,999,Colombia,CO,Quibdó,transparent,true,21.9,AS18678,Internexa S.a. E.S.P,6444.77,1791809017.741273
-http,103.43.191.71,8888,Hong Kong,HK,Kwai Chung,elite,true,93.84,AS139021,West263 International Limited,1730.82,1791809017.136864
-http,157.245.129.124,3128,United States,US,North Bergen,elite,true,80.49,AS14061,"DigitalOcean, LLC",6145.94,1791809016.7056365
-http,181.232.191.248,999,Dominican Republic,DO,Santo Domingo Este,transparent,true,26.39,AS271935,Airtime Technology SRL,4457.13,1791809016.467969
-http,47.89.184.18,3128,United States,US,Charlottesville,elite,true,84.18,AS45102,Alibaba.com LLC,210.74,1791809016.1101222
 http,45.198.10.39,9191,Indonesia,ID,Jatiroto,transparent,true,30.68,AS142386,PT Jaringan Lintas Artha,3404.26,1791809015.916782
 http,158.101.175.124,5566,Germany,DE,Frankfurt am Main,elite,true,8.34,AS31898,Oracle Corporation,1764.26,1791809015.7545898
-http,103.43.145.42,8080,Papua New Guinea,PG,Port Moresby,transparent,true,28.63,AS63945,Digitec PNG Limited,5398.09,1791809015.4174008
-http,164.163.133.158,999,Ecuador,EC,Marcabelí,transparent,true,24.01,AS52468,Ufinet Panama S.A.,1758.13,1791809014.0115721
-http,38.50.165.122,999,Dominican Republic,DO,Dajabon,transparent,true,32.79,AS273009,"NEXTELECOM, S.R.L",3577.8,1791809013.924934
-http,47.243.92.199,3128,Hong Kong,HK,Hong Kong,elite,true,87.33,AS45102,Alibaba Cloud LLC,885.79,1791809013.784038
 http,154.119.80.27,3128,Zimbabwe,ZW,Harare,transparent,true,15.95,AS37123,Telecontract Pvt Ltd,19348.08,1791809013.2929254
-http,198.244.254.77,3128,United Kingdom,GB,London,elite,true,14.91,AS16276,OVH SAS,1927.91,1791809012.8808591
-http,111.206.4.163,18888,China,CN,Jinrongjie,elite,true,96.87,AS4808,China Unicom Beijing Province Network,2015.15,1791809012.371476
 http,185.166.24.191,1976,Iraq,IQ,Erbil,transparent,true,12.14,AS207097,Online Company Ltd,4935.19,1791809012.3683052
-http,181.188.203.40,999,Ecuador,EC,Montalvo,transparent,true,61.92,AS52468,Ufinet Panama S.A.,8721.8,1791809011.6348474
-http,67.207.86.15,3128,United States,US,North Bergen,elite,true,69.91,AS14061,"DigitalOcean, LLC",14833.31,1791809011.2336586
-http,184.75.221.82,3118,Canada,CA,Toronto,anonymous,true,93.5,AS32489,Amanah Tech Inc.,240.38,1791809010.4133992
-http,103.189.249.210,8080,Indonesia,ID,Jatiroto,transparent,true,18.02,AS149888,PT Berkah Media Kusuma Vision,4933.53,1791809010.297934
-http,213.199.53.16,8888,France,FR,Lauterbourg,elite,true,74.48,AS51167,Contabo GmbH,9614.82,1791809009.9379427
-http,160.25.237.163,1111,Indonesia,ID,Cikarang,transparent,true,13.98,AS153105,PT Nada Freedom Indonesia,11718.42,1791809009.059835
 http,193.135.9.6,3128,Germany,DE,Frankfurt am Main,transparent,true,33.18,AS48314,Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG,7066.03,1791809008.9183393
 http,164.90.172.177,3128,Germany,DE,Frankfurt am Main,transparent,true,73.81,AS14061,"DigitalOcean, LLC",4964.2,1791809008.3294225
-http,90.156.196.230,3128,Uzbekistan,UZ,Tashkent,elite,true,91.82,AS8193,"""Uzbektelekom"" Joint Stock Company",558.45,1791809007.9672174
-http,47.79.33.142,3128,Japan,JP,Tokyo,transparent,true,55.02,AS45102,Alibaba.com LLC,1967.73,1791809007.8928275
 http,45.185.163.235,999,Ecuador,EC,La Maná,transparent,true,25.61,AS52468,Ufinet Panama S.A.,7857.59,1791809006.8689225
 http,47.242.218.151,9002,Hong Kong,HK,Hong Kong,elite,true,76.95,AS45102,Alibaba.com LLC,870.49,1791809005.7040114
 http,103.187.113.100,8080,Indonesia,ID,Tabanan,transparent,true,22.35,AS149720,PT Adi Solusindo Teknologi,12251.95,1791809005.1519606
-http,101.206.186.99,8080,China,CN,Chengdu,elite,true,84.36,AS4837,China Unicom Sichuan Province Network,5396.13,1791809003.8623946
 http,104.248.55.188,3128,United States,US,North Bergen,elite,true,89.92,AS14061,"DigitalOcean, LLC",5279.24,1791809003.7032743
-http,187.245.209.253,999,Mexico,MX,Durango,transparent,true,25.66,AS13999,"Mega Cable, S.A. de C.V.",3567.68,1791809002.6973965
 http,160.19.41.40,80,India,IN,New Delhi,transparent,true,83.05,AS142461,ATC INFOCOM SOLUTIONS PVT LTD,484.9,1791809002.6020129
 http,103.172.17.51,8080,Indonesia,ID,Cintaratu,transparent,true,13.77,AS142381,PT Media Access Telematika,14991.79,1791809002.0007508
-http,202.141.161.52,10808,China,CN,Hefei,elite,true,48.54,AS4134,Chinanet,4327.02,1791809001.920464
-http,45.80.151.33,3128,The Netherlands,NL,Dronten,elite,true,86.91,AS204641,Hostgw SRL,6419.94,1791809001.8395956
-http,161.97.115.10,3128,France,FR,Lauterbourg,transparent,true,35.75,AS51167,Contabo GmbH,12961.62,1791809001.5059464
 http,103.166.0.25,1111,Indonesia,ID,Banjar Sambangan,anonymous,true,35.81,AS141928,PT Balian Media Online Nusantara,2639.86,1791809001.2963133
 http,145.239.80.10,3128,Poland,PL,Wroclaw,elite,true,33.3,AS16276,OVH SAS,20881.93,1791809001.1923084
-http,4.240.96.243,3128,India,IN,Pune,transparent,true,48.13,AS8075,Microsoft Corporation,7315.75,1791809001.0886228
-http,102.244.78.61,8090,Cameroon,CM,Douala,elite,true,90.93,AS36912,Orange CAM INTERNET,1056.03,1791809000.5468943
-http,103.85.112.65,8080,Finland,FI,Helsinki,elite,true,32.67,AS200740,First Server Limited,15399.08,1791809000.312857
-http,51.225.138.29,80,Germany,DE,Berlin,transparent,true,98.95,AS16509,"Amazon.com, Inc.",55.52,1791808999.448101
-http,103.72.101.61,3128,India,IN,Mumbai,transparent,true,27.26,AS44259,"Ultahost, Inc.",20109.7,1791808998.8172183
 http,193.135.9.36,3128,Germany,DE,Frankfurt am Main,transparent,true,33.55,AS48314,Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG,9371.53,1791808998.7079723
-http,4.144.146.21,80,Singapore,SG,Singapore,anonymous,true,88.21,AS8075,Microsoft Corporation,546.77,1791808998.5599015
-http,213.178.250.33,8080,Syria,SY,Damascus,anonymous,true,24.3,AS29256,SCS,10110.09,1791808998.5174866
 http,18.143.174.188,8080,Singapore,SG,Singapore,elite,true,93.18,AS16509,"Amazon.com, Inc.",5631.56,1791808998.2178686
-http,181.233.89.128,999,Venezuela,VE,Cabimas,transparent,true,32.9,AS271907,Colnetwork C.A.,11332.56,1791808998.056316
-http,103.165.212.26,8080,Indonesia,ID,Malang,elite,true,23.58,AS17995,PT iForte Global Internet,4629.03,1791808997.7687967
-http,134.209.74.227,3128,United States,US,North Bergen,elite,true,76.41,AS14061,"DigitalOcean, LLC",7296.09,1791808997.7571232
 http,36.88.141.105,8080,Indonesia,ID,South Tangerang,transparent,true,13.43,AS7713,PT. Telekomunikasi Indonesia,13852.94,1791808996.9812315
 http,195.160.245.79,10808,Russia,RU,Moscow,elite,true,91.3,AS12389,PJSC Rostelecom,2417.36,1791808996.369888
-http,186.33.45.195,8080,Ecuador,EC,Latacunga,transparent,true,21.61,AS52468,Ufinet Panama S.A.,8529.91,1791808995.0360985
-http,116.196.150.180,17981,China,CN,Hangzhou,elite,true,94.54,AS131516,JHWA,1350.13,1791808995.023865
-http,202.47.188.205,1111,Indonesia,ID,Madiun,transparent,true,29.36,AS45305,"Lintas Data Prima, PT",517.29,1791808994.6074553
-http,82.47.161.152,8443,Turkey,TR,Istanbul,elite,true,92.6,AS212238,,830.82,1791808994.5345888
 http,103.19.78.125,1080,Indonesia,ID,Pasuruan,elite,true,25.15,AS149359,PT Persada Data Multimedia,2027.22,1791808994.0248668
-http,124.217.77.233,8082,Philippines,PH,Cabiao,transparent,true,20.16,AS9299,Philippine Long Distance Telephone Co.,14829.17,1791809039.0087643
-http,112.137.128.108,80,Vietnam,VN,Hanoi,elite,true,47.65,AS45542,VietNam National University,17537.59,1791809035.368188
-http,124.243.150.41,3128,Singapore,SG,Singapore,transparent,true,31.86,AS136907,Huawei International Pte. LTD,13383.5,1791809028.0065403
 http,103.175.84.6,80,Indonesia,ID,Kartasura,transparent,true,27.25,AS147117,Proxy-registered,5164.71,1791808992.5568933
 http,112.208.167.50,8082,Philippines,PH,Makati City,transparent,true,28.16,AS9299,Philippine Long Distance Telephone Co.,1739.43,1791808992.0862262
 http,150.241.245.249,8080,India,IN,Bengaluru,elite,true,45.53,AS134926,Micro Hosting Private Limited,341.23,1791808992.0061274
 http,165.99.194.139,8080,Indonesia,ID,Guyangan,transparent,true,25.95,AS153986,PT Network Bumi Saridin,1010.3,1791808991.8183212
-http,118.193.37.78,3128,Hong Kong,HK,Hong Kong,transparent,true,31.33,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,9814.47,1791808991.6654508
 http,154.201.126.44,8080,India,IN,Noida,elite,true,39.23,AS18229,CtrlS,348.27,1791808991.664803
 http,180.191.233.68,9090,Philippines,PH,Matalam,transparent,true,21.07,AS4775,Globe Telecom,1144.92,1791808991.5964499
 http,38.76.138.129,999,Venezuela,VE,Caracas,transparent,true,26.14,AS263767,CORPORACIÓN GALA IT C.A,5810.82,1791808991.5224614
@@ -175,52 +296,39 @@ http,217.154.71.75,3128,Germany,DE,Berlin,transparent,true,31.27,AS8560,IONOS SE
 http,45.43.60.220,8080,Japan,JP,Tokyo,elite,true,77.27,AS135377,Zenlayer Inc,3558.32,1791808988.6929765
 http,103.181.255.219,7777,Indonesia,ID,Kadengan,transparent,true,9.84,AS141145,PT Giga Digital Nusantara,1741.85,1791808988.6210725
 http,185.225.41.228,7890,Syria,SY,Homs,transparent,true,26.38,AS29256,sy-samaweb,1044.75,1791808988.3986888
-http,203.76.222.172,1212,Bangladesh,BD,Narayanganj,transparent,true,98.27,AS134204,BUSINESSNETWORK,514.65,1791808988.0807717
 http,126.209.107.11,8080,Philippines,PH,Manila,transparent,true,15.7,AS135607,Infinivan Incorporated,1566.02,1791808988.0534663
 http,43.252.107.46,8080,Indonesia,ID,Kediri,transparent,true,20.66,AS45305,PT Lintas Data Prima,4565.77,1791808987.8447826
 http,147.15.126.122,28080,Brazil,BR,São Paulo,elite,true,87.51,AS31898,Oracle Corporation,7670.24,1791808987.5187635
-http,180.246.234.91,8080,Indonesia,ID,Pinrang,transparent,true,27.53,AS7713,PT. TELKOM INDONESIA,8385.85,1791808986.7237895
 http,176.88.65.162,8080,Türkiye,TR,Kilis,transparent,true,27.8,AS34984,Superonline Iletisim Hizmetleri A.S.,4613.73,1791808985.9386482
 http,178.250.88.50,8080,Türkiye,TR,Istanbul,transparent,true,24.04,AS29399,Ramtek Telekom,286.58,1791808985.8168464
 http,92.39.129.50,1256,Russia,RU,Moscow,transparent,true,28.28,AS8595,OOO WestCall Ltd,9367.47,1791808985.5248091
 http,103.155.196.160,8181,Indonesia,ID,Sukabumi,transparent,true,23.73,AS141071,JEMBATANDATA,8303.76,1791808984.3960462
-http,163.43.113.134,80,Japan,JP,Osaka,elite,true,30.93,AS9370,SAKURA Internet Inc.,7447.2,1791808983.5857399
 http,193.122.96.242,3128,South Korea,KR,Seoul,transparent,true,13.95,AS31898,Oracle Corporation,13895.3,1791808983.4483578
 http,38.123.220.211,999,Mexico,MX,San Lorenzo Toxico,transparent,true,61.75,AS174,Cogent Communications,450.25,1791808982.475368
 http,110.76.147.29,1080,Indonesia,ID,Kutoarjo,transparent,true,21.8,AS140481,PT Pika Media Komunika,7756.94,1791808982.3047924
 http,103.125.174.83,8080,Indonesia,ID,Stabat,transparent,true,62.6,AS139415,PT Trinity Teknologi Nusantara,597.46,1791808981.9353018
-http,102.244.78.61,8083,Cameroon,CM,Douala,elite,true,90.08,AS36912,Orange CAM INTERNET,1235.54,1791808981.8815603
-http,38.52.135.222,8080,Paraguay,PY,Ciudad del Este,transparent,true,30.38,AS61512,Cogent Communications,7933.92,1791808980.8128254
 http,103.131.19.30,8011,Indonesia,ID,Lamongan,transparent,true,19.69,AS138089,PT Global Media Data Prima,3636.61,1791808980.636928
 http,87.251.78.206,3128,Russia,RU,Moscow,transparent,true,48.18,AS210546,Chsl ONE LTD,12762.22,1791808980.4615622
-http,201.4.65.107,8080,Turkey,TR,Adana,transparent,true,57.53,AS216472,High Speed For Internet Services L.L.C,1283.53,1791808980.233668
 http,1.4.141.42,8080,Thailand,TH,Bangkok,transparent,true,53.25,AS23969,TOT Public Company Limited,1990.11,1791808980.1039085
 http,196.251.221.33,8080,South Africa,ZA,Brits,transparent,true,13.76,AS37403,Info-Gro (PTY) Ltd,4004.68,1791808980.0568082
-http,139.135.160.13,8083,Philippines,PH,San Fernando,transparent,true,25.31,AS17639,ComClark Network & Technology Corp,2606.47,1791808979.2813444
 http,103.158.162.226,8080,Indonesia,ID,Malang,transparent,true,27.65,AS17995,PT iForte Global Internet,2040.92,1791808977.2632327
 http,177.234.217.235,999,Ecuador,EC,Quito,transparent,true,39.38,AS52468,Ufinet Panama S.A.,8818.76,1791808976.450224
 http,27.72.244.228,8080,Vietnam,VN,Hanoi,transparent,true,8.43,AS7552,Newass2011xDSLHN,11363.18,1791808975.8010507
 http,138.201.52.251,3128,Germany,DE,Falkenstein,transparent,true,52.5,AS24940,Hetzner Online GmbH,11991.06,1791808975.0488744
 http,47.91.115.179,1081,United Arab Emirates,AE,Dubai,elite,true,1.2,AS45102,Alibaba Cloud LLC,9440.05,1791808974.512265
-http,23.95.197.107,3128,United States,US,Buffalo,transparent,true,100.0,AS36352,HostPapa,1629.67,1791808973.3284988
 http,109.73.192.102,1080,Russia,RU,Moscow,transparent,true,19.43,AS9123,"JSC ""TIMEWEB""",192.01,1791808972.154897
 http,103.133.25.119,8080,Indonesia,ID,Bekasi,transparent,true,13.44,AS138130,PT PHATRIA INTI PERSADA,7786.55,1791808972.0367444
 http,189.1.236.200,3128,Hong Kong,HK,Hong Kong,transparent,true,46.21,AS136907,Huawei-Cloud,13262.38,1791808970.1542435
-http,196.74.218.1,1910,Morocco,MA,Rabat,elite,true,55.0,AS36903,ADSL Maroc telecom,249.55,1791808969.4234667
 http,91.191.228.126,3128,Russia,RU,Yekaterinburg,transparent,true,20.58,AS12668,"LLC ""KomTehCentr""",7590.3,1791808967.7451131
 http,68.64.179.186,8080,Hong Kong,HK,Hong Kong,elite,true,16.11,AS139659,LucidaCloud Limited,12461.06,1791808963.262539
-http,220.135.222.226,3128,Taiwan,TW,Zuoying,transparent,true,34.31,AS3462,"Chunghwa Telecom Co., Ltd.",879.18,1791808959.5281212
 http,43.245.95.178,53805,Nepal,NP,Lalitpur,transparent,true,13.44,AS55427,BroadLink Networks and Communications,4225.33,1791808955.800843
 http,1.20.101.27,8080,Thailand,TH,Chon Buri,transparent,true,17.35,AS23969,TOT Public Company Limited,4789.61,1791808955.0021203
 http,202.58.77.214,8080,Indonesia,ID,Blitar,anonymous,true,22.69,AS138886,PT Data Buana Nusantara,11833.83,1791808954.1977315
-http,102.244.78.61,8089,Cameroon,CM,Douala,elite,true,89.43,AS36912,Orange CAM INTERNET,1064.57,1791808953.278626
 http,210.211.113.35,80,Vietnam,VN,Ho Chi Minh City,transparent,true,92.54,AS38731,VTDC,2701.44,1791808953.2683837
 http,103.151.17.209,8080,India,IN,Aurangabad,elite,true,11.63,AS140113,Riyaz Internet Service Private Limited,3769.52,1791808950.292798
 http,154.12.231.32,80,United States,US,St Louis,elite,true,36.97,AS40021,Contabo Inc,10418.08,1791808950.2819633
 http,163.227.248.51,8818,Indonesia,ID,Sukabumi,transparent,true,26.72,AS153895,PT Rajasa Sinergi Komunikasi,2460.39,1791808949.5818949
-http,182.95.79.172,3128,India,IN,Chennai,transparent,true,65.79,AS9498,Bharti Airtel Limited,11172.08,1791808946.4115624
 http,103.242.104.145,8080,Indonesia,ID,Subang,transparent,true,21.01,AS58821,PT Lintas Jaringan Nusantara,1183.84,1791808946.204984
-http,120.232.115.57,17981,China,CN,Guangzhou,elite,true,99.68,AS9808,China Mobile communications corporation,906.2,1791808945.850607
 http,138.0.143.120,8080,Brazil,BR,Valparaíso,elite,true,9.83,AS264551,F.B. BABETO ME,4069.97,1791808945.1168668
 http,31.148.99.133,4000,United Kingdom,GB,Islington,elite,true,33.77,AS212913,Time-host LTD,9234.72,1791808942.6097455
 http,43.130.60.248,3128,United States,US,Santa Clara,transparent,true,83.36,AS132203,Shenzhen Tencent Computer Systems Company Limited,306.59,1791808936.5703957
@@ -228,14 +336,11 @@ http,195.13.182.210,20612,Latvia,LV,Riga,elite,true,92.19,AS12578,SIA Tet,179.88
 http,89.175.174.210,8080,Russia,RU,Moscow,transparent,true,19.87,AS8359,Mobile TeleSystems PJSC,2834.8,1791808926.5107074
 http,125.25.167.129,80,Thailand,TH,Bangkok,transparent,true,61.38,AS23969,TOT Public Company Limited,3617.01,1791808923.7237084
 http,103.180.123.27,8080,Indonesia,ID,South Jakarta,transparent,true,9.52,AS149360,PT Indo Telemedia Solusi,10304.27,1791808922.15511
-http,185.196.61.251,8081,Canada,CA,Toronto,elite,true,25.04,AS136258,"BrainStorm Network, Inc",7233.95,1791808921.4675279
 http,185.27.144.74,999,Dominican Republic,DO,Santo Domingo Este,transparent,true,20.79,AS271935,Airtime Technology SRL,413.38,1791808918.6047256
 http,103.154.231.123,8090,Indonesia,ID,Pagerwojo,transparent,true,13.49,AS136121,DIGITNET,7963.51,1791808917.6848087
 http,139.5.75.83,8080,Nepal,NP,Patan,transparent,true,24.46,AS17501,WLINK,6933.98,1791808915.248271
 http,47.90.167.27,5060,United States,US,Charlottesville,elite,true,1.08,AS45102,Alibaba.com LLC,7344.97,1791808914.85648
 http,38.224.164.192,999,Mexico,MX,Agua Dulce,transparent,true,8.17,AS270128,Daniel Rivera Gonzalez,3763.24,1791808911.0154116
-http,103.106.115.63,8080,Indonesia,ID,Palas,transparent,true,28.82,AS136880,SMSNET,550.85,1791808905.6380048
-http,60.50.6.100,3128,Malaysia,MY,Cyberjaya,transparent,true,58.87,AS4788,TM TECHNOLOGY SERVICES SDN BHD,3918.77,1791808904.7194564
 http,47.237.113.119,80,Singapore,SG,Singapore,elite,true,1.04,AS45102,"Alibaba (US) Technology Co., Ltd.",6827.45,1791808897.3462298
 http,190.97.254.180,8080,Venezuela,VE,Upata,transparent,true,8.18,AS263703,Viginet C.A,3681.53,1791808893.1047964
 http,191.44.91.60,8080,France,FR,Paris,transparent,true,25.93,AS216472,High Speed For Internet Services L.L.C,5322.73,1791808889.0989046
