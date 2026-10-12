@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "90.146.196.18",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "194.182.187.78",
+    "port": 1080,
     "country": "Austria",
     "country_code": "AT",
-    "city": "Ansfelden",
+    "city": "Vienna",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 26.33,
-    "asn": "AS12605",
-    "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 3445.99,
-    "last_checked": 1791791927.4133284
+    "ssl": true,
+    "uptime_percent": 37.23,
+    "asn": "AS61098",
+    "isp": "Akenes SA",
+    "latency_ms": 2216.33,
+    "last_checked": 1791792568.0083327
   },
   {
     "protocol": "socks5",
@@ -23,10 +23,25 @@
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.31,
+    "uptime_percent": 33.32,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 7335.72,
-    "last_checked": 1791791810.3619635
+    "latency_ms": 4486.8,
+    "last_checked": 1791792548.8124862
+  },
+  {
+    "protocol": "http",
+    "ip": "89.185.126.101",
+    "port": 8080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.05,
+    "asn": "AS24953",
+    "isp": "Netplanet IT Solutions",
+    "latency_ms": 4434.85,
+    "last_checked": 1791792437.9898868
   }
 ]
