@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "217.151.230.186",
-    "port": 9055,
+    "protocol": "http",
+    "ip": "82.115.60.51",
+    "port": 80,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 17.18,
-    "asn": "AS9123",
-    "isp": "JSC \"TIMEWEB\"",
-    "latency_ms": 11996.39,
-    "last_checked": 1791794323.515724
+    "ssl": false,
+    "uptime_percent": 65.66,
+    "asn": "AS200590",
+    "isp": "NLS Kazakhstan LLC",
+    "latency_ms": 5199.01,
+    "last_checked": 1791794941.6253152
   },
   {
     "protocol": "http",
@@ -22,11 +22,41 @@
     "country_code": "KZ",
     "city": "Semey",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 26.52,
+    "ssl": false,
+    "uptime_percent": 26.54,
     "asn": "AS203530",
     "isp": "7sat LLP",
-    "latency_ms": 5694.69,
-    "last_checked": 1791794290.8658683
+    "latency_ms": 1339.8,
+    "last_checked": 1791794933.6636882
+  },
+  {
+    "protocol": "socks5",
+    "ip": "217.151.230.186",
+    "port": 9055,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 15.51,
+    "asn": "AS9123",
+    "isp": "JSC \"TIMEWEB\"",
+    "latency_ms": 1664.98,
+    "last_checked": 1791794895.0781488
+  },
+  {
+    "protocol": "http",
+    "ip": "37.221.202.30",
+    "port": 8080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Urzhar",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 28.7,
+    "asn": "AS43370",
+    "isp": "Obit Telecommunications",
+    "latency_ms": 5850.56,
+    "last_checked": 1791794857.7128677
   }
 ]
