@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "193.42.112.26",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "95.85.242.7",
+    "port": 9050,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Kuusalu",
+    "city": "Tallinn",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 38.77,
-    "asn": "AS199144",
-    "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 4557.62,
-    "last_checked": 1791848331.6766887
+    "ssl": true,
+    "uptime_percent": 24.03,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 22711.28,
+    "last_checked": 1791848899.9770274
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tartu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 61.35,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 220.23,
+    "last_checked": 1791848890.9552681
   }
 ]
