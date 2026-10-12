@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "217.75.208.181",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Chomutov",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.87,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 3164.99,
+    "last_checked": 1791806953.898121
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.102.149",
+    "port": 800,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 13.34,
-    "asn": "AS210712",
-    "isp": "Grape SC V",
-    "latency_ms": 2758.91,
-    "last_checked": 1791806375.3327184
+    "uptime_percent": 28.62,
+    "asn": "AS42189",
+    "isp": "Druzstvo EUROSIGNAL",
+    "latency_ms": 8395.18,
+    "last_checked": 1791806949.0847828
   },
   {
     "protocol": "socks5",
@@ -23,25 +38,10 @@
     "city": "Moravská Nová Ves",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 83.86,
+    "uptime_percent": 83.92,
     "asn": "AS16019",
     "isp": "Vodafone Czech Republic a.s.",
-    "latency_ms": 2721.27,
-    "last_checked": 1791806356.8808439
-  },
-  {
-    "protocol": "http",
-    "ip": "45.84.164.144",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 36.01,
-    "asn": "AS208805",
-    "isp": "POPE servis s.r.o",
-    "latency_ms": 2576.53,
-    "last_checked": 1791806339.2201607
+    "latency_ms": 4034.49,
+    "last_checked": 1791806941.4118977
   }
 ]
