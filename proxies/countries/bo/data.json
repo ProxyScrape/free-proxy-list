@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "190.181.28.186",
-    "port": 999,
-    "country": "Bolivia",
-    "country_code": "BO",
-    "city": "Santa Fe",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 23.9,
-    "asn": "AS26210",
-    "isp": "AXS Bolivia S. A.",
-    "latency_ms": 9227.38,
-    "last_checked": 1791925138.8524096
-  },
-  {
     "protocol": "socks4",
     "ip": "181.115.207.114",
     "port": 1080,
@@ -26,8 +11,23 @@
     "uptime_percent": 13.78,
     "asn": "AS6568",
     "isp": "Entel S.A. - EntelNet",
-    "latency_ms": 9736.72,
-    "last_checked": 1791925127.6877713
+    "latency_ms": 4718.35,
+    "last_checked": 1791925725.3209653
+  },
+  {
+    "protocol": "http",
+    "ip": "166.114.65.242",
+    "port": 8080,
+    "country": "Bolivia",
+    "country_code": "BO",
+    "city": "Pailón",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.75,
+    "asn": "AS6568",
+    "isp": "Entel S.A. - EntelNet",
+    "latency_ms": 4951.32,
+    "last_checked": 1791925755.7106304
   },
   {
     "protocol": "http",
@@ -37,11 +37,11 @@
     "country_code": "BO",
     "city": "Vinto",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.09,
+    "ssl": true,
+    "uptime_percent": 25.1,
     "asn": "AS27839",
     "isp": "Comteco Ltda",
-    "latency_ms": 8142.75,
-    "last_checked": 1791925036.6431196
+    "latency_ms": 3082.14,
+    "last_checked": 1791925753.7128258
   }
 ]
