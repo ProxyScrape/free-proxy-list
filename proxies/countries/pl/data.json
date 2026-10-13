@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "104.245.245.218",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "178.43.184.33",
+    "port": 8080,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Warsaw",
+    "city": "Katowice",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 68.09,
+    "asn": "AS5617",
+    "isp": "Orange Polska Spolka Akcyjna",
+    "latency_ms": 1770.45,
+    "last_checked": 1791910773.6874206
+  },
+  {
+    "protocol": "http",
+    "ip": "185.32.4.210",
+    "port": 8090,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Chociwel",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 16.58,
+    "asn": "AS60645",
+    "isp": "AS Consulting Sp. z o. o.",
+    "latency_ms": 1977.44,
+    "last_checked": 1791910770.6153042
+  },
+  {
+    "protocol": "socks4",
+    "ip": "46.151.118.108",
+    "port": 5678,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Lipsko",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 83.67,
-    "asn": "AS201814",
-    "isp": "Tier.Net Technologies LLC",
-    "latency_ms": 179.04,
-    "last_checked": 1791910120.5908558
+    "uptime_percent": 52.54,
+    "asn": "AS197418",
+    "isp": "KONTAKT",
+    "latency_ms": 6879.52,
+    "last_checked": 1791910757.872815
   },
   {
     "protocol": "http",
@@ -26,37 +56,7 @@
     "uptime_percent": 33.17,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 16673.19,
-    "last_checked": 1791910081.916804
-  },
-  {
-    "protocol": "http",
-    "ip": "91.150.189.122",
-    "port": 30389,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Rzeszów",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 6.57,
-    "asn": "AS42673",
-    "isp": "Skyware Sp. z o.o.",
-    "latency_ms": 8223.58,
-    "last_checked": 1791910081.1552558
-  },
-  {
-    "protocol": "http",
-    "ip": "185.32.4.210",
-    "port": 8070,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Chociwel",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.77,
-    "asn": "AS60645",
-    "isp": "AS Consulting Sp. z o. o.",
-    "latency_ms": 8931.68,
-    "last_checked": 1791910047.7702422
+    "latency_ms": 16675.03,
+    "last_checked": 1791910700.696965
   }
 ]
