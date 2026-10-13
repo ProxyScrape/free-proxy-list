@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "31.47.103.209",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Rožnov pod Radhoštěm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.35,
+    "asn": "AS8251",
+    "isp": "Neutral czFree eXchange members",
+    "latency_ms": 1187.88,
+    "last_checked": 1791922195.4789574
+  },
+  {
     "protocol": "socks4",
     "ip": "90.178.216.215",
     "port": 4153,
@@ -11,23 +26,8 @@
     "uptime_percent": 34.82,
     "asn": "AS5610",
     "isp": "Telefonica O2 Czech Republic, a.s.",
-    "latency_ms": 1975.4,
-    "last_checked": 1791921561.1507828
-  },
-  {
-    "protocol": "http",
-    "ip": "45.84.164.144",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 37.13,
-    "asn": "AS208805",
-    "isp": "POPE servis s.r.o",
-    "latency_ms": 10026.64,
-    "last_checked": 1791921555.9141288
+    "latency_ms": 1318.15,
+    "last_checked": 1791922187.5093098
   },
   {
     "protocol": "http",
@@ -38,11 +38,11 @@
     "city": "Chomutov",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 13.57,
+    "uptime_percent": 13.59,
     "asn": "AS210712",
     "isp": "Grape SC V",
-    "latency_ms": 1043.86,
-    "last_checked": 1791921538.2835739
+    "latency_ms": 10180.39,
+    "last_checked": 1791922154.128135
   },
   {
     "protocol": "http",
@@ -56,7 +56,22 @@
     "uptime_percent": 14.31,
     "asn": "AS42908",
     "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 10203.69,
-    "last_checked": 1791921479.3817093
+    "latency_ms": 8592.25,
+    "last_checked": 1791922148.6017358
+  },
+  {
+    "protocol": "http",
+    "ip": "45.84.164.144",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 37.13,
+    "asn": "AS208805",
+    "isp": "POPE servis s.r.o",
+    "latency_ms": 8526.28,
+    "last_checked": 1791922086.5337682
   }
 ]
