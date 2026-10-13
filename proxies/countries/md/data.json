@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "http",
+    "ip": "176.125.242.58",
+    "port": 3128,
+    "country": "Moldova",
+    "country_code": "MD",
+    "city": "Chisinau",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 39.48,
+    "asn": "AS200019",
+    "isp": "Alexhost SRL",
+    "latency_ms": 2526.05,
+    "last_checked": 1791860351.5827715
+  },
+  {
+    "protocol": "http",
     "ip": "5.181.158.54",
     "port": 1080,
     "country": "Moldova",
     "country_code": "MD",
     "city": "Chisinau",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 24.14,
+    "ssl": false,
+    "uptime_percent": 27.54,
     "asn": "AS39798",
     "isp": "MivoCloud SRL",
-    "latency_ms": 6933.58,
-    "last_checked": 1791859992.7879853
+    "latency_ms": 282.35,
+    "last_checked": 1791860350.224841
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.121.179.160",
+    "port": 1089,
+    "country": "Moldova",
+    "country_code": "MD",
+    "city": "Chisinau",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 3.71,
+    "asn": "AS48753",
+    "isp": "AVA HOST SRL",
+    "latency_ms": 212.02,
+    "last_checked": 1791860329.5901363
   }
 ]
