@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "166.114.65.242",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "190.104.26.227",
+    "port": 33638,
     "country": "Bolivia",
     "country_code": "BO",
-    "city": "Pailón",
+    "city": "La Paz",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.74,
+    "asn": "AS27882",
+    "isp": "Telefónica Celular de Bolivia S.A.",
+    "latency_ms": 1058.29,
+    "last_checked": 1791918550.705818
+  },
+  {
+    "protocol": "http",
+    "ip": "181.115.200.59",
+    "port": 3128,
+    "country": "Bolivia",
+    "country_code": "BO",
+    "city": "Santa Cruz de la Sierra",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 29.66,
+    "ssl": true,
+    "uptime_percent": 18.73,
     "asn": "AS6568",
     "isp": "Entel S.A. - EntelNet",
-    "latency_ms": 6394.61,
-    "last_checked": 1791917958.77099
+    "latency_ms": 10431.54,
+    "last_checked": 1791918549.2724738
   },
   {
     "protocol": "http",
@@ -22,26 +37,11 @@
     "country_code": "BO",
     "city": "Santa Fe",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 23.86,
+    "ssl": true,
+    "uptime_percent": 23.87,
     "asn": "AS26210",
     "isp": "AXS Bolivia S. A.",
-    "latency_ms": 8524.8,
-    "last_checked": 1791917794.2167857
-  },
-  {
-    "protocol": "http",
-    "ip": "200.58.82.209",
-    "port": 999,
-    "country": "Bolivia",
-    "country_code": "BO",
-    "city": "Vinto",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.07,
-    "asn": "AS27839",
-    "isp": "Comteco Ltda",
-    "latency_ms": 2391.85,
-    "last_checked": 1791917789.6100342
+    "latency_ms": 3373.11,
+    "last_checked": 1791918523.2740142
   }
 ]
