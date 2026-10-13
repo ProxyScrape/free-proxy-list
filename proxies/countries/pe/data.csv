@@ -1,24 +1,21 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,38.172.129.168,999,Peru,PE,Lima,transparent,true,18.78,AS273133,Conex TV E.I.R.L,3629.84,1791931779.2834044
-http,177.53.155.29,999,Peru,PE,Lima,transparent,true,8.29,AS270007,Moreno Yanoc Nemias Bernardo,4228.75,1791931773.7905235
-http,190.43.92.106,999,Peru,PE,Lima,transparent,true,23.6,AS6147,Telefonica Del Peru,8417.88,1791931773.2607179
-http,209.45.65.53,1011,Peru,PE,Lima,transparent,true,26.53,AS3132,Red Cientifica Peruana,8957.94,1791931770.8048651
-http,64.76.106.145,999,Peru,PE,Lima,transparent,true,82.61,AS273067,Loa Network,1688.46,1791931766.2946823
-http,190.12.95.170,47029,Peru,PE,Lima,elite,true,6.32,AS27843,ON EMPRESAS S.A.C,14004.71,1791931755.9681118
+socks4,190.12.95.170,37209,Peru,PE,Lima,elite,true,25.53,AS27843,ON EMPRESAS S.A.C,1401.31,1791932078.0984786
+http,161.132.45.17,1081,Peru,PE,Tucsipampa,elite,false,22.06,AS3132,Red Cientifica Peruana,4023.78,1791932071.5587637
+http,201.230.121.228,999,Peru,PE,Puno,transparent,false,26.46,AS6147,Telefonica Del Peru,6287.22,1791932063.8855429
+http,179.43.96.178,8080,Peru,PE,Arequipa,transparent,false,9.31,AS272894,Misticom Fibra Optica S.A.C.,12970.03,1791932059.0587482
+http,64.76.73.131,999,Peru,PE,Lima,transparent,false,24.54,AS274087,Fiberlink E.I.R.L.,4662.39,1791932050.6358953
+http,177.67.250.222,8080,Peru,PE,Morales,transparent,false,21.31,AS270069,Tecno Proyectos Globales S.a.c. - Tecnoglo S.A.C.,5267.4,1791932047.576193
+http,38.252.215.111,999,Peru,PE,Independencia,transparent,false,10.18,AS274156,Cogent Communications,6243.16,1791932046.6641066
+http,201.230.121.86,999,Peru,PE,San Jerónimo,transparent,false,19.75,AS6147,Telefonica Del Peru,14412.14,1791931757.4687014
 http,190.216.163.198,999,Peru,PE,Lima,transparent,false,28.16,AS3549,Level 3 Peru S.A,4467.47,1791931754.7454336
 http,161.132.45.20,1084,Peru,PE,Tucsipampa,elite,true,21.51,AS3132,Red Cientifica Peruana,11181.56,1791931754.3035727
-http,64.76.73.131,999,Peru,PE,Lima,transparent,false,24.54,AS274087,Fiberlink E.I.R.L.,3912.17,1791931753.4346447
-http,200.48.35.124,999,Peru,PE,Lima,transparent,false,10.1,AS6147,Telefonica del Peru S.A.A.,3934.39,1791931752.9728234
 http,38.190.100.168,999,Peru,PE,San Juan de Lurigancho,transparent,false,10.42,AS273133,Conex TV E.I.R.L,2978.72,1791931752.2679176
 http,138.99.176.138,999,Peru,PE,Lima,transparent,false,10.48,AS271842,NET WIN PERU,4308.62,1791931752.0195425
-http,38.172.129.23,8800,Peru,PE,Lima,transparent,false,22.12,AS273133,Conex TV E.I.R.L,10062.72,1791931750.092701
 http,45.236.44.94,8080,Peru,PE,Lima,transparent,true,16.54,AS27843,ON EMPRESAS S.A.C.,1640.6,1791931750.008767
 http,138.186.76.57,999,Peru,PE,Villa Poeta José Gálvez Barrenechea,transparent,false,25.32,AS270076,EXA NETWORKS S.A.C.,11935.6,1791931749.9498718
 http,138.99.176.254,999,Peru,PE,Lima,transparent,false,40.66,AS271842,NET WIN PERU,1639.04,1791931749.308721
 http,200.48.35.126,999,Peru,PE,Lima,transparent,true,10.2,AS6147,Telefonica del Peru S.A.A.,5417.1,1791931747.8327456
 http,45.189.117.199,999,Peru,PE,Lima,transparent,true,11.17,AS273133,Conex TV E.I.R.L.,5056.82,1791931743.5555887
-http,201.230.121.86,999,Peru,PE,San Jerónimo,transparent,false,19.75,AS6147,Telefonica Del Peru,14412.14,1791931757.4687014
-http,177.67.250.222,8080,Peru,PE,Morales,transparent,false,21.31,AS270069,Tecno Proyectos Globales S.a.c. - Tecnoglo S.A.C.,3756.77,1791931738.8413076
 http,64.76.106.119,999,Peru,PE,Lima,transparent,true,85.19,AS273067,Loa Network,1107.16,1791931736.5328376
 http,38.250.183.132,8069,Peru,PE,Tacna,transparent,true,28.44,AS270068,Desarrollo De Infraestructura De Telecomunicaciones Peru S.A.C.,694.88,1791931732.2183077
 http,190.108.82.251,999,Peru,PE,Piura,transparent,false,30.67,AS18678,Internexa Peru S.A,4717.51,1791931732.2070322
@@ -28,10 +25,8 @@ http,200.48.35.125,999,Peru,PE,Lima,transparent,true,10.1,AS6147,Telefonica del 
 http,200.60.102.51,8080,Peru,PE,La Quebrada,transparent,true,28.74,AS6147,Telefonica del Peru S.A.A.,4510.03,1791931728.5346744
 http,209.14.109.157,999,Peru,PE,Ventanilla,transparent,false,7.27,AS272106,Corporacion Tarazona Catv S.A.C,8735.38,1791931727.1490793
 http,209.14.108.105,999,Peru,PE,Santa Rosa de Sacco,transparent,false,11.34,AS272106,Corporacion Tarazona Catv S.A.C,2569.0,1791931726.4112904
-http,38.252.215.111,999,Peru,PE,Independencia,transparent,false,10.18,AS274156,Cogent Communications,3104.03,1791931723.8230395
 http,179.63.6.249,999,Peru,PE,Lima,transparent,false,29.06,AS272801,RED AMONES S.A.C.,8017.56,1791931722.9850924
 http,38.158.83.233,999,Peru,PE,Arequipa,transparent,false,15.95,AS272838,Fiberred SAC,5071.36,1791931722.812458
 http,209.14.109.212,999,Peru,PE,Jecuán,transparent,false,8.85,AS272106,Corporacion Tarazona Catv S.A.C,7785.36,1791931712.361285
-http,161.132.45.17,1081,Peru,PE,Tucsipampa,elite,false,22.06,AS3132,Red Cientifica Peruana,8699.36,1791931673.9127336
 http,38.10.107.117,999,Peru,PE,Arequipa,transparent,false,26.06,AS272894,MISTICOM,2047.04,1791931649.1830244
 http,38.158.83.241,999,Peru,PE,Arequipa,transparent,false,15.1,AS272838,Fiberred SAC,10949.85,1791931609.6317868
