@@ -1,6 +1,21 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "http",
+    "ip": "180.181.215.232",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.64,
+    "asn": "AS4764",
+    "isp": "Aussie Fibre Pty Ltd",
+    "latency_ms": 7343.27,
+    "last_checked": 1791902940.8578906
+  },
+  {
+    "protocol": "socks4",
     "ip": "108.61.185.188",
     "port": 1080,
     "country": "Australia",
@@ -8,40 +23,10 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 69.61,
+    "uptime_percent": 54.69,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 11192.74,
-    "last_checked": 1791902304.3670552
-  },
-  {
-    "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 70.56,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 12803.77,
-    "last_checked": 1791902326.942251
-  },
-  {
-    "protocol": "http",
-    "ip": "198.251.85.115",
-    "port": 3128,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 49.27,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 11676.94,
-    "last_checked": 1791902242.4806702
+    "latency_ms": 19191.74,
+    "last_checked": 1791902909.829115
   }
 ]
