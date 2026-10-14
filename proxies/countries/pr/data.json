@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "38.107.90.30",
-    "port": 5555,
-    "country": "Puerto Rico",
-    "country_code": "PR",
-    "city": "Humacao",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.79,
-    "asn": "AS21559",
-    "isp": "OSNET Wireless",
-    "latency_ms": 1717.33,
-    "last_checked": 1791982477.254938
-  },
-  {
-    "protocol": "http",
-    "ip": "192.203.0.118",
-    "port": 999,
-    "country": "Puerto Rico",
-    "country_code": "PR",
-    "city": "Levittown",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.53,
-    "asn": "AS63393",
-    "isp": "Boom NET",
-    "latency_ms": 8836.36,
-    "last_checked": 1791982448.877775
-  },
-  {
     "protocol": "http",
     "ip": "23.138.88.1",
     "port": 999,
@@ -37,11 +7,26 @@
     "country_code": "PR",
     "city": "Adjuntas",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 24.64,
     "asn": "AS400354",
     "isp": "Alphanet Corp",
-    "latency_ms": 4170.4,
-    "last_checked": 1791982424.8493662
+    "latency_ms": 9915.3,
+    "last_checked": 1791982771.164865
+  },
+  {
+    "protocol": "http",
+    "ip": "192.203.0.142",
+    "port": 999,
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "city": "Levittown",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.06,
+    "asn": "AS63393",
+    "isp": "Boom NET",
+    "latency_ms": 7539.62,
+    "last_checked": 1791982721.385081
   }
 ]
