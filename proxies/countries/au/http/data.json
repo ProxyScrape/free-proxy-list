@@ -1,33 +1,48 @@
 [
   {
     "protocol": "http",
-    "ip": "198.251.85.115",
-    "port": 3128,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 49.85,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 8501.78,
-    "last_checked": 1791958703.7953427
-  },
-  {
-    "protocol": "http",
     "ip": "61.29.96.146",
     "port": 80,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "anonymous",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 10.38,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 3795.82,
-    "last_checked": 1791958688.0540426
+    "latency_ms": 15602.33,
+    "last_checked": 1791959075.6782296
+  },
+  {
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 70.67,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 2450.67,
+    "last_checked": 1791959057.3041008
+  },
+  {
+    "protocol": "http",
+    "ip": "198.251.85.115",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 49.85,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 7479.37,
+    "last_checked": 1791959044.9008348
   },
   {
     "protocol": "http",
@@ -43,20 +58,5 @@
     "isp": "OVH SAS",
     "latency_ms": 6118.76,
     "last_checked": 1791958682.6288846
-  },
-  {
-    "protocol": "http",
-    "ip": "103.249.237.158",
-    "port": 8888,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 31.62,
-    "asn": "AS133159",
-    "isp": "Mammoth Media Pty Ltd",
-    "latency_ms": 12609.35,
-    "last_checked": 1791958677.8324373
   }
 ]
