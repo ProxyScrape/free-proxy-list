@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "168.138.9.147",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 33.16,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 9321.74,
-    "last_checked": 1791999861.0275364
-  },
-  {
     "protocol": "http",
     "ip": "61.29.96.146",
     "port": 8000,
@@ -22,12 +7,12 @@
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "anonymous",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 10.87,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 11570.88,
-    "last_checked": 1791999856.6507823
+    "latency_ms": 5898.53,
+    "last_checked": 1792000484.29276
   },
   {
     "protocol": "socks4",
@@ -41,38 +26,8 @@
     "uptime_percent": 53.98,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 4575.65,
-    "last_checked": 1791999854.8887894
-  },
-  {
-    "protocol": "socks5",
-    "ip": "108.61.185.188",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 69.06,
-    "asn": "AS20473",
-    "isp": "Choopa",
-    "latency_ms": 6193.11,
-    "last_checked": 1791999846.8611345
-  },
-  {
-    "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 10.4,
-    "asn": "AS2764",
-    "isp": "AAPT Limited",
-    "latency_ms": 5607.44,
-    "last_checked": 1791999813.7861257
+    "latency_ms": 7900.97,
+    "last_checked": 1792000483.5512805
   },
   {
     "protocol": "http",
@@ -86,7 +41,22 @@
     "uptime_percent": 70.75,
     "asn": "AS45577",
     "isp": "Intervolve Pty Ltd",
-    "latency_ms": 4693.58,
-    "last_checked": 1791999766.1115701
+    "latency_ms": 5665.62,
+    "last_checked": 1792000351.8721962
+  },
+  {
+    "protocol": "http",
+    "ip": "103.249.237.158",
+    "port": 8888,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 31.63,
+    "asn": "AS133159",
+    "isp": "Mammoth Media Pty Ltd",
+    "latency_ms": 11743.79,
+    "last_checked": 1792000299.826204
   }
 ]
