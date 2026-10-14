@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "transparent",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.16,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 9321.74,
+    "last_checked": 1791999861.0275364
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 29.73,
-    "asn": "AS4764",
-    "isp": "Aussie Fibre Pty Ltd",
-    "latency_ms": 6209.17,
-    "last_checked": 1791999245.9017024
+    "uptime_percent": 10.87,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 11570.88,
+    "last_checked": 1791999856.6507823
+  },
+  {
+    "protocol": "socks4",
+    "ip": "108.61.185.188",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 53.98,
+    "asn": "AS20473",
+    "isp": "Choopa",
+    "latency_ms": 4575.65,
+    "last_checked": 1791999854.8887894
   },
   {
     "protocol": "socks5",
@@ -23,26 +53,11 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 69.05,
+    "uptime_percent": 69.06,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 31404.48,
-    "last_checked": 1791999218.6691866
-  },
-  {
-    "protocol": "http",
-    "ip": "198.251.85.115",
-    "port": 3128,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 49.82,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 14389.11,
-    "last_checked": 1791999211.834101
+    "latency_ms": 6193.11,
+    "last_checked": 1791999846.8611345
   },
   {
     "protocol": "http",
@@ -56,8 +71,8 @@
     "uptime_percent": 10.4,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 5370.54,
-    "last_checked": 1791999197.8948703
+    "latency_ms": 5607.44,
+    "last_checked": 1791999813.7861257
   },
   {
     "protocol": "http",
@@ -71,7 +86,7 @@
     "uptime_percent": 70.75,
     "asn": "AS45577",
     "isp": "Intervolve Pty Ltd",
-    "latency_ms": 14409.99,
-    "last_checked": 1791999191.2707949
+    "latency_ms": 4693.58,
+    "last_checked": 1791999766.1115701
   }
 ]
