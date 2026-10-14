@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "210.201.86.72",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "45.121.50.118",
+    "port": 1080,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Banqiao",
-    "anonymity": "transparent",
+    "city": "Neihu District",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 63.35,
+    "asn": "AS31972",
+    "isp": "Emagine Concept, Inc.",
+    "latency_ms": 1469.55,
+    "last_checked": 1791942222.6549065
+  },
+  {
+    "protocol": "http",
+    "ip": "34.81.160.132",
+    "port": 80,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 6.21,
-    "asn": "AS7482",
-    "isp": "Far EasTone Telecommunication",
-    "latency_ms": 4657.52,
-    "last_checked": 1791941677.3127654
+    "uptime_percent": 41.32,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 14981.63,
+    "last_checked": 1791942215.4881892
   },
   {
     "protocol": "http",
@@ -22,26 +37,11 @@
     "country_code": "TW",
     "city": "Xitun",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 48.38,
+    "ssl": true,
+    "uptime_percent": 48.4,
     "asn": "AS7539",
     "isp": "National Center for High-performance Computing",
-    "latency_ms": 17828.3,
-    "last_checked": 1791941570.8182423
-  },
-  {
-    "protocol": "http",
-    "ip": "220.135.222.226",
-    "port": 3128,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Zuoying",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 34.75,
-    "asn": "AS3462",
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 16631.0,
-    "last_checked": 1791941528.727528
+    "latency_ms": 17271.29,
+    "last_checked": 1791942145.6244042
   }
 ]
