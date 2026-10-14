@@ -1,9 +1,17 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,167.250.50.53,999,Venezuela,VE,Caracas,transparent,true,15.93,AS263767,"CORPORACIÓN GALA IT, C.A.",4279.55,1791972583.5927668
-http,190.97.241.106,999,Venezuela,VE,Táriba,transparent,true,80.06,AS263703,Viginet C.A,1872.12,1791972578.6883855
-http,38.63.98.55,999,Venezuela,VE,Cabimas,transparent,true,29.02,AS271907,Cogent Communications,1795.15,1791972577.9280615
-http,38.41.0.62,11201,Venezuela,VE,Caracas,transparent,false,8.51,AS269832,MDS TELECOM C.A.,5927.03,1791972573.4094515
-http,154.62.127.164,999,Venezuela,VE,Valencia,transparent,false,13.11,AS269771,Cogent Communications,5184.57,1791972558.593388
+socks4,200.8.235.10,4145,Venezuela,VE,La Guaira,elite,true,48.52,AS21826,Corporación Telemic C.A.,1268.38,1791972867.2504182
+http,38.188.201.10,999,Venezuela,VE,Valera,transparent,true,22.81,AS273007,"SPEEDNET, C.A",710.39,1791972866.509915
+http,190.97.231.0,999,Venezuela,VE,Ruiz Pineda,transparent,false,10.15,AS263703,Viginet C.A,2134.59,1791972864.522221
+http,186.167.53.178,8282,Venezuela,VE,Barquisimeto,transparent,false,45.89,AS27717,Corporacion Digitel C.A,1764.26,1791972861.9639473
+http,161.22.33.93,999,Venezuela,VE,Caracas,transparent,false,24.75,AS272809,"THUNDERNET, C.A",4535.18,1791972861.111749
+http,190.97.232.128,999,Venezuela,VE,Ciudad De Nutrias,transparent,false,50.54,AS263703,Viginet C.A,9379.15,1791972860.7327633
+http,38.76.139.205,999,Venezuela,VE,Caracas,transparent,false,13.51,AS263767,CORPORACIÓN GALA IT C.A,7392.71,1791972857.2542753
+http,200.59.191.137,999,Venezuela,VE,Trujillo,transparent,true,30.89,AS264778,TotalCom Venezuela C.A.,9404.81,1791972856.7697759
+http,38.41.0.62,11201,Venezuela,VE,Caracas,transparent,true,8.51,AS269832,MDS TELECOM C.A.,6081.69,1791972856.3887353
+http,38.63.98.16,999,Venezuela,VE,Cabimas,transparent,true,24.07,AS271907,Cogent Communications,6613.41,1791972848.2488766
+http,38.51.207.117,999,Venezuela,VE,Maracaibo,transparent,false,40.11,AS269730,Tecnoven Services C.A,5165.91,1791972847.1673832
+http,161.22.33.72,999,Venezuela,VE,Caracas,transparent,false,54.79,AS272809,"THUNDERNET, C.A",1662.74,1791972838.4227538
+http,161.22.33.121,999,Venezuela,VE,Caracas,transparent,true,17.8,AS272809,"THUNDERNET, C.A",4842.02,1791972837.8630617
 socks4,170.254.173.6,1080,Venezuela,VE,Maturín,elite,true,50.58,AS265641,TELECOMUNICACIONES ROCARLI C.A (CIX BROADBAND),936.86,1791972555.1532815
 http,38.51.207.116,999,Venezuela,VE,Maracaibo,transparent,false,40.32,AS269730,Tecnoven Services C.A,2195.65,1791972551.0655198
 http,161.22.33.109,999,Venezuela,VE,Caracas,transparent,false,31.66,AS272809,"THUNDERNET, C.A",13492.52,1791972548.9318762
@@ -12,7 +20,6 @@ http,191.97.16.18,999,Venezuela,VE,Guatire,transparent,false,9.68,AS264844,INVER
 http,200.8.121.121,8080,Venezuela,VE,Valencia,transparent,false,14.33,AS21826,Corporación Telemic C.A.,6950.7,1791972543.900781
 http,190.94.232.198,999,Venezuela,VE,Caracas,transparent,false,18.4,AS8053,IFX Networks Venezuela C.A.,2396.62,1791972543.0313163
 http,190.94.244.30,8080,Venezuela,VE,Caracas,transparent,false,34.38,AS8053,IFX Networks Venezuela C.A.,8865.28,1791972540.8086717
-http,200.59.191.137,999,Venezuela,VE,Trujillo,transparent,true,30.84,AS264778,TotalCom Venezuela C.A.,2922.73,1791972540.736827
 http,161.22.33.185,999,Venezuela,VE,Caracas,transparent,false,29.76,AS272809,"THUNDERNET, C.A",6153.99,1791972538.1728263
 http,38.76.138.46,999,Venezuela,VE,Caracas,transparent,false,26.38,AS263767,CORPORACIÓN GALA IT C.A,7941.69,1791972536.1909575
 http,38.121.212.134,999,Venezuela,VE,Caracas,transparent,false,51.99,AS266841,Galanet Solution C.A,8566.6,1791972534.3372498
@@ -20,8 +27,5 @@ http,38.137.232.134,999,Venezuela,VE,Caracas,transparent,true,19.23,AS263767,COR
 http,190.94.212.247,999,Venezuela,VE,Caracas,transparent,false,8.09,AS8053,IFX Networks Venezuela C.A.,2325.55,1791972508.8115351
 http,186.167.83.180,999,Venezuela,VE,Caracas,transparent,false,12.35,AS27717,Corporacion Digitel C.A,7642.94,1791972495.0011065
 http,38.41.27.150,11201,Venezuela,VE,Caracas,transparent,false,8.49,AS269832,MDS TELECOM C.A.,5457.8,1791972494.1344576
-http,38.188.201.10,999,Venezuela,VE,Valera,transparent,false,22.81,AS273007,"SPEEDNET, C.A",6245.4,1791972491.7454617
 http,186.167.114.146,999,Venezuela,VE,Valencia,transparent,true,25.86,AS27717,Corporacion Digitel C.A,9135.94,1791972472.0957975
-http,186.167.53.178,8282,Venezuela,VE,Barquisimeto,transparent,false,45.89,AS27717,Corporacion Digitel C.A,11669.05,1791972464.43733
-http,190.97.232.128,999,Venezuela,VE,Ciudad De Nutrias,transparent,false,50.39,AS263703,Viginet C.A,3542.84,1791972432.4084036
 http,206.62.162.22,999,Venezuela,VE,Maracaibo,transparent,false,13.31,AS61461,Airtek Solutions C.A.,2230.39,1791972425.1060648
