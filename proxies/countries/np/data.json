@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "36.253.25.10",
-    "port": 8181,
+    "protocol": "socks4",
+    "ip": "103.167.187.4",
+    "port": 1080,
     "country": "Nepal",
     "country_code": "NP",
     "city": "Kathmandu",
-    "anonymity": "transparent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.6,
+    "asn": "AS58504",
+    "isp": "Techminds Network Pvt. Ltd.",
+    "latency_ms": 2097.31,
+    "last_checked": 1791997761.2754965
+  },
+  {
+    "protocol": "socks4",
+    "ip": "150.107.107.152",
+    "port": 1080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Tulsipur",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.9,
+    "asn": "AS45650",
+    "isp": "Vianet Communications Pvt. Ltd",
+    "latency_ms": 2480.0,
+    "last_checked": 1791997750.0804064
+  },
+  {
+    "protocol": "http",
+    "ip": "110.44.115.83",
+    "port": 8080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 16.12,
-    "asn": "AS38565",
-    "isp": "Ncell Pty. Ltd.",
-    "latency_ms": 11948.78,
-    "last_checked": 1791997100.8368409
+    "uptime_percent": 9.27,
+    "asn": "AS45650",
+    "isp": "Vianet Communications Pvt. Ltd",
+    "latency_ms": 10376.2,
+    "last_checked": 1791997731.420746
   },
   {
     "protocol": "http",
@@ -26,8 +56,8 @@
     "uptime_percent": 24.6,
     "asn": "AS17501",
     "isp": "WLINK",
-    "latency_ms": 2362.01,
-    "last_checked": 1791997135.4668384
+    "latency_ms": 10082.69,
+    "last_checked": 1791997694.7483056
   },
   {
     "protocol": "http",
@@ -37,26 +67,11 @@
     "country_code": "NP",
     "city": "Kathmandu",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 9.76,
     "asn": "AS4007",
     "isp": "Subisu Cablenet",
-    "latency_ms": 17223.65,
-    "last_checked": 1791997095.751025
-  },
-  {
-    "protocol": "socks5",
-    "ip": "124.41.225.101",
-    "port": 1080,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Kathmandu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 43.38,
-    "asn": "AS17501",
-    "isp": "WorldLink Communications",
-    "latency_ms": 2063.51,
-    "last_checked": 1791997071.0152323
+    "latency_ms": 8019.21,
+    "last_checked": 1791997687.2694557
   }
 ]
