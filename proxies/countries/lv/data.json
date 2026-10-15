@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "188.253.20.105",
-    "port": 3129,
+    "protocol": "socks5",
+    "ip": "195.135.255.98",
+    "port": 1080,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 37.39,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 71.95,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 15856.47,
-    "last_checked": 1792085923.4211006
+    "latency_ms": 929.37,
+    "last_checked": 1792086241.6159644
   },
   {
     "protocol": "socks5",
@@ -26,22 +26,52 @@
     "uptime_percent": 54.21,
     "asn": "AS24921",
     "isp": "Latvijas Mobilais Telefons SIA",
-    "latency_ms": 9515.7,
-    "last_checked": 1792085831.7196436
+    "latency_ms": 4540.17,
+    "last_checked": 1792086233.2977695
   },
   {
-    "protocol": "socks5",
-    "ip": "31.57.28.179",
-    "port": 4433,
+    "protocol": "socks4",
+    "ip": "195.13.169.219",
+    "port": 4153,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 46.66,
-    "asn": "AS56971",
-    "isp": "CGI GLOBAL LIMITED",
-    "latency_ms": 4275.7,
-    "last_checked": 1792085771.9605355
+    "uptime_percent": 36.63,
+    "asn": "AS12578",
+    "isp": "LATTELEKOM",
+    "latency_ms": 3762.75,
+    "last_checked": 1792086217.4329972
+  },
+  {
+    "protocol": "http",
+    "ip": "178.16.16.17",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.56,
+    "asn": "AS12993",
+    "isp": "Digitalas Ekonomikas Attistibas Centrs",
+    "latency_ms": 12431.09,
+    "last_checked": 1792086238.0546944
+  },
+  {
+    "protocol": "http",
+    "ip": "195.123.212.87",
+    "port": 3056,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.34,
+    "asn": "AS50979",
+    "isp": "Green Floid LLC",
+    "latency_ms": 3901.84,
+    "last_checked": 1792086182.7956994
   }
 ]
