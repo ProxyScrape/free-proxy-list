@@ -1,5 +1,7 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,114.111.151.41,80,Australia,AU,Melbourne,elite,false,70.86,AS45577,Intervolve Pty Ltd,1215.6,1792028385.836667
-http,61.29.96.146,8000,Australia,AU,Melbourne,anonymous,false,10.88,AS2764,AAPT Limited,3519.69,1792028361.61163
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,33.15,AS31898,Oracle Corporation,13468.34,1792028658.1985507
+http,61.29.96.146,80,Australia,AU,Melbourne,anonymous,false,10.41,AS2764,AAPT Limited,2499.7,1792028648.9291177
+http,114.111.151.41,80,Australia,AU,Melbourne,elite,false,70.86,AS45577,Intervolve Pty Ltd,3049.57,1792028640.2154696
+http,51.161.142.97,8080,Australia,AU,Sydney,elite,false,30.23,AS16276,OVH SAS,16493.37,1792028631.8447652
+socks5,103.248.47.230,1080,Australia,AU,Sydney,elite,true,32.51,AS133417,Dicker Data Ltd,3274.36,1792028625.3714926
 http,198.251.85.115,3128,Australia,AU,Sydney,transparent,false,49.96,AS14956,RouterHosting LLC,19421.14,1792028307.9821658
-http,61.29.96.146,80,Australia,AU,Melbourne,anonymous,false,10.41,AS2764,AAPT Limited,11222.46,1792028204.4357576
