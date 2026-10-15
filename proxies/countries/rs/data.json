@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "178.217.12.232",
-    "port": 6669,
+    "protocol": "socks4",
+    "ip": "217.169.223.18",
+    "port": 1080,
     "country": "Serbia",
     "country_code": "RS",
-    "city": "Mladenovac",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.79,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Client Network",
+    "latency_ms": 3198.53,
+    "last_checked": 1792079039.9747767
+  },
+  {
+    "protocol": "http",
+    "ip": "95.140.113.74",
+    "port": 6666,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 30.39,
-    "asn": "AS51002",
-    "isp": "G NET-Gracija",
-    "latency_ms": 7030.92,
-    "last_checked": 1792078700.8717732
+    "uptime_percent": 27.46,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Network",
+    "latency_ms": 4969.28,
+    "last_checked": 1792078987.699218
   },
   {
     "protocol": "http",
@@ -23,10 +38,10 @@
     "city": "Novi Sad",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 27.48,
+    "uptime_percent": 27.49,
     "asn": "AS31042",
     "isp": "Serbia BroadBand",
-    "latency_ms": 3448.27,
-    "last_checked": 1792078669.119478
+    "latency_ms": 10551.41,
+    "last_checked": 1792078963.6209962
   }
 ]
