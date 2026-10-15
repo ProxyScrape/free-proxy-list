@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "185.147.69.48",
+    "port": 1080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Niechorze",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.89,
+    "asn": "AS203028",
+    "isp": "Prymas Inwestycje Spolka Z Ograniczona Odpowiedzialnoscia Spolka Komandytowa",
+    "latency_ms": 2278.62,
+    "last_checked": 1792058400.0149581
+  },
+  {
+    "protocol": "socks4",
     "ip": "46.171.28.162",
     "port": 59311,
     "country": "Poland",
@@ -11,8 +26,8 @@
     "uptime_percent": 21.92,
     "asn": "AS5617",
     "isp": "Orange Polska Spolka Akcyjna",
-    "latency_ms": 946.16,
-    "last_checked": 1792057785.658828
+    "latency_ms": 595.61,
+    "last_checked": 1792058389.760362
   },
   {
     "protocol": "socks4",
@@ -26,38 +41,23 @@
     "uptime_percent": 51.92,
     "asn": "AS197418",
     "isp": "KONTAKT",
-    "latency_ms": 3571.63,
-    "last_checked": 1792057767.350287
+    "latency_ms": 3278.27,
+    "last_checked": 1792058385.4452503
   },
   {
-    "protocol": "socks4",
-    "ip": "37.131.164.94",
-    "port": 59341,
+    "protocol": "socks5",
+    "ip": "57.128.249.250",
+    "port": 9052,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Strzelce Krajeńskie",
+    "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 14.07,
-    "asn": "AS35745",
-    "isp": "KSU Provector Mariusz Dziakowicz",
-    "latency_ms": 3241.79,
-    "last_checked": 1792057761.309889
-  },
-  {
-    "protocol": "http",
-    "ip": "51.38.129.42",
-    "port": 3169,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Wroclaw",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 75.48,
+    "uptime_percent": 49.88,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 17727.39,
-    "last_checked": 1792057732.0696187
+    "latency_ms": 9457.43,
+    "last_checked": 1792058385.0334334
   },
   {
     "protocol": "socks5",
@@ -68,10 +68,40 @@
     "city": "Lubawa",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 62.39,
+    "uptime_percent": 62.42,
     "asn": "AS43420",
     "isp": "TVK ELtronik Brodnica",
-    "latency_ms": 7374.25,
-    "last_checked": 1792057635.5284395
+    "latency_ms": 3503.66,
+    "last_checked": 1792058375.1160188
+  },
+  {
+    "protocol": "socks4",
+    "ip": "57.128.249.250",
+    "port": 9052,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.54,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 2341.83,
+    "last_checked": 1792058367.6300993
+  },
+  {
+    "protocol": "http",
+    "ip": "51.38.129.42",
+    "port": 3169,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Wroclaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 75.48,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 18543.13,
+    "last_checked": 1792058349.398965
   }
 ]
