@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "34.81.160.132",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "1.175.92.132",
+    "port": 5555,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Taipei",
+    "city": "Kaohsiung",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 98.13,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 1557.93,
+    "last_checked": 1792061609.2552052
+  },
+  {
+    "protocol": "http",
+    "ip": "210.61.216.63",
+    "port": 60808,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Hsinchu",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 41.46,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 661.07,
-    "last_checked": 1792061046.040957
+    "uptime_percent": 5.8,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 13242.07,
+    "last_checked": 1792061584.8567774
   },
   {
     "protocol": "http",
@@ -45,18 +60,18 @@
     "last_checked": 1792061321.6733627
   },
   {
-    "protocol": "socks5",
-    "ip": "1.175.92.132",
-    "port": 5555,
+    "protocol": "http",
+    "ip": "34.81.160.132",
+    "port": 80,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Kaohsiung",
+    "city": "Taipei",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 98.12,
-    "asn": "AS3462",
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 1943.4,
-    "last_checked": 1792061276.160577
+    "ssl": false,
+    "uptime_percent": 41.46,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 1127.01,
+    "last_checked": 1792061319.8378568
   }
 ]
