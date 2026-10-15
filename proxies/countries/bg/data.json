@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "213.169.33.3",
-    "port": 8001,
+    "protocol": "socks4",
+    "ip": "85.217.171.80",
+    "port": 9052,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 16.34,
-    "asn": "AS8717",
-    "isp": "A1 Bulgaria EAD",
-    "latency_ms": 7238.39,
-    "last_checked": 1792082952.0725439
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.42,
+    "asn": "AS44901",
+    "isp": "Belcloud LTD",
+    "latency_ms": 8915.42,
+    "last_checked": 1792083583.0945659
+  },
+  {
+    "protocol": "socks5",
+    "ip": "212.73.134.234",
+    "port": 7777,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.11,
+    "asn": "AS34224",
+    "isp": "VPS.BG",
+    "latency_ms": 10226.6,
+    "last_checked": 1792083557.168026
   },
   {
     "protocol": "socks4",
@@ -26,53 +41,8 @@
     "uptime_percent": 15.76,
     "asn": "AS34224",
     "isp": "VPS.BG",
-    "latency_ms": 19085.27,
-    "last_checked": 1792082949.1694877
-  },
-  {
-    "protocol": "http",
-    "ip": "213.169.33.8",
-    "port": 8001,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 16.43,
-    "asn": "AS8717",
-    "isp": "A1 Bulgaria EAD",
-    "latency_ms": 4155.59,
-    "last_checked": 1792082932.6710627
-  },
-  {
-    "protocol": "socks5",
-    "ip": "85.217.171.80",
-    "port": 9051,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 41.8,
-    "asn": "AS44901",
-    "isp": "Belcloud LTD",
-    "latency_ms": 20405.12,
-    "last_checked": 1792082905.4958606
-  },
-  {
-    "protocol": "socks5",
-    "ip": "194.182.178.90",
-    "port": 1080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 38.61,
-    "asn": "AS61098",
-    "isp": "Akenes SA",
-    "latency_ms": 912.65,
-    "last_checked": 1792082895.44351
+    "latency_ms": 17057.72,
+    "last_checked": 1792083553.6049058
   },
   {
     "protocol": "socks5",
@@ -83,10 +53,10 @@
     "city": "Sofia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 56.74,
+    "uptime_percent": 56.8,
     "asn": "AS44901",
     "isp": "Belcloud LTD",
-    "latency_ms": 21280.9,
-    "last_checked": 1792082883.6530294
+    "latency_ms": 7853.13,
+    "last_checked": 1792083528.9126818
   }
 ]
