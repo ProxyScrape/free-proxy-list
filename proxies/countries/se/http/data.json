@@ -1,36 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "95.81.107.187",
-    "port": 3128,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 96.73,
-    "asn": "AS8849",
-    "isp": "Melbikomas UAB",
-    "latency_ms": 3861.59,
-    "last_checked": 1792148382.68818
-  },
-  {
-    "protocol": "http",
-    "ip": "77.221.139.212",
-    "port": 3128,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 56.12,
-    "asn": "AS210644",
-    "isp": "Aeza International LTD",
-    "latency_ms": 11976.76,
-    "last_checked": 1792148367.7231796
-  },
-  {
-    "protocol": "http",
     "ip": "194.14.207.87",
     "port": 80,
     "country": "Sweden",
@@ -41,8 +11,8 @@
     "uptime_percent": 66.04,
     "asn": "AS206170",
     "isp": "Yelles AB",
-    "latency_ms": 11660.33,
-    "last_checked": 1792148345.3102524
+    "latency_ms": 5009.2,
+    "last_checked": 1792148969.1059597
   },
   {
     "protocol": "http",
@@ -52,11 +22,41 @@
     "country_code": "SE",
     "city": "Halmstad",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 29.7,
+    "ssl": false,
+    "uptime_percent": 29.71,
     "asn": "AS8473",
     "isp": "Bahnhof Internet",
-    "latency_ms": 1822.44,
-    "last_checked": 1792148242.9110017
+    "latency_ms": 5388.54,
+    "last_checked": 1792148942.6704042
+  },
+  {
+    "protocol": "http",
+    "ip": "77.221.139.212",
+    "port": 3128,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 56.14,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 5210.71,
+    "last_checked": 1792148882.3180065
+  },
+  {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 8001,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 66.6,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 8994.13,
+    "last_checked": 1792148871.9408731
   }
 ]
