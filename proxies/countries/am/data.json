@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "88.218.92.64",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "130.193.123.34",
+    "port": 5678,
     "country": "Armenia",
     "country_code": "AM",
     "city": "Yerevan",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 46.03,
-    "asn": "AS196709",
-    "isp": "GNC-Alfa CJSC",
-    "latency_ms": 12333.91,
-    "last_checked": 1792149533.6555045
+    "uptime_percent": 27.79,
+    "asn": "AS49800",
+    "isp": "GNC",
+    "latency_ms": 2073.07,
+    "last_checked": 1792150142.6797855
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.142.195.110",
+    "port": 995,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.74,
+    "asn": "AS215929",
+    "isp": "Data Campus Limited",
+    "latency_ms": 30441.06,
+    "last_checked": 1792150132.8014212
   },
   {
     "protocol": "http",
@@ -22,11 +37,11 @@
     "country_code": "AM",
     "city": "Yerevan",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 40.08,
+    "ssl": false,
+    "uptime_percent": 40.09,
     "asn": "AS202422",
     "isp": "G-Core Labs S.A.",
-    "latency_ms": 19450.64,
-    "last_checked": 1792149527.2591112
+    "latency_ms": 13709.77,
+    "last_checked": 1792150038.799169
   }
 ]
