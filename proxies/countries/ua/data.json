@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "31.202.49.61",
-    "port": 33761,
+    "protocol": "socks5",
+    "ip": "91.195.86.221",
+    "port": 1080,
     "country": "Ukraine",
     "country_code": "UA",
-    "city": "Kharkiv",
+    "city": "Yalta",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 24.31,
-    "asn": "AS34700",
-    "isp": "Maxnet LLC",
-    "latency_ms": 2883.83,
-    "last_checked": 1792163339.4503455
+    "ssl": true,
+    "uptime_percent": 23.88,
+    "asn": "AS198669",
+    "isp": "subroute of KNET TELECOM",
+    "latency_ms": 1656.13,
+    "last_checked": 1792163944.2284155
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.244.158.4",
+    "port": 3129,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Kyiv",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.5,
+    "asn": "AS41985",
+    "isp": "Stargroup LLC",
+    "latency_ms": 3229.24,
+    "last_checked": 1792163929.3544276
   },
   {
     "protocol": "socks5",
@@ -26,7 +41,22 @@
     "uptime_percent": 44.74,
     "asn": "AS6702",
     "isp": "Science Production Company \"Trifle\" Ltd.",
-    "latency_ms": 466.47,
-    "last_checked": 1792163331.655536
+    "latency_ms": 1403.52,
+    "last_checked": 1792163925.9249475
+  },
+  {
+    "protocol": "http",
+    "ip": "195.226.213.254",
+    "port": 8888,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Fontanka",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 57.34,
+    "asn": "AS197192",
+    "isp": "Private Enterprise KTV AIDA",
+    "latency_ms": 4473.4,
+    "last_checked": 1792163899.1974552
   }
 ]
