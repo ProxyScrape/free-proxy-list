@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "83.56.15.57",
-    "port": 5678,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Ciempozuelos",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.7,
-    "asn": "AS3352",
-    "isp": "Telefonica de Espana SAU",
-    "latency_ms": 3219.46,
-    "last_checked": 1792110546.4548683
-  },
-  {
     "protocol": "http",
     "ip": "195.114.209.50",
     "port": 80,
@@ -26,37 +11,67 @@
     "uptime_percent": 70.23,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 966.59,
-    "last_checked": 1792110528.5640028
+    "latency_ms": 446.01,
+    "last_checked": 1792111194.7601385
+  },
+  {
+    "protocol": "http",
+    "ip": "193.38.224.169",
+    "port": 8081,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 8.39,
+    "asn": "AS206276",
+    "isp": "Citelia s.a.",
+    "latency_ms": 1331.04,
+    "last_checked": 1792111138.9132009
   },
   {
     "protocol": "http",
     "ip": "81.0.49.104",
-    "port": 20500,
+    "port": 19775,
     "country": "Spain",
     "country_code": "ES",
     "city": "Jaca",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 27.73,
+    "uptime_percent": 18.03,
     "asn": "AS15704",
     "isp": "MasMovil Access Network",
-    "latency_ms": 2347.48,
-    "last_checked": 1792110524.1263845
+    "latency_ms": 3875.25,
+    "last_checked": 1792111130.798952
   },
   {
     "protocol": "http",
-    "ip": "194.48.141.34",
-    "port": 3129,
+    "ip": "2.139.41.14",
+    "port": 3128,
     "country": "Spain",
     "country_code": "ES",
     "city": "Madrid",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 36.84,
-    "asn": "AS50053",
-    "isp": "Anton Levin",
-    "latency_ms": 13725.17,
-    "last_checked": 1792110442.9094687
+    "uptime_percent": 33.33,
+    "asn": "AS3352",
+    "isp": "RIMA (Red IP Multi Acceso)",
+    "latency_ms": 7895.13,
+    "last_checked": 1792111119.7456229
+  },
+  {
+    "protocol": "socks5",
+    "ip": "81.0.49.104",
+    "port": 18500,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Jaca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.15,
+    "asn": "AS15704",
+    "isp": "MasMovil Access Network",
+    "latency_ms": 1817.44,
+    "last_checked": 1792111043.7458022
   }
 ]
