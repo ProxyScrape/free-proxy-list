@@ -1,21 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "101.32.94.127",
-    "port": 8089,
-    "country": "Japan",
-    "country_code": "JP",
-    "city": "Yokohama",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 75.08,
-    "asn": "AS132203",
-    "isp": "Shenzhen Tencent Computer Systems Company Limited",
-    "latency_ms": 820.05,
-    "last_checked": 1792119240.0323482
-  },
-  {
-    "protocol": "http",
     "ip": "64.176.55.231",
     "port": 8886,
     "country": "Japan",
@@ -26,8 +11,23 @@
     "uptime_percent": 21.43,
     "asn": "AS20473",
     "isp": "The Constant Company, LLC",
-    "latency_ms": 3477.38,
-    "last_checked": 1792119236.926248
+    "latency_ms": 10276.44,
+    "last_checked": 1792119556.0758128
+  },
+  {
+    "protocol": "http",
+    "ip": "101.32.94.127",
+    "port": 8089,
+    "country": "Japan",
+    "country_code": "JP",
+    "city": "Yokohama",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 75.09,
+    "asn": "AS132203",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "latency_ms": 6942.25,
+    "last_checked": 1792119556.0076504
   },
   {
     "protocol": "http",
@@ -37,12 +37,12 @@
     "country_code": "JP",
     "city": "Tokyo",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 56.48,
+    "ssl": false,
+    "uptime_percent": 56.49,
     "asn": "AS45102",
     "isp": "Alibaba.com LLC",
-    "latency_ms": 4163.13,
-    "last_checked": 1792119217.3380334
+    "latency_ms": 3105.93,
+    "last_checked": 1792119554.8249776
   },
   {
     "protocol": "http",
@@ -52,27 +52,42 @@
     "country_code": "JP",
     "city": "Tokyo",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 80.0,
     "asn": "AS45102",
     "isp": "Alibaba (US) Technology Co., Ltd.",
-    "latency_ms": 955.55,
-    "last_checked": 1792119200.0247562
+    "latency_ms": 963.43,
+    "last_checked": 1792119542.2064972
   },
   {
     "protocol": "http",
-    "ip": "135.149.41.223",
-    "port": 3128,
+    "ip": "45.43.60.220",
+    "port": 8080,
     "country": "Japan",
     "country_code": "JP",
     "city": "Tokyo",
-    "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 47.58,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 13509.52,
-    "last_checked": 1792119188.8727405
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 77.36,
+    "asn": "AS135377",
+    "isp": "Zenlayer Inc",
+    "latency_ms": 9331.26,
+    "last_checked": 1792119488.0168316
+  },
+  {
+    "protocol": "http",
+    "ip": "61.118.38.234",
+    "port": 60808,
+    "country": "Japan",
+    "country_code": "JP",
+    "city": "Ishigaki",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 8.84,
+    "asn": "AS4713",
+    "isp": "Open Computer Network",
+    "latency_ms": 10572.62,
+    "last_checked": 1792119473.0765371
   },
   {
     "protocol": "http",
@@ -86,22 +101,37 @@
     "uptime_percent": 83.84,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 736.51,
-    "last_checked": 1792119181.0471938
+    "latency_ms": 698.5,
+    "last_checked": 1792119462.610878
   },
   {
     "protocol": "http",
-    "ip": "168.138.202.218",
+    "ip": "47.79.87.209",
+    "port": 1080,
+    "country": "Japan",
+    "country_code": "JP",
+    "city": "Tokyo",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 7.67,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 11867.94,
+    "last_checked": 1792119461.8023925
+  },
+  {
+    "protocol": "http",
+    "ip": "47.74.46.81",
     "port": 3128,
     "country": "Japan",
     "country_code": "JP",
     "city": "Tokyo",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 17.03,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 15975.39,
-    "last_checked": 1792119178.0317082
+    "uptime_percent": 1.09,
+    "asn": "AS45102",
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 2498.12,
+    "last_checked": 1792119452.90932
   }
 ]
