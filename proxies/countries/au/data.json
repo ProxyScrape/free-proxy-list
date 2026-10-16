@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "108.61.185.188",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 52.27,
+    "asn": "AS20473",
+    "isp": "Choopa",
+    "latency_ms": 5934.25,
+    "last_checked": 1792120157.4251783
+  },
+  {
     "protocol": "socks5",
     "ip": "108.61.185.188",
     "port": 1080,
@@ -8,25 +23,55 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 67.88,
+    "uptime_percent": 67.89,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 8787.46,
-    "last_checked": 1792119556.8720284
+    "latency_ms": 7377.22,
+    "last_checked": 1792120143.3809772
   },
   {
     "protocol": "http",
-    "ip": "130.162.192.208",
+    "ip": "103.249.237.158",
+    "port": 8888,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 31.61,
+    "asn": "AS133159",
+    "isp": "Mammoth Media Pty Ltd",
+    "latency_ms": 20914.88,
+    "last_checked": 1792120130.6213996
+  },
+  {
+    "protocol": "http",
+    "ip": "51.161.137.166",
     "port": 8080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Melbourne",
+    "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 27.71,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 2732.04,
-    "last_checked": 1792119493.2930992
+    "uptime_percent": 30.51,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 11869.66,
+    "last_checked": 1792120107.2842567
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 10.9,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 6492.32,
+    "last_checked": 1792120058.0841274
   }
 ]
