@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "80.72.176.101",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "80.72.180.122",
+    "port": 1080,
     "country": "Kyrgyzstan",
     "country_code": "KG",
     "city": "Bishkek",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 23.66,
+    "ssl": true,
+    "uptime_percent": 40.98,
     "asn": "AS12997",
     "isp": "OJSC Kyrgyztelecom",
-    "latency_ms": 2628.04,
-    "last_checked": 1792108463.7920446
+    "latency_ms": 1607.04,
+    "last_checked": 1792108763.744742
+  },
+  {
+    "protocol": "http",
+    "ip": "95.87.73.121",
+    "port": 8080,
+    "country": "Kyrgyzstan",
+    "country_code": "KG",
+    "city": "Bishkek",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 43.97,
+    "asn": "AS29061",
+    "isp": "Saimanet Telecomunications CJSC",
+    "latency_ms": 9302.76,
+    "last_checked": 1792108610.0501873
   }
 ]

@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.157.111.3",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "193.42.112.26",
+    "port": 8080,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Tartu",
+    "city": "Kuusalu",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 39.01,
+    "asn": "AS199144",
+    "isp": "HexCore cloud s.r.o.",
+    "latency_ms": 9998.15,
+    "last_checked": 1792108752.8092964
+  },
+  {
+    "protocol": "socks5",
+    "ip": "146.19.143.200",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 61.13,
-    "asn": "AS202652",
-    "isp": "SkyLive Telecom ldt",
-    "latency_ms": 7557.02,
-    "last_checked": 1792108477.2088113
+    "uptime_percent": 47.42,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 1263.68,
+    "last_checked": 1792108749.6587207
   },
   {
     "protocol": "socks4",
@@ -23,40 +38,10 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 45.15,
+    "uptime_percent": 45.16,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 182.32,
-    "last_checked": 1792108452.4175894
-  },
-  {
-    "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 53.23,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 123.57,
-    "last_checked": 1792108431.5529923
-  },
-  {
-    "protocol": "http",
-    "ip": "193.42.112.26",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Kuusalu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.01,
-    "asn": "AS199144",
-    "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 4799.23,
-    "last_checked": 1792108396.6527846
+    "latency_ms": 202.12,
+    "last_checked": 1792108747.1478345
   }
 ]
