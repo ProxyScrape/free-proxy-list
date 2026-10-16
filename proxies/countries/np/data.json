@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "110.34.1.178",
-    "port": 7777,
+    "protocol": "socks4",
+    "ip": "202.166.219.80",
+    "port": 4153,
     "country": "Nepal",
     "country_code": "NP",
     "city": "Kathmandu",
-    "anonymity": "transparent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 16.75,
+    "asn": "AS17501",
+    "isp": "WorldLink Communications",
+    "latency_ms": 984.79,
+    "last_checked": 1792123185.7544026
+  },
+  {
+    "protocol": "http",
+    "ip": "116.90.234.106",
+    "port": 8080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 21.44,
-    "asn": "AS4007",
-    "isp": "Subisu Cablenet",
-    "latency_ms": 3397.73,
-    "last_checked": 1792122519.0942378
+    "uptime_percent": 28.74,
+    "asn": "AS24550",
+    "isp": "Websurfer Nepal Communication System Pvt. Ltd",
+    "latency_ms": 4605.38,
+    "last_checked": 1792123127.882228
   },
   {
     "protocol": "http",
@@ -26,37 +41,7 @@
     "uptime_percent": 13.72,
     "asn": "AS55427",
     "isp": "BroadLink Networks and Communications",
-    "latency_ms": 7650.0,
-    "last_checked": 1792122517.5049767
-  },
-  {
-    "protocol": "socks4",
-    "ip": "116.90.234.106",
-    "port": 1080,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Kathmandu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 54.31,
-    "asn": "AS24550",
-    "isp": "Websurfer Nepal Communication System Pvt. Ltd",
-    "latency_ms": 2304.32,
-    "last_checked": 1792122513.4381928
-  },
-  {
-    "protocol": "http",
-    "ip": "36.253.25.10",
-    "port": 8181,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Kathmandu",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 16.07,
-    "asn": "AS38565",
-    "isp": "Ncell Pty. Ltd.",
-    "latency_ms": 4430.43,
-    "last_checked": 1792122820.8048162
+    "latency_ms": 4370.28,
+    "last_checked": 1792123070.6285403
   }
 ]
