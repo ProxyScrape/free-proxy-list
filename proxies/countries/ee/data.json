@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "93.113.98.206",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "132.243.168.30",
+    "port": 9150,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Tallinn",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 42.8,
-    "asn": "AS202759",
-    "isp": "RJ Network OU",
-    "latency_ms": 4980.12,
-    "last_checked": 1792191235.3871586
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 52.84,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 1127.25,
+    "last_checked": 1792191841.4079328
   },
   {
     "protocol": "socks5",
@@ -23,10 +23,25 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 94.99,
+    "uptime_percent": 95.0,
     "asn": "AS212743",
     "isp": "EternityCloud",
-    "latency_ms": 1314.87,
-    "last_checked": 1792191179.1753206
+    "latency_ms": 2226.42,
+    "last_checked": 1792191823.4610355
+  },
+  {
+    "protocol": "http",
+    "ip": "193.42.112.26",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Kuusalu",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 39.13,
+    "asn": "AS199144",
+    "isp": "HexCore cloud s.r.o.",
+    "latency_ms": 11532.07,
+    "last_checked": 1792191735.5088115
   }
 ]
