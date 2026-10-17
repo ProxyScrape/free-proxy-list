@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "89.185.126.101",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "38.180.143.77",
+    "port": 40000,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 29.57,
-    "asn": "AS24953",
-    "isp": "Netplanet IT Solutions",
-    "latency_ms": 11325.38,
-    "last_checked": 1792238899.0853727
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.17,
+    "asn": "AS9009",
+    "isp": "M247 Europe SRL",
+    "latency_ms": 137.03,
+    "last_checked": 1792239285.0793433
+  },
+  {
+    "protocol": "socks5",
+    "ip": "194.182.187.78",
+    "port": 1080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.24,
+    "asn": "AS61098",
+    "isp": "Akenes SA",
+    "latency_ms": 12123.89,
+    "last_checked": 1792239239.9462578
   },
   {
     "protocol": "socks5",
@@ -23,10 +38,10 @@
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 25.6,
+    "uptime_percent": 25.74,
     "asn": "AS197540",
     "isp": "netcup GmbH",
-    "latency_ms": 98.63,
-    "last_checked": 1792238715.486318
+    "latency_ms": 83.42,
+    "last_checked": 1792239189.8712785
   }
 ]
