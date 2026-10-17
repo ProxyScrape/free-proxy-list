@@ -1,35 +1,49 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,112.169.99.71,8036,South Korea,KR,Gangnam-gu,elite,false,53.52,AS4766,Korea Telecom,2548.14,1792241968.3508027
-http,112.169.99.71,8042,South Korea,KR,Gangnam-gu,elite,true,64.5,AS4766,Korea Telecom,3260.76,1792241967.7062273
-http,112.169.99.71,8066,South Korea,KR,Gangnam-gu,elite,false,54.6,AS4766,Korea Telecom,2258.22,1792241966.2882693
-socks5,183.106.215.208,1080,South Korea,KR,Gyeongju,elite,true,97.22,AS4766,Korea Telecom,2255.83,1792241963.1234722
-socks4,130.162.141.185,52916,South Korea,KR,Seoul,elite,true,51.72,AS31898,Oracle Corporation,12774.33,1792241962.228856
-socks5,130.162.141.185,52916,South Korea,KR,Seoul,elite,true,50.9,AS31898,Oracle Corporation,12790.48,1792241961.52009
-http,112.169.99.71,8074,South Korea,KR,Gangnam-gu,elite,true,75.4,AS4766,Korea Telecom,5869.31,1792241960.5119889
-http,112.169.99.71,8068,South Korea,KR,Gangnam-gu,elite,false,52.43,AS4766,Korea Telecom,8626.69,1792241954.4031427
-http,112.169.99.71,8023,South Korea,KR,Gangnam-gu,elite,false,47.26,AS4766,Korea Telecom,8713.2,1792241953.448091
-http,112.169.99.71,8072,South Korea,KR,Gangnam-gu,elite,true,62.21,AS4766,Korea Telecom,3752.03,1792241946.4527242
-http,112.169.99.71,8098,South Korea,KR,Gangnam-gu,elite,false,70.35,AS4766,Korea Telecom,2569.73,1792241945.5736992
-socks5,121.169.46.116,1090,South Korea,KR,Suwon,elite,true,90.09,AS4766,Korea Telecom,4569.55,1792241945.3037388
-socks5,59.6.108.215,1080,South Korea,KR,Dongdaemun,elite,true,29.22,AS4766,Korea Telecom,1489.45,1792241944.1453364
-http,183.110.216.159,8090,South Korea,KR,Seongnam-si,anonymous,false,64.13,AS4766,Korea Telecom,2104.68,1792241944.0425932
-socks5,59.6.191.48,1080,South Korea,KR,Seoul,elite,true,31.74,AS4766,Korea Telecom,2086.28,1792241938.0043826
-http,112.169.99.71,8058,South Korea,KR,Gangnam-gu,elite,true,65.1,AS4766,Korea Telecom,7491.06,1792241936.9288313
-socks4,183.106.215.208,1080,South Korea,KR,Gyeongju,elite,true,92.97,AS4766,Korea Telecom,1616.26,1792241934.93823
-socks4,43.108.46.4,9050,South Korea,KR,Seoul,elite,true,23.14,AS45102,"Alibaba (US) Technology Co., Ltd.",13157.68,1792241934.8290577
-http,112.169.99.71,8032,South Korea,KR,Gangnam-gu,elite,false,44.89,AS4766,Korea Telecom,12907.61,1792241934.0098
-socks4,8.213.128.6,2020,South Korea,KR,Seoul,elite,true,0.63,AS45102,"Alibaba (US) Technology Co., Ltd.",11594.73,1792241933.1532378
-socks4,114.108.177.104,60984,South Korea,KR,Daejeon,elite,true,33.48,AS3786,LG DACOM KIDC,1581.18,1792241930.4777417
-socks4,43.108.46.245,9050,South Korea,KR,Seoul,elite,true,25.62,AS45102,"Alibaba (US) Technology Co., Ltd.",15595.61,1792241927.6698933
-http,112.169.99.71,8012,South Korea,KR,Gangnam-gu,elite,true,60.23,AS4766,Korea Telecom,6445.69,1792241925.4048266
-http,8.220.216.57,3128,South Korea,KR,Seoul,elite,false,22.01,AS45102,"Alibaba (US) Technology Co., Ltd.",12535.98,1792241920.986152
-http,183.110.216.159,8091,South Korea,KR,Seongnam-si,anonymous,false,64.25,AS4766,Korea Telecom,8115.0,1792241920.2432415
-http,8.213.156.191,9098,South Korea,KR,Seoul,elite,false,0.91,AS45102,"Alibaba (US) Technology Co., Ltd.",2970.35,1792241905.988088
-socks5,14.32.24.79,1080,South Korea,KR,Seocho-gu,elite,true,89.39,AS4766,Korea Telecom,4439.32,1792241905.9073486
-http,112.169.99.71,8052,South Korea,KR,Gangnam-gu,elite,true,67.16,AS4766,Korea Telecom,4765.61,1792241905.6062016
-http,8.213.156.191,8081,South Korea,KR,Seoul,elite,false,0.96,AS45102,"Alibaba (US) Technology Co., Ltd.",6572.95,1792241900.797025
-http,8.213.156.191,5060,South Korea,KR,Seoul,elite,false,0.86,AS45102,"Alibaba (US) Technology Co., Ltd.",10232.19,1792241899.0826259
-http,8.213.156.191,8444,South Korea,KR,Seoul,elite,false,0.86,AS45102,"Alibaba (US) Technology Co., Ltd.",10254.3,1792241897.3848224
-http,112.169.99.71,8067,South Korea,KR,Gangnam-gu,elite,false,61.07,AS4766,Korea Telecom,11445.24,1792241893.705018
-socks5,140.238.14.161,8082,South Korea,KR,Seoul,elite,true,34.67,AS31898,Oracle Corporation,9016.91,1792241883.0771952
-socks5,43.108.46.245,9050,South Korea,KR,Seoul,elite,true,36.69,AS45102,"Alibaba (US) Technology Co., Ltd.",16687.1,1792241857.352177
+socks5,183.106.215.208,1080,South Korea,KR,Gyeongju,elite,true,97.22,AS4766,Korea Telecom,1517.06,1792242547.1876018
+http,8.213.151.128,3128,South Korea,KR,Seoul,elite,true,93.3,AS45102,"Alibaba (US) Technology Co., Ltd.",662.92,1792242539.084714
+http,112.169.99.71,8058,South Korea,KR,Gangnam-gu,elite,true,65.62,AS4766,Korea Telecom,6669.67,1792242537.3283906
+socks4,43.108.46.245,9050,South Korea,KR,Seoul,elite,true,25.62,AS45102,"Alibaba (US) Technology Co., Ltd.",9817.92,1792242533.7610722
+http,112.169.99.71,8034,South Korea,KR,Gangnam-gu,elite,true,53.71,AS4766,Korea Telecom,5613.78,1792242533.7111669
+socks4,121.139.218.165,43295,South Korea,KR,Siheung-si,elite,true,32.35,AS4766,Korea Telecom,2282.0,1792242531.5502589
+http,112.169.99.71,8056,South Korea,KR,Gangnam-gu,elite,true,70.77,AS4766,Korea Telecom,2557.9,1792242530.0303657
+http,112.169.99.71,8074,South Korea,KR,Gangnam-gu,elite,true,75.88,AS4766,Korea Telecom,1537.94,1792242527.0215695
+http,112.169.99.71,8067,South Korea,KR,Gangnam-gu,elite,true,60.88,AS4766,Korea Telecom,10601.2,1792242524.7103863
+http,112.169.99.71,8047,South Korea,KR,Gangnam-gu,elite,false,56.53,AS4766,Korea Telecom,7910.89,1792242521.337615
+http,112.169.99.71,8006,South Korea,KR,Gangnam-gu,elite,true,48.52,AS4766,Korea Telecom,8167.46,1792242520.2380397
+http,112.169.99.71,8072,South Korea,KR,Gangnam-gu,elite,true,62.22,AS4766,Korea Telecom,3931.68,1792242520.113064
+http,112.169.99.71,8068,South Korea,KR,Gangnam-gu,elite,false,53.21,AS4766,Korea Telecom,7291.72,1792242518.7316334
+http,112.169.99.71,8031,South Korea,KR,Gangnam-gu,elite,true,49.07,AS4766,Korea Telecom,1481.88,1792242514.2518802
+http,112.169.99.71,8024,South Korea,KR,Gangnam-gu,elite,true,53.83,AS4766,Korea Telecom,2486.63,1792242513.8694854
+http,129.154.201.19,33128,South Korea,KR,Seoul,transparent,false,36.56,AS31898,Oracle Corporation,6781.3,1792242513.5524423
+socks4,183.106.215.208,1080,South Korea,KR,Gyeongju,elite,true,92.98,AS4766,Korea Telecom,1294.6,1792242513.539583
+http,112.169.99.71,8020,South Korea,KR,Gangnam-gu,elite,true,23.93,AS4766,Korea Telecom,2612.58,1792242512.460767
+http,112.169.99.71,8054,South Korea,KR,Gangnam-gu,elite,false,60.56,AS4766,Korea Telecom,9467.55,1792242510.4197655
+http,112.169.99.71,8014,South Korea,KR,Gangnam-gu,elite,true,61.04,AS4766,Korea Telecom,9956.24,1792242510.1675894
+http,112.216.54.226,12121,South Korea,KR,Yongin-si,elite,false,55.62,AS3786,LG DACOM Corporation,976.5,1792242509.6335213
+http,183.110.216.128,8090,South Korea,KR,Seongnam-si,anonymous,false,64.14,AS4766,Korea Telecom,8301.77,1792242503.9933968
+http,8.220.204.215,3128,South Korea,KR,Seoul,elite,false,0.95,AS45102,"Alibaba (US) Technology Co., Ltd.",2444.29,1792242502.9308774
+socks5,130.162.141.185,52916,South Korea,KR,Seoul,elite,true,50.9,AS31898,Oracle Corporation,13613.91,1792242502.5470665
+socks5,14.32.24.79,1080,South Korea,KR,Seocho-gu,elite,true,89.41,AS4766,Korea Telecom,7974.2,1792242502.5367482
+socks4,8.220.204.215,5060,South Korea,KR,Seoul,elite,true,1.29,AS45102,"Alibaba (US) Technology Co., Ltd.",5836.9,1792242498.7138796
+socks4,8.220.204.215,443,South Korea,KR,Seoul,elite,true,1.33,AS45102,"Alibaba (US) Technology Co., Ltd.",8882.7,1792242495.6699684
+socks4,8.220.204.215,4002,South Korea,KR,Seoul,elite,true,1.24,AS45102,"Alibaba (US) Technology Co., Ltd.",8898.88,1792242495.6480336
+socks4,8.220.204.215,80,South Korea,KR,Seoul,elite,true,1.29,AS45102,"Alibaba (US) Technology Co., Ltd.",10673.57,1792242494.1250052
+http,8.220.204.215,5060,South Korea,KR,Seoul,elite,false,0.99,AS45102,"Alibaba (US) Technology Co., Ltd.",9967.81,1792242492.945006
+socks5,118.34.200.206,1080,South Korea,KR,Seongbuk-gu,elite,true,34.06,AS4766,Korea Telecom,1572.69,1792242491.8985152
+socks5,121.169.46.116,1090,South Korea,KR,Suwon,elite,true,90.09,AS4766,Korea Telecom,5550.08,1792242490.3712444
+http,112.169.99.71,8066,South Korea,KR,Gangnam-gu,elite,true,56.28,AS4766,Korea Telecom,6641.01,1792242551.3201613
+socks5,146.56.191.98,14785,South Korea,KR,Seoul,elite,true,20.8,AS31898,Oracle Corporation,16607.37,1792242547.6240919
+http,112.169.99.71,8063,South Korea,KR,Gangnam-gu,elite,true,62.96,AS4766,Korea Telecom,12968.85,1792242546.0347824
+http,112.169.99.71,8093,South Korea,KR,Gangnam-gu,elite,false,59.12,AS4766,Korea Telecom,14701.03,1792242545.809967
+http,112.169.99.71,8048,South Korea,KR,Gangnam-gu,elite,true,58.57,AS4766,Korea Telecom,4328.53,1792242543.2361372
+http,112.169.99.71,8100,South Korea,KR,Gangnam-gu,elite,true,63.42,AS4766,Korea Telecom,8982.01,1792242531.2904975
+http,112.169.99.71,8071,South Korea,KR,Gangnam-gu,elite,true,68.34,AS4766,Korea Telecom,7631.46,1792242529.5804532
+http,112.169.99.71,8036,South Korea,KR,Gangnam-gu,elite,true,53.47,AS4766,Korea Telecom,4920.68,1792242473.0270207
+socks5,8.213.134.213,9098,South Korea,KR,Seoul,elite,true,0.96,AS45102,"Alibaba (US) Technology Co., Ltd.",6473.8,1792242470.262426
+socks5,8.213.134.213,2000,South Korea,KR,Seoul,elite,true,0.99,AS45102,"Alibaba (US) Technology Co., Ltd.",6468.73,1792242458.2518299
+socks5,140.238.28.230,10808,South Korea,KR,Seoul,elite,true,34.16,AS31898,Oracle Corporation,1616.41,1792242457.1771512
+socks5,8.213.134.213,31433,South Korea,KR,Seoul,elite,true,1.02,AS45102,"Alibaba (US) Technology Co., Ltd.",11577.27,1792242449.5559614
+http,140.238.14.161,8080,South Korea,KR,Seoul,elite,false,99.88,AS31898,Oracle Corporation,690.87,1792242441.8168495
+http,183.110.216.159,8091,South Korea,KR,Seongnam-si,anonymous,false,64.25,AS4766,Korea Telecom,8176.06,1792242441.6927598
+socks5,8.220.204.215,808,South Korea,KR,Seoul,elite,true,1.08,AS45102,"Alibaba (US) Technology Co., Ltd.",8899.24,1792242377.0120573
+socks5,8.220.204.215,8889,South Korea,KR,Seoul,elite,true,1.14,AS45102,"Alibaba (US) Technology Co., Ltd.",11765.16,1792242374.143876
