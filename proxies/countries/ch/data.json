@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "37.35.109.132",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Lausanne",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 47.14,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 1163.76,
+    "last_checked": 1792280053.1418817
+  },
+  {
+    "protocol": "socks4",
+    "ip": "195.225.116.15",
+    "port": 4145,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wädenswil",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.27,
-    "asn": "AS198385",
-    "isp": "AlpineDC SA",
-    "latency_ms": 1094.17,
-    "last_checked": 1792279668.0786285
+    "uptime_percent": 26.83,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 1589.51,
+    "last_checked": 1792280052.0092561
   },
   {
     "protocol": "http",
@@ -28,6 +43,21 @@
     "isp": "Microsoft Corporation",
     "latency_ms": 15434.21,
     "last_checked": 1792279672.0367715
+  },
+  {
+    "protocol": "socks5",
+    "ip": "37.35.109.132",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Lausanne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.27,
+    "asn": "AS198385",
+    "isp": "AlpineDC SA",
+    "latency_ms": 1094.17,
+    "last_checked": 1792279668.0786285
   },
   {
     "protocol": "socks5",
