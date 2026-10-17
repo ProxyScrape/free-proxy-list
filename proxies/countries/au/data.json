@@ -1,36 +1,6 @@
 [
   {
-    "protocol": "http",
-    "ip": "51.161.142.97",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 30.08,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 8614.6,
-    "last_checked": 1792204141.0607805
-  },
-  {
-    "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 10.46,
-    "asn": "AS2764",
-    "isp": "AAPT Limited",
-    "latency_ms": 15066.62,
-    "last_checked": 1792204133.964561
-  },
-  {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "168.138.9.147",
     "port": 1080,
     "country": "Australia",
@@ -38,10 +8,25 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 29.14,
+    "uptime_percent": 32.99,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 2779.22,
-    "last_checked": 1792204011.6770875
+    "latency_ms": 20178.49,
+    "last_checked": 1792204723.7697632
+  },
+  {
+    "protocol": "http",
+    "ip": "198.251.85.115",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 48.05,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 15993.23,
+    "last_checked": 1792204705.1618195
   }
 ]
