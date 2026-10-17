@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 53.35,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 2190.63,
-    "last_checked": 1792256979.0245728
-  },
-  {
-    "protocol": "http",
-    "ip": "93.113.98.206",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 37.99,
-    "asn": "AS202759",
-    "isp": "RJ Network OU",
-    "latency_ms": 8263.25,
-    "last_checked": 1792256942.5927362
-  },
-  {
     "protocol": "socks4",
     "ip": "185.157.111.3",
     "port": 5678,
@@ -41,8 +11,23 @@
     "uptime_percent": 60.93,
     "asn": "AS202652",
     "isp": "SkyLive Telecom ldt",
-    "latency_ms": 2431.29,
-    "last_checked": 1792256940.530821
+    "latency_ms": 341.9,
+    "last_checked": 1792257289.2694733
+  },
+  {
+    "protocol": "socks5",
+    "ip": "132.243.168.30",
+    "port": 9150,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 52.88,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 4922.38,
+    "last_checked": 1792257286.614146
   },
   {
     "protocol": "socks5",
@@ -53,10 +38,25 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 95.06,
+    "uptime_percent": 95.07,
     "asn": "AS212743",
     "isp": "EternityCloud",
-    "latency_ms": 3644.27,
-    "last_checked": 1792256870.6552422
+    "latency_ms": 222.74,
+    "last_checked": 1792257277.468601
+  },
+  {
+    "protocol": "http",
+    "ip": "93.113.98.206",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 38.04,
+    "asn": "AS202759",
+    "isp": "RJ Network OU",
+    "latency_ms": 9909.23,
+    "last_checked": 1792257140.0088117
   }
 ]
