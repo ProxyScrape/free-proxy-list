@@ -1,36 +1,6 @@
 [
   {
-    "protocol": "http",
-    "ip": "203.132.92.184",
-    "port": 2020,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 12.68,
-    "asn": "AS38195",
-    "isp": "SUPERLOOP (AUSTRALIA) PTY LTD",
-    "latency_ms": 16019.57,
-    "last_checked": 1792196328.0043314
-  },
-  {
-    "protocol": "http",
-    "ip": "103.18.205.162",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 27.54,
-    "asn": "AS134371",
-    "isp": "Circle Network",
-    "latency_ms": 2939.27,
-    "last_checked": 1792196287.293115
-  },
-  {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "168.138.9.147",
     "port": 1080,
     "country": "Australia",
@@ -38,10 +8,25 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 29.13,
+    "uptime_percent": 32.99,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 5008.41,
-    "last_checked": 1792196198.7539754
+    "latency_ms": 12934.87,
+    "last_checked": 1792196687.234171
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 10.46,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 14175.03,
+    "last_checked": 1792196947.4327743
   }
 ]
