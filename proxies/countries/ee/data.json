@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tartu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.94,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 1730.62,
+    "last_checked": 1792312192.9074478
+  },
+  {
+    "protocol": "socks4",
+    "ip": "146.19.143.200",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.01,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 7434.93,
+    "last_checked": 1792312166.9323306
+  },
+  {
     "protocol": "http",
     "ip": "5.45.126.128",
     "port": 8080,
@@ -11,8 +41,8 @@
     "uptime_percent": 53.39,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 124.46,
-    "last_checked": 1792311566.4868402
+    "latency_ms": 120.53,
+    "last_checked": 1792312151.7911437
   },
   {
     "protocol": "http",
@@ -22,11 +52,41 @@
     "country_code": "EE",
     "city": "Kuusalu",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 39.51,
     "asn": "AS199144",
     "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 3333.83,
-    "last_checked": 1792311498.8197803
+    "latency_ms": 6295.95,
+    "last_checked": 1792312106.5284355
+  },
+  {
+    "protocol": "socks5",
+    "ip": "94.183.170.105",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 95.56,
+    "asn": "AS212743",
+    "isp": "EternityCloud",
+    "latency_ms": 526.92,
+    "last_checked": 1792312074.677839
+  },
+  {
+    "protocol": "socks5",
+    "ip": "146.19.143.200",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.9,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 3802.58,
+    "last_checked": 1792311867.859914
   }
 ]
