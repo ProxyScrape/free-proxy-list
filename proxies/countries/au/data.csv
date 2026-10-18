@@ -1,8 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,false,29.62,AS4764,Aussie Fibre Pty Ltd,3477.19,1792331328.6173787
-http,61.29.96.146,80,Australia,AU,Melbourne,anonymous,false,10.52,AS2764,AAPT Limited,6119.76,1792331327.1508214
-http,61.29.96.146,8000,Australia,AU,Melbourne,anonymous,false,10.95,AS2764,AAPT Limited,10227.56,1792331314.5246923
-http,130.162.192.208,8080,Australia,AU,Melbourne,elite,false,27.55,AS31898,Oracle Corporation,1728.46,1792331295.100051
-http,159.196.182.72,8080,Australia,AU,Melbourne,transparent,false,24.45,AS4764,Aussie Broadband,10506.39,1792331260.2159822
-http,198.251.85.115,3128,Australia,AU,Sydney,transparent,false,47.16,AS14956,RouterHosting LLC,14684.19,1792331243.024805
-http,103.249.237.158,8888,Australia,AU,Sydney,transparent,false,31.52,AS133159,Mammoth Media Pty Ltd,11664.09,1792331234.8707733
+socks5,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,29.17,AS31898,Oracle Corporation,2011.12,1792331979.1450343
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,32.95,AS31898,Oracle Corporation,3350.08,1792331954.1023886
+http,51.161.137.166,8080,Australia,AU,Sydney,elite,false,30.28,AS16276,OVH SAS,22526.33,1792331938.6328468
+http,51.161.142.97,8080,Australia,AU,Sydney,elite,false,29.95,AS16276,OVH SAS,13706.77,1792331866.7288036
+socks5,103.248.47.230,1080,Australia,AU,Sydney,elite,true,32.39,AS133417,Dicker Data Ltd,3666.86,1792331721.4864633
