@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "88.218.206.170",
+    "port": 5432,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Łęczyca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.99,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 13080.92,
+    "last_checked": 1792365574.9889185
+  },
+  {
+    "protocol": "socks4",
     "ip": "212.126.5.245",
     "port": 42344,
     "country": "Poland",
@@ -11,26 +26,11 @@
     "uptime_percent": 10.73,
     "asn": "AS8364",
     "isp": "Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",
-    "latency_ms": 1128.37,
-    "last_checked": 1792364976.0636985
+    "latency_ms": 1636.87,
+    "last_checked": 1792365571.2732937
   },
   {
-    "protocol": "socks4",
-    "ip": "46.171.28.162",
-    "port": 59311,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Krzywa Góra",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 22.02,
-    "asn": "AS5617",
-    "isp": "Orange Polska Spolka Akcyjna",
-    "latency_ms": 628.04,
-    "last_checked": 1792364960.2483933
-  },
-  {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "57.128.249.250",
     "port": 9052,
     "country": "Poland",
@@ -38,26 +38,41 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 54.32,
+    "uptime_percent": 49.96,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 2078.17,
-    "last_checked": 1792364959.889011
+    "latency_ms": 833.44,
+    "last_checked": 1792365570.1228426
   },
   {
-    "protocol": "socks4",
-    "ip": "212.126.5.246",
-    "port": 42344,
+    "protocol": "http",
+    "ip": "78.9.232.205",
+    "port": 8080,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Warsaw",
+    "city": "Świnoujście",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 10.84,
+    "asn": "AS12741",
+    "isp": "Netia SA",
+    "latency_ms": 7571.31,
+    "last_checked": 1792365551.012774
+  },
+  {
+    "protocol": "http",
+    "ip": "51.38.129.42",
+    "port": 3169,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Wroclaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 10.58,
-    "asn": "AS8364",
-    "isp": "Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",
-    "latency_ms": 117.45,
-    "last_checked": 1792364946.6363533
+    "uptime_percent": 74.88,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 9011.34,
+    "last_checked": 1792365547.968713
   },
   {
     "protocol": "http",
@@ -68,11 +83,26 @@
     "city": "Chociwel",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 27.65,
+    "uptime_percent": 27.66,
     "asn": "AS60645",
     "isp": "AS Consulting Sp. z o. o.",
-    "latency_ms": 1344.21,
-    "last_checked": 1792364921.9557223
+    "latency_ms": 5728.92,
+    "last_checked": 1792365529.0495205
+  },
+  {
+    "protocol": "http",
+    "ip": "195.205.134.1",
+    "port": 8080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Czarna Góra",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.84,
+    "asn": "AS5617",
+    "isp": "Orange Polska Spolka Akcyjna",
+    "latency_ms": 9065.72,
+    "last_checked": 1792365525.1730747
   },
   {
     "protocol": "socks5",
@@ -83,10 +113,25 @@
     "city": "Poznan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 62.75,
+    "uptime_percent": 62.62,
     "asn": "AS31229",
     "isp": "Beyond.pl sp. z o.o.",
-    "latency_ms": 3667.06,
-    "last_checked": 1792364909.1159966
+    "latency_ms": 7691.0,
+    "last_checked": 1792365487.3413258
+  },
+  {
+    "protocol": "http",
+    "ip": "148.81.121.5",
+    "port": 8080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 16.37,
+    "asn": "AS1887",
+    "isp": "WAWPOLIP",
+    "latency_ms": 2733.21,
+    "last_checked": 1792365435.46401
   }
 ]
