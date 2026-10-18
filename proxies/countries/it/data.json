@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "85.208.200.185",
-    "port": 8081,
+    "protocol": "socks5",
+    "ip": "212.77.75.25",
+    "port": 1088,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "transparent",
+    "city": "Empoli",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 10.3,
-    "asn": "AS44092",
-    "isp": "HAL Service SpA",
-    "latency_ms": 2540.52,
-    "last_checked": 1792337074.7849574
-  },
-  {
-    "protocol": "http",
-    "ip": "185.191.106.41",
-    "port": 8081,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 24.68,
-    "asn": "AS44092",
-    "isp": "Mywic Costumers",
-    "latency_ms": 2962.15,
-    "last_checked": 1792337071.2709858
+    "uptime_percent": 97.53,
+    "asn": "AS15691",
+    "isp": "Leonet srl Empoli",
+    "latency_ms": 273.22,
+    "last_checked": 1792337655.0493755
   },
   {
     "protocol": "http",
@@ -41,8 +26,23 @@
     "uptime_percent": 48.34,
     "asn": "AS42669",
     "isp": "MegaWeb",
-    "latency_ms": 72.78,
-    "last_checked": 1792337049.574673
+    "latency_ms": 7253.5,
+    "last_checked": 1792337638.380046
+  },
+  {
+    "protocol": "http",
+    "ip": "93.55.126.184",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Marsala",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 23.43,
+    "asn": "AS12874",
+    "isp": "Fastweb Networks",
+    "latency_ms": 6947.14,
+    "last_checked": 1792337636.6211493
   },
   {
     "protocol": "http",
@@ -60,21 +60,6 @@
     "last_checked": 1792337316.0789597
   },
   {
-    "protocol": "socks5",
-    "ip": "212.77.75.25",
-    "port": 1088,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Empoli",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 97.53,
-    "asn": "AS15691",
-    "isp": "Leonet srl Empoli",
-    "latency_ms": 259.63,
-    "last_checked": 1792337314.6424444
-  },
-  {
     "protocol": "http",
     "ip": "93.55.126.190",
     "port": 8080,
@@ -88,5 +73,20 @@
     "isp": "Fastweb Networks",
     "latency_ms": 3299.76,
     "last_checked": 1792337301.594942
+  },
+  {
+    "protocol": "http",
+    "ip": "185.191.106.41",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.68,
+    "asn": "AS44092",
+    "isp": "Mywic Costumers",
+    "latency_ms": 10116.65,
+    "last_checked": 1792337289.2908251
   }
 ]
