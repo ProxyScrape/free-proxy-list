@@ -1,17 +1,32 @@
 [
   {
     "protocol": "http",
-    "ip": "192.203.0.78",
+    "ip": "192.203.0.118",
     "port": 999,
     "country": "Puerto Rico",
     "country_code": "PR",
-    "city": "Comunas",
+    "city": "Levittown",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 14.1,
+    "ssl": true,
+    "uptime_percent": 13.62,
     "asn": "AS63393",
     "isp": "Boom NET",
-    "latency_ms": 7506.5,
-    "last_checked": 1792307906.492811
+    "latency_ms": 4335.6,
+    "last_checked": 1792308584.7487516
+  },
+  {
+    "protocol": "socks4",
+    "ip": "38.107.90.30",
+    "port": 5555,
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "city": "Humacao",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.09,
+    "asn": "AS21559",
+    "isp": "OSNET Wireless",
+    "latency_ms": 7807.3,
+    "last_checked": 1792308570.4681358
   }
 ]
