@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "146.19.143.200",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.12,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 11227.05,
+    "last_checked": 1792345136.37635
+  },
+  {
     "protocol": "socks5",
     "ip": "132.243.168.30",
     "port": 9150,
@@ -8,11 +23,26 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 52.81,
+    "uptime_percent": 52.82,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 371.11,
-    "last_checked": 1792344588.1077352
+    "latency_ms": 1603.69,
+    "last_checked": 1792345127.6780808
+  },
+  {
+    "protocol": "http",
+    "ip": "193.42.112.26",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Kuusalu",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 39.59,
+    "asn": "AS199144",
+    "isp": "HexCore cloud s.r.o.",
+    "latency_ms": 2941.14,
+    "last_checked": 1792345114.5020206
   },
   {
     "protocol": "http",
@@ -26,8 +56,8 @@
     "uptime_percent": 53.46,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 136.93,
-    "last_checked": 1792344562.3629398
+    "latency_ms": 165.43,
+    "last_checked": 1792345106.2819562
   },
   {
     "protocol": "socks5",
@@ -38,25 +68,10 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 47.1,
+    "uptime_percent": 47.11,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 1367.89,
-    "last_checked": 1792344559.4517653
-  },
-  {
-    "protocol": "http",
-    "ip": "193.42.112.26",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Kuusalu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.58,
-    "asn": "AS199144",
-    "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 6502.96,
-    "last_checked": 1792344485.3658423
+    "latency_ms": 856.0,
+    "last_checked": 1792345070.7684274
   }
 ]
