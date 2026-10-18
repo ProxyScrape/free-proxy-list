@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "91.139.78.174",
-    "port": 3128,
+    "ip": "95.129.101.73",
+    "port": 80,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Chanovice",
-    "anonymity": "transparent",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 71.66,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 6373.76,
+    "last_checked": 1792346060.8189113
+  },
+  {
+    "protocol": "socks5",
+    "ip": "93.99.104.206",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Moravská Nová Ves",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 13.64,
-    "asn": "AS13036",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 13535.98,
-    "last_checked": 1792345439.775601
+    "uptime_percent": 30.37,
+    "asn": "AS16019",
+    "isp": "Vodafone Czech Republic a.s.",
+    "latency_ms": 6787.93,
+    "last_checked": 1792346047.6478884
   },
   {
     "protocol": "http",
@@ -26,23 +41,8 @@
     "uptime_percent": 22.26,
     "asn": "AS42189",
     "isp": "DOBRISNET",
-    "latency_ms": 4221.91,
-    "last_checked": 1792345437.682514
-  },
-  {
-    "protocol": "http",
-    "ip": "217.75.208.181",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Chomutov",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.43,
-    "asn": "AS210712",
-    "isp": "Grape SC V",
-    "latency_ms": 5537.22,
-    "last_checked": 1792345428.0550432
+    "latency_ms": 8898.24,
+    "last_checked": 1792345687.0173013
   },
   {
     "protocol": "socks5",
@@ -60,33 +60,18 @@
     "last_checked": 1792345656.2087991
   },
   {
-    "protocol": "socks5",
-    "ip": "93.99.104.206",
-    "port": 1080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Moravská Nová Ves",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 30.35,
-    "asn": "AS16019",
-    "isp": "Vodafone Czech Republic a.s.",
-    "latency_ms": 11162.91,
-    "last_checked": 1792345650.3704674
-  },
-  {
     "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
+    "ip": "217.75.208.181",
+    "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Brno",
-    "anonymity": "elite",
+    "city": "Chomutov",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 71.66,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 14152.64,
-    "last_checked": 1792345638.7091794
+    "uptime_percent": 13.44,
+    "asn": "AS210712",
+    "isp": "Grape SC V",
+    "latency_ms": 8729.61,
+    "last_checked": 1792345620.144233
   }
 ]
