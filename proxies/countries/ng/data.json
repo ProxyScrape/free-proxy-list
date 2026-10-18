@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "154.113.209.162",
-    "port": 8082,
+    "ip": "41.184.92.221",
+    "port": 80,
     "country": "Nigeria",
     "country_code": "NG",
-    "city": "Port Harcourt",
-    "anonymity": "transparent",
+    "city": "Asokoro",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 22.45,
+    "uptime_percent": 65.01,
+    "asn": "AS29091",
+    "isp": "ipNX Nigeria Limited",
+    "latency_ms": 619.19,
+    "last_checked": 1792313354.1075945
+  },
+  {
+    "protocol": "socks4",
+    "ip": "154.113.220.1",
+    "port": 5678,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Abuja",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 2.5,
     "asn": "AS37282",
     "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 13478.23,
-    "last_checked": 1792312757.8367627
+    "latency_ms": 3704.7,
+    "last_checked": 1792313342.6202288
   },
   {
     "protocol": "socks4",
@@ -26,37 +41,7 @@
     "uptime_percent": 45.06,
     "asn": "AS37282",
     "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 8264.82,
-    "last_checked": 1792312754.528407
-  },
-  {
-    "protocol": "http",
-    "ip": "41.184.92.221",
-    "port": 80,
-    "country": "Nigeria",
-    "country_code": "NG",
-    "city": "Asokoro",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 65.0,
-    "asn": "AS29091",
-    "isp": "ipNX Nigeria Limited",
-    "latency_ms": 636.74,
-    "last_checked": 1792312743.316126
-  },
-  {
-    "protocol": "socks5",
-    "ip": "102.69.146.59",
-    "port": 7080,
-    "country": "Nigeria",
-    "country_code": "NG",
-    "city": "Lagos",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 42.17,
-    "asn": "AS328451",
-    "isp": "IP Express Ltd",
-    "latency_ms": 982.18,
-    "last_checked": 1792312536.835128
+    "latency_ms": 8066.17,
+    "last_checked": 1792313334.264743
   }
 ]
