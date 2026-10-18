@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "77.240.102.149",
-    "port": 800,
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.56,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 8708.8,
+    "last_checked": 1792290875.0770802
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 29.05,
+    "uptime_percent": 22.23,
     "asn": "AS42189",
-    "isp": "Druzstvo EUROSIGNAL",
-    "latency_ms": 6318.38,
-    "last_checked": 1792290230.9408164
+    "isp": "DOBRISNET",
+    "latency_ms": 5559.19,
+    "last_checked": 1792290864.3560662
+  },
+  {
+    "protocol": "socks5",
+    "ip": "93.99.104.210",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Moravská Nová Ves",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.8,
+    "asn": "AS16019",
+    "isp": "Vodafone Czech Republic a.s.",
+    "latency_ms": 9169.86,
+    "last_checked": 1792290807.2856488
   },
   {
     "protocol": "http",
@@ -26,23 +56,8 @@
     "uptime_percent": 14.39,
     "asn": "AS42908",
     "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 8557.79,
-    "last_checked": 1792290218.972902
-  },
-  {
-    "protocol": "http",
-    "ip": "77.240.97.77",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Dobříš",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 22.22,
-    "asn": "AS42189",
-    "isp": "DOBRISNET",
-    "latency_ms": 2045.2,
-    "last_checked": 1792290217.8037336
+    "latency_ms": 1925.26,
+    "last_checked": 1792290769.5708835
   },
   {
     "protocol": "socks5",
@@ -53,10 +68,10 @@
     "city": "Moravská Nová Ves",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 99.11,
+    "uptime_percent": 99.12,
     "asn": "AS16019",
     "isp": "Vodafone Czech Republic a.s.",
-    "latency_ms": 101.47,
-    "last_checked": 1792290067.7443523
+    "latency_ms": 754.1,
+    "last_checked": 1792290637.4379106
   }
 ]
