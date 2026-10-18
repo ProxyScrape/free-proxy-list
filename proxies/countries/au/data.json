@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.39,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 1858.48,
+    "last_checked": 1792337071.1454272
+  },
+  {
     "protocol": "http",
     "ip": "130.162.192.208",
     "port": 8080,
@@ -7,12 +22,12 @@
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 27.54,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 4783.15,
-    "last_checked": 1792336449.7710018
+    "latency_ms": 740.23,
+    "last_checked": 1792337063.1568391
   },
   {
     "protocol": "http",
@@ -22,27 +37,12 @@
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "anonymous",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 10.95,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 5709.69,
-    "last_checked": 1792336428.0567505
-  },
-  {
-    "protocol": "socks5",
-    "ip": "168.138.9.147",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 29.17,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 3296.86,
-    "last_checked": 1792336418.768647
+    "latency_ms": 3819.85,
+    "last_checked": 1792337061.3456733
   },
   {
     "protocol": "http",
@@ -58,6 +58,21 @@
     "isp": "OVH SAS",
     "latency_ms": 11300.05,
     "last_checked": 1792336726.9264853
+  },
+  {
+    "protocol": "socks5",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.17,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 1841.72,
+    "last_checked": 1792336685.0605655
   },
   {
     "protocol": "http",
