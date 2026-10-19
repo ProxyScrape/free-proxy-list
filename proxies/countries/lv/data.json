@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "213.111.180.252",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "31.170.18.1",
+    "port": 4153,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Saldus",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 9.61,
+    "asn": "AS43513",
+    "isp": "Sia Nano IT",
+    "latency_ms": 7322.52,
+    "last_checked": 1792441168.4666464
+  },
+  {
+    "protocol": "socks4",
+    "ip": "195.13.169.219",
+    "port": 4153,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 32.78,
-    "asn": "AS57169",
-    "isp": "EDIS GmbH",
-    "latency_ms": 6746.16,
-    "last_checked": 1792439332.7111282
+    "uptime_percent": 34.51,
+    "asn": "AS12578",
+    "isp": "LATTELEKOM",
+    "latency_ms": 180.19,
+    "last_checked": 1792441145.3259916
   },
   {
     "protocol": "socks5",
@@ -26,8 +41,8 @@
     "uptime_percent": 72.05,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 13798.92,
-    "last_checked": 1792439260.6382928
+    "latency_ms": 784.82,
+    "last_checked": 1792441139.573607
   },
   {
     "protocol": "socks5",
@@ -38,10 +53,55 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.87,
+    "uptime_percent": 39.91,
     "asn": "AS30938",
     "isp": "ahbr company limited",
-    "latency_ms": 578.13,
-    "last_checked": 1792439241.6198757
+    "latency_ms": 15753.4,
+    "last_checked": 1792441126.365494
+  },
+  {
+    "protocol": "socks5",
+    "ip": "195.13.182.211",
+    "port": 8080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.29,
+    "asn": "AS12578",
+    "isp": "SIA Tet",
+    "latency_ms": 3872.69,
+    "last_checked": 1792441078.725117
+  },
+  {
+    "protocol": "http",
+    "ip": "213.111.180.252",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 32.86,
+    "asn": "AS57169",
+    "isp": "EDIS GmbH",
+    "latency_ms": 9602.19,
+    "last_checked": 1792441055.8279588
+  },
+  {
+    "protocol": "http",
+    "ip": "188.253.20.105",
+    "port": 3129,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 36.65,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 19912.38,
+    "last_checked": 1792441053.1711478
   }
 ]

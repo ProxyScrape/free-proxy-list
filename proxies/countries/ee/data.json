@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Jõhvi",
+    "city": "Tartu",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 53.67,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 149.05,
-    "last_checked": 1792439333.0097437
+    "ssl": true,
+    "uptime_percent": 60.94,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 1612.99,
+    "last_checked": 1792441182.255238
   },
   {
     "protocol": "socks5",
@@ -23,10 +23,55 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 47.36,
+    "uptime_percent": 47.39,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 9029.1,
-    "last_checked": 1792439305.2580142
+    "latency_ms": 1922.4,
+    "last_checked": 1792441163.5781696
+  },
+  {
+    "protocol": "socks4",
+    "ip": "146.19.143.200",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.1,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 3474.12,
+    "last_checked": 1792441159.6745875
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.128",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 53.68,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 121.66,
+    "last_checked": 1792441101.4842262
+  },
+  {
+    "protocol": "socks5",
+    "ip": "132.243.168.30",
+    "port": 9150,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 53.03,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 1159.99,
+    "last_checked": 1792441025.8920112
   }
 ]
