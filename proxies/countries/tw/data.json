@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "112.105.12.235",
-    "port": 1111,
+    "protocol": "http",
+    "ip": "61.230.111.207",
+    "port": 3128,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Taichung",
+    "city": "Sanchong District",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 18.9,
-    "asn": "AS18049",
-    "isp": "TINP",
-    "latency_ms": 12914.17,
-    "last_checked": 1792386534.442597
+    "uptime_percent": 79.78,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 10100.18,
+    "last_checked": 1792387121.188826
+  },
+  {
+    "protocol": "http",
+    "ip": "220.135.222.226",
+    "port": 3128,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Zuoying",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 35.15,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 11244.52,
+    "last_checked": 1792387100.3744605
   },
   {
     "protocol": "http",
@@ -22,11 +37,26 @@
     "country_code": "TW",
     "city": "Kaohsiung",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 19.14,
     "asn": "AS3462",
     "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 14245.52,
-    "last_checked": 1792386515.2436826
+    "latency_ms": 10960.68,
+    "last_checked": 1792387088.6654518
+  },
+  {
+    "protocol": "socks5",
+    "ip": "116.118.147.196",
+    "port": 1080,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taichung",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.03,
+    "asn": "AS18049",
+    "isp": "tinp",
+    "latency_ms": 1138.21,
+    "last_checked": 1792387024.159907
   }
 ]
