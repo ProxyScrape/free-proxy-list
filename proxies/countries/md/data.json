@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "85.121.179.160",
-    "port": 1089,
-    "country": "Moldova",
-    "country_code": "MD",
-    "city": "Chisinau",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 6.19,
-    "asn": "AS48753",
-    "isp": "AVA HOST SRL",
-    "latency_ms": 2689.75,
-    "last_checked": 1792486733.1385195
-  },
-  {
     "protocol": "http",
     "ip": "176.125.242.58",
     "port": 3128,
@@ -22,11 +7,26 @@
     "country_code": "MD",
     "city": "Chisinau",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 38.92,
     "asn": "AS200019",
     "isp": "Alexhost SRL",
-    "latency_ms": 10386.62,
-    "last_checked": 1792486700.97929
+    "latency_ms": 21264.54,
+    "last_checked": 1792487300.499416
+  },
+  {
+    "protocol": "socks5",
+    "ip": "95.65.99.157",
+    "port": 1080,
+    "country": "Moldova",
+    "country_code": "MD",
+    "city": "Chisinau",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.48,
+    "asn": "AS31252",
+    "isp": "SC STARNET SRL",
+    "latency_ms": 559.95,
+    "last_checked": 1792487286.870704
   }
 ]
