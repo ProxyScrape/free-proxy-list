@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "87.97.94.229",
-    "port": 18080,
+    "protocol": "socks4",
+    "ip": "109.61.117.11",
+    "port": 1080,
     "country": "Hungary",
     "country_code": "HU",
     "city": "Budapest",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 46.86,
-    "asn": "AS20845",
-    "isp": "INVITEL Zrt",
-    "latency_ms": 5895.85,
-    "last_checked": 1792501760.2809434
+    "uptime_percent": 50.1,
+    "asn": "AS197248",
+    "isp": "Dravanet",
+    "latency_ms": 1740.68,
+    "last_checked": 1792502371.932652
   },
   {
     "protocol": "http",
@@ -22,11 +22,26 @@
     "country_code": "HU",
     "city": "Érd",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 40.95,
+    "ssl": true,
+    "uptime_percent": 41.02,
     "asn": "AS20845",
     "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
-    "latency_ms": 9069.58,
-    "last_checked": 1792501685.5515535
+    "latency_ms": 1792.58,
+    "last_checked": 1792502352.0016904
+  },
+  {
+    "protocol": "http",
+    "ip": "87.97.94.229",
+    "port": 18080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Budapest",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 46.87,
+    "asn": "AS20845",
+    "isp": "INVITEL Zrt",
+    "latency_ms": 11138.5,
+    "last_checked": 1792502331.744848
   }
 ]
