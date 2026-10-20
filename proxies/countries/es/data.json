@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "83.56.15.57",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "195.114.209.50",
+    "port": 80,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Ciempozuelos",
+    "city": "Alcobendas",
     "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 70.34,
+    "asn": "AS57286",
+    "isp": "Gigas Hosting SL",
+    "latency_ms": 115.74,
+    "last_checked": 1792455828.3123796
+  },
+  {
+    "protocol": "http",
+    "ip": "90.161.186.147",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Puerto de Santiago",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.48,
+    "asn": "AS12479",
+    "isp": "UNI2-ABI",
+    "latency_ms": 3101.47,
+    "last_checked": 1792455817.69092
+  },
+  {
+    "protocol": "http",
+    "ip": "85.85.187.31",
+    "port": 8080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Mollet del Vallès",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 39.81,
-    "asn": "AS3352",
-    "isp": "Telefonica de Espana SAU",
-    "latency_ms": 1205.66,
-    "last_checked": 1792455266.4924462
+    "uptime_percent": 23.14,
+    "asn": "AS15704",
+    "isp": "Xtra Telecom S.A.",
+    "latency_ms": 8686.8,
+    "last_checked": 1792455793.0047412
   },
   {
     "protocol": "http",
@@ -73,20 +103,5 @@
     "isp": "Adamo Telecom Iberia S.A Catalonia",
     "latency_ms": 168.22,
     "last_checked": 1792455482.5324674
-  },
-  {
-    "protocol": "http",
-    "ip": "90.161.186.147",
-    "port": 3128,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Puerto de Santiago",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 9.48,
-    "asn": "AS12479",
-    "isp": "UNI2-ABI",
-    "latency_ms": 7847.03,
-    "last_checked": 1792455471.4887743
   }
 ]
