@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "212.3.206.215",
-    "port": 10800,
+    "protocol": "socks4",
+    "ip": "188.253.22.75",
+    "port": 1081,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 52.65,
-    "asn": "AS24921",
-    "isp": "Latvijas Mobilais Telefons SIA",
-    "latency_ms": 9518.99,
-    "last_checked": 1792480762.3121789
+    "uptime_percent": 100.0,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 5674.09,
+    "last_checked": 1792481376.2401905
   },
   {
     "protocol": "socks5",
@@ -26,22 +26,37 @@
     "uptime_percent": 72.06,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 6560.39,
-    "last_checked": 1792480747.9736702
+    "latency_ms": 11552.29,
+    "last_checked": 1792481360.4041443
   },
   {
-    "protocol": "http",
-    "ip": "188.253.20.105",
-    "port": 3129,
+    "protocol": "socks5",
+    "ip": "188.253.22.75",
+    "port": 1081,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 36.81,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.0,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 14337.76,
-    "last_checked": 1792480732.7607553
+    "latency_ms": 4259.82,
+    "last_checked": 1792481327.0280406
+  },
+  {
+    "protocol": "socks5",
+    "ip": "212.3.206.215",
+    "port": 10800,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 52.69,
+    "asn": "AS24921",
+    "isp": "Latvijas Mobilais Telefons SIA",
+    "latency_ms": 1378.5,
+    "last_checked": 1792481272.7342362
   }
 ]
