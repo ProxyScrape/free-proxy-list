@@ -11,11 +11,26 @@
     "uptime_percent": 32.92,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 8680.3,
-    "last_checked": 1792509862.9663563
+    "latency_ms": 11981.23,
+    "last_checked": 1792510188.569215
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
+    "ip": "149.28.183.231",
+    "port": 5000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 95.18,
+    "asn": "AS20473",
+    "isp": "The Constant Company",
+    "latency_ms": 1701.97,
+    "last_checked": 1792510176.67849
+  },
+  {
+    "protocol": "socks5",
     "ip": "108.61.185.188",
     "port": 1080,
     "country": "Australia",
@@ -23,26 +38,11 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 46.18,
+    "uptime_percent": 62.96,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 1752.98,
-    "last_checked": 1792509857.9024296
-  },
-  {
-    "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 29.74,
-    "asn": "AS4764",
-    "isp": "Aussie Fibre Pty Ltd",
-    "latency_ms": 2521.8,
-    "last_checked": 1792509857.8968067
+    "latency_ms": 8427.38,
+    "last_checked": 1792510155.5378413
   },
   {
     "protocol": "socks5",
@@ -53,10 +53,40 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 56.17,
+    "uptime_percent": 56.12,
     "asn": "AS20473",
     "isp": "The Constant Company",
-    "latency_ms": 7807.77,
-    "last_checked": 1792509510.148598
+    "latency_ms": 10927.76,
+    "last_checked": 1792510136.832801
+  },
+  {
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 71.38,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 6308.95,
+    "last_checked": 1792510059.621464
+  },
+  {
+    "protocol": "http",
+    "ip": "103.249.237.158",
+    "port": 8888,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 31.71,
+    "asn": "AS133159",
+    "isp": "Mammoth Media Pty Ltd",
+    "latency_ms": 17046.29,
+    "last_checked": 1792509994.108286
   }
 ]
