@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "109.160.97.49",
-    "port": 4145,
+    "protocol": "socks5",
+    "ip": "85.217.171.80",
+    "port": 9052,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Opaka",
+    "city": "Sofia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 23.4,
-    "asn": "AS205352",
-    "isp": "Kabelnet LTD",
-    "latency_ms": 8165.23,
-    "last_checked": 1792549488.5389428
+    "uptime_percent": 50.8,
+    "asn": "AS44901",
+    "isp": "Belcloud LTD",
+    "latency_ms": 3085.98,
+    "last_checked": 1792550068.9438367
+  },
+  {
+    "protocol": "socks4",
+    "ip": "85.217.171.80",
+    "port": 9052,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.6,
+    "asn": "AS44901",
+    "isp": "Belcloud LTD",
+    "latency_ms": 10646.34,
+    "last_checked": 1792550054.9303546
+  },
+  {
+    "protocol": "socks4",
+    "ip": "46.10.198.10",
+    "port": 4153,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.55,
+    "asn": "AS8866",
+    "isp": "Vivacom Bulgaria EAD",
+    "latency_ms": 1163.32,
+    "last_checked": 1792550050.7170768
   },
   {
     "protocol": "http",
@@ -22,12 +52,12 @@
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 16.65,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 10364.46,
-    "last_checked": 1792549708.2089095
+    "latency_ms": 1709.38,
+    "last_checked": 1792550048.4248867
   },
   {
     "protocol": "http",
@@ -88,20 +118,5 @@
     "isp": "A1 Bulgaria EAD",
     "latency_ms": 3789.16,
     "last_checked": 1792549622.9294643
-  },
-  {
-    "protocol": "socks5",
-    "ip": "85.217.171.80",
-    "port": 9052,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.77,
-    "asn": "AS44901",
-    "isp": "Belcloud LTD",
-    "latency_ms": 9194.23,
-    "last_checked": 1792549593.1176577
   }
 ]
