@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "139.5.75.83",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "202.166.219.80",
+    "port": 4153,
     "country": "Nepal",
     "country_code": "NP",
-    "city": "Patan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.04,
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 16.77,
     "asn": "AS17501",
-    "isp": "WLINK",
-    "latency_ms": 11517.05,
-    "last_checked": 1792625904.409154
+    "isp": "WorldLink Communications",
+    "latency_ms": 995.23,
+    "last_checked": 1792626567.9406562
   },
   {
     "protocol": "socks5",
@@ -26,7 +26,37 @@
     "uptime_percent": 43.17,
     "asn": "AS17501",
     "isp": "WorldLink Communications",
-    "latency_ms": 1059.05,
-    "last_checked": 1792625839.9001043
+    "latency_ms": 1113.32,
+    "last_checked": 1792626556.1328104
+  },
+  {
+    "protocol": "http",
+    "ip": "110.44.115.83",
+    "port": 8080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 9.4,
+    "asn": "AS45650",
+    "isp": "Vianet Communications Pvt. Ltd",
+    "latency_ms": 7028.02,
+    "last_checked": 1792626506.4345448
+  },
+  {
+    "protocol": "http",
+    "ip": "43.245.95.178",
+    "port": 53805,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Lalitpur",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.16,
+    "asn": "AS55427",
+    "isp": "BroadLink Networks and Communications",
+    "latency_ms": 8482.26,
+    "last_checked": 1792626453.3392868
   }
 ]
