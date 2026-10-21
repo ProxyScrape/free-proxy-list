@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "92.86.207.198",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Vaideeni",
-    "anonymity": "transparent",
+    "city": "Cârţişoara",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 14.77,
-    "asn": "AS9050",
-    "isp": "Romtelecom",
-    "latency_ms": 10059.51,
-    "last_checked": 1792551208.5375288
+    "uptime_percent": 58.98,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 542.54,
+    "last_checked": 1792551604.2310503
+  },
+  {
+    "protocol": "socks4",
+    "ip": "93.115.174.1",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Sfantu Gheorghe",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.25,
+    "asn": "AS39531",
+    "isp": "Alter-NET SRL",
+    "latency_ms": 7361.98,
+    "last_checked": 1792551588.649975
   },
   {
     "protocol": "http",
@@ -26,7 +41,22 @@
     "uptime_percent": 22.7,
     "asn": "AS49052",
     "isp": "Data ZYX SRL",
-    "latency_ms": 138.14,
-    "last_checked": 1792551185.1678312
+    "latency_ms": 3307.92,
+    "last_checked": 1792551561.799853
+  },
+  {
+    "protocol": "http",
+    "ip": "92.86.207.198",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Vaideeni",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.77,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 2898.15,
+    "last_checked": 1792551483.9333482
   }
 ]
