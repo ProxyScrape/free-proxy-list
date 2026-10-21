@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "91.83.0.253",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "89.132.170.211",
+    "port": 4145,
     "country": "Hungary",
     "country_code": "HU",
     "city": "Budapest",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 67.02,
-    "asn": "AS20845",
-    "isp": "HDSNET",
-    "latency_ms": 1856.64,
-    "last_checked": 1792613341.3078983
+    "uptime_percent": 29.29,
+    "asn": "AS21334",
+    "isp": "One Hungary Ltd.",
+    "latency_ms": 7809.31,
+    "last_checked": 1792613951.297404
   },
   {
     "protocol": "socks4",
@@ -26,7 +26,22 @@
     "uptime_percent": 50.32,
     "asn": "AS197248",
     "isp": "Dravanet",
-    "latency_ms": 1456.45,
-    "last_checked": 1792613334.551044
+    "latency_ms": 1410.48,
+    "last_checked": 1792613938.0582314
+  },
+  {
+    "protocol": "http",
+    "ip": "91.83.0.253",
+    "port": 8080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Budapest",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 66.02,
+    "asn": "AS20845",
+    "isp": "HDSNET",
+    "latency_ms": 5592.64,
+    "last_checked": 1792613871.5187318
   }
 ]
