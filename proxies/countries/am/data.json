@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "130.193.123.34",
+    "port": 5678,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.97,
+    "asn": "AS49800",
+    "isp": "GNC",
+    "latency_ms": 7635.08,
+    "last_checked": 1792555793.18435
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.215.53.193",
+    "port": 3629,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 4.97,
+    "asn": "AS205368",
+    "isp": "Fnet LLC",
+    "latency_ms": 1358.67,
+    "last_checked": 1792555792.7535846
+  },
+  {
     "protocol": "http",
     "ip": "88.218.92.64",
     "port": 3128,
@@ -11,23 +41,8 @@
     "uptime_percent": 46.25,
     "asn": "AS196709",
     "isp": "GNC-Alfa CJSC",
-    "latency_ms": 3089.99,
-    "last_checked": 1792555080.0002902
-  },
-  {
-    "protocol": "http",
-    "ip": "91.204.190.140",
-    "port": 81,
-    "country": "Armenia",
-    "country_code": "AM",
-    "city": "Yerevan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 12.11,
-    "asn": "AS42991",
-    "isp": "BioNet LLC",
-    "latency_ms": 9286.3,
-    "last_checked": 1792555067.2768502
+    "latency_ms": 4582.97,
+    "last_checked": 1792555780.750414
   },
   {
     "protocol": "http",
@@ -37,11 +52,26 @@
     "country_code": "AM",
     "city": "Yerevan",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 44.76,
+    "ssl": true,
+    "uptime_percent": 44.77,
     "asn": "AS202422",
     "isp": "G-Core Labs S.A.",
-    "latency_ms": 12353.52,
-    "last_checked": 1792555058.2860625
+    "latency_ms": 5642.16,
+    "last_checked": 1792555739.937844
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.142.195.110",
+    "port": 995,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.85,
+    "asn": "AS215929",
+    "isp": "Data Campus Limited",
+    "latency_ms": 4289.41,
+    "last_checked": 1792555739.4899254
   }
 ]
