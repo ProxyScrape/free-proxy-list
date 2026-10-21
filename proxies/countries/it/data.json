@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "149.86.206.27",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "152.89.168.44",
+    "port": 8081,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Milan",
+    "city": "Pomezia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.83,
+    "asn": "AS212271",
+    "isp": "Cinzia Tocci trading as Lumanex Srl",
+    "latency_ms": 10667.23,
+    "last_checked": 1792566856.2656415
+  },
+  {
+    "protocol": "http",
+    "ip": "185.8.148.81",
+    "port": 8085,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Portiglioni",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 6.73,
-    "asn": "AS60501",
-    "isp": "Sirius Technology SRL",
-    "latency_ms": 12120.72,
-    "last_checked": 1792566564.5109544
+    "uptime_percent": 38.03,
+    "asn": "AS49605",
+    "isp": "DIGITAL TELECOMMUNICATION SERVICES 3th",
+    "latency_ms": 5149.79,
+    "last_checked": 1792566840.3568912
   },
   {
     "protocol": "http",
@@ -26,22 +41,37 @@
     "uptime_percent": 48.58,
     "asn": "AS42669",
     "isp": "MegaWeb",
-    "latency_ms": 10476.6,
-    "last_checked": 1792566555.1486914
+    "latency_ms": 10304.8,
+    "last_checked": 1792566826.1850333
   },
   {
     "protocol": "http",
-    "ip": "85.208.200.185",
-    "port": 8081,
+    "ip": "80.225.88.28",
+    "port": 8082,
     "country": "Italy",
     "country_code": "IT",
     "city": "Milan",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 10.38,
-    "asn": "AS44092",
-    "isp": "HAL Service SpA",
-    "latency_ms": 10970.25,
-    "last_checked": 1792566521.9336283
+    "uptime_percent": 12.12,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 3791.23,
+    "last_checked": 1792566789.1483886
+  },
+  {
+    "protocol": "socks5",
+    "ip": "212.77.75.25",
+    "port": 1088,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Empoli",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 97.5,
+    "asn": "AS15691",
+    "isp": "Leonet srl Empoli",
+    "latency_ms": 2643.03,
+    "last_checked": 1792566762.3439054
   }
 ]
