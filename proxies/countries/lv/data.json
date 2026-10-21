@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "195.135.255.239",
-    "port": 1083,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 38.43,
-    "asn": "AS42532",
-    "isp": "SIA VEESP",
-    "latency_ms": 9967.75,
-    "last_checked": 1792590874.721935
-  },
-  {
     "protocol": "socks5",
     "ip": "195.135.255.239",
     "port": 1083,
@@ -23,11 +8,11 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 57.55,
+    "uptime_percent": 57.57,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 13328.84,
-    "last_checked": 1792590868.2775536
+    "latency_ms": 9910.43,
+    "last_checked": 1792591187.2622917
   },
   {
     "protocol": "http",
@@ -37,12 +22,27 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 36.75,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 9563.02,
-    "last_checked": 1792590866.4768562
+    "latency_ms": 11418.8,
+    "last_checked": 1792591173.914812
+  },
+  {
+    "protocol": "http",
+    "ip": "178.16.16.17",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 27.6,
+    "asn": "AS12993",
+    "isp": "Digitalas Ekonomikas Attistibas Centrs",
+    "latency_ms": 16854.88,
+    "last_checked": 1792591136.4959557
   },
   {
     "protocol": "socks5",
@@ -56,7 +56,22 @@
     "uptime_percent": 39.43,
     "asn": "AS30938",
     "isp": "ahbr company limited",
-    "latency_ms": 8431.43,
-    "last_checked": 1792590844.1352825
+    "latency_ms": 10380.96,
+    "last_checked": 1792591039.1692615
+  },
+  {
+    "protocol": "socks5",
+    "ip": "212.3.206.215",
+    "port": 10800,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 52.23,
+    "asn": "AS24921",
+    "isp": "Latvijas Mobilais Telefons SIA",
+    "latency_ms": 625.08,
+    "last_checked": 1792590994.9380372
   }
 ]
