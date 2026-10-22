@@ -1,50 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "212.77.75.25",
-    "port": 1088,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Empoli",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 97.46,
-    "asn": "AS15691",
-    "isp": "Leonet srl Empoli",
-    "latency_ms": 1717.89,
-    "last_checked": 1792672437.9041488
-  },
-  {
-    "protocol": "socks5",
-    "ip": "77.81.230.90",
-    "port": 9050,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 25.73,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 6640.93,
-    "last_checked": 1792672437.370923
-  },
-  {
-    "protocol": "http",
-    "ip": "77.242.177.57",
-    "port": 3128,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Biella",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 48.78,
-    "asn": "AS42669",
-    "isp": "MegaWeb",
-    "latency_ms": 4885.28,
-    "last_checked": 1792672430.4469397
-  },
-  {
     "protocol": "http",
     "ip": "84.8.248.36",
     "port": 3128,
@@ -52,12 +7,12 @@
     "country_code": "IT",
     "city": "Rivoli",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 36.66,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 4822.78,
-    "last_checked": 1792672410.8216152
+    "latency_ms": 2580.28,
+    "last_checked": 1792673044.4405496
   },
   {
     "protocol": "http",
@@ -71,7 +26,22 @@
     "uptime_percent": 24.89,
     "asn": "AS44092",
     "isp": "Mywic Costumers",
-    "latency_ms": 5522.59,
-    "last_checked": 1792672440.2398715
+    "latency_ms": 5163.49,
+    "last_checked": 1792672994.4979355
+  },
+  {
+    "protocol": "socks5",
+    "ip": "212.77.75.25",
+    "port": 1088,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Empoli",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 97.46,
+    "asn": "AS15691",
+    "isp": "Leonet srl Empoli",
+    "latency_ms": 2044.94,
+    "last_checked": 1792672928.15317
   }
 ]
