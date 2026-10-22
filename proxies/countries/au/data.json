@@ -1,6 +1,51 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "159.196.182.72",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.53,
+    "asn": "AS4764",
+    "isp": "Aussie Broadband",
+    "latency_ms": 2797.29,
+    "last_checked": 1792668556.1861017
+  },
+  {
+    "protocol": "http",
+    "ip": "103.192.80.81",
+    "port": 3129,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 73.73,
+    "asn": "AS136557",
+    "isp": "Host Universal Pty Ltd",
+    "latency_ms": 7208.4,
+    "last_checked": 1792668548.6524985
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 11.02,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 2558.8,
+    "last_checked": 1792668548.423447
+  },
+  {
+    "protocol": "socks5",
     "ip": "108.61.185.188",
     "port": 1080,
     "country": "Australia",
@@ -8,11 +53,11 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 45.5,
+    "uptime_percent": 62.22,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 16382.68,
-    "last_checked": 1792667975.0838134
+    "latency_ms": 7973.7,
+    "last_checked": 1792668539.3923428
   },
   {
     "protocol": "socks4",
@@ -23,26 +68,11 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.59,
+    "uptime_percent": 39.6,
     "asn": "AS20473",
     "isp": "The Constant Company",
-    "latency_ms": 14206.11,
-    "last_checked": 1792667941.058799
-  },
-  {
-    "protocol": "socks5",
-    "ip": "168.138.9.147",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 29.25,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 6722.02,
-    "last_checked": 1792667936.93216
+    "latency_ms": 11693.69,
+    "last_checked": 1792668531.6689303
   },
   {
     "protocol": "socks5",
@@ -53,10 +83,40 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 53.69,
+    "uptime_percent": 53.63,
     "asn": "AS20473",
     "isp": "The Constant Company",
-    "latency_ms": 5945.34,
-    "last_checked": 1792667813.4230115
+    "latency_ms": 6798.99,
+    "last_checked": 1792668496.96214
+  },
+  {
+    "protocol": "http",
+    "ip": "130.162.192.208",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 27.47,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 812.45,
+    "last_checked": 1792668493.0246768
+  },
+  {
+    "protocol": "http",
+    "ip": "203.132.92.184",
+    "port": 2020,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 11.32,
+    "asn": "AS38195",
+    "isp": "SUPERLOOP (AUSTRALIA) PTY LTD",
+    "latency_ms": 18200.48,
+    "last_checked": 1792668327.9851742
   }
 ]
