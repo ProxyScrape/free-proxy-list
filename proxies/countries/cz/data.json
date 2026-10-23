@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "185.82.238.42",
-    "port": 8888,
+    "ip": "109.123.219.11",
+    "port": 80,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Olomouc",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 21.22,
+    "asn": "AS15685",
+    "isp": "Casablanca INT",
+    "latency_ms": 2151.22,
+    "last_checked": 1792767570.340033
+  },
+  {
+    "protocol": "http",
+    "ip": "88.146.222.250",
+    "port": 8000,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 9.44,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 3171.59,
-    "last_checked": 1792766953.0249007
+    "uptime_percent": 32.92,
+    "asn": "AS16019",
+    "isp": "Vodafone Czech Republic a.s.",
+    "latency_ms": 2439.94,
+    "last_checked": 1792767560.953907
   },
   {
     "protocol": "http",
@@ -22,27 +37,27 @@
     "country_code": "CZ",
     "city": "Veselí nad Lužnicí",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 20.18,
+    "ssl": true,
+    "uptime_percent": 21.17,
     "asn": "AS62212",
     "isp": "SmartApe OU",
-    "latency_ms": 14566.41,
-    "last_checked": 1792766932.0328
+    "latency_ms": 12256.53,
+    "last_checked": 1792767529.988216
   },
   {
-    "protocol": "socks5",
-    "ip": "93.99.104.209",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Moravská Nová Ves",
+    "city": "Brno",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 26.74,
-    "asn": "AS16019",
-    "isp": "Vodafone Czech Republic a.s.",
-    "latency_ms": 7115.63,
-    "last_checked": 1792766920.6545434
+    "ssl": false,
+    "uptime_percent": 71.58,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 4062.62,
+    "last_checked": 1792767512.5680597
   },
   {
     "protocol": "http",
@@ -53,11 +68,26 @@
     "city": "Ostrava",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 26.78,
+    "uptime_percent": 26.75,
     "asn": "AS212975",
     "isp": "TeamCity s.r.o.",
-    "latency_ms": 790.36,
-    "last_checked": 1792766910.4848135
+    "latency_ms": 83.07,
+    "last_checked": 1792767498.270004
+  },
+  {
+    "protocol": "socks5",
+    "ip": "93.99.104.209",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Moravská Nová Ves",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.73,
+    "asn": "AS16019",
+    "isp": "Vodafone Czech Republic a.s.",
+    "latency_ms": 13507.31,
+    "last_checked": 1792767493.025278
   },
   {
     "protocol": "socks5",
@@ -68,10 +98,10 @@
     "city": "Rožnov pod Radhoštěm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 27.45,
+    "uptime_percent": 27.74,
     "asn": "AS8251",
     "isp": "Neutral czFree eXchange members",
-    "latency_ms": 3895.76,
-    "last_checked": 1792766875.8897247
+    "latency_ms": 133.97,
+    "last_checked": 1792767448.1468983
   }
 ]
