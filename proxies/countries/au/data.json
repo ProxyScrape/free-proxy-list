@@ -1,36 +1,6 @@
 [
   {
-    "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 8000,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 11.03,
-    "asn": "AS2764",
-    "isp": "AAPT Limited",
-    "latency_ms": 3525.61,
-    "last_checked": 1792789741.1916785
-  },
-  {
     "protocol": "socks4",
-    "ip": "168.138.9.147",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 32.76,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 5047.52,
-    "last_checked": 1792789725.291427
-  },
-  {
-    "protocol": "socks5",
     "ip": "108.61.185.188",
     "port": 1080,
     "country": "Australia",
@@ -38,11 +8,41 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 61.25,
+    "uptime_percent": 44.71,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 3707.5,
-    "last_checked": 1792789722.9975352
+    "latency_ms": 5947.74,
+    "last_checked": 1792790394.3275142
+  },
+  {
+    "protocol": "http",
+    "ip": "103.249.237.158",
+    "port": 8888,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 31.64,
+    "asn": "AS133159",
+    "isp": "Mammoth Media Pty Ltd",
+    "latency_ms": 14175.52,
+    "last_checked": 1792790371.0890324
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.77.235.30",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.73,
+    "asn": "AS20473",
+    "isp": "The Constant Company",
+    "latency_ms": 14844.29,
+    "last_checked": 1792790369.4299135
   },
   {
     "protocol": "http",
@@ -56,8 +56,23 @@
     "uptime_percent": 71.5,
     "asn": "AS45577",
     "isp": "Intervolve Pty Ltd",
-    "latency_ms": 6996.11,
-    "last_checked": 1792789722.7842767
+    "latency_ms": 5824.76,
+    "last_checked": 1792790357.509616
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 11.03,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 14472.87,
+    "last_checked": 1792790309.7838125
   },
   {
     "protocol": "http",
@@ -67,11 +82,11 @@
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "anonymous",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 10.63,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 3105.78,
-    "last_checked": 1792789629.7536294
+    "latency_ms": 13763.75,
+    "last_checked": 1792790270.4798243
   }
 ]
