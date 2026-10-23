@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "83.56.15.57",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "90.161.220.67",
+    "port": 3128,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Ciempozuelos",
+    "city": "Conil de la Frontera",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.44,
+    "asn": "AS12479",
+    "isp": "UNI2-ABI",
+    "latency_ms": 1638.09,
+    "last_checked": 1792772057.318802
+  },
+  {
+    "protocol": "http",
+    "ip": "195.114.209.50",
+    "port": 80,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Alcobendas",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.93,
-    "asn": "AS3352",
-    "isp": "Telefonica de Espana SAU",
-    "latency_ms": 460.09,
-    "last_checked": 1792771750.6510882
+    "ssl": false,
+    "uptime_percent": 70.47,
+    "asn": "AS57286",
+    "isp": "Gigas Hosting SL",
+    "latency_ms": 1474.09,
+    "last_checked": 1792772032.8282514
   },
   {
     "protocol": "http",
@@ -28,20 +43,5 @@
     "isp": "Vodafone Espana S.A.U.",
     "latency_ms": 7377.89,
     "last_checked": 1792771733.7054589
-  },
-  {
-    "protocol": "http",
-    "ip": "195.114.209.50",
-    "port": 80,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Alcobendas",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 70.47,
-    "asn": "AS57286",
-    "isp": "Gigas Hosting SL",
-    "latency_ms": 211.89,
-    "last_checked": 1792771704.1535988
   }
 ]
