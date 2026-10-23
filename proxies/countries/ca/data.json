@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "144.217.107.25",
-    "port": 1080,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Beauharnois",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 51.36,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 1710.61,
-    "last_checked": 1792786473.1507607
-  },
-  {
     "protocol": "http",
     "ip": "184.70.113.34",
     "port": 3128,
@@ -22,12 +7,27 @@
     "country_code": "CA",
     "city": "Calgary",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 33.54,
     "asn": "AS6327",
     "isp": "Shaw Communications",
-    "latency_ms": 436.29,
-    "last_checked": 1792786459.0391223
+    "latency_ms": 4973.61,
+    "last_checked": 1792787083.023506
+  },
+  {
+    "protocol": "socks4",
+    "ip": "24.37.245.42",
+    "port": 51056,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.72,
+    "asn": "AS5769",
+    "isp": "Le Groupe Videotron Ltee",
+    "latency_ms": 7766.31,
+    "last_checked": 1792787075.0991337
   },
   {
     "protocol": "socks4",
@@ -38,11 +38,26 @@
     "city": "Vancouver",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 27.55,
+    "uptime_percent": 27.56,
     "asn": "AS7393",
     "isp": "ASSERTIVENET",
-    "latency_ms": 4840.07,
-    "last_checked": 1792786441.764301
+    "latency_ms": 15397.47,
+    "last_checked": 1792787064.162461
+  },
+  {
+    "protocol": "http",
+    "ip": "173.180.22.3",
+    "port": 8080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Coquitlam",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.52,
+    "asn": "AS852",
+    "isp": "TELUS Communications Inc",
+    "latency_ms": 2389.88,
+    "last_checked": 1792787040.1308637
   },
   {
     "protocol": "socks5",
