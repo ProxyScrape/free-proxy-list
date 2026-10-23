@@ -1,33 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "45.77.235.30",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Sydney",
+    "city": "Melbourne",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 37.46,
-    "asn": "AS20473",
-    "isp": "The Constant Company",
-    "latency_ms": 1601.35,
-    "last_checked": 1792769953.9543717
+    "ssl": false,
+    "uptime_percent": 71.46,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 3408.23,
+    "last_checked": 1792770576.5705802
   },
   {
-    "protocol": "socks5",
-    "ip": "45.77.235.30",
+    "protocol": "socks4",
+    "ip": "108.61.185.188",
     "port": 1080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 51.0,
+    "uptime_percent": 44.74,
     "asn": "AS20473",
-    "isp": "The Constant Company",
-    "latency_ms": 5396.78,
-    "last_checked": 1792769943.3718483
+    "isp": "Choopa",
+    "latency_ms": 7659.3,
+    "last_checked": 1792770571.8000286
+  },
+  {
+    "protocol": "http",
+    "ip": "159.196.182.72",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 24.61,
+    "asn": "AS4764",
+    "isp": "Aussie Broadband",
+    "latency_ms": 2844.7,
+    "last_checked": 1792770528.754847
   },
   {
     "protocol": "socks5",
@@ -38,25 +53,10 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 61.23,
+    "uptime_percent": 61.24,
     "asn": "AS20473",
     "isp": "Choopa",
-    "latency_ms": 7109.46,
-    "last_checked": 1792769935.4459867
-  },
-  {
-    "protocol": "http",
-    "ip": "103.192.80.81",
-    "port": 3129,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 65.0,
-    "asn": "AS136557",
-    "isp": "Host Universal Pty Ltd",
-    "latency_ms": 6540.48,
-    "last_checked": 1792769935.410652
+    "latency_ms": 2989.41,
+    "last_checked": 1792770398.4641726
   }
 ]
