@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "91.139.78.174",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Chanovice",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.84,
-    "asn": "AS13036",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 8437.76,
-    "last_checked": 1792717950.404828
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.38,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 658.18,
+    "last_checked": 1792718682.9428923
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.47.103.207",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Rožnov pod Radhoštěm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.1,
+    "asn": "AS8251",
+    "isp": "Neutral czFree eXchange members",
+    "latency_ms": 2094.66,
+    "last_checked": 1792718644.22744
   }
 ]
