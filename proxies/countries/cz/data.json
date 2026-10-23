@@ -1,18 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
+    "ip": "88.146.222.250",
+    "port": 8000,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Brno",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 71.59,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 5695.97,
-    "last_checked": 1792777145.3712485
+    "city": "Prague",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 32.93,
+    "asn": "AS16019",
+    "isp": "Vodafone Czech Republic a.s.",
+    "latency_ms": 3955.15,
+    "last_checked": 1792777745.1181436
   },
   {
     "protocol": "http",
@@ -23,11 +23,26 @@
     "city": "Ostrava",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 31.04,
+    "uptime_percent": 31.68,
     "asn": "AS212975",
     "isp": "TeamCity s.r.o.",
-    "latency_ms": 3851.01,
-    "last_checked": 1792777143.0197046
+    "latency_ms": 1217.45,
+    "last_checked": 1792777744.2696795
+  },
+  {
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 71.59,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 15823.06,
+    "last_checked": 1792777745.695822
   },
   {
     "protocol": "http",
@@ -38,26 +53,11 @@
     "city": "Prague",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 32.26,
+    "uptime_percent": 32.92,
     "asn": "AS15685",
     "isp": "Casablanca INT",
-    "latency_ms": 409.47,
-    "last_checked": 1792777133.6680365
-  },
-  {
-    "protocol": "socks5",
-    "ip": "31.47.103.220",
-    "port": 1080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Rožnov pod Radhoštěm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 28.22,
-    "asn": "AS8251",
-    "isp": "Neutral czFree eXchange members",
-    "latency_ms": 143.96,
-    "last_checked": 1792777117.5717757
+    "latency_ms": 3459.25,
+    "last_checked": 1792777694.1795297
   },
   {
     "protocol": "socks5",
@@ -71,7 +71,7 @@
     "uptime_percent": 28.37,
     "asn": "AS16019",
     "isp": "Vodafone Czech Republic a.s.",
-    "latency_ms": 12806.11,
-    "last_checked": 1792776966.2343373
+    "latency_ms": 12897.57,
+    "last_checked": 1792777671.616079
   }
 ]
