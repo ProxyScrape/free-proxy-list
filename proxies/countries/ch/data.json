@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "91.92.155.207",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "195.225.116.14",
+    "port": 4145,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wädenswil",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.9,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 1076.1,
+    "last_checked": 1792789750.7100983
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 36.15,
-    "asn": "AS61098",
-    "isp": "Akenes SA",
-    "latency_ms": 694.4,
-    "last_checked": 1792789137.1630514
+    "uptime_percent": 19.71,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 5822.07,
+    "last_checked": 1792789747.9781327
+  },
+  {
+    "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 47.61,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 455.31,
+    "last_checked": 1792789724.5820243
   },
   {
     "protocol": "http",
@@ -23,10 +53,25 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 26.81,
+    "uptime_percent": 26.83,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 847.89,
-    "last_checked": 1792789109.0574265
+    "latency_ms": 1542.33,
+    "last_checked": 1792789718.372423
+  },
+  {
+    "protocol": "http",
+    "ip": "62.220.129.81",
+    "port": 8080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Lausanne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.53,
+    "asn": "AS6893",
+    "isp": "Saitis Network, N.Desir",
+    "latency_ms": 2929.21,
+    "last_checked": 1792789609.5527928
   }
 ]
