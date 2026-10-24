@@ -1,6 +1,36 @@
 [
   {
     "protocol": "socks4",
+    "ip": "93.115.174.1",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Sfantu Gheorghe",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.67,
+    "asn": "AS39531",
+    "isp": "Alter-NET SRL",
+    "latency_ms": 160.73,
+    "last_checked": 1792868358.6811411
+  },
+  {
+    "protocol": "http",
+    "ip": "86.121.33.98",
+    "port": 80,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Târgu Mureş",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 3.68,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 2243.59,
+    "last_checked": 1792868334.119725
+  },
+  {
+    "protocol": "socks4",
     "ip": "81.12.157.98",
     "port": 5678,
     "country": "Romania",
@@ -11,38 +41,8 @@
     "uptime_percent": 58.98,
     "asn": "AS12302",
     "isp": "Vodafone RO",
-    "latency_ms": 194.03,
-    "last_checked": 1792867800.5258021
-  },
-  {
-    "protocol": "socks5",
-    "ip": "85.122.120.119",
-    "port": 30016,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Năvodari",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 15.9,
-    "asn": "AS39347",
-    "isp": "STYLISH BY A&L SRL",
-    "latency_ms": 16055.35,
-    "last_checked": 1792867755.9976573
-  },
-  {
-    "protocol": "http",
-    "ip": "85.122.120.119",
-    "port": 20016,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Năvodari",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 9.07,
-    "asn": "AS39347",
-    "isp": "STYLISH BY A&L SRL",
-    "latency_ms": 8080.3,
-    "last_checked": 1792867689.5691369
+    "latency_ms": 247.42,
+    "last_checked": 1792868330.4084456
   },
   {
     "protocol": "http",
@@ -52,11 +52,26 @@
     "country_code": "RO",
     "city": "Vaideeni",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 14.95,
     "asn": "AS9050",
     "isp": "Romtelecom",
-    "latency_ms": 9635.11,
-    "last_checked": 1792867643.2896154
+    "latency_ms": 3440.91,
+    "last_checked": 1792868350.4470084
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.121.183.248",
+    "port": 1089,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.92,
+    "asn": "AS200019",
+    "isp": "Alexhost SRL",
+    "latency_ms": 2626.03,
+    "last_checked": 1792868241.1029794
   }
 ]
