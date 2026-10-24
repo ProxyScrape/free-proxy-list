@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "34.154.195.225",
-    "port": 40001,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 51.9,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 461.38,
-    "last_checked": 1792833576.1970325
-  },
-  {
     "protocol": "socks4",
     "ip": "34.154.195.225",
     "port": 40001,
@@ -23,26 +8,11 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 44.85,
+    "uptime_percent": 45.06,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 83.31,
-    "last_checked": 1792833574.1807072
-  },
-  {
-    "protocol": "http",
-    "ip": "77.242.177.57",
-    "port": 3128,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Biella",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 48.99,
-    "asn": "AS42669",
-    "isp": "MegaWeb",
-    "latency_ms": 8842.02,
-    "last_checked": 1792833570.1168275
+    "latency_ms": 91.05,
+    "last_checked": 1792834186.3449285
   },
   {
     "protocol": "http",
@@ -52,12 +22,12 @@
     "country_code": "IT",
     "city": "Milan",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 25.06,
     "asn": "AS44092",
     "isp": "Mywic Costumers",
-    "latency_ms": 3649.09,
-    "last_checked": 1792833557.853382
+    "latency_ms": 7408.9,
+    "last_checked": 1792834181.5086975
   },
   {
     "protocol": "socks5",
@@ -71,8 +41,38 @@
     "uptime_percent": 97.41,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 288.36,
-    "last_checked": 1792833535.1421034
+    "latency_ms": 695.72,
+    "last_checked": 1792834178.000208
+  },
+  {
+    "protocol": "http",
+    "ip": "85.208.200.185",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 10.4,
+    "asn": "AS44092",
+    "isp": "HAL Service SpA",
+    "latency_ms": 2385.46,
+    "last_checked": 1792834174.6361816
+  },
+  {
+    "protocol": "http",
+    "ip": "93.55.126.162",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Marsala",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 17.48,
+    "asn": "AS12874",
+    "isp": "Fastweb SpA",
+    "latency_ms": 2221.6,
+    "last_checked": 1792834158.3010435
   },
   {
     "protocol": "socks5",
@@ -86,22 +86,67 @@
     "uptime_percent": 26.43,
     "asn": "AS31034",
     "isp": "Aruba S.p.A. Network",
-    "latency_ms": 6962.44,
-    "last_checked": 1792833496.0706654
+    "latency_ms": 6894.9,
+    "last_checked": 1792834138.897921
   },
   {
     "protocol": "http",
-    "ip": "78.134.20.48",
+    "ip": "45.142.134.5",
     "port": 8080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Iseo",
+    "city": "Avezzano",
     "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 38.2,
+    "asn": "AS203540",
+    "isp": "AZ EBGP RETAIL DYNAMIC",
+    "latency_ms": 3956.54,
+    "last_checked": 1792834132.1591313
+  },
+  {
+    "protocol": "http",
+    "ip": "77.242.177.57",
+    "port": 3128,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Biella",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 9.78,
-    "asn": "AS35612",
-    "isp": "NGI",
-    "latency_ms": 3064.68,
-    "last_checked": 1792833415.10072
+    "uptime_percent": 48.99,
+    "asn": "AS42669",
+    "isp": "MegaWeb",
+    "latency_ms": 8423.76,
+    "last_checked": 1792834125.3194065
+  },
+  {
+    "protocol": "socks5",
+    "ip": "77.81.230.90",
+    "port": 9050,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.86,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 13097.61,
+    "last_checked": 1792834121.7247183
+  },
+  {
+    "protocol": "http",
+    "ip": "84.8.248.36",
+    "port": 3128,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rivoli",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 36.5,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 1872.29,
+    "last_checked": 1792834033.0552287
   }
 ]
