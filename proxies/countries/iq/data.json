@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.135.69.34",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "130.255.94.32",
+    "port": 5080,
     "country": "Iraq",
     "country_code": "IQ",
-    "city": "Al Mansour",
+    "city": "Erbil",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.83,
+    "asn": "AS197882",
+    "isp": "Tarin General Trading and Setting Up Internet Device LTD",
+    "latency_ms": 480.91,
+    "last_checked": 1792824864.088095
+  },
+  {
+    "protocol": "http",
+    "ip": "62.201.217.243",
+    "port": 40010,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Kelar",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 97.26,
-    "asn": "AS205889",
-    "isp": "Giganet Telecom",
-    "latency_ms": 133.69,
-    "last_checked": 1792824228.8954053
+    "uptime_percent": 23.25,
+    "asn": "AS44217",
+    "isp": "BAG",
+    "latency_ms": 3643.62,
+    "last_checked": 1792824818.2854877
   },
   {
     "protocol": "socks5",
@@ -26,7 +41,22 @@
     "uptime_percent": 40.53,
     "asn": "AS206206",
     "isp": "Kurdistan Net 4",
-    "latency_ms": 3454.34,
-    "last_checked": 1792824154.6280022
+    "latency_ms": 3452.88,
+    "last_checked": 1792824808.5238996
+  },
+  {
+    "protocol": "http",
+    "ip": "185.135.69.34",
+    "port": 80,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Al Mansour",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 97.26,
+    "asn": "AS205889",
+    "isp": "Giganet Telecom",
+    "latency_ms": 182.3,
+    "last_checked": 1792824804.1288006
   }
 ]
