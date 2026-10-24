@@ -1,6 +1,7 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,103.192.80.81,3129,Australia,AU,Melbourne,elite,false,65.06,AS136557,Host Universal Pty Ltd,2275.36,1792840450.8654413
-http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,true,29.85,AS4764,Aussie Fibre Pty Ltd,5859.81,1792840437.6315944
-http,114.111.151.41,80,Australia,AU,Melbourne,elite,false,71.59,AS45577,Intervolve Pty Ltd,5276.99,1792840410.0180676
-http,203.132.92.184,2020,Australia,AU,Sydney,elite,false,10.66,AS38195,SUPERLOOP (AUSTRALIA) PTY LTD,12578.99,1792840394.8802505
-http,61.29.96.146,80,Australia,AU,Melbourne,anonymous,false,10.64,AS2764,AAPT Limited,3423.94,1792840346.0611126
+socks4,108.61.185.188,1080,Australia,AU,Sydney,elite,true,44.61,AS20473,Choopa,5437.58,1792841043.2337968
+socks5,108.61.185.188,1080,Australia,AU,Sydney,elite,true,61.06,AS20473,Choopa,11865.52,1792841013.7000446
+socks4,45.77.235.30,1080,Australia,AU,Sydney,elite,true,38.01,AS20473,The Constant Company,15908.22,1792841008.7651818
+socks5,45.77.235.30,1080,Australia,AU,Sydney,elite,true,51.62,AS20473,The Constant Company,16817.38,1792840990.746897
+http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,false,29.84,AS4764,Aussie Fibre Pty Ltd,6407.89,1792840984.479175
+socks5,139.218.119.101,1080,Australia,AU,Brisbane,elite,true,65.0,AS9443,Vocus PTY LTD,3410.56,1792840962.560772
