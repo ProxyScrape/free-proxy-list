@@ -1,21 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "220.128.223.136",
-    "port": 8085,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taipei",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 11.85,
-    "asn": "AS3462",
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 9231.26,
-    "last_checked": 1792888132.4848382
-  },
-  {
-    "protocol": "http",
     "ip": "34.81.160.132",
     "port": 80,
     "country": "Taiwan",
@@ -26,8 +11,23 @@
     "uptime_percent": 42.19,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 9650.01,
-    "last_checked": 1792888131.2801661
+    "latency_ms": 680.19,
+    "last_checked": 1792888742.75135
+  },
+  {
+    "protocol": "socks5",
+    "ip": "112.105.12.235",
+    "port": 1111,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taichung",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 18.86,
+    "asn": "AS18049",
+    "isp": "TINP",
+    "latency_ms": 21091.54,
+    "last_checked": 1792888719.4960043
   },
   {
     "protocol": "http",
@@ -37,11 +37,41 @@
     "country_code": "TW",
     "city": "Zuoying",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 37.14,
+    "ssl": true,
+    "uptime_percent": 37.15,
     "asn": "AS3462",
     "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 21545.42,
-    "last_checked": 1792888122.8168018
+    "latency_ms": 10092.32,
+    "last_checked": 1792888747.6385586
+  },
+  {
+    "protocol": "http",
+    "ip": "210.201.86.72",
+    "port": 8080,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Banqiao",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.36,
+    "asn": "AS7482",
+    "isp": "Far EasTone Telecommunication",
+    "latency_ms": 11284.07,
+    "last_checked": 1792888742.8667588
+  },
+  {
+    "protocol": "http",
+    "ip": "203.73.62.104",
+    "port": 60808,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "New Taipei City",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 3.62,
+    "asn": "AS4780",
+    "isp": "Digital United Inc.",
+    "latency_ms": 12789.53,
+    "last_checked": 1792888642.6047928
   }
 ]
