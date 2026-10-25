@@ -1,63 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "77.81.230.90",
-    "port": 9050,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 25.85,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 11645.04,
-    "last_checked": 1792921455.0528247
-  },
-  {
-    "protocol": "socks5",
-    "ip": "212.77.75.25",
-    "port": 1088,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Empoli",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 97.35,
-    "asn": "AS15691",
-    "isp": "Leonet srl Empoli",
-    "latency_ms": 1782.14,
-    "last_checked": 1792921454.2801795
-  },
-  {
-    "protocol": "socks4",
-    "ip": "34.154.195.225",
-    "port": 40001,
+    "protocol": "http",
+    "ip": "85.208.200.185",
+    "port": 8081,
     "country": "Italy",
     "country_code": "IT",
     "city": "Milan",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 44.19,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 922.93,
-    "last_checked": 1792921452.5395668
+    "uptime_percent": 10.42,
+    "asn": "AS44092",
+    "isp": "HAL Service SpA",
+    "latency_ms": 3539.83,
+    "last_checked": 1792922044.1809657
   },
   {
-    "protocol": "socks5",
-    "ip": "80.211.131.230",
-    "port": 9050,
+    "protocol": "http",
+    "ip": "85.235.150.219",
+    "port": 3128,
     "country": "Italy",
     "country_code": "IT",
     "city": "Arezzo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 26.45,
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.88,
     "asn": "AS31034",
-    "isp": "Aruba S.p.A. Network",
-    "latency_ms": 10827.28,
-    "last_checked": 1792921442.5725276
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 9520.0,
+    "last_checked": 1792922030.225027
   },
   {
     "protocol": "http",
@@ -71,8 +41,8 @@
     "uptime_percent": 49.14,
     "asn": "AS42669",
     "isp": "MegaWeb",
-    "latency_ms": 5024.03,
-    "last_checked": 1792921431.3802507
+    "latency_ms": 56.55,
+    "last_checked": 1792921678.4267848
   },
   {
     "protocol": "socks5",
@@ -88,5 +58,20 @@
     "isp": "Google LLC",
     "latency_ms": 996.14,
     "last_checked": 1792921631.5021634
+  },
+  {
+    "protocol": "socks5",
+    "ip": "212.77.75.25",
+    "port": 1088,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Empoli",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 97.35,
+    "asn": "AS15691",
+    "isp": "Leonet srl Empoli",
+    "latency_ms": 976.86,
+    "last_checked": 1792921596.514891
   }
 ]
