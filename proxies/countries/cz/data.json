@@ -1,50 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "90.178.216.215",
-    "port": 4153,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.25,
-    "asn": "AS5610",
-    "isp": "Telefonica O2 Czech Republic, a.s.",
-    "latency_ms": 780.96,
-    "last_checked": 1792886362.9654384
-  },
-  {
-    "protocol": "http",
-    "ip": "109.123.219.11",
-    "port": 80,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 66.63,
-    "asn": "AS15685",
-    "isp": "Casablanca INT",
-    "latency_ms": 526.11,
-    "last_checked": 1792886348.5721161
-  },
-  {
-    "protocol": "socks5",
-    "ip": "31.47.103.220",
-    "port": 1080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Rožnov pod Radhoštěm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 24.97,
-    "asn": "AS8251",
-    "isp": "Neutral czFree eXchange members",
-    "latency_ms": 7569.41,
-    "last_checked": 1792886345.4568636
-  },
-  {
     "protocol": "http",
     "ip": "77.240.102.149",
     "port": 800,
@@ -52,11 +7,26 @@
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 30.31,
     "asn": "AS42189",
     "isp": "Druzstvo EUROSIGNAL",
-    "latency_ms": 2208.08,
-    "last_checked": 1792886276.975435
+    "latency_ms": 4424.8,
+    "last_checked": 1792886966.7641923
+  },
+  {
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 71.72,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 5932.04,
+    "last_checked": 1792886944.3408039
   }
 ]
