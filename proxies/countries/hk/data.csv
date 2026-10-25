@@ -1,19 +1,19 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,47.243.92.199,3128,Hong Kong,HK,Hong Kong,elite,true,87.64,AS45102,Alibaba Cloud LLC,854.56,1792890575.902727
-socks5,8.210.17.35,443,Hong Kong,HK,Hong Kong,elite,true,1.06,AS45102,Alibaba.com LLC,6366.51,1792890575.185812
-socks5,193.134.210.148,1080,Hong Kong,HK,Hong Kong,elite,true,95.6,AS139659,Lucidacloud Limited,3537.51,1792890573.6175368
-http,101.36.112.205,1081,Hong Kong,HK,Hong Kong,elite,true,78.95,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,5044.29,1792890571.3715837
-socks5,123.58.219.171,10808,Hong Kong,HK,Hong Kong,elite,true,89.42,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,2114.02,1792890568.2692766
-socks5,8.210.17.35,31281,Hong Kong,HK,Hong Kong,elite,true,1.05,AS45102,Alibaba.com LLC,13569.64,1792890568.1929913
-socks5,8.210.17.35,80,Hong Kong,HK,Hong Kong,elite,true,1.06,AS45102,Alibaba.com LLC,13865.99,1792890567.8746474
-socks5,45.149.92.160,1080,Hong Kong,HK,Hong Kong,elite,true,55.03,AS401443,WAP.AC LLC,1672.73,1792890567.2392879
-socks4,149.104.24.86,40001,Hong Kong,HK,Hong Kong,elite,true,46.77,AS139659,Cogent Communications,11475.17,1792890565.993968
-socks4,154.221.24.92,1080,Hong Kong,HK,Chai Wan,elite,true,15.87,AS142403,Yisu Cloud LTD,5346.38,1792890565.1321084
-socks5,83.229.123.88,80,Hong Kong,HK,Hong Kong,elite,true,90.38,AS139659,Lucidacloud Limited,4147.36,1792890562.186656
+http,39.109.113.97,4090,Hong Kong,HK,Kwai Chung,elite,false,79.03,AS142403,Yisu Cloud LTD,1064.48,1792890882.1522455
+socks5,165.154.20.187,10808,Hong Kong,HK,Hong Kong,elite,true,80.4,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,3214.42,1792890873.8181396
+http,203.19.38.114,1080,Hong Kong,HK,Hong Kong,elite,false,78.34,AS23764,China Telecom Global networks,569.65,1792890871.5117574
+socks5,45.149.92.160,1080,Hong Kong,HK,Hong Kong,elite,true,55.04,AS401443,WAP.AC LLC,971.21,1792890866.6796408
+socks5,38.76.212.39,8181,Hong Kong,HK,Hong Kong,elite,true,77.07,AS401701,Cogent Communications,4223.23,1792890865.569187
+socks5,207.57.123.131,9000,Hong Kong,HK,Tseung Kwan O,elite,true,75.39,AS139659,NTT America,15470.98,1792890862.186225
+socks5,83.229.123.88,80,Hong Kong,HK,Hong Kong,elite,true,90.74,AS139659,Lucidacloud Limited,10779.47,1792890861.4069371
+socks4,177.201.224.186,8888,Hong Kong,HK,Hong Kong,elite,true,33.94,AS140227,"Hong Kong Communications International Co., Limited",17733.35,1792890859.6477907
+http,47.243.92.199,3128,Hong Kong,HK,Hong Kong,elite,true,87.64,AS45102,Alibaba Cloud LLC,863.16,1792890859.263401
+http,45.15.10.174,3128,Hong Kong,HK,Ha Kwai Chung,transparent,false,8.61,AS133115,HK Kwaifong Group Limited,8144.66,1792890858.2807271
+http,139.198.113.42,10023,Hong Kong,HK,Hong Kong,anonymous,false,45.12,AS134366,Yunify Technologies Inc,4111.7,1792890857.851289
+http,103.1.50.48,3125,Hong Kong,HK,Kwun Tong,transparent,false,11.71,AS142352,CPCNet Hong Kong Ltd. - IP Administrator,10209.24,1792890857.8129494
+socks5,45.194.33.12,30001,Hong Kong,HK,Hong Kong,elite,true,99.57,AS138995,Antbox Network Limited,1149.4,1792890851.3434541
 socks5,45.194.33.12,30002,Hong Kong,HK,Hong Kong,elite,true,99.63,AS138995,Antbox Network Limited,1338.98,1792890555.7766054
 socks5,64.90.11.174,555,Hong Kong,HK,Hong Kong,elite,true,99.25,AS979,NetLab Global,2949.29,1792890555.240999
-http,39.109.113.97,4090,Hong Kong,HK,Kwai Chung,elite,false,79.03,AS142403,Yisu Cloud LTD,942.21,1792890554.5813172
-http,203.19.38.114,1080,Hong Kong,HK,Hong Kong,elite,false,78.34,AS23764,China Telecom Global networks,458.23,1792890554.439265
 socks5,156.225.31.18,7890,Hong Kong,HK,Hong Kong,elite,true,25.93,AS401701,Vapeline Technology,4651.7,1792890553.482476
 socks5,101.36.112.205,1081,Hong Kong,HK,Hong Kong,elite,true,80.36,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,8789.73,1792890552.7199738
 socks5,149.104.24.86,40001,Hong Kong,HK,Hong Kong,elite,true,59.14,AS139659,Cogent Communications,20324.78,1792890546.3325608
@@ -30,9 +30,7 @@ socks5,47.238.60.156,8888,Hong Kong,HK,Hong Kong,elite,true,0.98,AS45102,Alibaba
 http,39.109.76.241,8080,Hong Kong,HK,Hong Kong,transparent,false,27.52,AS149175,Union FU WAH Digital Technology Limited,5377.73,1792890499.493862
 http,103.43.191.71,8888,Hong Kong,HK,Kwai Chung,elite,true,93.92,AS139021,West263 International Limited,1690.09,1792890497.1459208
 socks5,183.87.145.150,2080,Hong Kong,HK,Hong Kong,elite,true,42.13,AS136907,Huawei International Pte. LTD,1216.86,1792890495.2097583
-socks5,38.76.212.39,8181,Hong Kong,HK,Hong Kong,elite,true,77.07,AS401701,Cogent Communications,7093.54,1792890493.145816
 socks5,112.121.173.84,1080,Hong Kong,HK,Hong Kong,elite,true,81.72,AS45753,Netsec Limited,11487.12,1792890479.6891084
-socks5,165.154.20.187,10808,Hong Kong,HK,Hong Kong,elite,true,80.4,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,11699.46,1792890471.6009924
 http,177.201.224.186,8888,Hong Kong,HK,Hong Kong,elite,false,19.87,AS140227,"Hong Kong Communications International Co., Limited",11072.67,1792890470.2046967
 socks5,47.76.144.139,6379,Hong Kong,HK,Hong Kong,elite,true,1.23,AS45102,Alibaba Cloud LLC,7303.73,1792890465.0444374
 socks5,47.76.144.139,8181,Hong Kong,HK,Hong Kong,elite,true,1.22,AS45102,Alibaba Cloud LLC,8527.02,1792890463.8532298
