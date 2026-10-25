@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "212.200.223.89",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "95.140.118.34",
+    "port": 1080,
     "country": "Serbia",
     "country_code": "RS",
     "city": "Belgrade",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.41,
+    "uptime_percent": 42.79,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Network",
+    "latency_ms": 707.88,
+    "last_checked": 1792961964.163982
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.190.154.121",
+    "port": 4145,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.34,
     "asn": "AS8400",
-    "isp": "TELEKOM SRBIJA a.d.",
-    "latency_ms": 1610.14,
-    "last_checked": 1792961330.329593
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 297.41,
+    "last_checked": 1792961951.4328406
+  },
+  {
+    "protocol": "socks4",
+    "ip": "217.169.223.18",
+    "port": 1080,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.72,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Client Network",
+    "latency_ms": 7324.14,
+    "last_checked": 1792961948.3649457
   },
   {
     "protocol": "http",
@@ -22,26 +52,11 @@
     "country_code": "RS",
     "city": "Novi Sad",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 27.69,
     "asn": "AS31042",
     "isp": "Serbia BroadBand",
-    "latency_ms": 7152.7,
-    "last_checked": 1792961320.9214952
-  },
-  {
-    "protocol": "http",
-    "ip": "95.140.113.74",
-    "port": 6666,
-    "country": "Serbia",
-    "country_code": "RS",
-    "city": "Belgrade",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.46,
-    "asn": "AS9125",
-    "isp": "Orion Telekom Network",
-    "latency_ms": 3035.59,
-    "last_checked": 1792961306.33305
+    "latency_ms": 16748.3,
+    "last_checked": 1792961916.1001606
   }
 ]
