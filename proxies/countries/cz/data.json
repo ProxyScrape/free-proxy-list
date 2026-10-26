@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "77.240.102.149",
-    "port": 800,
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.15,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 7235.89,
+    "last_checked": 1793047449.9944026
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Uherské Hradiště",
     "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 14.59,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 3195.71,
+    "last_checked": 1793047461.7794478
+  },
+  {
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 30.34,
-    "asn": "AS42189",
-    "isp": "Druzstvo EUROSIGNAL",
-    "latency_ms": 8184.12,
-    "last_checked": 1793046758.492726
+    "uptime_percent": 71.87,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 10881.16,
+    "last_checked": 1793047457.6554103
   },
   {
     "protocol": "socks5",
@@ -26,7 +56,7 @@
     "uptime_percent": 24.77,
     "asn": "AS16019",
     "isp": "Vodafone Czech Republic a.s.",
-    "latency_ms": 14090.48,
-    "last_checked": 1793046641.0640278
+    "latency_ms": 19490.58,
+    "last_checked": 1793047313.0880594
   }
 ]
