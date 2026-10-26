@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "165.16.58.130",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "165.16.99.209",
+    "port": 1080,
     "country": "Libya",
     "country_code": "LY",
     "city": "Tripoli",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 18.05,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.34,
     "asn": "AS37284",
     "isp": "Aljeel Aljadeed For Technology",
-    "latency_ms": 6297.25,
-    "last_checked": 1793020659.2687027
+    "latency_ms": 3500.35,
+    "last_checked": 1793021354.3105235
+  },
+  {
+    "protocol": "http",
+    "ip": "102.209.0.138",
+    "port": 8080,
+    "country": "Libya",
+    "country_code": "LY",
+    "city": "Benghazi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 23.87,
+    "asn": "AS329435",
+    "isp": "Aljuman Aljadeed Limited Liability company",
+    "latency_ms": 8885.72,
+    "last_checked": 1793021239.705643
   }
 ]
