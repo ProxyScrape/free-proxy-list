@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "188.211.30.65",
-    "port": 8787,
+    "protocol": "socks4",
+    "ip": "93.115.174.1",
+    "port": 1080,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Făget",
+    "city": "Sfantu Gheorghe",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.28,
+    "asn": "AS39531",
+    "isp": "Alter-NET SRL",
+    "latency_ms": 1481.35,
+    "last_checked": 1793144975.5163414
+  },
+  {
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Cârţişoara",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 58.99,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 5136.27,
+    "last_checked": 1793144956.185094
+  },
+  {
+    "protocol": "http",
+    "ip": "185.128.240.2",
+    "port": 3128,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Drobeta-Turnu Severin",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 24.91,
-    "asn": "AS214529",
-    "isp": "DAM TELECOM SERVICES SRL",
-    "latency_ms": 6479.64,
-    "last_checked": 1793144375.5127249
+    "uptime_percent": 22.85,
+    "asn": "AS49052",
+    "isp": "Data ZYX SRL",
+    "latency_ms": 6405.59,
+    "last_checked": 1793144940.4742656
   },
   {
     "protocol": "http",
@@ -22,26 +52,11 @@
     "country_code": "RO",
     "city": "Miercurea-Ciuc",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 60.97,
+    "ssl": true,
+    "uptime_percent": 61.01,
     "asn": "AS8708",
     "isp": "RCS & RDS",
-    "latency_ms": 7107.03,
-    "last_checked": 1793144365.970339
-  },
-  {
-    "protocol": "http",
-    "ip": "92.86.207.198",
-    "port": 8080,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Vaideeni",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 15.07,
-    "asn": "AS9050",
-    "isp": "Romtelecom",
-    "latency_ms": 1942.35,
-    "last_checked": 1793144362.0737753
+    "latency_ms": 1185.73,
+    "last_checked": 1793144939.5798967
   }
 ]
