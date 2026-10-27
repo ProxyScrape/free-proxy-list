@@ -1,33 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "160.119.51.209",
-    "port": 8088,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Nababeep",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 21.55,
-    "asn": "AS327804",
-    "isp": "Municipal Network Services",
-    "latency_ms": 7456.11,
-    "last_checked": 1793087851.2005708
-  },
-  {
-    "protocol": "http",
-    "ip": "196.25.34.194",
+    "ip": "105.22.37.218",
     "port": 8080,
     "country": "South Africa",
     "country_code": "ZA",
-    "city": "Humansdorp",
+    "city": "Johannesburg",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 19.76,
-    "asn": "AS5713",
-    "isp": "Telkom SA Ltd.",
-    "latency_ms": 3714.44,
-    "last_checked": 1793087841.6887636
+    "uptime_percent": 26.91,
+    "asn": "AS37100",
+    "isp": "SEACOM Limited Networks",
+    "latency_ms": 6461.33,
+    "last_checked": 1793088226.325559
+  },
+  {
+    "protocol": "socks4",
+    "ip": "105.214.67.34",
+    "port": 5678,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Johannesburg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 65.84,
+    "asn": "AS16637",
+    "isp": "MTN SA",
+    "latency_ms": 911.94,
+    "last_checked": 1793088219.498414
   },
   {
     "protocol": "socks4",
@@ -38,26 +38,11 @@
     "city": "Johannesburg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 62.59,
+    "uptime_percent": 62.61,
     "asn": "AS16637",
     "isp": "MTN SA",
-    "latency_ms": 4012.6,
-    "last_checked": 1793087839.3476498
-  },
-  {
-    "protocol": "http",
-    "ip": "196.251.222.242",
-    "port": 8102,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Brits",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 12.16,
-    "asn": "AS37403",
-    "isp": "Info-Gro (PTY) Ltd",
-    "latency_ms": 13832.49,
-    "last_checked": 1793087831.4047642
+    "latency_ms": 1941.01,
+    "last_checked": 1793088216.2994516
   },
   {
     "protocol": "http",
@@ -71,8 +56,23 @@
     "uptime_percent": 38.99,
     "asn": "AS328471",
     "isp": "HERO TELECOMS (PTY) LTD",
-    "latency_ms": 7958.32,
-    "last_checked": 1793087921.715361
+    "latency_ms": 3104.61,
+    "last_checked": 1793088214.223618
+  },
+  {
+    "protocol": "http",
+    "ip": "160.119.51.209",
+    "port": 8088,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Nababeep",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.55,
+    "asn": "AS327804",
+    "isp": "Municipal Network Services",
+    "latency_ms": 10632.12,
+    "last_checked": 1793087899.6896713
   },
   {
     "protocol": "http",
@@ -118,5 +118,35 @@
     "isp": "Microsoft Corporation",
     "latency_ms": 1227.55,
     "last_checked": 1793087867.2928007
+  },
+  {
+    "protocol": "http",
+    "ip": "196.25.34.194",
+    "port": 8080,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Humansdorp",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.76,
+    "asn": "AS5713",
+    "isp": "Telkom SA Ltd.",
+    "latency_ms": 3714.44,
+    "last_checked": 1793087841.6887636
+  },
+  {
+    "protocol": "http",
+    "ip": "196.251.222.242",
+    "port": 8102,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Brits",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.16,
+    "asn": "AS37403",
+    "isp": "Info-Gro (PTY) Ltd",
+    "latency_ms": 13832.49,
+    "last_checked": 1793087831.4047642
   }
 ]
