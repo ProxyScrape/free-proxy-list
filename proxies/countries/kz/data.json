@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "217.151.230.186",
-    "port": 9055,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 15.35,
-    "asn": "AS9123",
-    "isp": "JSC \"TIMEWEB\"",
-    "latency_ms": 10437.6,
-    "last_checked": 1793071116.848951
-  },
-  {
-    "protocol": "http",
-    "ip": "91.185.20.162",
-    "port": 8080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Astana",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 23.97,
-    "asn": "AS41798",
-    "isp": "TTC Network",
-    "latency_ms": 16736.67,
-    "last_checked": 1793071088.2954252
-  },
-  {
     "protocol": "http",
     "ip": "46.8.252.12",
     "port": 8123,
@@ -37,11 +7,26 @@
     "country_code": "KZ",
     "city": "Karaganda",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 36.86,
+    "ssl": true,
+    "uptime_percent": 37.24,
     "asn": "AS203481",
     "isp": "AstanaMegatel Ltd.",
-    "latency_ms": 4685.79,
-    "last_checked": 1793071068.0008361
+    "latency_ms": 1020.92,
+    "last_checked": 1793071725.170874
+  },
+  {
+    "protocol": "socks5",
+    "ip": "217.151.230.186",
+    "port": 9055,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.96,
+    "asn": "AS9123",
+    "isp": "JSC \"TIMEWEB\"",
+    "latency_ms": 3506.96,
+    "last_checked": 1793071579.4987235
   }
 ]
