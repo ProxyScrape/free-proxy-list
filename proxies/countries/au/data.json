@@ -11,11 +11,26 @@
     "uptime_percent": 11.06,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 11455.2,
-    "last_checked": 1793101158.8198192
+    "latency_ms": 8111.7,
+    "last_checked": 1793101756.4641457
   },
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "180.181.215.232",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.79,
+    "asn": "AS4764",
+    "isp": "Aussie Fibre Pty Ltd",
+    "latency_ms": 1179.11,
+    "last_checked": 1793101693.641157
+  },
+  {
+    "protocol": "socks5",
     "ip": "168.138.9.147",
     "port": 1080,
     "country": "Australia",
@@ -23,25 +38,40 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 32.63,
+    "uptime_percent": 29.25,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 28030.31,
-    "last_checked": 1793101143.9238079
+    "latency_ms": 5111.15,
+    "last_checked": 1793101692.052805
   },
   {
-    "protocol": "http",
-    "ip": "103.18.205.162",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "103.192.80.81",
+    "port": 1088,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
-    "anonymity": "transparent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 77.57,
+    "asn": "AS136557",
+    "isp": "Host Universal Pty Ltd",
+    "latency_ms": 6773.66,
+    "last_checked": 1793101682.7100854
+  },
+  {
+    "protocol": "http",
+    "ip": "103.192.80.81",
+    "port": 3129,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 27.74,
-    "asn": "AS134371",
-    "isp": "Circle Network",
-    "latency_ms": 5891.92,
-    "last_checked": 1793101086.0975254
+    "uptime_percent": 68.25,
+    "asn": "AS136557",
+    "isp": "Host Universal Pty Ltd",
+    "latency_ms": 2515.59,
+    "last_checked": 1793101673.5903106
   }
 ]
