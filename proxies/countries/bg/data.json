@@ -1,32 +1,47 @@
 [
   {
     "protocol": "http",
-    "ip": "213.169.33.7",
-    "port": 8001,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 12.89,
-    "asn": "AS8717",
-    "isp": "A1 Bulgaria EAD",
-    "latency_ms": 1636.14,
-    "last_checked": 1793079520.3520818
-  },
-  {
-    "protocol": "http",
     "ip": "213.169.33.10",
     "port": 8001,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 16.87,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 6958.88,
-    "last_checked": 1793079506.4982266
+    "latency_ms": 9305.34,
+    "last_checked": 1793080110.52794
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.3",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 16.88,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 2153.73,
+    "last_checked": 1793080103.2202148
+  },
+  {
+    "protocol": "socks5",
+    "ip": "194.182.178.90",
+    "port": 1080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.28,
+    "asn": "AS61098",
+    "isp": "Akenes SA",
+    "latency_ms": 2366.49,
+    "last_checked": 1793080086.0509017
   }
 ]
