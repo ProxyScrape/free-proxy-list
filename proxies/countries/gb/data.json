@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "198.244.254.77",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "89.238.128.230",
+    "port": 1080,
     "country": "United Kingdom",
     "country_code": "GB",
-    "city": "London",
+    "city": "Edmonton",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 22.1,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 5558.75,
-    "last_checked": 1793114914.6137764
+    "uptime_percent": 25.03,
+    "asn": "AS9009",
+    "isp": "M247 Europe SRL",
+    "latency_ms": 7421.13,
+    "last_checked": 1793115570.6402826
   },
   {
     "protocol": "socks5",
@@ -26,22 +26,52 @@
     "uptime_percent": 58.99,
     "asn": "AS46562",
     "isp": "Performive LLC",
-    "latency_ms": 1257.28,
-    "last_checked": 1793114910.115241
+    "latency_ms": 974.84,
+    "last_checked": 1793115564.4267612
   },
   {
     "protocol": "http",
-    "ip": "8.211.200.183",
-    "port": 84,
+    "ip": "134.122.102.22",
+    "port": 8080,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "Slough",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 15.62,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 619.23,
+    "last_checked": 1793115544.502979
+  },
+  {
+    "protocol": "socks5",
+    "ip": "134.209.29.120",
+    "port": 1080,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "Slough",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 66.74,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 904.14,
+    "last_checked": 1793115536.36312
+  },
+  {
+    "protocol": "http",
+    "ip": "198.244.254.77",
+    "port": 3128,
     "country": "United Kingdom",
     "country_code": "GB",
     "city": "London",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 1.42,
-    "asn": "AS45102",
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "latency_ms": 2042.0,
-    "last_checked": 1793114857.0984328
+    "ssl": true,
+    "uptime_percent": 22.11,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 2229.89,
+    "last_checked": 1793115528.5043907
   }
 ]
