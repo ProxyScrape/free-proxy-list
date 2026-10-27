@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "195.114.209.50",
-    "port": 80,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Alcobendas",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 70.63,
-    "asn": "AS57286",
-    "isp": "Gigas Hosting SL",
-    "latency_ms": 113.5,
-    "last_checked": 1793088875.9194179
-  },
-  {
     "protocol": "socks4",
     "ip": "83.56.15.57",
     "port": 5678,
@@ -26,8 +11,23 @@
     "uptime_percent": 40.03,
     "asn": "AS3352",
     "isp": "Telefonica de Espana SAU",
-    "latency_ms": 3227.27,
-    "last_checked": 1793088859.4218276
+    "latency_ms": 195.73,
+    "last_checked": 1793089806.7576768
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.117.248.36",
+    "port": 1080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Sant Joan les Fonts",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.25,
+    "asn": "AS210086",
+    "isp": "Connecta 1876 SLU",
+    "latency_ms": 7600.97,
+    "last_checked": 1793089787.1082609
   },
   {
     "protocol": "http",
@@ -38,25 +38,55 @@
     "city": "Madrid",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 27.18,
+    "uptime_percent": 27.19,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 9472.3,
-    "last_checked": 1793088790.597813
+    "latency_ms": 2567.06,
+    "last_checked": 1793089776.0876455
   },
   {
     "protocol": "http",
+    "ip": "195.114.209.50",
+    "port": 80,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Alcobendas",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 70.63,
+    "asn": "AS57286",
+    "isp": "Gigas Hosting SL",
+    "latency_ms": 114.85,
+    "last_checked": 1793089768.6932273
+  },
+  {
+    "protocol": "http",
+    "ip": "90.161.186.147",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Puerto de Santiago",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.59,
+    "asn": "AS12479",
+    "isp": "UNI2-ABI",
+    "latency_ms": 2695.97,
+    "last_checked": 1793089666.9008267
+  },
+  {
+    "protocol": "socks5",
     "ip": "81.0.49.104",
-    "port": 20500,
+    "port": 18500,
     "country": "Spain",
     "country_code": "ES",
     "city": "Jaca",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.71,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.9,
     "asn": "AS15704",
     "isp": "MasMovil Access Network",
-    "latency_ms": 9947.62,
-    "last_checked": 1793088667.4647875
+    "latency_ms": 1795.19,
+    "last_checked": 1793089623.0760984
   }
 ]
