@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "212.77.75.25",
-    "port": 1088,
+    "protocol": "http",
+    "ip": "85.208.200.185",
+    "port": 8081,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Empoli",
-    "anonymity": "elite",
+    "city": "Milan",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 97.25,
-    "asn": "AS15691",
-    "isp": "Leonet srl Empoli",
-    "latency_ms": 187.79,
-    "last_checked": 1793212765.0873191
+    "uptime_percent": 10.44,
+    "asn": "AS44092",
+    "isp": "HAL Service SpA",
+    "latency_ms": 7663.33,
+    "last_checked": 1793213050.5597534
+  },
+  {
+    "protocol": "http",
+    "ip": "84.8.248.36",
+    "port": 3128,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rivoli",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 36.03,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 8148.05,
+    "last_checked": 1793212754.5378091
   },
   {
     "protocol": "http",
@@ -43,35 +58,5 @@
     "isp": "Mywic Costumers",
     "latency_ms": 4991.58,
     "last_checked": 1793212721.0736072
-  },
-  {
-    "protocol": "http",
-    "ip": "45.142.134.5",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Avezzano",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 29.43,
-    "asn": "AS203540",
-    "isp": "AZ EBGP RETAIL DYNAMIC",
-    "latency_ms": 1745.58,
-    "last_checked": 1793212718.392349
-  },
-  {
-    "protocol": "http",
-    "ip": "84.8.248.36",
-    "port": 3128,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Rivoli",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 36.03,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 8148.05,
-    "last_checked": 1793212754.5378091
   }
 ]

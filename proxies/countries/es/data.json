@@ -1,6 +1,51 @@
 [
   {
     "protocol": "http",
+    "ip": "90.161.220.67",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Conil de la Frontera",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 26.98,
+    "asn": "AS12479",
+    "isp": "UNI2-ABI",
+    "latency_ms": 1541.02,
+    "last_checked": 1793213058.1557853
+  },
+  {
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Ciempozuelos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.06,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 3222.28,
+    "last_checked": 1793213036.1925843
+  },
+  {
+    "protocol": "http",
+    "ip": "2.139.41.14",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 31.65,
+    "asn": "AS3352",
+    "isp": "RIMA (Red IP Multi Acceso)",
+    "latency_ms": 5461.96,
+    "last_checked": 1793213022.1913867
+  },
+  {
+    "protocol": "http",
     "ip": "195.114.209.50",
     "port": 80,
     "country": "Spain",
@@ -28,35 +73,5 @@
     "isp": "Cloudi Nextgen SL",
     "latency_ms": 12861.15,
     "last_checked": 1793212745.2448995
-  },
-  {
-    "protocol": "socks4",
-    "ip": "83.56.15.57",
-    "port": 5678,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Ciempozuelos",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 40.06,
-    "asn": "AS3352",
-    "isp": "Telefonica de Espana SAU",
-    "latency_ms": 189.67,
-    "last_checked": 1793212733.1897664
-  },
-  {
-    "protocol": "http",
-    "ip": "90.161.220.67",
-    "port": 3128,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Conil de la Frontera",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 26.98,
-    "asn": "AS12479",
-    "isp": "UNI2-ABI",
-    "latency_ms": 2808.11,
-    "last_checked": 1793212682.285818
   }
 ]
