@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "85.187.224.21",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "194.182.178.90",
+    "port": 1080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Kardzhali",
-    "anonymity": "transparent",
+    "city": "Sofia",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 19.23,
-    "asn": "AS199173",
-    "isp": "Technolux Ltd",
-    "latency_ms": 3387.48,
-    "last_checked": 1793144967.0443943
+    "uptime_percent": 38.65,
+    "asn": "AS61098",
+    "isp": "Akenes SA",
+    "latency_ms": 877.67,
+    "last_checked": 1793145563.0679712
   },
   {
     "protocol": "socks4",
@@ -26,37 +26,52 @@
     "uptime_percent": 45.28,
     "asn": "AS8866",
     "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 249.49,
-    "last_checked": 1793144951.4774694
+    "latency_ms": 7933.68,
+    "last_checked": 1793145549.4750865
   },
   {
     "protocol": "http",
-    "ip": "151.237.84.9",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Belasitsa",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 22.04,
-    "asn": "AS48233",
-    "isp": "Netroniks EOOD",
-    "latency_ms": 1356.28,
-    "last_checked": 1793144901.4646363
-  },
-  {
-    "protocol": "http",
-    "ip": "213.169.33.7",
+    "ip": "213.169.33.8",
     "port": 8001,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 12.91,
+    "ssl": true,
+    "uptime_percent": 17.0,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 6452.0,
-    "last_checked": 1793144900.549258
+    "latency_ms": 4843.63,
+    "last_checked": 1793145532.770862
+  },
+  {
+    "protocol": "http",
+    "ip": "87.126.65.11",
+    "port": 1388,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Stara Zagora",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.28,
+    "asn": "AS8866",
+    "isp": "Vivacom Bulgaria EAD",
+    "latency_ms": 12524.79,
+    "last_checked": 1793145504.3368578
+  },
+  {
+    "protocol": "http",
+    "ip": "85.187.224.21",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Kardzhali",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.23,
+    "asn": "AS199173",
+    "isp": "Technolux Ltd",
+    "latency_ms": 5340.77,
+    "last_checked": 1793145475.8062162
   }
 ]
