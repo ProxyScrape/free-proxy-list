@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "91.198.92.153",
-    "port": 8080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Åkersberga",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 84.55,
-    "asn": "AS56700",
-    "isp": "Osterakers Kommun",
-    "latency_ms": 2323.57,
-    "last_checked": 1793174365.1207957
-  },
-  {
     "protocol": "socks5",
     "ip": "89.22.229.195",
     "port": 1080,
@@ -23,11 +8,26 @@
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 35.96,
+    "uptime_percent": 35.98,
     "asn": "AS210644",
     "isp": "xorek.cloud International LTD",
-    "latency_ms": 208.71,
-    "last_checked": 1793174359.0036077
+    "latency_ms": 216.56,
+    "last_checked": 1793174956.4131703
+  },
+  {
+    "protocol": "socks4",
+    "ip": "85.228.42.180",
+    "port": 4153,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Upplands Vasby",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.43,
+    "asn": "AS8434",
+    "isp": "Bredbandsbolaget",
+    "latency_ms": 153.75,
+    "last_checked": 1793174954.2246304
   },
   {
     "protocol": "socks4",
@@ -41,23 +41,23 @@
     "uptime_percent": 22.36,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 7593.49,
-    "last_checked": 1793174352.2784414
+    "latency_ms": 11551.17,
+    "last_checked": 1793174946.2625053
   },
   {
-    "protocol": "socks5",
-    "ip": "91.90.25.89",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 80,
     "country": "Sweden",
     "country_code": "SE",
-    "city": "Falköping",
+    "city": "Stockholm",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 38.03,
-    "asn": "AS35100",
-    "isp": "Patrik Lagerman WEB, Enskild Firma",
-    "latency_ms": 12816.27,
-    "last_checked": 1793174348.7438452
+    "ssl": false,
+    "uptime_percent": 66.37,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 11947.71,
+    "last_checked": 1793174938.8308325
   },
   {
     "protocol": "http",
@@ -71,8 +71,8 @@
     "uptime_percent": 31.0,
     "asn": "AS8473",
     "isp": "Bahnhof Internet",
-    "latency_ms": 236.2,
-    "last_checked": 1793174339.5731862
+    "latency_ms": 5000.49,
+    "last_checked": 1793174935.0627437
   },
   {
     "protocol": "socks5",
@@ -86,23 +86,8 @@
     "uptime_percent": 93.49,
     "asn": "AS35100",
     "isp": "Patrik Lagerman",
-    "latency_ms": 1037.4,
-    "last_checked": 1793174330.2398221
-  },
-  {
-    "protocol": "http",
-    "ip": "194.154.31.227",
-    "port": 3128,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Falkenberg",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 24.41,
-    "asn": "AS48040",
-    "isp": "Fornex Hosting S.L.",
-    "latency_ms": 10351.57,
-    "last_checked": 1793174329.0607371
+    "latency_ms": 1332.97,
+    "last_checked": 1793174926.864437
   },
   {
     "protocol": "http",
@@ -113,11 +98,11 @@
     "city": "Stockholm",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 86.34,
+    "uptime_percent": 86.37,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 13326.79,
-    "last_checked": 1793174327.4457648
+    "latency_ms": 18070.07,
+    "last_checked": 1793174925.6889062
   },
   {
     "protocol": "socks5",
@@ -131,7 +116,37 @@
     "uptime_percent": 73.02,
     "asn": "AS63473",
     "isp": "HostHatch",
-    "latency_ms": 14940.19,
-    "last_checked": 1793174324.2371361
+    "latency_ms": 13020.07,
+    "last_checked": 1793174895.33031
+  },
+  {
+    "protocol": "http",
+    "ip": "91.198.92.153",
+    "port": 8080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Åkersberga",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 84.87,
+    "asn": "AS56700",
+    "isp": "Osterakers Kommun",
+    "latency_ms": 1429.15,
+    "last_checked": 1793174885.8379402
+  },
+  {
+    "protocol": "socks5",
+    "ip": "91.90.25.89",
+    "port": 1080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Falköping",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.03,
+    "asn": "AS35100",
+    "isp": "Patrik Lagerman WEB, Enskild Firma",
+    "latency_ms": 11182.87,
+    "last_checked": 1793174860.344829
   }
 ]
