@@ -1,3 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,114.111.151.41,80,Australia,AU,Melbourne,elite,false,72.19,AS45577,Intervolve Pty Ltd,694.74,1793224733.8746498
-http,61.29.96.146,8000,Australia,AU,Melbourne,anonymous,false,11.09,AS2764,AAPT Limited,7045.89,1793224728.2360532
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,32.63,AS31898,Oracle Corporation,5772.63,1793225390.3099444
+http,114.111.151.41,80,Australia,AU,Melbourne,elite,false,72.19,AS45577,Intervolve Pty Ltd,1579.25,1793225384.1817186
+socks5,103.192.80.81,1088,Australia,AU,Melbourne,elite,true,78.32,AS136557,Host Universal Pty Ltd,15065.53,1793225378.052174
+http,103.249.237.158,8888,Australia,AU,Sydney,transparent,true,31.74,AS133159,Mammoth Media Pty Ltd,13798.59,1793225355.9972734
+http,61.29.96.146,8000,Australia,AU,Melbourne,anonymous,true,11.09,AS2764,AAPT Limited,5776.92,1793225277.0955057
