@@ -1,21 +1,21 @@
 [
   {
-    "protocol": "http",
-    "ip": "89.40.77.249",
-    "port": 8787,
+    "protocol": "socks4",
+    "ip": "93.115.174.1",
+    "port": 1080,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Bucharest",
+    "city": "Sfantu Gheorghe",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 21.3,
-    "asn": "AS214529",
-    "isp": "DAM TELECOM SERVICES SRL",
-    "latency_ms": 7161.85,
-    "last_checked": 1793170429.6880608
+    "ssl": true,
+    "uptime_percent": 36.3,
+    "asn": "AS39531",
+    "isp": "Alter-NET SRL",
+    "latency_ms": 1778.59,
+    "last_checked": 1793170742.5279036
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "85.122.120.119",
     "port": 30016,
     "country": "Romania",
@@ -23,10 +23,40 @@
     "city": "Năvodari",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 17.61,
+    "uptime_percent": 15.95,
     "asn": "AS39347",
     "isp": "STYLISH BY A&L SRL",
-    "latency_ms": 1998.22,
-    "last_checked": 1793170428.4089496
+    "latency_ms": 3205.21,
+    "last_checked": 1793170738.6413136
+  },
+  {
+    "protocol": "http",
+    "ip": "82.78.114.56",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Miercurea-Ciuc",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 56.18,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 382.35,
+    "last_checked": 1793170729.0287378
+  },
+  {
+    "protocol": "http",
+    "ip": "85.122.120.119",
+    "port": 20016,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Năvodari",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 9.13,
+    "asn": "AS39347",
+    "isp": "STYLISH BY A&L SRL",
+    "latency_ms": 3703.12,
+    "last_checked": 1793170626.9751132
   }
 ]
