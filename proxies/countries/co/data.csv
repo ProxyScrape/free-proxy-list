@@ -1,34 +1,52 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,190.144.224.182,44550,Colombia,CO,Yumbo,elite,true,25.39,AS14080,Telmex Colombia S.A.,1743.56,1793196549.5064197
-socks4,181.204.4.74,5678,Colombia,CO,Cartagena,elite,true,22.72,AS13489,EPM Telecomunicaciones S.A. E.S.P.,7928.12,1793196541.535657
-socks4,181.57.178.146,1080,Colombia,CO,Bogotá,elite,true,62.23,AS14080,Telmex Colombia S.A.,3891.89,1793196538.416995
-socks4,181.143.81.51,5678,Colombia,CO,Medellín,elite,true,28.62,AS13489,EPM Telecomunicaciones S.A. E.S.P.,3880.06,1793196537.891387
-socks4,181.143.45.218,1080,Colombia,CO,Medellín,elite,true,48.37,AS13489,EPM Telecomunicaciones S.A. E.S.P.,8179.83,1793196537.058316
-http,190.7.138.78,8080,Colombia,CO,Medellín,transparent,true,30.82,AS13489,EPM Telecomunicaciones S.A. E.S.P.,8098.51,1793196531.909655
-http,181.78.80.122,999,Colombia,CO,Bogotá,transparent,false,44.75,AS52468,Ufinet Panama S.A.,9659.51,1793196531.2689855
-socks4,181.204.39.202,53740,Colombia,CO,Floridablanca,elite,true,50.45,AS13489,EPM Telecomunicaciones S.A. E.S.P.,838.37,1793196524.8651469
-http,38.43.126.73,999,Colombia,CO,Guateque,transparent,true,26.08,AS273013,Blue Telecomunicaciones SAS,3555.4,1793196524.597585
-socks4,186.1.182.194,4153,Colombia,CO,Santa Marta,elite,true,50.03,AS27837,Dialnet de Colombia S.A. E.S.P,863.94,1793196523.1971507
-http,24.152.58.124,999,Colombia,CO,Floridablanca,transparent,false,29.67,AS267823,Atenea Telecomunicaciones,2982.93,1793196523.1808994
-http,200.110.173.101,8080,Colombia,CO,La Unión,transparent,false,24.21,AS27951,Media Commerce Partners S.A,5662.5,1793196521.34779
-http,200.118.71.12,8080,Colombia,CO,Girón,transparent,false,28.26,AS14080,Telmex Colombia S.A.,1783.06,1793196518.5288029
-http,177.93.49.114,999,Colombia,CO,Villavicencio,transparent,false,12.61,AS262186,TV AZTECA SUCURSAL COLOMBIA,5161.45,1793196516.5859005
-http,200.35.34.134,999,Colombia,CO,Medellín,transparent,false,9.66,AS13489,UNE EPM TELECOMUNICACIONES S.A,7036.86,1793196516.2078512
-socks4,181.205.207.66,1080,Colombia,CO,Medellín,elite,true,60.24,AS13489,EPM Telecomunicaciones S.A. E.S.P.,1882.45,1793196512.8350146
-http,200.110.173.240,999,Colombia,CO,Cali,transparent,false,22.61,AS27951,Media Commerce Partners S.A,8683.95,1793196511.875335
-http,200.10.31.42,8081,Colombia,CO,Pereira,transparent,false,61.83,AS270075,Super Redes S.A.S,4892.6,1793196503.4273047
-http,38.211.68.83,999,Colombia,CO,Popayán,transparent,true,55.58,AS269804,Cogent Communications,13614.63,1793196545.816413
-http,190.61.61.210,999,Colombia,CO,Villapinzón,transparent,false,7.65,AS52468,Ufinet Panama S.A.,8126.61,1793196540.3721561
-http,38.236.240.198,999,Colombia,CO,Medellín,transparent,false,19.84,AS275008,Cogent Communications,6192.85,1793196540.1492078
-http,38.191.211.57,999,Colombia,CO,Saravena,transparent,false,9.96,AS273850,Servicios De Telecomunicaciones E Informatica S.A.S.,4735.62,1793196539.469961
-http,181.57.171.254,8095,Colombia,CO,Bogotá,transparent,false,18.49,AS14080,Telmex Colombia S.A.,11285.75,1793196535.6053953
-http,181.119.67.133,999,Colombia,CO,Florida,transparent,false,12.31,AS52468,IFX Networks Argentina S.R.L,15378.53,1793196487.1428716
-http,38.211.76.145,999,Colombia,CO,Florencia,transparent,false,21.87,AS270062,Cogent Communications,10685.86,1793196479.3393824
-http,24.152.58.125,999,Colombia,CO,Floridablanca,transparent,false,33.32,AS267823,Atenea Telecomunicaciones,10238.81,1793196479.296753
-http,38.19.43.73,999,Colombia,CO,Bogotá,transparent,false,21.87,AS270075,Super Redes S.A.S,11541.98,1793196477.5351703
-http,38.191.211.250,999,Colombia,CO,Saravena,transparent,true,12.47,AS273850,Servicios De Telecomunicaciones E Informatica S.A.S.,4166.11,1793196465.8156893
-http,179.1.126.25,999,Colombia,CO,Quibdó,transparent,false,22.25,AS18678,Internexa S.a. E.S.P,6686.87,1793196454.7766922
-http,191.102.76.34,999,Colombia,CO,Ubalá,transparent,false,21.78,AS262186,TV AZTECA SUCURSAL COLOMBIA,3878.61,1793196451.4738002
-http,209.14.115.9,999,Colombia,CO,Purificación,transparent,false,31.24,AS262186,Cogent Communications,8329.73,1793196450.1301572
-http,190.60.62.51,999,Colombia,CO,Galeras,elite,false,31.04,AS52468,Ufinet Panama S.A.,10522.52,1793196447.6469193
-http,45.167.125.62,999,Colombia,CO,Popayán,transparent,false,24.0,AS269804,Sepcom Comunicaciones SAS,7375.72,1793196441.5119944
+http,186.96.111.214,999,Colombia,CO,San Martín,transparent,true,45.55,AS262186,TV AZTECA SUCURSAL COLOMBIA,2248.08,1793197172.0769532
+socks4,186.1.182.194,4153,Colombia,CO,Santa Marta,elite,true,50.04,AS27837,Dialnet de Colombia S.A. E.S.P,950.94,1793197171.3412974
+socks4,181.204.4.74,5678,Colombia,CO,Cartagena,elite,true,22.72,AS13489,EPM Telecomunicaciones S.A. E.S.P.,1813.57,1793197158.278421
+http,38.191.210.110,999,Colombia,CO,Saravena,transparent,false,6.92,AS273850,Servicios De Telecomunicaciones E Informatica S.A.S.,4121.6,1793197157.4532688
+http,181.78.79.11,999,Colombia,CO,La Esperanza,transparent,true,23.07,AS52468,Ufinet Panama S.A.,3096.94,1793197157.1797478
+http,138.117.85.221,999,Colombia,CO,Garzón,transparent,false,15.6,AS265688,Sinergy Soluciones Integrales,7132.34,1793197154.864463
+http,181.129.16.218,8080,Colombia,CO,Medellín,transparent,false,29.02,AS13489,EPM Telecomunicaciones S.A. E.S.P.,8434.06,1793197152.9041998
+http,181.174.228.46,8080,Colombia,CO,Pitalito,transparent,false,17.62,AS265688,Sinergy Soluciones Integrales,6582.8,1793197152.271089
+socks4,181.205.207.66,1080,Colombia,CO,Medellín,elite,true,60.24,AS13489,EPM Telecomunicaciones S.A. E.S.P.,873.25,1793197152.2627695
+http,181.225.96.49,999,Colombia,CO,Bogotá,transparent,false,42.36,AS262186,TV AZTECA SUCURSAL COLOMBIA,4336.55,1793197151.667031
+http,38.19.43.77,999,Colombia,CO,Bogotá,transparent,false,20.06,AS270075,Super Redes S.A.S,3182.96,1793197150.2557278
+socks4,181.57.178.146,1080,Colombia,CO,Bogotá,elite,true,62.23,AS14080,Telmex Colombia S.A.,861.36,1793197147.7467384
+http,38.19.43.73,999,Colombia,CO,Bogotá,transparent,false,21.88,AS270075,Super Redes S.A.S,2822.2,1793197147.5366933
+http,181.119.86.132,999,Colombia,CO,San Juan de Urabá,transparent,false,33.17,AS52468,IFX Networks Argentina S.R.L,6539.04,1793197146.2002745
+http,190.14.224.244,999,Colombia,CO,Buenos Aires,transparent,false,17.82,AS27951,Media Commerce Partners S.A,6382.91,1793197145.753575
+http,186.33.52.250,999,Colombia,CO,San Benito Abad,transparent,false,24.44,AS52468,Ufinet Panama S.A.,3833.33,1793197138.2948933
+http,190.131.205.150,999,Colombia,CO,Bogotá,transparent,false,14.52,AS262191,Liberty Networks De Colombia S.A.S,2859.16,1793197137.2683215
+http,190.60.47.60,999,Colombia,CO,Fundación,transparent,false,9.81,AS52468,Ufinet Panama S.A.,3831.36,1793197136.8772635
+http,38.19.43.187,999,Colombia,CO,Bogotá,transparent,true,26.7,AS270075,Super Redes S.A.S,5626.48,1793197134.94886
+http,190.26.209.126,999,Colombia,CO,Granada,transparent,false,26.65,AS19429,ETB - Colombia,6009.7,1793197134.11315
+http,181.78.174.14,8080,Colombia,CO,Bogotá,transparent,true,21.23,AS52468,Ufinet Panama S.A.,12554.9,1793197131.192818
+http,38.50.38.141,999,Colombia,CO,Villavicencio,transparent,false,18.0,AS274247,Solunet ISP,3222.42,1793197130.5426097
+http,179.49.160.94,999,Colombia,CO,Neiva,transparent,false,24.21,AS262589,Integra Multisolutions,4579.3,1793197129.2159894
+http,24.152.58.125,999,Colombia,CO,Floridablanca,transparent,false,33.32,AS267823,Atenea Telecomunicaciones,4896.93,1793197127.7458375
+http,181.204.81.179,999,Colombia,CO,Pereira,transparent,false,12.2,AS13489,EPM Telecomunicaciones S.A. E.S.P.,4310.54,1793197127.720762
+http,181.79.157.171,999,Colombia,CO,Bogotá,transparent,false,31.54,AS52468,Ufinet Panama S.A.,5658.32,1793197125.2028723
+http,170.239.205.31,999,Colombia,CO,Bogotá,transparent,false,23.21,AS265629,FIBERNET,10912.6,1793197124.4258533
+http,168.90.13.32,999,Colombia,CO,Chiquinquirá,transparent,false,31.58,AS27951,Media Commerce Partners S.A,2984.66,1793197124.0010111
+http,179.1.196.133,999,Colombia,CO,Bogotá,transparent,false,29.52,AS18678,Internexa S.a. E.S.P,6369.54,1793197123.2087998
+http,200.31.12.189,999,Colombia,CO,Cali,transparent,false,18.73,AS3549,Level 3 Colombia S.A,9377.11,1793197122.8426173
+http,177.93.57.84,12345,Colombia,CO,Quibdó,transparent,false,12.12,AS262186,TV AZTECA SUCURSAL COLOMBIA,2657.61,1793197121.515799
+http,170.254.228.90,999,Colombia,CO,Pereira,transparent,false,27.87,AS27951,Media Commerce Partners S.A,4535.22,1793197116.7848392
+http,209.14.115.9,999,Colombia,CO,Purificación,transparent,false,31.24,AS262186,Cogent Communications,9080.93,1793197114.4161513
+http,190.61.40.91,999,Colombia,CO,Tarso,transparent,false,11.4,AS52468,Ufinet Panama S.A.,4092.4,1793197112.5717998
+http,45.167.124.161,999,Colombia,CO,Popayán,transparent,true,35.63,AS269804,Sepcom Comunicaciones SAS,8934.96,1793197111.9704928
+http,181.205.205.170,999,Colombia,CO,Medellín,transparent,false,23.58,AS13489,EPM Telecomunicaciones S.A. E.S.P.,2768.14,1793197111.7506018
+http,190.60.48.137,999,Colombia,CO,Valledupar,transparent,false,10.8,AS52468,Ufinet Panama S.A.,8654.08,1793197108.4979308
+http,38.211.68.83,999,Colombia,CO,Popayán,transparent,true,55.54,AS269804,Cogent Communications,8556.23,1793197107.243873
+http,45.191.235.53,999,Colombia,CO,La Dorada,transparent,false,29.7,AS269895,Wireless Colombia S.A.S.,10302.34,1793197103.2956495
+http,181.78.20.83,999,Colombia,CO,San Carlos,transparent,true,25.35,AS52468,Ufinet Panama S.A.,5422.31,1793197100.6844866
+http,45.167.124.133,999,Colombia,CO,Popayán,transparent,false,33.64,AS269804,Sepcom Comunicaciones SAS,4657.99,1793197093.5504026
+http,201.219.194.118,8080,Colombia,CO,Barranquilla,transparent,false,14.31,AS262215,ITELKOM,4397.62,1793197089.0923488
+http,45.167.125.62,999,Colombia,CO,Popayán,transparent,false,24.0,AS269804,Sepcom Comunicaciones SAS,9505.89,1793197088.9874792
+http,190.109.1.58,8080,Colombia,CO,Bogotá,transparent,false,21.71,AS262191,Lazus Medellin,10423.55,1793197084.0105987
+http,8.242.153.168,999,Colombia,CO,Gachancipá,transparent,false,13.4,AS3549,CTL Colombia,2645.28,1793197080.9052196
+http,38.19.213.80,999,Colombia,CO,Pitalito,transparent,false,46.26,AS265688,Sinergy Soluciones Integrales,11591.21,1793197080.2950816
+http,38.211.68.74,999,Colombia,CO,Popayán,transparent,false,36.78,AS269804,Cogent Communications,7480.67,1793197065.1123366
+http,45.179.246.65,999,Colombia,CO,Acevedo,transparent,false,16.03,AS267929,Genionet Telecomunicaciones S.A.S,12093.23,1793197058.208812
+http,8.243.167.51,999,Colombia,CO,Piojó,transparent,true,28.9,AS3356,CTL Colombia,1634.25,1793197056.6749375
+http,186.97.236.99,8080,Colombia,CO,Medellín,transparent,true,26.75,AS13489,EPM Telecomunicaciones S.A. E.S.P.,5722.96,1793197050.222105
+http,191.97.3.2,999,Colombia,CO,Barbacoas,transparent,false,21.96,AS262186,TV AZTECA SUCURSAL COLOMBIA,7826.04,1793197039.2933748
