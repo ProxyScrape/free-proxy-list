@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "88.119.139.237",
-    "port": 53281,
+    "protocol": "socks4",
+    "ip": "93.93.61.153",
+    "port": 1080,
     "country": "Lithuania",
     "country_code": "LT",
-    "city": "Klaipėda",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 9.23,
-    "asn": "AS8764",
-    "isp": "Telia Lietuva",
-    "latency_ms": 7238.49,
-    "last_checked": 1793197136.4804025
+    "city": "Vilnius",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.73,
+    "asn": "AS44613",
+    "isp": "AB \"Ogmios Centras\"",
+    "latency_ms": 2109.55,
+    "last_checked": 1793197799.0598183
+  },
+  {
+    "protocol": "socks4",
+    "ip": "81.7.112.174",
+    "port": 4145,
+    "country": "Lithuania",
+    "country_code": "LT",
+    "city": "Elektrėnai",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.4,
+    "asn": "AS49602",
+    "isp": "Private Limited Liability Company \"KRENA\"",
+    "latency_ms": 150.73,
+    "last_checked": 1793197792.6829283
   },
   {
     "protocol": "http",
@@ -23,10 +38,40 @@
     "city": "Šiauliai",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 38.14,
+    "uptime_percent": 38.62,
     "asn": "AS16125",
     "isp": "UAB Cherry Servers",
-    "latency_ms": 6802.67,
-    "last_checked": 1793197116.9675636
+    "latency_ms": 5013.53,
+    "last_checked": 1793197757.3409007
+  },
+  {
+    "protocol": "http",
+    "ip": "88.119.139.237",
+    "port": 53281,
+    "country": "Lithuania",
+    "country_code": "LT",
+    "city": "Klaipėda",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 9.23,
+    "asn": "AS8764",
+    "isp": "Telia Lietuva",
+    "latency_ms": 7316.4,
+    "last_checked": 1793197756.4769983
+  },
+  {
+    "protocol": "socks5",
+    "ip": "46.36.74.66",
+    "port": 1080,
+    "country": "Lithuania",
+    "country_code": "LT",
+    "city": "Plungė",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 15.52,
+    "asn": "AS43627",
+    "isp": "KLI",
+    "latency_ms": 2058.84,
+    "last_checked": 1793197714.4594991
   }
 ]
