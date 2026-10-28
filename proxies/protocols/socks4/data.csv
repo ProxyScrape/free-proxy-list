@@ -1,31 +1,323 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,47.254.36.213,808,United States,US,Minkler,elite,true,1.1,AS45102,Alibaba Cloud LLC,3303.65,1793159350.83461
-socks4,47.254.36.213,5000,United States,US,Minkler,elite,true,1.3,AS45102,Alibaba Cloud LLC,4237.96,1793159348.3380468
-socks4,91.186.211.105,1080,Finland,FI,Helsinki,elite,true,20.82,AS204339,First Server Limited,3261.8,1793159347.8133893
-socks4,47.254.36.213,8181,United States,US,Minkler,elite,true,1.12,AS45102,Alibaba Cloud LLC,5709.76,1793159346.8648355
-socks4,47.254.36.213,8888,United States,US,Minkler,elite,true,1.13,AS45102,Alibaba Cloud LLC,6280.43,1793159346.2331805
-socks4,47.90.167.27,80,United States,US,Charlottesville,elite,true,1.29,AS45102,Alibaba.com LLC,3770.89,1793159345.3121092
-socks4,47.254.36.213,800,United States,US,Minkler,elite,true,1.13,AS45102,Alibaba Cloud LLC,10514.04,1793159343.1816766
-socks4,47.254.36.213,8083,United States,US,Minkler,elite,true,1.16,AS45102,Alibaba Cloud LLC,11068.83,1793159341.4956493
-socks4,8.211.195.139,8128,United Kingdom,GB,London,elite,true,1.28,AS45102,"Alibaba (US) Technology Co., Ltd.",3047.17,1793159340.034927
-socks4,47.90.167.27,5000,United States,US,Charlottesville,elite,true,1.43,AS45102,Alibaba.com LLC,7938.52,1793159339.3028936
-socks4,8.211.195.139,10000,United Kingdom,GB,London,elite,true,1.22,AS45102,"Alibaba (US) Technology Co., Ltd.",3042.05,1793159337.3253984
-socks4,47.90.167.27,8888,United States,US,Charlottesville,elite,true,1.42,AS45102,Alibaba.com LLC,10562.64,1793159337.274184
-socks4,8.221.138.111,80,Japan,JP,Tokyo,elite,true,1.2,AS45102,"Alibaba (US) Technology Co., Ltd.",3491.26,1793159335.3502674
-socks4,47.90.167.27,8083,United States,US,Charlottesville,elite,true,1.38,AS45102,Alibaba.com LLC,12556.11,1793159334.577702
-socks4,8.221.138.111,9080,Japan,JP,Tokyo,elite,true,1.16,AS45102,"Alibaba (US) Technology Co., Ltd.",3586.85,1793159333.382956
-socks4,8.221.138.111,9000,Japan,JP,Tokyo,elite,true,1.4,AS45102,"Alibaba (US) Technology Co., Ltd.",3498.38,1793159332.7811584
-socks4,8.221.138.111,8443,Japan,JP,Tokyo,elite,true,1.12,AS45102,"Alibaba (US) Technology Co., Ltd.",10689.58,1793159326.7746973
-socks4,47.238.134.126,9999,Hong Kong,HK,Hong Kong,elite,true,1.07,AS45102,Alibaba Cloud LLC,4802.89,1793159324.5658903
-socks4,47.238.134.126,8004,Hong Kong,HK,Hong Kong,elite,true,1.08,AS45102,Alibaba Cloud LLC,6861.47,1793159322.6206803
-socks4,8.211.195.139,20002,United Kingdom,GB,London,elite,true,1.19,AS45102,"Alibaba (US) Technology Co., Ltd.",3047.83,1793159319.2198048
-socks4,8.221.139.222,17,Japan,JP,Tokyo,elite,true,1.1,AS45102,"Alibaba (US) Technology Co., Ltd.",3500.51,1793159314.8169672
-socks4,8.221.139.222,111,Japan,JP,Tokyo,elite,true,1.1,AS45102,"Alibaba (US) Technology Co., Ltd.",5545.41,1793159310.9129267
-socks4,8.221.139.222,4443,Japan,JP,Tokyo,elite,true,1.19,AS45102,"Alibaba (US) Technology Co., Ltd.",10905.32,1793159306.5729954
-socks4,8.221.141.88,5400,Japan,JP,Tokyo,elite,true,0.99,AS45102,"Alibaba (US) Technology Co., Ltd.",3500.89,1793159301.8459709
-socks4,8.221.141.88,8890,Japan,JP,Tokyo,elite,true,1.51,AS45102,"Alibaba (US) Technology Co., Ltd.",8584.56,1793159294.4487169
-socks4,8.213.134.213,31433,South Korea,KR,Seoul,elite,true,1.13,AS45102,"Alibaba (US) Technology Co., Ltd.",11016.26,1793159294.2938395
-socks4,8.213.134.213,8090,South Korea,KR,Seoul,elite,true,1.14,AS45102,"Alibaba (US) Technology Co., Ltd.",11049.69,1793159294.2605524
-socks4,8.213.134.213,7080,South Korea,KR,Seoul,elite,true,2.17,AS45102,"Alibaba (US) Technology Co., Ltd.",13103.11,1793159292.6001136
-socks4,145.220.227.132,1080,The Netherlands,NL,Utrecht,elite,true,34.71,AS1101,SURFnet III d,33.79,1793159278.4333038
-socks4,145.220.227.164,4145,The Netherlands,NL,Utrecht,elite,true,36.89,AS1101,SURFnet III d,3150.4,1793159265.1548371
+socks4,116.101.84.186,1114,Vietnam,VN,Hanoi,elite,true,60.28,AS7552,Viettel Group,1252.79,1793159701.6239316
+socks4,109.224.22.35,51372,Iraq,IQ,Baghdad,elite,true,23.69,AS203214,Hulum,381.89,1793159701.425767
+socks4,81.90.25.129,1080,Germany,DE,Frankfurt am Main,elite,true,43.91,AS198550,Node Host Limited,644.65,1793159701.3588502
+socks4,171.245.71.194,1112,Vietnam,VN,Hanoi,elite,true,17.35,AS7552,Viettel Corporation,2526.15,1793159700.7210357
+socks4,117.0.77.231,1087,Vietnam,VN,Thai Nguyen,elite,true,25.64,AS7552,VIETTEL,1085.1,1793159700.645959
+socks4,203.2.151.21,47786,Indonesia,ID,Subang,elite,true,88.99,AS142043,PT BARAYA BARENG SADULUR,1295.0,1793159700.3069384
+socks4,27.68.169.53,1080,Vietnam,VN,Hung Yen,elite,true,19.76,AS7552,Viettel Group,1077.77,1793159700.2534802
+socks4,23.141.116.9,9000,Vietnam,VN,Dương Nội,elite,true,67.69,AS153391,Minium NET LLC,1551.35,1793159700.122782
+socks4,192.111.137.37,18762,United States,US,Atlanta,elite,true,34.43,AS46562,Performive LLC,849.77,1793159699.4834259
+socks4,72.194.42.131,4145,United States,US,Oklahoma City,elite,true,59.79,AS22773,Cox Communications Inc,900.33,1793159699.472047
+socks4,119.18.156.242,1080,Indonesia,ID,Bekasi,elite,true,26.03,AS55685,PT. Jala Lintas Media,900.52,1793159699.20207
+socks4,145.220.227.164,4145,The Netherlands,NL,Utrecht,elite,true,36.84,AS1101,SURFnet III d,1182.09,1793159698.9347594
+socks4,72.205.0.67,4145,United States,US,Herndon,elite,true,55.18,AS22773,Cox Communications Inc.,1077.63,1793159698.7691574
+socks4,160.119.159.98,1080,Mozambique,MZ,Maputo,elite,true,67.46,AS328223,Voiptech Limitada,1223.49,1793159698.4869921
+socks4,222.165.234.147,52667,Indonesia,ID,West Jakarta,elite,true,16.11,AS24207,PT NettoCyber Indonesia,1280.1,1793159698.2207956
+socks4,72.195.34.59,4145,United States,US,Irvine,elite,true,55.16,AS22773,Cox Communications Inc.,1310.46,1793159697.811608
+socks4,167.99.3.26,5093,United States,US,North Bergen,elite,true,9.14,AS14061,"DigitalOcean, LLC",1041.34,1793159697.5266135
+socks4,116.212.156.72,1080,Cambodia,KH,Phnom Penh,elite,true,46.1,AS38235,MekongNet,4373.48,1793159697.4484198
+socks4,171.236.130.227,56782,Vietnam,VN,Ho Chi Minh City,elite,true,42.89,AS7552,Viettel Corporation,1700.06,1793159697.4293754
+socks4,167.99.3.26,8181,United States,US,North Bergen,elite,true,9.51,AS14061,"DigitalOcean, LLC",2122.93,1793159697.2679617
+socks4,72.207.109.5,4145,United States,US,Dallas,elite,true,60.78,AS22773,Cox Communications Inc.,1269.97,1793159697.225861
+socks4,190.12.95.170,37209,Peru,PE,Lima,elite,true,25.89,AS27843,ON EMPRESAS S.A.C,2298.0,1793159697.1469488
+socks4,31.170.17.141,4153,Latvia,LV,Saldus,elite,true,8.58,AS43513,Sia Nano IT,1792.54,1793159697.0042708
+socks4,184.178.172.14,4145,United States,US,Roanoke,elite,true,51.73,AS22773,Cox Communications Inc.,1221.42,1793159696.6346574
+socks4,145.220.227.164,3128,The Netherlands,NL,Utrecht,elite,true,16.54,AS1101,SURFnet III d,3188.02,1793159696.5968015
+socks4,171.236.130.227,58470,Vietnam,VN,Ho Chi Minh City,elite,true,42.45,AS7552,Viettel Corporation,6760.69,1793159696.4087536
+socks4,184.182.240.12,4145,United States,US,Macon,elite,true,99.65,AS22773,Cox Communications Inc.,2092.83,1793159696.1383688
+socks4,38.242.156.163,9050,France,FR,Lauterbourg,elite,true,16.63,AS51167,Contabo GmbH,667.23,1793159696.000994
+socks4,98.188.47.150,4145,United States,US,Pensacola,elite,true,42.86,AS22773,Cox Communications Inc.,1081.2,1793159695.9215643
+socks4,202.46.78.82,4145,Indonesia,ID,Bandung,elite,true,32.96,AS9341,PT. Indonesia Comnet Plus,4106.22,1793159695.722966
+socks4,85.122.120.119,30016,Romania,RO,Năvodari,elite,true,17.61,AS39347,STYLISH BY A&L SRL,4401.54,1793159695.7054121
+socks4,98.191.0.47,4145,United States,US,Roanoke,elite,true,60.89,AS22773,Cox Communications Inc.,917.73,1793159695.6889534
+socks4,72.195.34.41,4145,United States,US,Irvine,elite,true,55.16,AS22773,Cox Communications Inc.,844.18,1793159695.6764162
+socks4,89.238.128.230,1080,United Kingdom,GB,Edmonton,elite,true,25.49,AS9009,M247 Europe SRL,3823.45,1793159695.1231093
+socks4,171.245.71.144,1061,Vietnam,VN,Hanoi,elite,true,17.19,AS7552,Viettel Corporation,1098.26,1793159695.0132196
+socks4,143.105.48.163,1080,Mozambique,MZ,Maputo,elite,true,15.35,AS14593,Space Exploration Technologies Corporation,8241.99,1793159694.9151433
+socks4,114.130.89.94,1080,Bangladesh,BD,Dhaka,elite,true,59.2,AS17806,Mango Teleservices Limited,1327.5,1793159694.2362592
+socks4,171.245.71.194,1081,Vietnam,VN,Hanoi,elite,true,28.96,AS7552,Viettel Corporation,5300.24,1793159694.1564882
+socks4,190.54.100.74,5678,Chile,CL,Santiago,elite,true,30.24,AS6429,Telmex Chile Internet S.A.,9000.08,1793159694.0460906
+socks4,213.142.159.108,11080,Turkey,TR,Istanbul,elite,true,97.85,AS212219,Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi,304.41,1793159693.9203496
+socks4,149.86.146.205,1080,Türkiye,TR,Selçuklu,elite,true,46.28,AS208972,Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi,312.16,1793159693.8690574
+socks4,178.83.46.167,1080,Germany,DE,Limburg an der Lahn,elite,true,19.29,AS16276,OVH SAS,181.98,1793159693.5939486
+socks4,217.16.130.83,4145,Serbia,RS,Niš,elite,true,34.13,AS197423,Jotel,1195.64,1793159693.466677
+socks4,103.231.105.158,4145,Palestinian Territory,PS,Nablus,elite,true,36.62,AS12975,Palestine Telecommunications Company,491.85,1793159693.1773987
+socks4,165.99.90.2,1080,Bangladesh,BD,Dhaka,elite,true,72.47,AS132475,Future Communication and Network,943.91,1793159693.073187
+socks4,171.236.130.227,63429,Vietnam,VN,Ho Chi Minh City,elite,true,39.86,AS7552,Viettel Corporation,1302.63,1793159693.0533607
+socks4,149.248.18.106,1081,United States,US,Los Angeles,elite,true,87.63,AS20473,The Constant Company,6273.19,1793159692.9108717
+socks4,145.220.227.132,1081,The Netherlands,NL,Utrecht,elite,true,19.02,AS1101,SURFnet III d,1148.85,1793159692.8620348
+socks4,43.160.245.155,8080,Singapore,SG,Singapore,elite,true,68.71,AS132203,Shenzhen Tencent Computer Systems Company Limited,2612.61,1793159692.3557985
+socks4,184.178.172.25,15291,United States,US,Roanoke,elite,true,50.92,AS22773,Cox Communications Inc.,800.82,1793159692.3499866
+socks4,8.211.194.78,8999,United Kingdom,GB,London,elite,true,1.14,AS45102,"Alibaba (US) Technology Co., Ltd.",3782.1,1793159692.3172543
+socks4,171.236.130.227,49463,Vietnam,VN,Ho Chi Minh City,elite,true,41.05,AS7552,Viettel Corporation,1318.78,1793159692.2970715
+socks4,45.77.235.30,1080,Australia,AU,Sydney,elite,true,25.54,AS20473,The Constant Company,10845.85,1793159692.250044
+socks4,125.25.57.57,4153,Thailand,TH,Bangkok,elite,true,49.01,AS23969,TOT Public Company Limited,944.07,1793159691.9390213
+socks4,190.144.224.182,44550,Colombia,CO,Yumbo,elite,true,25.37,AS14080,Telmex Colombia S.A.,744.68,1793159691.8949955
+socks4,180.158.166.144,4145,China,CN,Shanghai,elite,true,43.66,AS4812,China Telecom (Group),2098.27,1793159691.5568857
+socks4,46.10.198.10,4153,Bulgaria,BG,Sofia,elite,true,45.27,AS8866,Vivacom Bulgaria EAD,382.9,1793159691.523706
+socks4,171.245.71.236,1044,Vietnam,VN,Hanoi,elite,true,17.24,AS7552,Viettel Corporation,1071.74,1793159691.493248
+socks4,46.232.249.209,40001,Germany,DE,Nuremberg,elite,true,33.13,AS197540,netcup GmbH,40.77,1793159691.4817955
+socks4,116.101.84.186,1087,Vietnam,VN,Hanoi,elite,true,29.23,AS7552,Viettel Group,8425.0,1793159691.4027534
+socks4,171.236.130.227,56064,Vietnam,VN,Ho Chi Minh City,elite,true,45.38,AS7552,Viettel Corporation,2949.9,1793159691.313037
+socks4,34.124.190.108,8080,Singapore,SG,Singapore,elite,true,52.09,AS396982,Google LLC,12274.07,1793159690.9012094
+socks4,117.0.77.231,1035,Vietnam,VN,Thai Nguyen,elite,true,16.74,AS7552,VIETTEL,3699.86,1793159690.7062955
+socks4,128.199.37.92,1080,The Netherlands,NL,Amsterdam,elite,true,61.76,AS14061,"DigitalOcean, LLC",2081.41,1793159690.1123838
+socks4,145.220.227.132,1080,The Netherlands,NL,Utrecht,elite,true,34.82,AS1101,SURFnet III d,1317.01,1793159690.00276
+socks4,8.211.194.78,8080,United Kingdom,GB,London,elite,true,1.09,AS45102,"Alibaba (US) Technology Co., Ltd.",5674.39,1793159689.9768288
+socks4,103.182.22.244,9000,Vietnam,VN,Quận Mười Một,elite,true,43.17,AS151858,CUONGKHANG,11384.47,1793159689.827994
+socks4,27.69.71.250,1080,Vietnam,VN,Cẩm Thủy,elite,true,16.54,AS7552,Viettel Group,2415.34,1793159689.4961672
+socks4,74.119.147.209,4145,United States,US,Atlanta,elite,true,32.83,AS46562,Total Server Solutions L.L.C.,771.47,1793159689.0888786
+socks4,171.236.130.227,41821,Vietnam,VN,Ho Chi Minh City,elite,true,47.68,AS7552,Viettel Corporation,7033.54,1793159689.001052
+socks4,213.176.74.119,1080,The Netherlands,NL,Amsterdam,elite,true,23.36,AS203273,NetCrafters OU,3079.76,1793159688.83046
+socks4,171.242.14.54,1080,Vietnam,VN,Hanoi,elite,true,57.16,AS7552,Viettel Corporation,1028.41,1793159688.7985356
+socks4,105.214.95.149,5678,South Africa,ZA,Johannesburg,elite,true,46.39,AS16637,MTN SA,981.82,1793159688.6304476
+socks4,1.179.151.165,31948,Thailand,TH,Bangkok,elite,true,25.89,AS131293,TOT Public Company Limited,1083.07,1793159688.3857193
+socks4,116.101.84.186,1068,Vietnam,VN,Hanoi,elite,true,20.69,AS7552,Viettel Group,1701.64,1793159688.3262048
+socks4,72.195.101.99,4145,United States,US,Irvine,elite,true,35.33,AS22773,Cox Communications Inc.,909.04,1793159688.3080802
+socks4,8.211.194.78,5800,United Kingdom,GB,London,elite,true,1.22,AS45102,"Alibaba (US) Technology Co., Ltd.",7229.33,1793159688.0817137
+socks4,154.113.195.161,5678,Nigeria,NG,Kosofe,elite,true,4.87,AS37282,Main one Cable Company Nigeria Limited,7892.56,1793159687.888863
+socks4,103.182.22.179,9000,Vietnam,VN,Quận Mười Một,elite,true,42.33,AS151858,CUONGKHANG,4817.85,1793159687.7302806
+socks4,171.236.130.227,40021,Vietnam,VN,Ho Chi Minh City,elite,true,35.34,AS7552,Viettel Corporation,4982.56,1793159687.6506615
+socks4,171.238.101.122,1068,Vietnam,VN,Hanoi,elite,true,20.49,AS7552,Viettel Corporation,5144.22,1793159687.5368824
+socks4,185.193.26.120,9050,Lithuania,LT,Vilnius,elite,true,10.22,AS62282,UAB Delska Lithuania,916.62,1793159687.5285492
+socks4,171.236.130.227,43023,Vietnam,VN,Ho Chi Minh City,elite,true,47.02,AS7552,Viettel Corporation,12469.51,1793159687.4811769
+socks4,183.106.215.208,1080,South Korea,KR,Gyeongju,elite,true,94.0,AS4766,Korea Telecom,1292.03,1793159687.4378517
+socks4,171.236.130.227,37380,Vietnam,VN,Ho Chi Minh City,elite,true,37.67,AS7552,Viettel Corporation,1916.83,1793159687.2839198
+socks4,184.182.240.211,4145,United States,US,Macon,elite,true,99.86,AS22773,Cox Communications Inc.,1133.38,1793159687.1471088
+socks4,116.233.142.167,1080,China,CN,Shanghai,elite,true,39.33,AS4812,China Telecom (Group),2373.87,1793159687.0629697
+socks4,45.192.98.172,1080,Hong Kong,HK,Hong Kong,elite,true,26.19,AS401701,Vapeline Technology,11069.83,1793159686.9851618
+socks4,86.57.178.182,4153,Belarus,BY,Minsk,elite,true,34.41,AS6697,Republican Unitary Telecommunication Enterprise Beltelecom,3224.77,1793159686.9348795
+socks4,36.95.82.69,1080,Indonesia,ID,Central Jakarta,elite,true,63.39,AS7713,PT. Telekomunikasi Indonesia,1305.88,1793159686.8093219
+socks4,116.101.84.186,1080,Vietnam,VN,Hanoi,elite,true,12.0,AS7552,Viettel Group,2412.7,1793159686.7904966
+socks4,171.245.71.144,1081,Vietnam,VN,Hanoi,elite,true,34.9,AS7552,Viettel Corporation,13636.12,1793159686.462112
+socks4,24.37.245.42,51056,Canada,CA,Montreal,elite,true,23.88,AS5769,Le Groupe Videotron Ltee,1906.13,1793159686.4259272
+socks4,159.195.194.242,1080,Germany,DE,Nuremberg,elite,true,28.74,AS197540,netcup GmbH,10181.77,1793159685.965882
+socks4,192.111.135.18,18301,United States,US,Atlanta,elite,true,33.21,AS46562,Performive LLC,1306.96,1793159685.901314
+socks4,167.99.3.26,5678,United States,US,North Bergen,elite,true,6.26,AS14061,"DigitalOcean, LLC",1213.6,1793159685.548924
+socks4,171.238.101.122,1102,Vietnam,VN,Hanoi,elite,true,16.05,AS7552,Viettel Corporation,1631.11,1793159685.3290005
+socks4,179.27.86.36,4153,Uruguay,UY,Montevideo,elite,true,27.24,AS6057,Administracion Nacional de Telecomunicaciones,2574.65,1793159684.4360197
+socks4,66.42.224.229,41679,United States,US,Cincinnati,elite,true,67.27,AS6181,Cincinnati Bell Telephone Company LLC,1556.18,1793159684.303204
+socks4,119.93.82.236,1080,Philippines,PH,Makati City,elite,true,53.32,AS9299,Philippine Long Distance Telephone Co.,3477.43,1793159684.149858
+socks4,103.197.242.106,1080,Cambodia,KH,Ta Khmau,elite,true,46.54,AS23673,"COGETEL Co., Ltd",2646.56,1793159684.0434406
+socks4,72.207.33.64,4145,United States,US,San Diego,elite,true,60.81,AS22773,Cox Communications Inc.,1479.22,1793159683.9540517
+socks4,171.236.130.227,51685,Vietnam,VN,Ho Chi Minh City,elite,true,38.58,AS7552,Viettel Corporation,4313.77,1793159683.9139526
+socks4,171.236.130.227,50891,Vietnam,VN,Ho Chi Minh City,elite,true,40.38,AS7552,Viettel Corporation,4992.67,1793159683.6817687
+socks4,103.146.137.13,1081,Pakistan,PK,Karachi,elite,true,5.99,AS139879,Galaxy Broadband (pvt.) Ltd.,2418.57,1793159683.5120027
+socks4,95.182.78.3,5678,Ukraine,UA,Liuboml,elite,true,4.58,AS50648,PE UAinet,3809.8,1793159683.4239283
+socks4,171.245.71.217,1061,Vietnam,VN,Hanoi,elite,true,18.26,AS7552,Viettel Corporation,2940.69,1793159683.3913844
+socks4,110.38.234.74,1080,Pakistan,PK,Lahore,elite,true,58.92,AS38264,Wateen Telecom (Pvt.) Ltd,8005.4,1793159682.8214703
+socks4,200.43.43.124,4145,Argentina,AR,Obera,elite,true,9.62,AS7303,Telecom Argentina S.A.,1685.53,1793159682.72342
+socks4,8.213.222.247,3129,Thailand,TH,Bangkok,elite,true,1.14,AS45102,"Alibaba (US) Technology Co., Ltd.",3381.85,1793159682.5956097
+socks4,103.45.232.163,1080,Vietnam,VN,Phúc Lợi,elite,true,22.84,AS135921,Maxserver Company Limited,6230.29,1793159682.2469661
+socks4,121.139.218.165,43295,South Korea,KR,Siheung-si,elite,true,32.77,AS4766,Korea Telecom,2893.37,1793159682.243763
+socks4,103.182.22.51,9000,Vietnam,VN,Quận Mười Một,elite,true,45.38,AS151858,CUONGKHANG,6099.69,1793159682.2118497
+socks4,192.111.129.150,4145,United States,US,Atlanta,elite,true,48.64,AS46562,Performive LLC,1308.0,1793159682.0890167
+socks4,103.115.255.225,36331,Bangladesh,BD,Savar Upazila,elite,true,25.95,AS137868,Star Internet Service,4944.73,1793159681.7818873
+socks4,114.108.177.104,60984,South Korea,KR,Daejeon,elite,true,33.83,AS3786,LG DACOM KIDC,1705.03,1793159681.7794466
+socks4,36.95.235.18,3629,Indonesia,ID,Central Jakarta,elite,true,8.81,AS7713,PT. Telekomunikasi Indonesia,8186.81,1793159681.6778367
+socks4,98.170.57.249,4145,United States,US,Atlanta,elite,true,39.07,AS22773,Cox Communications Inc.,1373.21,1793159681.422146
+socks4,27.69.71.250,1047,Vietnam,VN,Cẩm Thủy,elite,true,19.79,AS7552,Viettel Group,2997.01,1793159681.1381593
+socks4,103.182.22.221,9000,Vietnam,VN,Quận Mười Một,elite,true,43.88,AS151858,CUONGKHANG,1886.88,1793159681.0029993
+socks4,8.213.156.191,85,South Korea,KR,Seoul,elite,true,1.06,AS45102,"Alibaba (US) Technology Co., Ltd.",3741.87,1793159680.7417402
+socks4,145.220.227.132,4145,The Netherlands,NL,Utrecht,elite,true,18.34,AS1101,SURFnet III d,38.88,1793159680.6881983
+socks4,192.252.215.5,16137,United States,US,Atlanta,elite,true,32.09,AS46562,Performive LLC,1336.07,1793159680.6605074
+socks4,116.101.84.186,1061,Vietnam,VN,Hanoi,elite,true,17.41,AS7552,Viettel Group,3165.93,1793159680.5785992
+socks4,103.182.22.247,9000,Vietnam,VN,Quận Mười Một,elite,true,44.57,AS151858,CUONGKHANG,14620.14,1793159680.5282617
+socks4,145.220.227.132,8118,The Netherlands,NL,Utrecht,elite,true,17.58,AS1101,SURFnet III d,63.69,1793159680.4613264
+socks4,117.0.77.231,1068,Vietnam,VN,Thai Nguyen,elite,true,21.28,AS7552,VIETTEL,5849.01,1793159680.4295197
+socks4,24.249.199.4,4145,United States,US,San Diego,elite,true,36.17,AS22773,Cox Communications Inc.,1384.5,1793159680.3127646
+socks4,124.248.164.36,1080,Cambodia,KH,Phnom Penh,elite,true,50.72,AS23673,"COGETEL Co., Ltd",2738.96,1793159680.1214423
+socks4,1.179.172.45,31225,Thailand,TH,Bangkok,elite,true,28.22,AS131293,TOT Public Company Limited,4596.53,1793159680.0933626
+socks4,145.220.227.144,8118,The Netherlands,NL,Utrecht,elite,true,17.02,AS1101,SURFnet III d,33.83,1793159679.9809906
+socks4,8.213.156.191,86,South Korea,KR,Seoul,elite,true,1.08,AS45102,"Alibaba (US) Technology Co., Ltd.",4508.57,1793159679.818328
+socks4,171.245.71.144,1087,Vietnam,VN,Hanoi,elite,true,29.52,AS7552,Viettel Corporation,1693.34,1793159679.45949
+socks4,24.249.199.12,4145,United States,US,San Diego,elite,true,36.73,AS22773,Cox Communications Inc.,1574.27,1793159679.4395719
+socks4,165.16.99.209,1080,Libya,LY,Tripoli,elite,true,38.51,AS37284,Aljeel Aljadeed For Technology,1043.98,1793159679.2291687
+socks4,212.126.5.249,42344,Poland,PL,Warsaw,elite,true,19.43,AS8364,"Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",868.49,1793159678.6800175
+socks4,103.23.100.9,1080,Indonesia,ID,Sekaran,elite,true,72.1,AS58400,"Universitas Negeri Semarang, y",1696.27,1793159678.4060056
+socks4,185.228.160.145,1080,Portugal,PT,Caldas da Rainha,elite,true,11.53,AS50666,LigaT Telecom Sociedade Unipessoal LDA,873.44,1793159678.3068264
+socks4,111.125.154.22,1080,Afghanistan,AF,Taloqan,elite,true,32.98,AS45178,Telecom Development Company Afghanistan,4228.65,1793159678.2768703
+socks4,8.212.151.166,9050,Philippines,PH,Manila,elite,true,1.33,AS45102,"Alibaba (US) Technology Co., Ltd.",3399.21,1793159678.2690012
+socks4,47.254.36.25,11080,United States,US,Minkler,elite,true,70.22,AS45102,Alibaba Cloud LLC,4513.48,1793159678.0545025
+socks4,160.30.113.24,1080,Vietnam,VN,Quận Ba,elite,true,33.16,AS135918,MAYCHUMANG,10391.65,1793159677.8628669
+socks4,203.201.190.33,1080,Indonesia,ID,Wiralaga Mulya,elite,true,44.53,AS154833,PT WIRA HASTA JITU,3403.31,1793159677.8546898
+socks4,103.126.86.239,821,Indonesia,ID,Karanganyar,elite,true,8.64,AS138109,PT. Rasi Bintang Perkasa,2622.37,1793159677.5784
+socks4,72.195.114.184,4145,United States,US,Irvine,elite,true,38.5,AS22773,Cox Communications Inc.,1132.0,1793159677.3630705
+socks4,103.182.22.57,9000,Vietnam,VN,Quận Mười Một,elite,true,44.92,AS151858,CUONGKHANG,3089.53,1793159677.351178
+socks4,123.200.28.149,1080,Bangladesh,BD,Dhaka,elite,true,47.63,AS23688,Link3 Technologies Limited,1361.28,1793159677.2684612
+socks4,27.69.71.250,1087,Vietnam,VN,Cẩm Thủy,elite,true,24.79,AS7552,Viettel Group,1334.12,1793159677.1863906
+socks4,47.251.127.154,1080,United States,US,Minkler,elite,true,81.27,AS45102,Alibaba Cloud LLC,9956.26,1793159677.1632206
+socks4,8.213.156.191,7010,South Korea,KR,Seoul,elite,true,1.08,AS45102,"Alibaba (US) Technology Co., Ltd.",5783.79,1793159676.9146996
+socks4,136.233.136.41,43314,India,IN,Chānga,elite,true,38.77,AS55836,Reliance Jio Infocomm Limited,2384.44,1793159676.8733337
+socks4,8.212.151.166,20000,Philippines,PH,Manila,elite,true,1.31,AS45102,"Alibaba (US) Technology Co., Ltd.",3484.83,1793159676.6930614
+socks4,72.207.113.97,4145,United States,US,Pensacola,elite,true,55.21,AS22773,Cox Communications Inc.,1107.05,1793159676.5405805
+socks4,174.64.199.82,4145,United States,US,Baton Rouge,elite,true,37.33,AS22773,Cox Communications Inc.,1067.53,1793159676.4837167
+socks4,117.0.76.112,1058,Vietnam,VN,Thai Nguyen,elite,true,18.55,AS7552,VIETTEL,1444.48,1793159676.3114417
+socks4,8.212.151.166,6969,Philippines,PH,Manila,elite,true,1.31,AS45102,"Alibaba (US) Technology Co., Ltd.",3993.38,1793159676.256897
+socks4,167.99.3.26,8091,United States,US,North Bergen,elite,true,9.36,AS14061,"DigitalOcean, LLC",5527.21,1793159676.2331493
+socks4,117.0.76.112,1061,Vietnam,VN,Thai Nguyen,elite,true,15.9,AS7552,VIETTEL,2307.55,1793159676.1974888
+socks4,202.40.177.94,5678,Bangladesh,BD,Dhaka,elite,true,43.92,AS23991,Ranks ITT,1291.99,1793159676.0413575
+socks4,43.246.198.172,1080,Japan,JP,Tsukuba,elite,true,31.04,AS39600,Lixium Sarl,5138.31,1793159675.8328755
+socks4,8.213.222.247,81,Thailand,TH,Bangkok,elite,true,1.18,AS45102,"Alibaba (US) Technology Co., Ltd.",6517.17,1793159675.6674902
+socks4,185.190.90.2,4145,Albania,AL,Durrës,elite,true,23.03,AS212637,Lightnet Sh.p.k.,1650.98,1793159675.6507404
+socks4,103.182.22.85,9000,Vietnam,VN,Quận Mười Một,elite,true,46.71,AS151858,CUONGKHANG,9942.64,1793159675.5897987
+socks4,43.165.135.162,60000,Japan,JP,Tokyo,elite,true,48.14,AS132203,Shenzhen Tencent Computer Systems Company Limited,1667.0,1793159675.5543013
+socks4,171.245.71.144,1058,Vietnam,VN,Hanoi,elite,true,21.08,AS7552,Viettel Corporation,1765.31,1793159675.5331037
+socks4,193.106.57.96,5678,Ukraine,UA,Kyiv,elite,true,26.11,AS42510,Magic Line,1096.98,1793159675.416598
+socks4,181.57.178.146,1080,Colombia,CO,Bogotá,elite,true,62.25,AS14080,Telmex Colombia S.A.,8774.19,1793159675.0896952
+socks4,116.106.108.240,1080,Vietnam,VN,Hanoi,elite,true,25.86,AS24086,Viettel Group,1810.31,1793159674.7582457
+socks4,70.166.167.55,57745,United States,US,Pensacola,elite,true,41.73,AS22773,Cox Communications Inc.,1652.81,1793159674.6476126
+socks4,93.93.61.153,1080,Lithuania,LT,Vilnius,elite,true,55.75,AS44613,"AB ""Ogmios Centras""",1304.08,1793159674.464768
+socks4,103.182.22.197,9000,Vietnam,VN,Quận Mười Một,elite,true,48.19,AS151858,CUONGKHANG,6781.02,1793159674.4281769
+socks4,45.118.77.67,1080,Cambodia,KH,Phnom Penh,elite,true,59.92,AS38901,Infolab,8689.69,1793159674.3146908
+socks4,192.111.130.2,4145,United States,US,Atlanta,elite,true,34.83,AS46562,Performive LLC,1533.05,1793159673.4617455
+socks4,36.64.27.123,5678,Indonesia,ID,Depok,elite,true,22.51,AS7713,PT. Telekomunikasi Indonesia,1689.79,1793159673.1895697
+socks4,202.142.170.115,1080,Pakistan,PK,Lahore,elite,true,50.27,AS9260,ITI Karachi Multinet,1264.19,1793159673.1348565
+socks4,171.221.240.100,10800,China,CN,Chengdu,elite,true,49.9,AS4134,Chinanet,17568.71,1793159672.6959643
+socks4,27.69.71.250,1037,Vietnam,VN,Cẩm Thủy,elite,true,18.77,AS7552,Viettel Group,3348.85,1793159672.4820585
+socks4,103.182.22.200,9000,Vietnam,VN,Quận Mười Một,elite,true,42.36,AS151858,CUONGKHANG,1509.25,1793159672.3055449
+socks4,184.170.251.30,11288,United States,US,Atlanta,elite,true,48.63,AS46562,Performive LLC,859.51,1793159672.3018863
+socks4,171.236.130.227,45438,Vietnam,VN,Ho Chi Minh City,elite,true,43.02,AS7552,Viettel Corporation,4567.07,1793159672.2082672
+socks4,184.181.217.194,4145,United States,US,Pensacola,elite,true,52.48,AS22773,Cox Communications Inc.,815.36,1793159671.756697
+socks4,8.212.151.166,3128,Philippines,PH,Manila,elite,true,1.23,AS45102,"Alibaba (US) Technology Co., Ltd.",8251.63,1793159671.6733568
+socks4,36.90.222.17,4153,Indonesia,ID,Tangerang,elite,true,21.37,AS7713,PT. Telekomunikasi Indonesia,1266.53,1793159671.653344
+socks4,109.61.117.11,1080,Hungary,HU,Budapest,elite,true,52.46,AS197248,Dravanet,114.95,1793159671.652154
+socks4,72.49.49.11,31034,United States,US,Cincinnati,elite,true,66.55,AS6181,Fuse Internet Access,833.87,1793159671.4431794
+socks4,103.51.46.1,4145,Indonesia,ID,Siak Sri Indrapura,elite,true,14.63,AS133819,CIM,5582.41,1793159671.4304404
+socks4,149.28.195.13,32768,United States,US,Santa Clara,elite,true,13.15,AS20473,The Constant Company,4205.97,1793159671.3575163
+socks4,45.71.115.17,1080,Ecuador,EC,Guayaquil,elite,true,25.94,AS52468,Ufinet Panama S.A.,826.44,1793159671.355958
+socks4,195.225.116.15,4145,Switzerland,CH,Wädenswil,elite,true,26.55,AS48971,netz116,4125.61,1793159671.3127522
+socks4,8.213.156.191,8001,South Korea,KR,Seoul,elite,true,1.07,AS45102,"Alibaba (US) Technology Co., Ltd.",12148.62,1793159670.9903076
+socks4,171.245.71.194,1054,Vietnam,VN,Hanoi,elite,true,22.11,AS7552,Viettel Corporation,5528.55,1793159670.8987753
+socks4,171.245.71.236,1068,Vietnam,VN,Hanoi,elite,true,19.44,AS7552,Viettel Corporation,4081.74,1793159670.6934466
+socks4,216.105.130.131,4145,United States,US,Simpsonville,elite,true,96.92,AS20081,NET2ATLANTA.COM LLC,730.78,1793159670.6734369
+socks4,199.58.184.97,4145,United States,US,Atlanta,elite,true,33.26,AS46562,Performive LLC,753.11,1793159670.6509745
+socks4,192.252.208.67,14287,United States,US,Atlanta,elite,true,30.36,AS46562,Performive LLC,748.99,1793159670.245493
+socks4,43.108.46.4,9050,South Korea,KR,Seoul,elite,true,25.48,AS45102,"Alibaba (US) Technology Co., Ltd.",7232.17,1793159670.2114472
+socks4,159.192.139.42,5678,Thailand,TH,Chon Buri,elite,true,26.96,AS131090,National Telecom Public Company Limited,2014.08,1793159669.9458425
+socks4,8.212.151.166,3129,Philippines,PH,Manila,elite,true,1.31,AS45102,"Alibaba (US) Technology Co., Ltd.",10535.56,1793159669.6637726
+socks4,88.247.31.164,4153,Türkiye,TR,Çankaya,elite,true,52.42,AS9121,Turk Telekomunikasyon A.S,381.28,1793159669.6102474
+socks4,69.61.200.104,36181,United States,US,Cincinnati,elite,true,65.22,AS6181,Fuse Internet Access,888.55,1793159669.526134
+socks4,27.69.71.250,1040,Vietnam,VN,Cẩm Thủy,elite,true,15.63,AS7552,Viettel Group,4322.0,1793159669.4210029
+socks4,181.204.39.202,53740,Colombia,CO,Floridablanca,elite,true,50.46,AS13489,EPM Telecomunicaciones S.A. E.S.P.,3923.89,1793159668.899728
+socks4,95.85.249.247,1080,Estonia,EE,Tallinn,elite,true,81.07,AS209693,OC NETWORKS LIMITED,162.58,1793159668.726319
+socks4,171.245.71.217,1102,Vietnam,VN,Hanoi,elite,true,26.09,AS7552,Viettel Corporation,4113.44,1793159668.7165892
+socks4,43.248.173.115,888,Singapore,SG,Singapore,elite,true,70.15,AS4907,Iens Technology Pte. LTD,14302.62,1793159668.5443056
+socks4,178.215.236.16,1080,Germany,DE,Frankfurt am Main,elite,true,19.11,AS215439,Play2go International Limited,8843.9,1793159668.3790152
+socks4,171.236.130.227,63584,Vietnam,VN,Ho Chi Minh City,elite,true,36.69,AS7552,Viettel Corporation,3068.89,1793159668.3478384
+socks4,8.212.151.166,199,Philippines,PH,Manila,elite,true,1.35,AS45102,"Alibaba (US) Technology Co., Ltd.",12063.79,1793159668.0267727
+socks4,192.252.209.158,4145,United States,US,Atlanta,elite,true,48.79,AS46562,Performive LLC,753.33,1793159668.0114725
+socks4,103.117.136.137,1080,Hong Kong,HK,Mong Kok,elite,true,96.17,AS401696,Fojip Technology Limited,1095.48,1793159668.0058532
+socks4,46.171.28.162,59311,Poland,PL,Krzywa Góra,elite,true,22.36,AS5617,Orange Polska Spolka Akcyjna,120.9,1793159667.7460294
+socks4,37.193.125.68,1090,Russia,RU,Novosibirsk,elite,true,56.64,AS31200,Novotelecom Ltd,508.87,1793159667.4790907
+socks4,8.215.25.3,2080,Indonesia,ID,Jakarta,elite,true,53.05,AS45102,"Alibaba (US) Technology Co., Ltd.",724.98,1793159667.393148
+socks4,90.178.216.215,4153,Czechia,CZ,Prague,elite,true,34.11,AS5610,"Telefonica O2 Czech Republic, a.s.",241.64,1793159667.3782406
+socks4,190.89.104.88,5432,Brazil,BR,São José dos Pinhais,elite,true,45.87,AS262391,Acessoline Telecomunicacoes Ltda,879.52,1793159666.4893022
+socks4,181.205.207.66,1080,Colombia,CO,Medellín,elite,true,60.17,AS13489,EPM Telecomunicaciones S.A. E.S.P.,11242.66,1793159666.3404243
+socks4,41.217.205.6,4153,Nigeria,NG,Abuja,elite,true,34.8,AS37125,Layer3 Limited,602.01,1793159665.9810457
+socks4,171.245.71.194,1084,Vietnam,VN,Hanoi,elite,true,19.69,AS7552,Viettel Corporation,1515.31,1793159665.8372269
+socks4,184.170.245.148,4145,United States,US,Atlanta,elite,true,48.59,AS46562,Performive LLC,733.65,1793159665.5750854
+socks4,174.64.199.79,4145,United States,US,Baton Rouge,elite,true,37.35,AS22773,Cox Communications Inc.,795.68,1793159665.2053835
+socks4,182.53.96.56,4145,Thailand,TH,Bangkok,elite,true,25.1,AS23969,TOT Public Company Limited,961.01,1793159665.1826096
+socks4,130.162.141.185,52916,South Korea,KR,Seoul,elite,true,51.5,AS31898,Oracle Corporation,17010.7,1793159665.1232991
+socks4,171.236.130.227,60653,Vietnam,VN,Ho Chi Minh City,elite,true,40.51,AS7552,Viettel Corporation,2676.74,1793159665.059208
+socks4,98.190.239.3,4145,United States,US,Tulsa,elite,true,60.87,AS22773,Cox Communications Inc.,793.85,1793159664.963659
+socks4,189.202.204.53,1080,Mexico,MX,Ramos Arizpe,elite,true,54.64,AS18734,"Operbes, S.A. de C.V.",1811.42,1793159663.606524
+socks4,171.245.71.194,1037,Vietnam,VN,Hanoi,elite,true,19.04,AS7552,Viettel Corporation,2531.25,1793159663.589857
+socks4,103.161.62.13,1080,Indonesia,ID,Temanggung,elite,true,15.63,AS38156,Internet Service Provider,8293.17,1793159663.432016
+socks4,192.111.137.35,4145,United States,US,Atlanta,elite,true,33.28,AS46562,Performive LLC,763.69,1793159661.2113554
+socks4,116.101.84.186,1034,Vietnam,VN,Hanoi,elite,true,14.67,AS7552,Viettel Group,1040.75,1793159661.1100938
+socks4,201.79.50.139,10000,Brazil,BR,Salvador,elite,true,60.34,AS14061,DigitalOcean,413.6,1793159660.7717698
+socks4,171.245.71.236,1055,Vietnam,VN,Hanoi,elite,true,19.69,AS7552,Viettel Corporation,3063.91,1793159660.5125215
+socks4,118.70.131.249,1080,Vietnam,VN,Hanoi,elite,true,10.89,AS18403,Vietnam Internet Network Information Center,2058.91,1793159660.4681742
+socks4,119.40.98.29,8069,Mongolia,MN,Ulan Bator,elite,true,20.95,AS10109,"Topica Co., Ltd",1420.83,1793159660.2639704
+socks4,72.194.42.156,4145,United States,US,Oklahoma City,elite,true,60.08,AS22773,Cox Communications Inc,800.29,1793159660.2262347
+socks4,190.104.26.227,33638,Bolivia,BO,La Paz,elite,true,30.06,AS27882,Telefónica Celular de Bolivia S.A.,1042.01,1793159659.8995063
+socks4,47.238.60.156,13,Hong Kong,HK,Hong Kong,elite,true,1.22,AS45102,Alibaba Cloud LLC,3361.55,1793159659.6889448
+socks4,110.39.135.194,1080,Pakistan,PK,Model Town,elite,true,43.25,AS38264,Wateen Telecom Limited,1783.84,1793159659.197422
+socks4,103.167.156.92,1080,Indonesia,ID,Pemalang,elite,true,40.37,AS150554,PT Jaringan Tiang Indonesia Group,3941.4,1793159659.1223102
+socks4,171.245.71.144,1029,Vietnam,VN,Hanoi,elite,true,20.25,AS7552,Viettel Corporation,2169.14,1793159658.6066568
+socks4,89.163.206.215,9050,Germany,DE,Düsseldorf,elite,true,20.6,AS24961,WIIT AG,1576.75,1793159658.5514884
+socks4,8.213.195.191,8000,Thailand,TH,Bangkok,elite,true,1.31,AS45102,Alibaba Cloud (Singapore) Private Limited,3397.42,1793159658.457556
+socks4,45.249.79.190,3629,India,IN,Mārkāpur,elite,true,11.35,AS18229,Tejasri Communications,750.2,1793159658.203959
+socks4,176.97.210.116,9091,Germany,DE,Frankfurt am Main,elite,true,16.72,AS49581,Ferdinand Zink trading as Tube-Hosting,13930.73,1793159658.1904168
+socks4,171.245.71.194,1051,Vietnam,VN,Hanoi,elite,true,17.86,AS7552,Viettel Corporation,1154.7,1793159656.6661675
+socks4,190.108.57.212,1085,Argentina,AR,Santa Rosa,elite,true,19.58,AS52308,Aguas Del Colorado Sapem,2324.74,1793159656.0425918
+socks4,185.40.80.143,4153,Czechia,CZ,Klatovy,elite,true,6.78,AS210712,Airweb,3079.29,1793159655.914954
+socks4,77.42.112.157,9050,Finland,FI,Helsinki,elite,true,16.12,AS24940,Hetzner Online GmbH,2166.61,1793159655.4771965
+socks4,171.245.71.194,1099,Vietnam,VN,Hanoi,elite,true,20.83,AS7552,Viettel Corporation,1100.47,1793159654.634097
+socks4,171.245.71.144,1099,Vietnam,VN,Hanoi,elite,true,22.62,AS7552,Viettel Corporation,1107.53,1793159654.3018546
+socks4,68.1.210.189,4145,United States,US,San Diego,elite,true,36.69,AS22773,Cox Communications Inc.,831.36,1793159654.1098533
+socks4,8.213.195.191,1081,Thailand,TH,Bangkok,elite,true,1.22,AS45102,Alibaba Cloud (Singapore) Private Limited,7828.48,1793159653.9889493
+socks4,113.161.134.128,1080,Vietnam,VN,Bien Hoa,elite,true,58.21,AS45899,VietNam Post and Telecom Corporation,8418.7,1793159653.726014
+socks4,171.245.71.217,1099,Vietnam,VN,Hanoi,elite,true,21.29,AS7552,Viettel Corporation,1830.87,1793159653.404715
+socks4,47.238.60.156,9098,Hong Kong,HK,Hong Kong,elite,true,1.06,AS45102,Alibaba Cloud LLC,10516.36,1793159652.7090015
+socks4,117.0.76.112,1049,Vietnam,VN,Thai Nguyen,elite,true,16.9,AS7552,VIETTEL,1956.02,1793159652.4997697
+socks4,43.130.38.45,51029,United States,US,Santa Clara,elite,true,46.41,AS132203,Shenzhen Tencent Computer Systems Company Limited,3278.86,1793159652.269762
+socks4,35.240.177.77,40001,Singapore,SG,Singapore,elite,true,58.81,AS396982,Google LLC,865.14,1793159651.792041
+socks4,171.238.101.122,1034,Vietnam,VN,Hanoi,elite,true,14.81,AS7552,Viettel Corporation,1658.56,1793159651.0177608
+socks4,202.179.76.105,51951,India,IN,Mumbai,elite,true,37.71,AS138296,Juweriyah Networks Private Limited,1666.94,1793159650.5679774
+socks4,103.182.22.245,9000,Vietnam,VN,Quận Mười Một,elite,true,44.61,AS151858,CUONGKHANG,12665.97,1793159648.9129465
+socks4,192.111.137.34,18765,United States,US,Atlanta,elite,true,31.97,AS46562,Performive LLC,738.4,1793159648.873289
+socks4,212.126.5.245,42344,Poland,PL,Warsaw,elite,true,10.97,AS8364,"Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",7309.34,1793159648.823026
+socks4,171.245.71.194,1080,Vietnam,VN,Hanoi,elite,true,25.35,AS7552,Viettel Corporation,2096.61,1793159648.7148085
+socks4,47.243.222.214,1080,Hong Kong,HK,Hong Kong,elite,true,56.85,AS45102,Alibaba Cloud LLC,8897.19,1793159648.5945017
+socks4,27.69.71.250,1057,Vietnam,VN,Cẩm Thủy,elite,true,25.8,AS7552,Viettel Group,1072.94,1793159647.6210122
+socks4,108.61.185.188,1080,Australia,AU,Sydney,elite,true,39.56,AS20473,Choopa,13688.54,1793159647.1766825
+socks4,171.245.71.236,1029,Vietnam,VN,Hanoi,elite,true,17.27,AS7552,Viettel Corporation,2524.25,1793159646.7771115
+socks4,171.245.71.217,1080,Vietnam,VN,Hanoi,elite,true,31.25,AS7552,Viettel Corporation,1046.15,1793159646.5451345
+socks4,216.68.128.121,4145,United States,US,Cincinnati,elite,true,99.75,AS6181,Cincinnati Bell Telephone Company LLC,820.13,1793159646.2345104
+socks4,188.72.16.74,1080,Iraq,IQ,Sulaymaniyah,elite,true,60.43,AS49571,CELLNET - Garden City,3437.28,1793159645.877438
+socks4,185.190.154.121,4145,Serbia,RS,Belgrade,elite,true,44.22,AS8400,TELEKOM-SRBIJA,3222.63,1793159645.4579139
+socks4,8.212.168.170,999,Philippines,PH,Manila,elite,true,1.2,AS45102,"Alibaba (US) Technology Co., Ltd.",8048.89,1793159644.5805905
+socks4,89.250.148.158,1080,Russia,RU,Tyumen,elite,true,40.88,AS41682,"JSC ""ER-Telecom Holding""",338.86,1793159644.0704286
+socks4,91.73.223.206,1080,United Arab Emirates,AE,Dubai,elite,true,69.73,AS15802,Emirates Integrated Telecommunications Company PJSC,14330.97,1793159644.0008152
+socks4,194.87.89.112,9150,Latvia,LV,Riga,elite,true,13.53,AS26383,Baxet Group Inc.,761.86,1793159643.845906
+socks4,116.101.84.186,1098,Vietnam,VN,Hanoi,elite,true,16.97,AS7552,Viettel Group,2394.6,1793159643.7119546
+socks4,103.169.188.14,8080,Indonesia,ID,Magetan,elite,true,13.74,AS142347,Sarana Media Cemerlang,1876.27,1793159643.5989778
+socks4,171.245.71.144,1084,Vietnam,VN,Hanoi,elite,true,24.26,AS7552,Viettel Corporation,8626.74,1793159643.3610468
+socks4,123.25.116.228,1080,Vietnam,VN,Hanoi,elite,true,15.16,AS45899,VietNam Post and Telecom Corporation,4126.15,1793159643.3425658
+socks4,117.0.76.112,1037,Vietnam,VN,Thai Nguyen,elite,true,18.92,AS7552,VIETTEL,1108.57,1793159643.3268144
+socks4,171.245.71.236,1099,Vietnam,VN,Hanoi,elite,true,21.25,AS7552,Viettel Corporation,2550.76,1793159643.0252845
+socks4,27.69.71.250,1029,Vietnam,VN,Cẩm Thủy,elite,true,17.63,AS7552,Viettel Group,1057.67,1793159642.5830057
+socks4,116.101.84.186,1037,Vietnam,VN,Hanoi,elite,true,20.13,AS7552,Viettel Group,4752.65,1793159642.4987211
+socks4,171.245.71.144,1042,Vietnam,VN,Hanoi,elite,true,18.7,AS7552,Viettel Corporation,4105.22,1793159642.2358897
+socks4,184.170.249.65,4145,United States,US,Atlanta,elite,true,33.36,AS46562,Performive LLC,768.04,1793159641.884094
+socks4,89.132.170.211,4145,Hungary,HU,Budapest,elite,true,29.3,AS21334,One Hungary Ltd.,1478.85,1793159640.9557316
+socks4,113.166.93.239,5678,Vietnam,VN,Hanoi,elite,true,58.97,AS45899,VietNam Post and Telecom Corporation,1233.88,1793159640.4943078
+socks4,171.245.71.144,1055,Vietnam,VN,Hanoi,elite,true,20.35,AS7552,Viettel Corporation,2226.11,1793159640.4246778
+socks4,103.182.22.86,9000,Vietnam,VN,Quận Mười Một,elite,true,46.01,AS151858,CUONGKHANG,1840.59,1793159637.9639528
+socks4,77.110.107.229,8080,Germany,DE,Frankfurt am Main,elite,true,69.85,AS215540,Global Connectivity Solutions LLP,756.22,1793159637.1330838
+socks4,184.181.217.201,4145,United States,US,Pensacola,elite,true,55.48,AS22773,Cox Communications Inc.,823.12,1793159636.4533362
+socks4,171.236.130.227,48078,Vietnam,VN,Ho Chi Minh City,elite,true,35.67,AS7552,Viettel Corporation,4567.21,1793159636.405036
+socks4,171.245.71.236,1112,Vietnam,VN,Hanoi,elite,true,18.35,AS7552,Viettel Corporation,2575.32,1793159636.1563487
+socks4,72.36.32.222,9050,United States,US,Sheridan,elite,true,22.39,AS30110,Advanced Communications Technology,2687.08,1793159636.100833
+socks4,103.182.22.18,9000,Vietnam,VN,Quận Mười Một,elite,true,45.22,AS151858,CUONGKHANG,9232.58,1793159635.7270992
+socks4,27.69.71.250,1112,Vietnam,VN,Cẩm Thủy,elite,true,16.67,AS7552,Viettel Group,1341.52,1793159635.3697398
+socks4,103.182.22.58,9000,Vietnam,VN,Quận Mười Một,elite,true,46.02,AS151858,CUONGKHANG,11616.67,1793159634.580664
+socks4,184.181.217.220,4145,United States,US,Pensacola,elite,true,53.65,AS22773,Cox Communications Inc.,792.21,1793159634.0859704
+socks4,221.157.45.249,80,South Korea,KR,Seo-gu,elite,true,35.81,AS4766,Korea Telecom,1208.15,1793159633.819173
+socks4,91.186.211.105,1080,Finland,FI,Helsinki,elite,true,20.82,AS204339,First Server Limited,8232.85,1793159633.1081562
+socks4,103.175.240.64,1080,Indonesia,ID,Mungkid,elite,true,16.87,AS45305,LDP,4506.47,1793159632.1181111
+socks4,118.70.211.121,60606,Vietnam,VN,Hanoi,elite,true,36.56,AS18403,FPT Telecom Company,2201.09,1793159632.0800858
+socks4,105.214.67.34,5678,South Africa,ZA,Johannesburg,elite,true,64.81,AS16637,MTN SA,3986.18,1793159631.5856843
+socks4,47.85.9.228,10800,United States,US,Charlottesville,elite,true,73.68,AS45102,Alibaba.com LLC,7413.41,1793159631.1142573
+socks4,103.182.22.224,9000,Vietnam,VN,Quận Mười Một,elite,true,44.31,AS151858,CUONGKHANG,12537.33,1793159630.2522285
+socks4,98.178.72.21,10919,United States,US,Pensacola,elite,true,41.43,AS22773,Cox Communications Inc.,806.5,1793159629.696391
+socks4,123.200.6.58,5678,Bangladesh,BD,Dhaka,elite,true,32.88,AS23688,Link3 Technologies Limited,940.8,1793159629.1261818
+socks4,192.252.208.70,14282,United States,US,Atlanta,elite,true,33.35,AS46562,Performive LLC,756.45,1793159626.8566785
+socks4,171.236.130.227,53867,Vietnam,VN,Ho Chi Minh City,elite,true,43.25,AS7552,Viettel Corporation,2576.85,1793159625.3952928
+socks4,98.182.147.97,4145,United States,US,Phoenix,elite,true,60.8,AS22773,Cox Communications Inc.,786.08,1793159625.1998386
+socks4,117.0.76.112,1035,Vietnam,VN,Thai Nguyen,elite,true,18.42,AS7552,VIETTEL,5218.26,1793159623.3166528
+socks4,27.69.71.250,1061,Vietnam,VN,Cẩm Thủy,elite,true,18.37,AS7552,Viettel Group,1045.89,1793159622.3933582
+socks4,98.188.47.132,4145,United States,US,Pensacola,elite,true,40.86,AS22773,Cox Communications Inc.,804.32,1793159621.8364003
+socks4,93.184.7.217,1080,Palestinian Territory,PS,Ramallah,elite,true,19.74,AS47253,BCI Telecommunication & Advanced Technology Company,1345.69,1793159621.0491292
+socks4,152.70.237.238,3128,South Korea,KR,Seoul,elite,true,47.38,AS31898,Oracle Corporation,9836.81,1793159620.4588196
+socks4,43.242.227.10,9053,India,IN,Panvel,elite,true,22.69,AS146943,Tier 4 Cloud Services,8893.02,1793159619.3035135
+socks4,192.111.139.163,19404,United States,US,Atlanta,elite,true,33.88,AS46562,Performive LLC,742.73,1793159619.2281694
+socks4,116.101.84.186,1051,Vietnam,VN,Hanoi,elite,true,16.48,AS7552,Viettel Group,1182.96,1793159618.862852
+socks4,47.237.113.119,9000,Singapore,SG,Singapore,elite,true,1.56,AS45102,"Alibaba (US) Technology Co., Ltd.",6391.3,1793159618.4145598
+socks4,116.101.84.186,1095,Vietnam,VN,Hanoi,elite,true,17.42,AS7552,Viettel Group,5281.43,1793159617.877958
+socks4,171.238.101.122,1051,Vietnam,VN,Hanoi,elite,true,16.29,AS7552,Viettel Corporation,1043.94,1793159617.1059477
+socks4,46.175.148.45,1080,The Netherlands,NL,Amsterdam,elite,true,56.7,AS50673,Serverius Holding B.V.,969.3,1793159616.0645604

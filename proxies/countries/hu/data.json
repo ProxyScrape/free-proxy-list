@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "92.249.221.91",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "109.61.117.11",
+    "port": 1080,
     "country": "Hungary",
     "country_code": "HU",
-    "city": "Érd",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 47.63,
-    "asn": "AS20845",
-    "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
-    "latency_ms": 3572.72,
-    "last_checked": 1793159316.6047716
+    "city": "Budapest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 52.46,
+    "asn": "AS197248",
+    "isp": "Dravanet",
+    "latency_ms": 114.95,
+    "last_checked": 1793159671.652154
+  },
+  {
+    "protocol": "socks4",
+    "ip": "89.132.170.211",
+    "port": 4145,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Budapest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.3,
+    "asn": "AS21334",
+    "isp": "One Hungary Ltd.",
+    "latency_ms": 1478.85,
+    "last_checked": 1793159640.9557316
   },
   {
     "protocol": "http",
@@ -22,11 +37,26 @@
     "country_code": "HU",
     "city": "Kimle",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 71.12,
+    "ssl": true,
+    "uptime_percent": 71.21,
     "asn": "AS5483",
     "isp": "Magyar Telekom",
-    "latency_ms": 1772.93,
-    "last_checked": 1793159313.8176832
+    "latency_ms": 841.09,
+    "last_checked": 1793159601.5144627
+  },
+  {
+    "protocol": "http",
+    "ip": "92.249.221.91",
+    "port": 8080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Érd",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 47.66,
+    "asn": "AS20845",
+    "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
+    "latency_ms": 7376.17,
+    "last_checked": 1793159532.5899131
   }
 ]
