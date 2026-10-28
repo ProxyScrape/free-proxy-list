@@ -1,33 +1,48 @@
 [
   {
     "protocol": "http",
-    "ip": "181.78.44.63",
-    "port": 999,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "La Unión",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 52.32,
-    "asn": "AS52468",
-    "isp": "Ufinet Panama S.A.",
-    "latency_ms": 4897.58,
-    "last_checked": 1793166203.1520174
-  },
-  {
-    "protocol": "http",
     "ip": "200.52.148.212",
     "port": 999,
     "country": "Honduras",
     "country_code": "HN",
     "city": "El Progreso",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 36.56,
     "asn": "AS27932",
     "isp": "Redes y Telecomunicaciones",
-    "latency_ms": 10908.92,
-    "last_checked": 1793166200.1967976
+    "latency_ms": 1455.69,
+    "last_checked": 1793166859.2184896
+  },
+  {
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.72,
+    "asn": "AS14754",
+    "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+    "latency_ms": 1799.9,
+    "last_checked": 1793166843.2006016
+  },
+  {
+    "protocol": "http",
+    "ip": "181.78.44.63",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "La Unión",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 52.32,
+    "asn": "AS52468",
+    "isp": "Ufinet Panama S.A.",
+    "latency_ms": 3661.96,
+    "last_checked": 1793166815.9074414
   },
   {
     "protocol": "http",
@@ -41,8 +56,38 @@
     "uptime_percent": 8.15,
     "asn": "AS14754",
     "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-    "latency_ms": 6856.44,
-    "last_checked": 1793166188.996747
+    "latency_ms": 4814.08,
+    "last_checked": 1793166810.143039
+  },
+  {
+    "protocol": "http",
+    "ip": "190.61.80.68",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Yorito",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 58.51,
+    "asn": "AS52468",
+    "isp": "Ufinet Panama S.A.",
+    "latency_ms": 8913.98,
+    "last_checked": 1793166801.1099856
+  },
+  {
+    "protocol": "http",
+    "ip": "200.107.239.218",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.54,
+    "asn": "AS27932",
+    "isp": "Redes y Telecomunicaciones",
+    "latency_ms": 4917.72,
+    "last_checked": 1793166786.327817
   },
   {
     "protocol": "http",
@@ -52,11 +97,26 @@
     "country_code": "HN",
     "city": "Tegucigalpa",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 28.9,
     "asn": "AS52468",
     "isp": "Ufinet Panama S.A.",
-    "latency_ms": 2696.9,
-    "last_checked": 1793166138.8887312
+    "latency_ms": 2149.84,
+    "last_checked": 1793166776.6808305
+  },
+  {
+    "protocol": "http",
+    "ip": "192.141.165.131",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Catacamas",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 23.54,
+    "asn": "AS265788",
+    "isp": "Denis Javier Rodríguez Guzmán",
+    "latency_ms": 4385.29,
+    "last_checked": 1793166772.2741137
   }
 ]
