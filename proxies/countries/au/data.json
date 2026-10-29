@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "168.138.9.147",
     "port": 1080,
     "country": "Australia",
@@ -8,11 +8,26 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 32.63,
+    "uptime_percent": 29.38,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 2850.49,
-    "last_checked": 1793303360.493122
+    "latency_ms": 18383.53,
+    "last_checked": 1793303753.0728192
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.192.80.81",
+    "port": 1088,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 78.35,
+    "asn": "AS136557",
+    "isp": "Host Universal Pty Ltd",
+    "latency_ms": 7513.36,
+    "last_checked": 1793303750.8156393
   },
   {
     "protocol": "http",
@@ -26,22 +41,37 @@
     "uptime_percent": 72.24,
     "asn": "AS45577",
     "isp": "Intervolve Pty Ltd",
-    "latency_ms": 2634.93,
-    "last_checked": 1793303342.5211833
+    "latency_ms": 653.12,
+    "last_checked": 1793303746.749569
   },
   {
-    "protocol": "socks5",
-    "ip": "103.192.80.81",
-    "port": 1088,
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 80,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 78.33,
-    "asn": "AS136557",
-    "isp": "Host Universal Pty Ltd",
-    "latency_ms": 8701.09,
-    "last_checked": 1793303311.641481
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 10.72,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 11221.52,
+    "last_checked": 1793303946.5571444
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 11.1,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 3427.49,
+    "last_checked": 1793303939.4387064
   }
 ]
