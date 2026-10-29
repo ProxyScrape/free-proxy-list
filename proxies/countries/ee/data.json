@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "95.85.249.247",
+    "port": 3128,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 31.91,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 3391.15,
+    "last_checked": 1793288654.6809258
+  },
+  {
+    "protocol": "socks5",
+    "ip": "95.85.249.247",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 53.39,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 6392.5,
+    "last_checked": 1793288623.5447137
+  },
+  {
+    "protocol": "http",
     "ip": "109.206.241.194",
     "port": 3128,
     "country": "Estonia",
@@ -13,20 +43,5 @@
     "isp": "Baykov Ilya Sergeevich",
     "latency_ms": 7858.44,
     "last_checked": 1793288303.1869252
-  },
-  {
-    "protocol": "socks5",
-    "ip": "95.85.249.247",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 53.26,
-    "asn": "AS209693",
-    "isp": "OC NETWORKS LIMITED",
-    "latency_ms": 14946.89,
-    "last_checked": 1793288267.6162105
   }
 ]
