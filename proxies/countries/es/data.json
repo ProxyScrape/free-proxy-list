@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Ciempozuelos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.07,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 674.9,
+    "last_checked": 1793304264.674427
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.117.248.36",
+    "port": 1080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Sant Joan les Fonts",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.19,
+    "asn": "AS210086",
+    "isp": "Connecta 1876 SLU",
+    "latency_ms": 1065.68,
+    "last_checked": 1793304263.01307
+  },
+  {
     "protocol": "http",
     "ip": "37.59.138.176",
     "port": 8080,
@@ -7,12 +37,42 @@
     "country_code": "ES",
     "city": "Madrid",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 27.45,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 3531.37,
-    "last_checked": 1793303947.3687942
+    "latency_ms": 1516.48,
+    "last_checked": 1793304243.6761484
+  },
+  {
+    "protocol": "http",
+    "ip": "91.126.244.112",
+    "port": 8080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Sant Fost de Campsentelles",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.55,
+    "asn": "AS35699",
+    "isp": "Adamo Telecom Iberia S.A Catalonia",
+    "latency_ms": 3439.24,
+    "last_checked": 1793304239.1484606
+  },
+  {
+    "protocol": "http",
+    "ip": "47.63.110.98",
+    "port": 8080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 62.15,
+    "asn": "AS12430",
+    "isp": "Vodafone Global Enterprise Inc.",
+    "latency_ms": 7063.37,
+    "last_checked": 1793304235.6991365
   },
   {
     "protocol": "http",
@@ -28,20 +88,5 @@
     "isp": "Vodafone Espana S.A.U.",
     "latency_ms": 7439.4,
     "last_checked": 1793303945.2431743
-  },
-  {
-    "protocol": "socks5",
-    "ip": "85.117.248.36",
-    "port": 1080,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Sant Joan les Fonts",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 32.19,
-    "asn": "AS210086",
-    "isp": "Connecta 1876 SLU",
-    "latency_ms": 1384.51,
-    "last_checked": 1793303921.0107453
   }
 ]
