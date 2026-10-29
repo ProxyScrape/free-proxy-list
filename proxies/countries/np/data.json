@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "202.166.219.80",
-    "port": 4153,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Kathmandu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 16.89,
-    "asn": "AS17501",
-    "isp": "WorldLink Communications",
-    "latency_ms": 1410.8,
-    "last_checked": 1793244594.9227407
-  },
-  {
     "protocol": "http",
     "ip": "110.34.1.180",
     "port": 32650,
@@ -22,11 +7,26 @@
     "country_code": "NP",
     "city": "Kathmandu",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 10.13,
     "asn": "AS4007",
     "isp": "Subisu Cablenet",
-    "latency_ms": 7808.11,
-    "last_checked": 1793244518.74156
+    "latency_ms": 1494.72,
+    "last_checked": 1793245065.531692
+  },
+  {
+    "protocol": "http",
+    "ip": "36.253.25.10",
+    "port": 8181,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 16.19,
+    "asn": "AS38565",
+    "isp": "Ncell Pty. Ltd.",
+    "latency_ms": 15499.58,
+    "last_checked": 1793245040.1686919
   }
 ]
