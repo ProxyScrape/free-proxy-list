@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "111.125.154.22",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "111.125.154.86",
+    "port": 8080,
     "country": "Afghanistan",
     "country_code": "AF",
     "city": "Taloqan",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 34.25,
+    "uptime_percent": 75.0,
     "asn": "AS45178",
     "isp": "Telecom Development Company Afghanistan",
-    "latency_ms": 831.5,
-    "last_checked": 1793394548.4654763
+    "latency_ms": 3106.36,
+    "last_checked": 1793395192.1304536
+  },
+  {
+    "protocol": "http",
+    "ip": "103.151.88.45",
+    "port": 8080,
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "city": "Mazari Sharif",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 16.49,
+    "asn": "AS137475",
+    "isp": "Shah Net Internet Services Provider",
+    "latency_ms": 11423.2,
+    "last_checked": 1793395071.4840715
   }
 ]
