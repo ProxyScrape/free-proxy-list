@@ -1,36 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "80.92.227.185",
-    "port": 5678,
-    "country": "Ukraine",
-    "country_code": "UA",
-    "city": "Kyiv",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 22.6,
-    "asn": "AS1820",
-    "isp": "WNET TELECOM USA Corp.",
-    "latency_ms": 310.34,
-    "last_checked": 1793317748.4055457
-  },
-  {
-    "protocol": "socks4",
-    "ip": "95.182.78.6",
-    "port": 5678,
-    "country": "Ukraine",
-    "country_code": "UA",
-    "city": "Liuboml",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 7.79,
-    "asn": "AS50648",
-    "isp": "PE UAinet",
-    "latency_ms": 652.13,
-    "last_checked": 1793317741.18324
-  },
-  {
-    "protocol": "socks4",
     "ip": "193.105.62.11",
     "port": 58973,
     "country": "Ukraine",
@@ -41,8 +11,8 @@
     "uptime_percent": 22.52,
     "asn": "AS196906",
     "isp": "PE Brunarsky Andrey Romanovich",
-    "latency_ms": 634.85,
-    "last_checked": 1793317741.1373281
+    "latency_ms": 220.28,
+    "last_checked": 1793318363.2745376
   },
   {
     "protocol": "socks4",
@@ -56,8 +26,23 @@
     "uptime_percent": 26.08,
     "asn": "AS42510",
     "isp": "Magic Line",
-    "latency_ms": 863.69,
-    "last_checked": 1793317735.5972426
+    "latency_ms": 1177.72,
+    "last_checked": 1793318357.5279007
+  },
+  {
+    "protocol": "socks5",
+    "ip": "194.44.255.112",
+    "port": 8090,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Lviv",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.79,
+    "asn": "AS3255",
+    "isp": "LLC EKSINTECH",
+    "latency_ms": 1574.34,
+    "last_checked": 1793318341.897938
   },
   {
     "protocol": "http",
@@ -67,12 +52,12 @@
     "country_code": "UA",
     "city": "Odesa",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 58.77,
+    "ssl": false,
+    "uptime_percent": 58.97,
     "asn": "AS203447",
     "isp": "Miratel Ltd",
-    "latency_ms": 1747.67,
-    "last_checked": 1793317735.2407048
+    "latency_ms": 2843.74,
+    "last_checked": 1793318341.0986416
   },
   {
     "protocol": "socks4",
@@ -86,38 +71,23 @@
     "uptime_percent": 44.08,
     "asn": "AS15377",
     "isp": "ISP \"Fregat\"",
-    "latency_ms": 3867.99,
-    "last_checked": 1793317725.6150086
-  },
-  {
-    "protocol": "socks5",
-    "ip": "91.222.66.144",
-    "port": 1080,
-    "country": "Ukraine",
-    "country_code": "UA",
-    "city": "Shklo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 48.91,
-    "asn": "AS8870",
-    "isp": "Overseas Technologies LLC",
-    "latency_ms": 354.31,
-    "last_checked": 1793317715.7868066
+    "latency_ms": 340.64,
+    "last_checked": 1793318333.7277422
   },
   {
     "protocol": "http",
-    "ip": "178.251.111.28",
+    "ip": "88.135.210.179",
     "port": 8080,
     "country": "Ukraine",
     "country_code": "UA",
-    "city": "Popivka",
+    "city": "Ivano-Frankivsk",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 1.73,
-    "asn": "AS35297",
-    "isp": "Dataline LLC",
-    "latency_ms": 4067.96,
-    "last_checked": 1793317633.5413792
+    "uptime_percent": 10.5,
+    "asn": "AS49125",
+    "isp": "Uteam LTD",
+    "latency_ms": 15139.67,
+    "last_checked": 1793318329.6904778
   },
   {
     "protocol": "socks5",
@@ -128,11 +98,26 @@
     "city": "Kyiv",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 90.95,
+    "uptime_percent": 90.96,
     "asn": "AS207656",
     "isp": "Ukrainian Data Network",
-    "latency_ms": 1124.23,
-    "last_checked": 1793317628.398323
+    "latency_ms": 891.11,
+    "last_checked": 1793318329.6502843
+  },
+  {
+    "protocol": "http",
+    "ip": "195.226.213.254",
+    "port": 8888,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Fontanka",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 59.63,
+    "asn": "AS197192",
+    "isp": "Private Enterprise KTV AIDA",
+    "latency_ms": 2255.96,
+    "last_checked": 1793318308.5332541
   },
   {
     "protocol": "http",
@@ -142,27 +127,42 @@
     "country_code": "UA",
     "city": "Kerch",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 33.29,
     "asn": "AS201069",
     "isp": "Apex Group LLC",
-    "latency_ms": 5274.08,
-    "last_checked": 1793317623.4698532
+    "latency_ms": 646.02,
+    "last_checked": 1793318303.6556273
   },
   {
-    "protocol": "socks5",
-    "ip": "185.151.86.121",
-    "port": 3699,
+    "protocol": "http",
+    "ip": "82.207.117.120",
+    "port": 8080,
     "country": "Ukraine",
     "country_code": "UA",
-    "city": "Khorol",
+    "city": "Kyiv",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 13.96,
-    "asn": "AS199995",
-    "isp": "Omega Telecom",
-    "latency_ms": 7856.19,
-    "last_checked": 1793317599.7893603
+    "uptime_percent": 22.32,
+    "asn": "AS6849",
+    "isp": "JSC \"Ukrtelecom\"",
+    "latency_ms": 2704.24,
+    "last_checked": 1793318284.0867643
+  },
+  {
+    "protocol": "http",
+    "ip": "178.251.111.26",
+    "port": 8080,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Konotop",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 1.77,
+    "asn": "AS35297",
+    "isp": "Dataline LLC",
+    "latency_ms": 4000.22,
+    "last_checked": 1793318271.5276728
   },
   {
     "protocol": "socks5",
@@ -176,7 +176,22 @@
     "uptime_percent": 44.5,
     "asn": "AS6702",
     "isp": "Science Production Company \"Trifle\" Ltd.",
-    "latency_ms": 7670.57,
-    "last_checked": 1793317561.1072621
+    "latency_ms": 443.11,
+    "last_checked": 1793318260.0257754
+  },
+  {
+    "protocol": "socks5",
+    "ip": "193.24.222.150",
+    "port": 33500,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Zhytomyr",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 17.28,
+    "asn": "AS50803",
+    "isp": "PP Serih Olena Petrovna",
+    "latency_ms": 1262.64,
+    "last_checked": 1793318243.2979865
   }
 ]
