@@ -1,6 +1,36 @@
 [
   {
     "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.83,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 287.88,
+    "last_checked": 1793334261.3540597
+  },
+  {
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 71.56,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 8628.95,
+    "last_checked": 1793334242.4393597
+  },
+  {
+    "protocol": "socks4",
     "ip": "188.127.247.6",
     "port": 1080,
     "country": "Czechia",
@@ -8,41 +38,11 @@
     "city": "Veselí nad Lužnicí",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 95.77,
+    "uptime_percent": 96.34,
     "asn": "AS62212",
     "isp": "SmartApe OU",
-    "latency_ms": 61.32,
-    "last_checked": 1793333805.87236
-  },
-  {
-    "protocol": "socks5",
-    "ip": "91.218.234.54",
-    "port": 11080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Stříbro",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 59.39,
-    "asn": "AS51424",
-    "isp": "Jiri Sperl",
-    "latency_ms": 6540.08,
-    "last_checked": 1793333801.993515
-  },
-  {
-    "protocol": "http",
-    "ip": "77.240.102.149",
-    "port": 800,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.64,
-    "asn": "AS42189",
-    "isp": "Druzstvo EUROSIGNAL",
-    "latency_ms": 5341.38,
-    "last_checked": 1793333765.5964167
+    "latency_ms": 401.3,
+    "last_checked": 1793334238.876756
   },
   {
     "protocol": "http",
@@ -61,17 +61,17 @@
   },
   {
     "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
+    "ip": "77.240.102.149",
+    "port": 800,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Brno",
-    "anonymity": "elite",
+    "city": "Prague",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 71.56,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 17639.09,
-    "last_checked": 1793333859.3464477
+    "uptime_percent": 30.64,
+    "asn": "AS42189",
+    "isp": "Druzstvo EUROSIGNAL",
+    "latency_ms": 5341.38,
+    "last_checked": 1793333765.5964167
   }
 ]
