@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "193.42.112.26",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "95.85.249.247",
+    "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Kuusalu",
+    "city": "Tallinn",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 38.51,
-    "asn": "AS199144",
-    "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 14008.18,
-    "last_checked": 1793324339.8983839
+    "ssl": true,
+    "uptime_percent": 33.46,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 1179.98,
+    "last_checked": 1793324995.3724957
+  },
+  {
+    "protocol": "socks5",
+    "ip": "95.85.249.247",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 51.88,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 8403.3,
+    "last_checked": 1793324952.2841969
   },
   {
     "protocol": "http",
@@ -26,22 +41,37 @@
     "uptime_percent": 55.7,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 806.26,
-    "last_checked": 1793324325.1459699
+    "latency_ms": 208.56,
+    "last_checked": 1793324905.1839435
   },
   {
     "protocol": "http",
-    "ip": "95.85.249.247",
+    "ip": "193.42.112.26",
+    "port": 8080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Kuusalu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.51,
+    "asn": "AS199144",
+    "isp": "HexCore cloud s.r.o.",
+    "latency_ms": 13183.32,
+    "last_checked": 1793324873.5928864
+  },
+  {
+    "protocol": "http",
+    "ip": "109.206.241.194",
     "port": 3128,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 31.03,
-    "asn": "AS209693",
-    "isp": "OC NETWORKS LIMITED",
-    "latency_ms": 10506.61,
-    "last_checked": 1793324301.576802
+    "city": "Tallin",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 41.76,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 12728.59,
+    "last_checked": 1793324836.6236172
   }
 ]
