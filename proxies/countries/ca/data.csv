@@ -1,5 +1,9 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,96.1.101.113,80,Canada,CA,Calgary,elite,false,33.95,AS852,TELUS Communications Inc.,10971.6,1793357647.6207948
-http,151.243.236.236,80,Canada,CA,Beauharnois,elite,false,57.37,AS16276,OVH SAS,5299.67,1793357637.376422
-http,15.235.110.190,3128,Canada,CA,Montreal,elite,false,28.52,AS16276,OVH SAS,8507.1,1793357634.021565
-http,15.235.110.191,3128,Canada,CA,Montreal,elite,false,29.44,AS16276,OVH SAS,2973.52,1793357557.7253482
+socks5,38.49.210.79,40000,Canada,CA,Montreal,elite,true,84.07,AS26832,Rica Web Services,3676.15,1793358296.0888124
+socks5,185.196.61.251,1080,Canada,CA,Toronto,elite,true,34.18,AS136258,"BrainStorm Network, Inc",524.94,1793358295.1445043
+http,185.196.61.251,8081,Canada,CA,Toronto,elite,false,24.65,AS136258,"BrainStorm Network, Inc",3845.37,1793358249.0931242
+http,96.1.101.113,80,Canada,CA,Calgary,elite,false,33.95,AS852,TELUS Communications Inc.,9541.01,1793358248.579054
+socks5,159.203.61.169,1080,Canada,CA,Toronto,elite,true,67.22,AS14061,"DigitalOcean, LLC",483.84,1793358190.786491
+http,15.235.110.191,3128,Canada,CA,Montreal,elite,false,29.45,AS16276,OVH SAS,6104.91,1793358178.0902805
+http,184.75.221.82,3118,Canada,CA,Toronto,anonymous,true,94.16,AS32489,Amanah Tech Inc.,234.35,1793358174.8160589
+socks5,151.145.63.243,1080,Canada,CA,Montreal,elite,true,38.96,AS31898,Oracle Corporation,10900.86,1793358163.0616508
