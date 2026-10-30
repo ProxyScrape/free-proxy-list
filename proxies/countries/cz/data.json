@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "217.75.208.181",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "91.218.234.54",
+    "port": 11080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Chomutov",
+    "city": "Stříbro",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.1,
+    "asn": "AS51424",
+    "isp": "Jiri Sperl",
+    "latency_ms": 2264.02,
+    "last_checked": 1793342087.8337004
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.102.149",
+    "port": 800,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 14.22,
-    "asn": "AS210712",
-    "isp": "Grape SC V",
-    "latency_ms": 1987.5,
-    "last_checked": 1793341452.7968137
+    "uptime_percent": 30.67,
+    "asn": "AS42189",
+    "isp": "Druzstvo EUROSIGNAL",
+    "latency_ms": 2588.59,
+    "last_checked": 1793342055.2007844
   },
   {
     "protocol": "http",
@@ -22,12 +37,27 @@
     "country_code": "CZ",
     "city": "Chomutov",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 14.37,
     "asn": "AS210712",
     "isp": "Grape SC V",
-    "latency_ms": 5239.79,
-    "last_checked": 1793341448.0391176
+    "latency_ms": 3552.05,
+    "last_checked": 1793342044.0647144
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Uherské Hradiště",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 14.63,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 2570.8,
+    "last_checked": 1793342043.9698503
   },
   {
     "protocol": "http",
@@ -41,7 +71,7 @@
     "uptime_percent": 71.56,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 7298.91,
-    "last_checked": 1793341380.3104298
+    "latency_ms": 12400.92,
+    "last_checked": 1793342020.952794
   }
 ]
