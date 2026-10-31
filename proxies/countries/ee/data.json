@@ -1,6 +1,21 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "95.85.249.247",
+    "port": 3128,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 31.01,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 1472.44,
+    "last_checked": 1793408971.1100926
+  },
+  {
+    "protocol": "socks5",
     "ip": "95.85.249.247",
     "port": 1080,
     "country": "Estonia",
@@ -8,11 +23,26 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 34.28,
+    "uptime_percent": 50.77,
     "asn": "AS209693",
     "isp": "OC NETWORKS LIMITED",
-    "latency_ms": 3474.3,
-    "last_checked": 1793408383.9093823
+    "latency_ms": 3284.48,
+    "last_checked": 1793408960.0936503
+  },
+  {
+    "protocol": "http",
+    "ip": "109.206.241.194",
+    "port": 3128,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallin",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 40.62,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 8694.14,
+    "last_checked": 1793408952.4290607
   },
   {
     "protocol": "http",
@@ -26,37 +56,7 @@
     "uptime_percent": 55.81,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 849.9,
-    "last_checked": 1793408365.8952637
-  },
-  {
-    "protocol": "http",
-    "ip": "109.206.241.194",
-    "port": 3128,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallin",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 40.59,
-    "asn": "AS41745",
-    "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 11610.93,
-    "last_checked": 1793408355.616724
-  },
-  {
-    "protocol": "http",
-    "ip": "193.42.112.26",
-    "port": 8080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Kuusalu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 38.71,
-    "asn": "AS199144",
-    "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 3656.8,
-    "last_checked": 1793408290.1467977
+    "latency_ms": 584.81,
+    "last_checked": 1793408921.0206966
   }
 ]
