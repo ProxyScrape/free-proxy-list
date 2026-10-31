@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "78.134.20.48",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "212.77.75.25",
+    "port": 1088,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Iseo",
+    "city": "Empoli",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 97.22,
+    "asn": "AS15691",
+    "isp": "Leonet srl Empoli",
+    "latency_ms": 253.02,
+    "last_checked": 1793462984.0132573
+  },
+  {
+    "protocol": "http",
+    "ip": "185.191.106.0",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 9.89,
-    "asn": "AS35612",
-    "isp": "NGI",
-    "latency_ms": 5062.43,
-    "last_checked": 1793462341.9596837
+    "ssl": true,
+    "uptime_percent": 24.22,
+    "asn": "AS44092",
+    "isp": "Mywic Costumers",
+    "latency_ms": 1297.92,
+    "last_checked": 1793462979.5007405
   },
   {
     "protocol": "http",
@@ -26,52 +41,7 @@
     "uptime_percent": 50.14,
     "asn": "AS42669",
     "isp": "MegaWeb",
-    "latency_ms": 1872.45,
-    "last_checked": 1793462340.7284188
-  },
-  {
-    "protocol": "http",
-    "ip": "185.8.148.81",
-    "port": 8085,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Portiglioni",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 35.48,
-    "asn": "AS49605",
-    "isp": "DIGITAL TELECOMMUNICATION SERVICES 3th",
-    "latency_ms": 1187.58,
-    "last_checked": 1793462315.592811
-  },
-  {
-    "protocol": "socks5",
-    "ip": "212.77.75.25",
-    "port": 1088,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Empoli",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 97.22,
-    "asn": "AS15691",
-    "isp": "Leonet srl Empoli",
-    "latency_ms": 3260.13,
-    "last_checked": 1793462284.711187
-  },
-  {
-    "protocol": "socks5",
-    "ip": "109.73.177.227",
-    "port": 7080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Termoli",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 41.83,
-    "asn": "AS49924",
-    "isp": "ECROM-MAIN",
-    "latency_ms": 3001.29,
-    "last_checked": 1793462277.8881428
+    "latency_ms": 3100.37,
+    "last_checked": 1793462972.7898505
   }
 ]
