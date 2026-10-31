@@ -1,21 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "95.85.249.247",
-    "port": 3128,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 31.25,
-    "asn": "AS209693",
-    "isp": "OC NETWORKS LIMITED",
-    "latency_ms": 3209.35,
-    "last_checked": 1793444945.5723708
-  },
-  {
-    "protocol": "http",
     "ip": "5.45.126.128",
     "port": 8080,
     "country": "Estonia",
@@ -26,8 +11,23 @@
     "uptime_percent": 55.88,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 310.23,
-    "last_checked": 1793444916.554764
+    "latency_ms": 156.72,
+    "last_checked": 1793445566.6806786
+  },
+  {
+    "protocol": "http",
+    "ip": "95.85.249.247",
+    "port": 3128,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 31.31,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 12329.04,
+    "last_checked": 1793445526.6420336
   },
   {
     "protocol": "http",
@@ -37,41 +37,11 @@
     "country_code": "EE",
     "city": "Tallin",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 40.23,
+    "ssl": false,
+    "uptime_percent": 40.24,
     "asn": "AS41745",
     "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 11731.08,
-    "last_checked": 1793444913.494004
-  },
-  {
-    "protocol": "socks4",
-    "ip": "95.85.249.247",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.59,
-    "asn": "AS209693",
-    "isp": "OC NETWORKS LIMITED",
-    "latency_ms": 4345.05,
-    "last_checked": 1793444902.762281
-  },
-  {
-    "protocol": "socks5",
-    "ip": "95.85.249.247",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 51.79,
-    "asn": "AS209693",
-    "isp": "OC NETWORKS LIMITED",
-    "latency_ms": 2645.36,
-    "last_checked": 1793444900.148247
+    "latency_ms": 13341.11,
+    "last_checked": 1793445468.9884615
   }
 ]
