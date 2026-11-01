@@ -1,33 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "93.171.218.52",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "185.132.1.221",
+    "port": 4145,
     "country": "Ukraine",
     "country_code": "UA",
-    "city": "Kerch",
-    "anonymity": "transparent",
+    "city": "Odesa",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 34.57,
-    "asn": "AS201069",
-    "isp": "Apex Group LLC",
-    "latency_ms": 3492.36,
-    "last_checked": 1793544223.415124
+    "uptime_percent": 24.24,
+    "asn": "AS203447",
+    "isp": "Miratel Ltd",
+    "latency_ms": 185.46,
+    "last_checked": 1793544833.483212
   },
   {
     "protocol": "socks4",
-    "ip": "95.182.78.6",
+    "ip": "95.182.78.3",
     "port": 5678,
     "country": "Ukraine",
     "country_code": "UA",
     "city": "Liuboml",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 7.79,
+    "uptime_percent": 4.63,
     "asn": "AS50648",
     "isp": "PE UAinet",
-    "latency_ms": 869.01,
-    "last_checked": 1793544213.2321718
+    "latency_ms": 1222.58,
+    "last_checked": 1793544827.8564804
+  },
+  {
+    "protocol": "socks5",
+    "ip": "193.218.118.128",
+    "port": 1080,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Kyiv",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 91.76,
+    "asn": "AS207656",
+    "isp": "Ukrainian Data Network",
+    "latency_ms": 586.79,
+    "last_checked": 1793544821.18141
   },
   {
     "protocol": "http",
@@ -41,8 +56,8 @@
     "uptime_percent": 59.92,
     "asn": "AS197192",
     "isp": "Private Enterprise KTV AIDA",
-    "latency_ms": 5483.91,
-    "last_checked": 1793544210.6295452
+    "latency_ms": 5023.07,
+    "last_checked": 1793544811.3781972
   },
   {
     "protocol": "http",
@@ -56,37 +71,7 @@
     "uptime_percent": 1.79,
     "asn": "AS35297",
     "isp": "Dataline LLC",
-    "latency_ms": 5636.28,
-    "last_checked": 1793544195.0408294
-  },
-  {
-    "protocol": "socks5",
-    "ip": "193.218.118.128",
-    "port": 1080,
-    "country": "Ukraine",
-    "country_code": "UA",
-    "city": "Kyiv",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 91.75,
-    "asn": "AS207656",
-    "isp": "Ukrainian Data Network",
-    "latency_ms": 3174.74,
-    "last_checked": 1793544180.4947407
-  },
-  {
-    "protocol": "socks5",
-    "ip": "194.44.255.112",
-    "port": 8090,
-    "country": "Ukraine",
-    "country_code": "UA",
-    "city": "Lviv",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 43.98,
-    "asn": "AS3255",
-    "isp": "LLC EKSINTECH",
-    "latency_ms": 1808.95,
-    "last_checked": 1793544141.1648965
+    "latency_ms": 9459.09,
+    "last_checked": 1793544803.8877685
   }
 ]
