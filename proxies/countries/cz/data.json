@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.63,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 2039.54,
+    "last_checked": 1793580812.3629658
+  },
+  {
+    "protocol": "http",
+    "ip": "88.146.222.250",
+    "port": 8000,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.78,
+    "asn": "AS16019",
+    "isp": "Vodafone Czech Republic a.s.",
+    "latency_ms": 2928.53,
+    "last_checked": 1793580805.4367719
+  },
+  {
     "protocol": "socks5",
     "ip": "93.99.104.209",
     "port": 1080,
@@ -13,20 +43,5 @@
     "isp": "Vodafone Czech Republic a.s.",
     "latency_ms": 7900.85,
     "last_checked": 1793580540.0314136
-  },
-  {
-    "protocol": "http",
-    "ip": "88.146.222.250",
-    "port": 8000,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 30.78,
-    "asn": "AS16019",
-    "isp": "Vodafone Czech Republic a.s.",
-    "latency_ms": 11367.73,
-    "last_checked": 1793580513.5493371
   }
 ]
