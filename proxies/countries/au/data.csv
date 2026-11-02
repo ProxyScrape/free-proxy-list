@@ -1,4 +1,7 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,61.29.96.146,80,Australia,AU,Melbourne,anonymous,true,10.81,AS2764,AAPT Limited,3569.59,1793650727.943188
-http,61.29.96.146,8000,Australia,AU,Melbourne,anonymous,true,11.16,AS2764,AAPT Limited,4223.88,1793650696.8282406
-socks5,103.192.80.81,1088,Australia,AU,Melbourne,elite,true,79.29,AS136557,Host Universal Pty Ltd,11894.72,1793650549.5058045
+http,61.29.96.146,8000,Australia,AU,Melbourne,anonymous,false,11.16,AS2764,AAPT Limited,3477.45,1793651326.1562886
+http,103.192.80.81,3129,Australia,AU,Melbourne,elite,false,63.66,AS136557,Host Universal Pty Ltd,3383.23,1793651326.1336684
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,32.43,AS31898,Oracle Corporation,16304.24,1793651301.396478
+http,114.111.151.41,80,Australia,AU,Melbourne,elite,false,72.75,AS45577,Intervolve Pty Ltd,645.93,1793651297.8117788
+socks5,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,29.4,AS31898,Oracle Corporation,24057.15,1793651341.256673
+http,209.38.24.108,3128,Australia,AU,Sydney,elite,false,29.55,AS14061,"DigitalOcean, LLC",11329.6,1793651332.8663998
