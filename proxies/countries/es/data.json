@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "193.38.224.169",
-    "port": 8081,
+    "protocol": "socks5",
+    "ip": "85.117.248.36",
+    "port": 1080,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "transparent",
+    "city": "Sant Joan les Fonts",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 8.61,
-    "asn": "AS206276",
-    "isp": "Citelia s.a.",
-    "latency_ms": 4970.01,
-    "last_checked": 1793656122.8183606
-  },
-  {
-    "protocol": "http",
-    "ip": "95.60.60.204",
-    "port": 3128,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Zaragoza",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 26.94,
-    "asn": "AS12430",
-    "isp": "Vodafone Espana S.A.U.",
-    "latency_ms": 7438.98,
-    "last_checked": 1793656110.9492087
+    "uptime_percent": 32.11,
+    "asn": "AS210086",
+    "isp": "Connecta 1876 SLU",
+    "latency_ms": 2123.42,
+    "last_checked": 1793656740.7000031
   },
   {
     "protocol": "http",
@@ -41,8 +26,23 @@
     "uptime_percent": 70.84,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 1240.73,
-    "last_checked": 1793656080.9831007
+    "latency_ms": 1299.02,
+    "last_checked": 1793656728.5879738
+  },
+  {
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Ciempozuelos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.18,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 374.07,
+    "last_checked": 1793656722.003037
   },
   {
     "protocol": "http",
@@ -53,10 +53,25 @@
     "city": "Mollet del Vallès",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 45.8,
+    "uptime_percent": 45.85,
     "asn": "AS15704",
     "isp": "Xtra Telecom S.A.",
-    "latency_ms": 3953.39,
-    "last_checked": 1793656070.9869018
+    "latency_ms": 4733.68,
+    "last_checked": 1793656712.5351954
+  },
+  {
+    "protocol": "http",
+    "ip": "95.60.60.204",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Zaragoza",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.94,
+    "asn": "AS12430",
+    "isp": "Vodafone Espana S.A.U.",
+    "latency_ms": 3146.38,
+    "last_checked": 1793656666.0935228
   }
 ]
