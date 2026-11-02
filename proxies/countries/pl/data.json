@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "51.38.129.42",
-    "port": 3169,
+    "protocol": "socks4",
+    "ip": "88.218.206.170",
+    "port": 5432,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Wroclaw",
+    "city": "Łęczyca",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 49.95,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 5636.73,
+    "last_checked": 1793655562.367333
+  },
+  {
+    "protocol": "socks5",
+    "ip": "88.218.206.170",
+    "port": 5432,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Łęczyca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.26,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 7796.03,
+    "last_checked": 1793655561.396406
+  },
+  {
+    "protocol": "http",
+    "ip": "78.9.232.205",
+    "port": 8080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Świnoujście",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 72.78,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 7226.01,
-    "last_checked": 1793654925.7663875
+    "uptime_percent": 11.79,
+    "asn": "AS12741",
+    "isp": "Netia SA",
+    "latency_ms": 6447.23,
+    "last_checked": 1793655560.1285458
   },
   {
     "protocol": "socks5",
@@ -26,7 +56,22 @@
     "uptime_percent": 50.38,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 12945.82,
-    "last_checked": 1793654873.9072638
+    "latency_ms": 9073.96,
+    "last_checked": 1793655509.3543355
+  },
+  {
+    "protocol": "http",
+    "ip": "185.32.4.210",
+    "port": 8070,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Chociwel",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 28.11,
+    "asn": "AS60645",
+    "isp": "AS Consulting Sp. z o. o.",
+    "latency_ms": 9169.92,
+    "last_checked": 1793655424.018918
   }
 ]
