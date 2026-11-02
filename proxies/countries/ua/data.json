@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "193.105.62.11",
-    "port": 58973,
-    "country": "Ukraine",
-    "country_code": "UA",
-    "city": "Polonne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 22.61,
-    "asn": "AS196906",
-    "isp": "PE Brunarsky Andrey Romanovich",
-    "latency_ms": 1613.31,
-    "last_checked": 1793629760.5736012
-  },
-  {
     "protocol": "http",
     "ip": "188.190.177.47",
     "port": 8989,
@@ -22,12 +7,27 @@
     "country_code": "UA",
     "city": "Khmelnytskyi",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 24.94,
+    "ssl": true,
+    "uptime_percent": 24.95,
     "asn": "AS28773",
     "isp": "Global Technology Ukraine Ltd",
-    "latency_ms": 3643.48,
-    "last_checked": 1793629737.6699135
+    "latency_ms": 3401.08,
+    "last_checked": 1793630368.8810704
+  },
+  {
+    "protocol": "socks4",
+    "ip": "80.92.227.185",
+    "port": 5678,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Kyiv",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.63,
+    "asn": "AS1820",
+    "isp": "WNET TELECOM USA Corp.",
+    "latency_ms": 3913.46,
+    "last_checked": 1793630367.1897612
   },
   {
     "protocol": "socks4",
@@ -41,8 +41,68 @@
     "uptime_percent": 24.27,
     "asn": "AS203447",
     "isp": "Miratel Ltd",
-    "latency_ms": 1830.21,
-    "last_checked": 1793629736.0676074
+    "latency_ms": 876.57,
+    "last_checked": 1793630348.6631281
+  },
+  {
+    "protocol": "http",
+    "ip": "195.226.213.254",
+    "port": 8888,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Fontanka",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 60.05,
+    "asn": "AS197192",
+    "isp": "Private Enterprise KTV AIDA",
+    "latency_ms": 6240.6,
+    "last_checked": 1793630345.6289303
+  },
+  {
+    "protocol": "socks5",
+    "ip": "212.3.127.242",
+    "port": 10801,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Dnipro",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.37,
+    "asn": "AS6702",
+    "isp": "Science Production Company \"Trifle\" Ltd.",
+    "latency_ms": 1672.62,
+    "last_checked": 1793630338.9499135
+  },
+  {
+    "protocol": "http",
+    "ip": "134.249.185.223",
+    "port": 41890,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Kyiv",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.54,
+    "asn": "AS15895",
+    "isp": "Kyivstar UA",
+    "latency_ms": 5441.8,
+    "last_checked": 1793630337.189249
+  },
+  {
+    "protocol": "socks5",
+    "ip": "193.218.118.128",
+    "port": 1080,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Kyiv",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 91.53,
+    "asn": "AS207656",
+    "isp": "Ukrainian Data Network",
+    "latency_ms": 681.76,
+    "last_checked": 1793630309.2839227
   },
   {
     "protocol": "http",
@@ -53,26 +113,11 @@
     "city": "Khmilnyk",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 43.76,
+    "uptime_percent": 43.84,
     "asn": "AS21228",
     "isp": "VINASTERISK, PP",
-    "latency_ms": 11173.85,
-    "last_checked": 1793629734.8138015
-  },
-  {
-    "protocol": "http",
-    "ip": "88.135.210.179",
-    "port": 8080,
-    "country": "Ukraine",
-    "country_code": "UA",
-    "city": "Ivano-Frankivsk",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 10.71,
-    "asn": "AS49125",
-    "isp": "Uteam LTD",
-    "latency_ms": 9142.47,
-    "last_checked": 1793629719.3940306
+    "latency_ms": 16502.03,
+    "last_checked": 1793630297.6878698
   },
   {
     "protocol": "http",
@@ -83,25 +128,10 @@
     "city": "Odesa",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 53.03,
+    "uptime_percent": 53.05,
     "asn": "AS203447",
     "isp": "Miratel Ltd",
-    "latency_ms": 2273.87,
-    "last_checked": 1793629701.484748
-  },
-  {
-    "protocol": "socks5",
-    "ip": "37.53.90.82",
-    "port": 12542,
-    "country": "Ukraine",
-    "country_code": "UA",
-    "city": "Lopushne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 6.12,
-    "asn": "AS6849",
-    "isp": "UKRTELECOM",
-    "latency_ms": 3266.88,
-    "last_checked": 1793629664.9685152
+    "latency_ms": 9809.53,
+    "last_checked": 1793630230.0728004
   }
 ]
