@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "211.22.151.163",
-    "port": 60808,
+    "protocol": "socks5",
+    "ip": "37.128.252.5",
+    "port": 1080,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Taichung",
+    "city": "Taipei",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 3.55,
+    "ssl": true,
+    "uptime_percent": 47.84,
+    "asn": "AS61112",
+    "isp": "Akile LTD",
+    "latency_ms": 891.16,
+    "last_checked": 1793635743.7033484
+  },
+  {
+    "protocol": "http",
+    "ip": "122.117.203.252",
+    "port": 3128,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Tainan",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 19.85,
     "asn": "AS3462",
     "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 6090.1,
-    "last_checked": 1793635136.6348054
+    "latency_ms": 11987.19,
+    "last_checked": 1793635736.2899156
   },
   {
     "protocol": "http",
@@ -26,52 +41,7 @@
     "uptime_percent": 42.89,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 715.43,
-    "last_checked": 1793635106.291163
-  },
-  {
-    "protocol": "socks5",
-    "ip": "37.128.252.5",
-    "port": 1080,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taipei",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 48.2,
-    "asn": "AS61112",
-    "isp": "Akile LTD",
-    "latency_ms": 528.51,
-    "last_checked": 1793635104.9135957
-  },
-  {
-    "protocol": "http",
-    "ip": "203.145.218.204",
-    "port": 3128,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Xitun",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 45.32,
-    "asn": "AS7539",
-    "isp": "National Center for High-performance Computing",
-    "latency_ms": 11397.48,
-    "last_checked": 1793635086.7730098
-  },
-  {
-    "protocol": "http",
-    "ip": "61.216.156.222",
-    "port": 60808,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taipei",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 4.65,
-    "asn": "AS3462",
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 5371.45,
-    "last_checked": 1793635070.2888758
+    "latency_ms": 634.5,
+    "last_checked": 1793635729.7875328
   }
 ]
