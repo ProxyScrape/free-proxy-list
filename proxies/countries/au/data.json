@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "103.192.80.81",
+    "port": 1088,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Adelaide",
+    "city": "Melbourne",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 72.8,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 679.29,
-    "last_checked": 1793702691.8808875
-  },
-  {
-    "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 29.88,
-    "asn": "AS4764",
-    "isp": "Aussie Fibre Pty Ltd",
-    "latency_ms": 9296.04,
-    "last_checked": 1793702662.590424
+    "ssl": true,
+    "uptime_percent": 79.33,
+    "asn": "AS136557",
+    "isp": "Host Universal Pty Ltd",
+    "latency_ms": 10713.09,
+    "last_checked": 1793703291.1225615
   },
   {
     "protocol": "http",
@@ -41,22 +26,37 @@
     "uptime_percent": 63.61,
     "asn": "AS136557",
     "isp": "Host Universal Pty Ltd",
-    "latency_ms": 6080.48,
-    "last_checked": 1793702601.9958751
+    "latency_ms": 3086.36,
+    "last_checked": 1793703288.0470634
   },
   {
-    "protocol": "socks5",
-    "ip": "103.192.80.81",
-    "port": 1088,
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Adelaide",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 72.81,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 3321.42,
+    "last_checked": 1793703274.1192634
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 79.35,
-    "asn": "AS136557",
-    "isp": "Host Universal Pty Ltd",
-    "latency_ms": 16535.75,
-    "last_checked": 1793702530.4662888
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 11.18,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 2872.1,
+    "last_checked": 1793703216.5348332
   }
 ]
