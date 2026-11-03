@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 8001,
+    "protocol": "socks4",
+    "ip": "147.45.72.31",
+    "port": 45700,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 67.53,
-    "asn": "AS206170",
-    "isp": "Yelles AB",
-    "latency_ms": 6853.61,
-    "last_checked": 1793732978.288464
+    "ssl": true,
+    "uptime_percent": 22.28,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 6582.77,
+    "last_checked": 1793733596.5262818
+  },
+  {
+    "protocol": "socks5",
+    "ip": "62.60.230.196",
+    "port": 1080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.0,
+    "asn": "AS210644",
+    "isp": "Aeza Group LLC",
+    "latency_ms": 3393.93,
+    "last_checked": 1793733582.532827
   },
   {
     "protocol": "http",
@@ -26,23 +41,23 @@
     "uptime_percent": 66.46,
     "asn": "AS206170",
     "isp": "Yelles AB",
-    "latency_ms": 10977.49,
-    "last_checked": 1793732971.7597954
+    "latency_ms": 5201.9,
+    "last_checked": 1793733554.0121622
   },
   {
     "protocol": "socks4",
-    "ip": "85.228.42.180",
-    "port": 4153,
+    "ip": "62.60.230.196",
+    "port": 1080,
     "country": "Sweden",
     "country_code": "SE",
-    "city": "Upplands Vasby",
+    "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 41.03,
-    "asn": "AS8434",
-    "isp": "Bredbandsbolaget",
-    "latency_ms": 277.98,
-    "last_checked": 1793732957.2473836
+    "uptime_percent": 22.35,
+    "asn": "AS210644",
+    "isp": "Aeza Group LLC",
+    "latency_ms": 8505.2,
+    "last_checked": 1793733547.643889
   },
   {
     "protocol": "socks5",
@@ -56,7 +71,22 @@
     "uptime_percent": 93.6,
     "asn": "AS35100",
     "isp": "Patrik Lagerman",
-    "latency_ms": 6828.11,
-    "last_checked": 1793732772.0226212
+    "latency_ms": 7183.08,
+    "last_checked": 1793733525.5105104
+  },
+  {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 8001,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 67.53,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 11807.43,
+    "last_checked": 1793733483.4129283
   }
 ]
