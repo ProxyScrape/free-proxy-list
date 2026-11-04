@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "193.42.112.26",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "95.85.249.247",
+    "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Kuusalu",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.28,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 1053.45,
+    "last_checked": 1793771697.9322658
+  },
+  {
+    "protocol": "http",
+    "ip": "95.85.249.247",
+    "port": 3128,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 38.6,
-    "asn": "AS199144",
-    "isp": "HexCore cloud s.r.o.",
-    "latency_ms": 9067.56,
-    "last_checked": 1793770992.333664
+    "uptime_percent": 26.73,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 4252.78,
+    "last_checked": 1793771678.2311502
+  },
+  {
+    "protocol": "socks5",
+    "ip": "95.85.249.247",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.14,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 6698.21,
+    "last_checked": 1793771646.8700535
   }
 ]
