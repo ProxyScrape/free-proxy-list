@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 80,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 66.53,
-    "asn": "AS206170",
-    "isp": "Yelles AB",
-    "latency_ms": 5167.31,
-    "last_checked": 1793829569.845586
-  },
-  {
-    "protocol": "http",
-    "ip": "46.59.120.87",
-    "port": 81,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Halmstad",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.83,
-    "asn": "AS8473",
-    "isp": "Bahnhof Internet",
-    "latency_ms": 4022.17,
-    "last_checked": 1793829564.768792
-  },
-  {
     "protocol": "socks5",
     "ip": "79.76.52.220",
     "port": 1080,
@@ -41,8 +11,23 @@
     "uptime_percent": 24.69,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 5256.93,
-    "last_checked": 1793829546.0842667
+    "latency_ms": 9799.12,
+    "last_checked": 1793830149.4560463
+  },
+  {
+    "protocol": "http",
+    "ip": "46.59.120.87",
+    "port": 81,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Halmstad",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.83,
+    "asn": "AS8473",
+    "isp": "Bahnhof Internet",
+    "latency_ms": 1902.5,
+    "last_checked": 1793830037.752078
   },
   {
     "protocol": "socks5",
@@ -56,7 +41,22 @@
     "uptime_percent": 93.61,
     "asn": "AS35100",
     "isp": "Patrik Lagerman",
-    "latency_ms": 2282.36,
-    "last_checked": 1793829347.1176834
+    "latency_ms": 11926.72,
+    "last_checked": 1793830022.0294385
+  },
+  {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 80,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 66.53,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 12457.18,
+    "last_checked": 1793830016.8042839
   }
 ]
