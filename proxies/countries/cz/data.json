@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.40.80.143",
-    "port": 4153,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Klatovy",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 6.9,
-    "asn": "AS210712",
-    "isp": "Airweb",
-    "latency_ms": 9350.78,
-    "last_checked": 1793821492.9566746
-  },
-  {
-    "protocol": "socks4",
-    "ip": "90.178.216.215",
-    "port": 4153,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 33.3,
-    "asn": "AS5610",
-    "isp": "Telefonica O2 Czech Republic, a.s.",
-    "latency_ms": 1164.7,
-    "last_checked": 1793821476.8570065
-  },
-  {
     "protocol": "http",
     "ip": "81.19.4.118",
     "port": 8000,
@@ -37,12 +7,27 @@
     "country_code": "CZ",
     "city": "Brno",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 26.29,
+    "ssl": false,
+    "uptime_percent": 26.33,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 5100.85,
-    "last_checked": 1793821450.904564
+    "latency_ms": 5488.17,
+    "last_checked": 1793822037.664739
+  },
+  {
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 72.18,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 9631.26,
+    "last_checked": 1793822035.5873837
   },
   {
     "protocol": "socks5",
@@ -53,10 +38,10 @@
     "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 40.44,
+    "uptime_percent": 40.48,
     "asn": "AS30764",
     "isp": "PODA a.s.",
-    "latency_ms": 1687.55,
-    "last_checked": 1793821416.5010939
+    "latency_ms": 11379.44,
+    "last_checked": 1793821999.4552286
   }
 ]
