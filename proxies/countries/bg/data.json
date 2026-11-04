@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "213.169.33.7",
-    "port": 8001,
+    "protocol": "socks4",
+    "ip": "46.10.198.10",
+    "port": 4153,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 13.14,
-    "asn": "AS8717",
-    "isp": "A1 Bulgaria EAD",
-    "latency_ms": 9134.03,
-    "last_checked": 1793763567.2936995
+    "uptime_percent": 44.41,
+    "asn": "AS8866",
+    "isp": "Vivacom Bulgaria EAD",
+    "latency_ms": 1689.48,
+    "last_checked": 1793764176.4113226
   },
   {
     "protocol": "socks4",
@@ -26,8 +26,38 @@
     "uptime_percent": 23.62,
     "asn": "AS205352",
     "isp": "Kabelnet LTD",
-    "latency_ms": 1930.65,
-    "last_checked": 1793763566.3573205
+    "latency_ms": 1820.53,
+    "last_checked": 1793764169.5400288
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.10",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 17.22,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 3197.77,
+    "last_checked": 1793764163.995416
+  },
+  {
+    "protocol": "http",
+    "ip": "88.87.6.135",
+    "port": 3030,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Veliko Tarnovo",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.03,
+    "asn": "AS8866",
+    "isp": "Telnet Limited",
+    "latency_ms": 2531.93,
+    "last_checked": 1793764159.11954
   },
   {
     "protocol": "http",
@@ -41,8 +71,8 @@
     "uptime_percent": 17.21,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 8221.56,
-    "last_checked": 1793763553.053857
+    "latency_ms": 5588.2,
+    "last_checked": 1793764145.9450593
   },
   {
     "protocol": "http",
@@ -58,20 +88,5 @@
     "isp": "A1 Bulgaria EAD",
     "latency_ms": 7902.89,
     "last_checked": 1793763833.1774774
-  },
-  {
-    "protocol": "http",
-    "ip": "213.169.33.10",
-    "port": 8001,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 17.22,
-    "asn": "AS8717",
-    "isp": "A1 Bulgaria EAD",
-    "latency_ms": 3490.06,
-    "last_checked": 1793763832.8008597
   }
 ]
