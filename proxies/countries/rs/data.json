@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "212.200.223.89",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "185.190.154.121",
+    "port": 4145,
     "country": "Serbia",
     "country_code": "RS",
     "city": "Belgrade",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 40.58,
+    "uptime_percent": 43.16,
     "asn": "AS8400",
-    "isp": "TELEKOM SRBIJA a.d.",
-    "latency_ms": 2257.09,
-    "last_checked": 1793824194.4321969
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 192.19,
+    "last_checked": 1793824799.8452375
   },
   {
     "protocol": "socks4",
@@ -23,11 +23,26 @@
     "city": "Niš",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 28.97,
+    "uptime_percent": 28.98,
     "asn": "AS197423",
     "isp": "Jotel",
-    "latency_ms": 1839.67,
-    "last_checked": 1793824182.5780063
+    "latency_ms": 761.74,
+    "last_checked": 1793824786.4196658
+  },
+  {
+    "protocol": "http",
+    "ip": "95.140.113.74",
+    "port": 6666,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.18,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Network",
+    "latency_ms": 2507.42,
+    "last_checked": 1793824764.2429101
   },
   {
     "protocol": "http",
@@ -41,22 +56,22 @@
     "uptime_percent": 27.77,
     "asn": "AS31042",
     "isp": "Serbia BroadBand",
-    "latency_ms": 3614.56,
-    "last_checked": 1793824111.9967742
+    "latency_ms": 2735.82,
+    "last_checked": 1793824688.1709292
   },
   {
     "protocol": "http",
-    "ip": "109.111.242.134",
-    "port": 6666,
+    "ip": "212.200.223.89",
+    "port": 8080,
     "country": "Serbia",
     "country_code": "RS",
     "city": "Belgrade",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 14.14,
-    "asn": "AS28964",
-    "isp": "Orion Telekom Tim d.o.o.Beograd",
-    "latency_ms": 6960.66,
-    "last_checked": 1793824086.2941694
+    "ssl": false,
+    "uptime_percent": 40.59,
+    "asn": "AS8400",
+    "isp": "TELEKOM SRBIJA a.d.",
+    "latency_ms": 1511.42,
+    "last_checked": 1793824673.4347298
   }
 ]
