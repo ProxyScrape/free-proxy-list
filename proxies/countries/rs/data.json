@@ -1,6 +1,36 @@
 [
   {
     "protocol": "socks4",
+    "ip": "109.245.110.145",
+    "port": 4145,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.43,
+    "asn": "AS15958",
+    "isp": "CETIN Ltd. Belgrade",
+    "latency_ms": 2551.1,
+    "last_checked": 1793801392.3082888
+  },
+  {
+    "protocol": "http",
+    "ip": "109.111.242.134",
+    "port": 6666,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.11,
+    "asn": "AS28964",
+    "isp": "Orion Telekom Tim d.o.o.Beograd",
+    "latency_ms": 2629.87,
+    "last_checked": 1793801373.41284
+  },
+  {
+    "protocol": "socks4",
     "ip": "95.140.118.34",
     "port": 1080,
     "country": "Serbia",
@@ -11,38 +41,8 @@
     "uptime_percent": 41.75,
     "asn": "AS9125",
     "isp": "Orion Telekom Network",
-    "latency_ms": 1213.77,
-    "last_checked": 1793800748.1183567
-  },
-  {
-    "protocol": "socks4",
-    "ip": "217.16.130.83",
-    "port": 4145,
-    "country": "Serbia",
-    "country_code": "RS",
-    "city": "Niš",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 29.01,
-    "asn": "AS197423",
-    "isp": "Jotel",
-    "latency_ms": 195.21,
-    "last_checked": 1793800742.4209802
-  },
-  {
-    "protocol": "http",
-    "ip": "82.117.211.42",
-    "port": 8085,
-    "country": "Serbia",
-    "country_code": "RS",
-    "city": "Novi Sad",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.72,
-    "asn": "AS31042",
-    "isp": "Serbia BroadBand",
-    "latency_ms": 3563.37,
-    "last_checked": 1793800689.9030538
+    "latency_ms": 1250.39,
+    "last_checked": 1793801356.809347
   },
   {
     "protocol": "http",
@@ -52,11 +52,41 @@
     "country_code": "RS",
     "city": "Belgrade",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 40.46,
     "asn": "AS8400",
     "isp": "TELEKOM SRBIJA a.d.",
-    "latency_ms": 9040.25,
-    "last_checked": 1793800671.3541543
+    "latency_ms": 8107.61,
+    "last_checked": 1793801355.950085
+  },
+  {
+    "protocol": "http",
+    "ip": "82.117.211.42",
+    "port": 8085,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Novi Sad",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 27.72,
+    "asn": "AS31042",
+    "isp": "Serbia BroadBand",
+    "latency_ms": 7864.98,
+    "last_checked": 1793801253.044264
+  },
+  {
+    "protocol": "http",
+    "ip": "195.178.56.35",
+    "port": 8080,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Obrovac",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 2.1,
+    "asn": "AS8400",
+    "isp": "TELEKOM SRBIJA a.d.",
+    "latency_ms": 7038.14,
+    "last_checked": 1793801176.5370467
   }
 ]
