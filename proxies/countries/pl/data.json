@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "88.218.206.170",
+    "port": 5432,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Łęczyca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 49.75,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 12532.29,
+    "last_checked": 1793907268.5944839
+  },
+  {
+    "protocol": "socks5",
+    "ip": "88.218.206.170",
+    "port": 22,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Łęczyca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 51.49,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 14240.14,
+    "last_checked": 1793907258.6685836
+  },
+  {
     "protocol": "http",
     "ip": "145.239.80.10",
     "port": 3128,
@@ -7,26 +37,11 @@
     "country_code": "PL",
     "city": "Wroclaw",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 31.8,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 14898.4,
-    "last_checked": 1793906624.4142952
-  },
-  {
-    "protocol": "socks5",
-    "ip": "57.128.249.250",
-    "port": 9052,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.42,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 2923.86,
-    "last_checked": 1793906609.6017263
+    "latency_ms": 12195.8,
+    "last_checked": 1793907202.9008129
   }
 ]
