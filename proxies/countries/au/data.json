@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "http",
     "ip": "103.192.80.81",
-    "port": 1088,
+    "port": 3129,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 79.52,
+    "uptime_percent": 63.48,
     "asn": "AS136557",
     "isp": "Host Universal Pty Ltd",
-    "latency_ms": 8756.56,
-    "last_checked": 1793870083.744404
+    "latency_ms": 7776.04,
+    "last_checked": 1793870341.8669057
   },
   {
     "protocol": "http",
@@ -22,42 +22,12 @@
     "country_code": "AU",
     "city": "Brisbane",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 29.9,
     "asn": "AS4764",
     "isp": "Aussie Fibre Pty Ltd",
-    "latency_ms": 7935.6,
-    "last_checked": 1793870074.6947136
-  },
-  {
-    "protocol": "http",
-    "ip": "103.192.80.81",
-    "port": 3129,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 63.47,
-    "asn": "AS136557",
-    "isp": "Host Universal Pty Ltd",
-    "latency_ms": 1899.68,
-    "last_checked": 1793870070.0598984
-  },
-  {
-    "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Adelaide",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 72.97,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 10064.62,
-    "last_checked": 1793870060.6055799
+    "latency_ms": 11008.07,
+    "last_checked": 1793870279.5272071
   },
   {
     "protocol": "http",
@@ -73,5 +43,20 @@
     "isp": "Oracle Corporation",
     "latency_ms": 3641.59,
     "last_checked": 1793870255.606213
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.192.80.81",
+    "port": 1088,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 79.52,
+    "asn": "AS136557",
+    "isp": "Host Universal Pty Ltd",
+    "latency_ms": 2933.43,
+    "last_checked": 1793870206.0750065
   }
 ]
