@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "92.249.162.233",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "109.61.117.11",
+    "port": 1080,
     "country": "Hungary",
     "country_code": "HU",
-    "city": "Érd",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 54.18,
-    "asn": "AS20845",
-    "isp": "HDSNET",
-    "latency_ms": 1205.35,
-    "last_checked": 1793844583.483021
+    "city": "Budapest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.61,
+    "asn": "AS197248",
+    "isp": "Dravanet",
+    "latency_ms": 573.43,
+    "last_checked": 1793845167.7984722
   },
   {
     "protocol": "http",
@@ -22,11 +22,26 @@
     "country_code": "HU",
     "city": "Győr",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 64.61,
+    "ssl": true,
+    "uptime_percent": 64.88,
     "asn": "AS5483",
     "isp": "Magyar Telekom",
-    "latency_ms": 1654.28,
-    "last_checked": 1793844546.8122587
+    "latency_ms": 7754.28,
+    "last_checked": 1793845106.9320793
+  },
+  {
+    "protocol": "http",
+    "ip": "92.249.162.233",
+    "port": 8080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Érd",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 54.18,
+    "asn": "AS20845",
+    "isp": "HDSNET",
+    "latency_ms": 8188.94,
+    "last_checked": 1793845106.7833345
   }
 ]
