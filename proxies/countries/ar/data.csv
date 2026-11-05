@@ -1,18 +1,28 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,181.209.39.90,999,Argentina,AR,Benavídez,transparent,true,63.44,AS52361,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,1127.89,1793869772.4461935
-http,181.209.107.154,999,Argentina,AR,Riacho He-He,transparent,false,8.15,AS52361,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,3112.73,1793869771.2408347
-http,179.43.103.97,8080,Argentina,AR,Laferrere,transparent,false,15.43,AS263194,Advantun SRL,3606.01,1793869771.007502
+socks4,200.70.56.84,1080,Argentina,AR,Anelo,elite,true,45.71,AS10834,Telefonica de Argentina,1238.24,1793870097.6448085
+socks4,190.111.243.150,1085,Argentina,AR,San Juan Bautista,elite,true,28.52,AS11014,CPS,2169.16,1793870095.0890956
+http,181.209.39.90,999,Argentina,AR,Benavídez,transparent,true,63.45,AS52361,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,2581.07,1793870093.6004875
+socks4,190.108.57.19,1085,Argentina,AR,Santa Rosa,elite,true,21.57,AS52308,Aguas Del Colorado Sapem,8524.89,1793870091.3267188
+http,64.76.33.108,999,Argentina,AR,Buenos Aires,transparent,true,35.08,AS3549,"Level 3 Communications, Inc.",4383.88,1793870088.3849201
+socks4,190.108.57.210,1085,Argentina,AR,Santa Rosa,elite,true,18.12,AS52308,Aguas Del Colorado Sapem,8358.25,1793870087.8813765
+socks4,190.182.137.250,1085,Argentina,AR,Miguel Riglos,elite,true,43.98,AS27983,Red Intercable Digital S.A,4368.65,1793870086.3739066
+http,45.232.0.2,8080,Argentina,AR,San Miguel de Tucumán,transparent,true,38.93,AS266754,Sistemas Informaticos S.A.S.,3958.5,1793870086.276692
+socks4,200.16.211.78,4153,Argentina,AR,Buenos Aires,elite,true,40.61,AS10834,Telefonica de Argentina,2232.47,1793870084.11476
+http,45.65.226.40,999,Argentina,AR,Buenos Aires,transparent,true,31.95,AS266725,Solution LAN S.A,8996.31,1793870073.9098654
+http,45.65.224.125,999,Argentina,AR,Buenos Aires,transparent,false,74.87,AS266725,Solution LAN S.A,1782.63,1793870073.2256706
+http,181.114.225.226,8080,Argentina,AR,Mar del Plata,transparent,false,12.24,AS52431,CyberWave S.A.,6169.66,1793870072.6969395
+http,181.114.61.17,8085,Argentina,AR,Ramallo,elite,false,9.92,AS264831,INTERAIR,2397.27,1793870069.3008358
+http,190.122.91.130,999,Argentina,AR,Puerto Vilelas,transparent,false,24.86,AS273096,Insaurralde Claudio Oscar,3406.43,1793870063.2448132
+socks4,190.228.33.42,1085,Argentina,AR,San Salvador de Jujuy,elite,true,24.67,AS7303,Telecom Argentina S.A.,1417.59,1793870062.328848
+http,38.226.251.66,999,Argentina,AR,San Juan,transparent,true,22.6,AS272925,SAN JUAN INNOVA S.E.,10282.44,1793870062.114283
 http,190.183.61.123,8080,Argentina,AR,Paraná,elite,false,41.38,AS20207,Gigared S.A.,10595.21,1793869762.3088439
-http,45.65.226.40,999,Argentina,AR,Buenos Aires,transparent,true,31.94,AS266725,Solution LAN S.A,825.78,1793869761.2367382
 http,181.10.138.226,8083,Argentina,AR,Córdoba,transparent,true,14.55,AS7303,Telecom Argentina S.A.,3947.55,1793869759.456836
 http,181.209.118.254,999,Argentina,AR,General Guemes,transparent,false,13.22,AS52361,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,9160.98,1793869759.4058456
-socks4,190.182.137.250,1085,Argentina,AR,Miguel Riglos,elite,true,43.98,AS27983,Red Intercable Digital S.A,4407.7,1793869758.9454672
 http,45.65.226.174,999,Argentina,AR,Buenos Aires,transparent,false,53.31,AS266725,Solution LAN S.A,1670.06,1793869758.79271
 http,181.13.221.155,999,Argentina,AR,Sachayoj,transparent,false,18.24,AS7303,Telecom Argentina S.A.,834.85,1793869758.1464994
 http,190.104.252.14,999,Argentina,AR,San Juan Bautista,transparent,false,25.11,AS11014,CPS,4684.31,1793869757.0887647
 http,200.110.218.10,999,Argentina,AR,Guernica,transparent,false,17.27,AS11014,CPS,4851.81,1793869755.2120497
 http,186.38.100.130,999,Argentina,AR,Buenos Aires,transparent,true,26.34,AS22927,Telefonica de Argentina,3898.04,1793869754.8612058
-http,190.122.91.130,999,Argentina,AR,Puerto Vilelas,transparent,true,24.86,AS273096,Insaurralde Claudio Oscar,2670.26,1793869753.4128275
 http,45.65.226.169,999,Argentina,AR,Buenos Aires,transparent,false,53.01,AS266725,Solution LAN S.A,8785.06,1793869752.965574
 http,198.12.37.18,8080,Argentina,AR,Barranqueras,transparent,false,17.0,AS27988,Servicios y Telecomunicaciones S.A,5018.15,1793869751.4212754
 http,45.65.227.161,999,Argentina,AR,Buenos Aires,transparent,false,9.33,AS266725,Solution LAN S.A,5513.87,1793869751.1190703
@@ -20,10 +30,8 @@ http,138.121.113.12,8787,Argentina,AR,Formosa,elite,false,27.42,AS263791,Refsa T
 http,138.117.14.113,9090,Argentina,AR,San Miguel de Tucumán,transparent,true,26.43,AS265798,Level Seven SRL,4495.25,1793869742.4389136
 http,45.65.226.172,999,Argentina,AR,Buenos Aires,transparent,false,52.13,AS266725,Solution LAN S.A,4930.78,1793869735.9783096
 http,45.177.147.151,999,Argentina,AR,General Rodriguez,transparent,false,62.93,AS264732,Netlatin S.R.L.,3232.69,1793869735.7395656
-http,45.232.0.2,8080,Argentina,AR,San Miguel de Tucumán,transparent,false,38.93,AS266754,Sistemas Informaticos S.A.S.,4042.36,1793869683.2129667
 http,190.120.185.17,999,Argentina,AR,Quilmes,transparent,false,18.62,AS52409,Coseidi S.A.,20239.78,1793869679.8707051
 http,45.65.225.17,999,Argentina,AR,Buenos Aires,transparent,false,23.39,AS266725,Solution LAN S.A,6438.5,1793869679.320773
-http,45.65.224.125,999,Argentina,AR,Buenos Aires,transparent,false,74.87,AS266725,Solution LAN S.A,746.58,1793869674.6688523
 http,190.7.45.113,8080,Argentina,AR,Crespo,transparent,false,20.62,AS20207,Gigared S.A.,5399.25,1793869665.1079516
 http,138.121.113.179,999,Argentina,AR,Formosa,transparent,false,13.49,AS263791,Refsa Telecomunicaciones,6957.55,1793869662.5488126
 http,45.65.226.171,999,Argentina,AR,Buenos Aires,transparent,false,53.49,AS266725,Solution LAN S.A,758.62,1793869662.515788
