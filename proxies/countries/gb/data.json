@@ -1,21 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "82.69.119.68",
-    "port": 49200,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "Manchester",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 31.93,
-    "asn": "AS13037",
-    "isp": "Zen Internet Ltd",
-    "latency_ms": 1211.31,
-    "last_checked": 1793882047.8143687
-  },
-  {
-    "protocol": "http",
     "ip": "34.105.252.3",
     "port": 3128,
     "country": "United Kingdom",
@@ -23,11 +8,26 @@
     "city": "London",
     "anonymity": "anonymous",
     "ssl": true,
-    "uptime_percent": 51.3,
+    "uptime_percent": 51.31,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 314.02,
-    "last_checked": 1793882032.6662433
+    "latency_ms": 520.8,
+    "last_checked": 1793882370.5125756
+  },
+  {
+    "protocol": "socks4",
+    "ip": "8.211.195.139",
+    "port": 8128,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 1.41,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 3338.37,
+    "last_checked": 1793882363.063487
   },
   {
     "protocol": "socks5",
@@ -41,8 +41,38 @@
     "uptime_percent": 67.14,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1111.69,
-    "last_checked": 1793882022.3486214
+    "latency_ms": 939.36,
+    "last_checked": 1793882354.994352
+  },
+  {
+    "protocol": "http",
+    "ip": "82.69.119.68",
+    "port": 49200,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "Manchester",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 31.93,
+    "asn": "AS13037",
+    "isp": "Zen Internet Ltd",
+    "latency_ms": 915.49,
+    "last_checked": 1793882353.9871075
+  },
+  {
+    "protocol": "socks4",
+    "ip": "8.211.195.139",
+    "port": 20002,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 1.3,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 11295.5,
+    "last_checked": 1793882353.5146797
   },
   {
     "protocol": "socks5",
