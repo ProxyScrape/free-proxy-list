@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 8001,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 67.62,
-    "asn": "AS206170",
-    "isp": "Yelles AB",
-    "latency_ms": 3292.29,
-    "last_checked": 1793876345.6754904
-  },
-  {
     "protocol": "socks5",
     "ip": "171.25.158.95",
     "port": 1080,
@@ -26,8 +11,23 @@
     "uptime_percent": 93.61,
     "asn": "AS35100",
     "isp": "Patrik Lagerman",
-    "latency_ms": 3996.35,
-    "last_checked": 1793876368.9938076
+    "latency_ms": 2775.09,
+    "last_checked": 1793876972.9907053
+  },
+  {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 8001,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 67.62,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 10267.05,
+    "last_checked": 1793876970.0825284
   },
   {
     "protocol": "http",
@@ -37,11 +37,26 @@
     "country_code": "SE",
     "city": "Halmstad",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 31.16,
+    "ssl": false,
+    "uptime_percent": 31.17,
     "asn": "AS8473",
     "isp": "Bahnhof Internet",
-    "latency_ms": 2376.82,
-    "last_checked": 1793876298.1816008
+    "latency_ms": 593.53,
+    "last_checked": 1793876949.9703612
+  },
+  {
+    "protocol": "socks5",
+    "ip": "62.60.230.196",
+    "port": 1080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.04,
+    "asn": "AS210644",
+    "isp": "Aeza Group LLC",
+    "latency_ms": 2189.87,
+    "last_checked": 1793876928.264556
   }
 ]
