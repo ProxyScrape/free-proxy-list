@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 6.92,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 3636.11,
+    "last_checked": 1793919264.7894216
+  },
+  {
+    "protocol": "http",
+    "ip": "217.16.183.156",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 59.62,
+    "asn": "AS43541",
+    "isp": "VSHosting s.r.o.",
+    "latency_ms": 1289.28,
+    "last_checked": 1793919241.8434143
+  },
+  {
     "protocol": "http",
     "ip": "95.129.101.73",
     "port": 80,
@@ -11,22 +41,52 @@
     "uptime_percent": 72.29,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 3385.62,
-    "last_checked": 1793918984.3786695
+    "latency_ms": 3323.75,
+    "last_checked": 1793919201.159783
   },
   {
     "protocol": "http",
-    "ip": "217.16.183.156",
-    "port": 8080,
+    "ip": "77.240.102.149",
+    "port": 800,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Prague",
-    "anonymity": "elite",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 31.26,
+    "asn": "AS42189",
+    "isp": "Druzstvo EUROSIGNAL",
+    "latency_ms": 12174.23,
+    "last_checked": 1793919200.3247275
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Uherské Hradiště",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 60.0,
-    "asn": "AS43541",
-    "isp": "VSHosting s.r.o.",
-    "latency_ms": 2568.17,
-    "last_checked": 1793918861.718022
+    "uptime_percent": 14.84,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 917.79,
+    "last_checked": 1793919184.333438
+  },
+  {
+    "protocol": "socks5",
+    "ip": "91.218.234.54",
+    "port": 11080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Stříbro",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.73,
+    "asn": "AS51424",
+    "isp": "Jiri Sperl",
+    "latency_ms": 2835.69,
+    "last_checked": 1793919129.3993826
   }
 ]
