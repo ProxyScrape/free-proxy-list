@@ -1,4 +1,5 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,193.42.112.26,8080,Estonia,EE,Kuusalu,elite,true,38.86,AS199144,HexCore cloud s.r.o.,5254.6,1793900939.115832
-http,95.85.249.247,3128,Estonia,EE,Tallinn,elite,false,29.36,AS209693,OC NETWORKS LIMITED,5254.29,1793900933.704008
-http,109.206.241.194,3128,Estonia,EE,Tallin,transparent,false,38.99,AS41745,Baykov Ilya Sergeevich,14083.19,1793900903.1951003
+socks4,95.85.249.247,1080,Estonia,EE,Tallinn,elite,true,31.32,AS209693,OC NETWORKS LIMITED,1699.39,1793901542.457421
+socks5,95.85.249.247,1080,Estonia,EE,Tallinn,elite,true,48.61,AS209693,OC NETWORKS LIMITED,2872.47,1793901540.0262887
+http,95.85.249.247,3128,Estonia,EE,Tallinn,elite,true,29.41,AS209693,OC NETWORKS LIMITED,2185.63,1793901568.4752562
+http,109.206.241.194,3128,Estonia,EE,Tallin,transparent,true,38.98,AS41745,Baykov Ilya Sergeevich,9993.89,1793901497.0171225
