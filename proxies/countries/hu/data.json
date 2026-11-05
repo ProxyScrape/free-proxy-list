@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "145.236.156.89",
-    "port": 8080,
-    "country": "Hungary",
-    "country_code": "HU",
-    "city": "Győr",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 66.44,
-    "asn": "AS5483",
-    "isp": "Magyar Telekom",
-    "latency_ms": 2053.45,
-    "last_checked": 1793849922.7948365
-  },
-  {
     "protocol": "socks4",
     "ip": "89.132.170.211",
     "port": 4145,
@@ -26,7 +11,37 @@
     "uptime_percent": 29.21,
     "asn": "AS21334",
     "isp": "One Hungary Ltd.",
-    "latency_ms": 7878.64,
-    "last_checked": 1793849918.6253433
+    "latency_ms": 163.25,
+    "last_checked": 1793850241.3289344
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.61.117.11",
+    "port": 1080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Budapest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.66,
+    "asn": "AS197248",
+    "isp": "Dravanet",
+    "latency_ms": 7370.81,
+    "last_checked": 1793850237.9570646
+  },
+  {
+    "protocol": "http",
+    "ip": "145.236.156.89",
+    "port": 8080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Győr",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 66.49,
+    "asn": "AS5483",
+    "isp": "Magyar Telekom",
+    "latency_ms": 9200.11,
+    "last_checked": 1793850207.6753292
   }
 ]
