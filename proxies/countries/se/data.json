@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 80,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 66.6,
-    "asn": "AS206170",
-    "isp": "Yelles AB",
-    "latency_ms": 10635.55,
-    "last_checked": 1793980776.3848097
-  },
-  {
     "protocol": "socks5",
     "ip": "171.25.158.95",
     "port": 1080,
@@ -26,8 +11,8 @@
     "uptime_percent": 93.62,
     "asn": "AS35100",
     "isp": "Patrik Lagerman",
-    "latency_ms": 2368.57,
-    "last_checked": 1793980727.8377635
+    "latency_ms": 2371.54,
+    "last_checked": 1793981363.4110434
   },
   {
     "protocol": "http",
@@ -37,12 +22,27 @@
     "country_code": "SE",
     "city": "Halmstad",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 31.4,
+    "ssl": true,
+    "uptime_percent": 31.41,
     "asn": "AS8473",
     "isp": "Bahnhof Internet",
-    "latency_ms": 9418.2,
-    "last_checked": 1793980724.183324
+    "latency_ms": 9572.19,
+    "last_checked": 1793981358.8023553
+  },
+  {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 80,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 66.6,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 3719.5,
+    "last_checked": 1793981333.5343187
   },
   {
     "protocol": "socks5",
@@ -56,7 +56,22 @@
     "uptime_percent": 20.08,
     "asn": "AS210644",
     "isp": "Aeza Group LLC",
-    "latency_ms": 8863.68,
-    "last_checked": 1793980683.9242053
+    "latency_ms": 1737.08,
+    "last_checked": 1793981331.5868852
+  },
+  {
+    "protocol": "socks5",
+    "ip": "79.76.52.220",
+    "port": 1080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.84,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 5935.86,
+    "last_checked": 1793981263.3636515
   }
 ]
