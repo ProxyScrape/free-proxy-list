@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "186.121.244.178",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "181.115.207.114",
+    "port": 1080,
     "country": "Bolivia",
     "country_code": "BO",
     "city": "Santa Cruz de la Sierra",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.14,
-    "asn": "AS26210",
-    "isp": "AXS Bolivia S. A.",
-    "latency_ms": 1913.24,
-    "last_checked": 1794002965.0936093
+    "uptime_percent": 14.37,
+    "asn": "AS6568",
+    "isp": "Entel S.A. - EntelNet",
+    "latency_ms": 5176.65,
+    "last_checked": 1794003596.1884656
+  },
+  {
+    "protocol": "socks4",
+    "ip": "181.115.207.115",
+    "port": 1080,
+    "country": "Bolivia",
+    "country_code": "BO",
+    "city": "Santa Cruz de la Sierra",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.56,
+    "asn": "AS6568",
+    "isp": "Entel S.A. - EntelNet",
+    "latency_ms": 8619.42,
+    "last_checked": 1794003587.154559
   },
   {
     "protocol": "socks4",
@@ -23,10 +38,40 @@
     "city": "La Paz",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 32.49,
+    "uptime_percent": 32.57,
     "asn": "AS27882",
     "isp": "Telefónica Celular de Bolivia S.A.",
-    "latency_ms": 4194.44,
-    "last_checked": 1794002959.0277016
+    "latency_ms": 8909.76,
+    "last_checked": 1794003565.2689931
+  },
+  {
+    "protocol": "http",
+    "ip": "49.0.190.114",
+    "port": 3128,
+    "country": "Bolivia",
+    "country_code": "BO",
+    "city": "La Paz",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.63,
+    "asn": "AS27882",
+    "isp": "Telefónica Celular de Bolivia S.A.",
+    "latency_ms": 3918.65,
+    "last_checked": 1794003546.0739121
+  },
+  {
+    "protocol": "http",
+    "ip": "190.181.28.186",
+    "port": 999,
+    "country": "Bolivia",
+    "country_code": "BO",
+    "city": "Santa Cruz de la Sierra",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 23.22,
+    "asn": "AS26210",
+    "isp": "AXS Bolivia S. A.",
+    "latency_ms": 5616.77,
+    "last_checked": 1794003463.996766
   }
 ]
