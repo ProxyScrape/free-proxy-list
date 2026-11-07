@@ -1,17 +1,32 @@
 [
   {
     "protocol": "http",
-    "ip": "192.203.0.250",
+    "ip": "192.203.0.166",
     "port": 999,
     "country": "Puerto Rico",
     "country_code": "PR",
     "city": "Levittown",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 19.36,
+    "ssl": false,
+    "uptime_percent": 20.99,
     "asn": "AS63393",
     "isp": "Boom NET",
-    "latency_ms": 8017.19,
-    "last_checked": 1794094691.6311848
+    "latency_ms": 847.9,
+    "last_checked": 1794095335.7166586
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.13.212.229",
+    "port": 1080,
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "city": "San Juan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.21,
+    "asn": "AS215929",
+    "isp": "Data Campus Limited",
+    "latency_ms": 2628.45,
+    "last_checked": 1794095307.5403209
   }
 ]
