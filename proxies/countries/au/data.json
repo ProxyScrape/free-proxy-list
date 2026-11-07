@@ -1,36 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 8000,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 11.26,
-    "asn": "AS2764",
-    "isp": "AAPT Limited",
-    "latency_ms": 4097.99,
-    "last_checked": 1794079738.1515813
-  },
-  {
-    "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 30.03,
-    "asn": "AS4764",
-    "isp": "Aussie Fibre Pty Ltd",
-    "latency_ms": 3565.97,
-    "last_checked": 1794079729.019212
-  },
-  {
-    "protocol": "http",
     "ip": "114.111.151.41",
     "port": 80,
     "country": "Australia",
@@ -41,22 +11,52 @@
     "uptime_percent": 73.23,
     "asn": "AS45577",
     "isp": "Intervolve Pty Ltd",
-    "latency_ms": 4532.99,
-    "last_checked": 1794079708.3273816
+    "latency_ms": 3689.96,
+    "last_checked": 1794080378.9163475
   },
   {
-    "protocol": "http",
+    "protocol": "socks5",
     "ip": "103.192.80.81",
-    "port": 3129,
+    "port": 1088,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 62.83,
+    "ssl": true,
+    "uptime_percent": 78.89,
     "asn": "AS136557",
     "isp": "Host Universal Pty Ltd",
-    "latency_ms": 16662.62,
-    "last_checked": 1794079701.4063835
+    "latency_ms": 8621.31,
+    "last_checked": 1794080367.292703
+  },
+  {
+    "protocol": "http",
+    "ip": "51.161.137.166",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.19,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 13765.7,
+    "last_checked": 1794080359.3618553
+  },
+  {
+    "protocol": "http",
+    "ip": "159.196.182.72",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "St Helena",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 25.08,
+    "asn": "AS4764",
+    "isp": "Aussie Broadband",
+    "latency_ms": 10607.5,
+    "last_checked": 1794080337.516848
   }
 ]
