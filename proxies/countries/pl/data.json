@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "91.203.221.5",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "46.151.118.108",
+    "port": 5678,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Słupia",
+    "city": "Lipsko",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.65,
+    "asn": "AS197418",
+    "isp": "KONTAKT",
+    "latency_ms": 3342.0,
+    "last_checked": 1794020954.813992
+  },
+  {
+    "protocol": "http",
+    "ip": "185.32.4.210",
+    "port": 8090,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Chociwel",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 64.17,
-    "asn": "AS202994",
-    "isp": "Air NET Marcin Gola",
-    "latency_ms": 1144.03,
-    "last_checked": 1794020332.228275
+    "uptime_percent": 16.39,
+    "asn": "AS60645",
+    "isp": "AS Consulting Sp. z o. o.",
+    "latency_ms": 3411.04,
+    "last_checked": 1794020939.259386
   },
   {
     "protocol": "http",
@@ -26,68 +41,8 @@
     "uptime_percent": 29.43,
     "asn": "AS60645",
     "isp": "AS Consulting Sp. z o. o.",
-    "latency_ms": 526.47,
-    "last_checked": 1794020330.7567298
-  },
-  {
-    "protocol": "socks5",
-    "ip": "109.95.175.64",
-    "port": 1080,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Kurzętnik",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 44.74,
-    "asn": "AS43420",
-    "isp": "TVK ELtronik Brodnica",
-    "latency_ms": 824.97,
-    "last_checked": 1794020310.181025
-  },
-  {
-    "protocol": "socks4",
-    "ip": "46.151.118.108",
-    "port": 5678,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Lipsko",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 47.66,
-    "asn": "AS197418",
-    "isp": "KONTAKT",
-    "latency_ms": 457.07,
-    "last_checked": 1794020308.5165694
-  },
-  {
-    "protocol": "socks5",
-    "ip": "57.128.249.250",
-    "port": 9052,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.41,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 5671.7,
-    "last_checked": 1794020240.932746
-  },
-  {
-    "protocol": "socks5",
-    "ip": "37.221.102.172",
-    "port": 1080,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Szczawno-Zdrój",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 61.81,
-    "asn": "AS198537",
-    "isp": "KAMNET2",
-    "latency_ms": 12939.89,
-    "last_checked": 1794020210.3840368
+    "latency_ms": 2220.41,
+    "last_checked": 1794020931.9109325
   },
   {
     "protocol": "http",
@@ -97,11 +52,11 @@
     "country_code": "PL",
     "city": "Świnoujście",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 12.31,
     "asn": "AS12741",
     "isp": "Netia SA",
-    "latency_ms": 6908.47,
-    "last_checked": 1794020202.4295
+    "latency_ms": 3013.8,
+    "last_checked": 1794020924.8253975
   }
 ]
