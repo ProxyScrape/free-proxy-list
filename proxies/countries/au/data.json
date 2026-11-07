@@ -1,33 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "168.138.9.147",
-    "port": 1080,
+    "protocol": "socks5",
+    "ip": "103.192.80.81",
+    "port": 1088,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 32.19,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 1551.57,
-    "last_checked": 1794042526.0718625
+    "uptime_percent": 79.34,
+    "asn": "AS136557",
+    "isp": "Host Universal Pty Ltd",
+    "latency_ms": 6495.56,
+    "last_checked": 1794042878.5203571
   },
   {
     "protocol": "http",
-    "ip": "103.192.80.81",
-    "port": 3129,
+    "ip": "130.162.192.208",
+    "port": 8080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 63.18,
-    "asn": "AS136557",
-    "isp": "Host Universal Pty Ltd",
-    "latency_ms": 1689.49,
-    "last_checked": 1794042511.9957793
+    "ssl": false,
+    "uptime_percent": 26.95,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 1591.58,
+    "last_checked": 1794042867.8248658
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 11.26,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 9781.85,
+    "last_checked": 1794042848.3327427
   },
   {
     "protocol": "http",
@@ -58,5 +73,20 @@
     "isp": "DigitalOcean, LLC",
     "latency_ms": 12540.58,
     "last_checked": 1794042538.8687665
+  },
+  {
+    "protocol": "http",
+    "ip": "103.192.80.81",
+    "port": 3129,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 63.18,
+    "asn": "AS136557",
+    "isp": "Host Universal Pty Ltd",
+    "latency_ms": 1689.49,
+    "last_checked": 1794042511.9957793
   }
 ]
