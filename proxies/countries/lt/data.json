@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "46.166.167.60",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "93.93.61.153",
+    "port": 1080,
     "country": "Lithuania",
     "country_code": "LT",
-    "city": "Šiauliai",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 44.21,
-    "asn": "AS16125",
-    "isp": "UAB Cherry Servers",
-    "latency_ms": 4003.67,
-    "last_checked": 1794065593.0259542
+    "city": "Vilnius",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.23,
+    "asn": "AS44613",
+    "isp": "AB \"Ogmios Centras\"",
+    "latency_ms": 140.48,
+    "last_checked": 1794065985.1924956
+  },
+  {
+    "protocol": "socks5",
+    "ip": "78.63.115.20",
+    "port": 8899,
+    "country": "Lithuania",
+    "country_code": "LT",
+    "city": "Vilnius",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.17,
+    "asn": "AS8764",
+    "isp": "Telia Lietuva",
+    "latency_ms": 229.46,
+    "last_checked": 1794065953.6496735
   }
 ]
