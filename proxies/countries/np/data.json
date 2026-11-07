@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "124.41.196.3",
-    "port": 1080,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Kathmandu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 42.75,
-    "asn": "AS17501",
-    "isp": "WorldLink Communications",
-    "latency_ms": 2103.87,
-    "last_checked": 1794014980.8147013
-  },
-  {
-    "protocol": "http",
-    "ip": "43.245.93.193",
-    "port": 53805,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Butwal",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 6.81,
-    "asn": "AS55427",
-    "isp": "BroadLink Networks and Communications",
-    "latency_ms": 11969.34,
-    "last_checked": 1794014975.9096029
-  },
-  {
     "protocol": "http",
     "ip": "139.5.75.83",
     "port": 8080,
@@ -37,12 +7,12 @@
     "country_code": "NP",
     "city": "Patan",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 26.02,
     "asn": "AS17501",
     "isp": "WLINK",
-    "latency_ms": 4798.63,
-    "last_checked": 1794014956.1807692
+    "latency_ms": 3306.65,
+    "last_checked": 1794015546.4348176
   },
   {
     "protocol": "socks4",
@@ -53,10 +23,40 @@
     "city": "Kathmandu",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 51.21,
+    "uptime_percent": 51.4,
     "asn": "AS17501",
     "isp": "WorldLink Communications",
-    "latency_ms": 1459.54,
-    "last_checked": 1794014947.5724185
+    "latency_ms": 1854.28,
+    "last_checked": 1794015544.4046428
+  },
+  {
+    "protocol": "socks4",
+    "ip": "124.41.196.3",
+    "port": 1080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.2,
+    "asn": "AS17501",
+    "isp": "WorldLink Communications",
+    "latency_ms": 1602.62,
+    "last_checked": 1794015535.4232578
+  },
+  {
+    "protocol": "http",
+    "ip": "43.245.95.178",
+    "port": 53805,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Lalitpur",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.78,
+    "asn": "AS55427",
+    "isp": "BroadLink Networks and Communications",
+    "latency_ms": 9534.35,
+    "last_checked": 1794015485.1807609
   }
 ]
