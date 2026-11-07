@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Cârţişoara",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 58.62,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 227.09,
+    "last_checked": 1794032356.655341
+  },
+  {
     "protocol": "http",
     "ip": "92.86.207.198",
     "port": 8080,
@@ -7,27 +22,12 @@
     "country_code": "RO",
     "city": "Vaideeni",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 15.52,
     "asn": "AS9050",
     "isp": "Romtelecom",
-    "latency_ms": 220.94,
-    "last_checked": 1794031760.601154
-  },
-  {
-    "protocol": "http",
-    "ip": "89.40.77.249",
-    "port": 8787,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 22.21,
-    "asn": "AS214529",
-    "isp": "DAM TELECOM SERVICES SRL",
-    "latency_ms": 7468.63,
-    "last_checked": 1794031743.5079145
+    "latency_ms": 4079.63,
+    "last_checked": 1794032317.2275221
   },
   {
     "protocol": "http",
@@ -41,8 +41,8 @@
     "uptime_percent": 9.14,
     "asn": "AS39347",
     "isp": "STYLISH BY A&L SRL",
-    "latency_ms": 5602.82,
-    "last_checked": 1794031688.8551621
+    "latency_ms": 10118.81,
+    "last_checked": 1794032299.0322692
   },
   {
     "protocol": "http",
@@ -52,11 +52,26 @@
     "country_code": "RO",
     "city": "Miercurea-Ciuc",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 27.47,
     "asn": "AS8708",
     "isp": "RCS & RDS",
-    "latency_ms": 3304.15,
-    "last_checked": 1794031664.362426
+    "latency_ms": 1757.99,
+    "last_checked": 1794032296.2833974
+  },
+  {
+    "protocol": "http",
+    "ip": "188.211.30.65",
+    "port": 8787,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Făget",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 24.73,
+    "asn": "AS214529",
+    "isp": "DAM TELECOM SERVICES SRL",
+    "latency_ms": 561.89,
+    "last_checked": 1794032286.6582422
   }
 ]
