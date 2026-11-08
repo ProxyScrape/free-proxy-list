@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "111.125.154.86",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "111.125.154.22",
+    "port": 1080,
     "country": "Afghanistan",
     "country_code": "AF",
     "city": "Taloqan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 42.65,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.09,
     "asn": "AS45178",
     "isp": "Telecom Development Company Afghanistan",
-    "latency_ms": 10611.92,
-    "last_checked": 1794172747.347443
-  },
-  {
-    "protocol": "http",
-    "ip": "149.54.16.170",
-    "port": 8080,
-    "country": "Afghanistan",
-    "country_code": "AF",
-    "city": "Kabul",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 26.0,
-    "asn": "AS55330",
-    "isp": "Government Communications Network",
-    "latency_ms": 1926.93,
-    "last_checked": 1794172690.3179932
+    "latency_ms": 3613.05,
+    "last_checked": 1794173369.0342042
   },
   {
     "protocol": "http",
@@ -38,10 +23,25 @@
     "city": "Kabul",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 69.23,
+    "uptime_percent": 70.4,
     "asn": "AS55330",
     "isp": "Government Communications Network",
-    "latency_ms": 1906.69,
-    "last_checked": 1794172677.9447086
+    "latency_ms": 9235.53,
+    "last_checked": 1794173339.2167606
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.96.233.10",
+    "port": 1080,
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "city": "Kabul",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.32,
+    "asn": "AS133894",
+    "isp": "Easy Connect- ISP",
+    "latency_ms": 3737.18,
+    "last_checked": 1794173320.3163552
   }
 ]
