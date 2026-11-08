@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "217.151.230.186",
-    "port": 9055,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 14.62,
-    "asn": "AS9123",
-    "isp": "JSC \"TIMEWEB\"",
-    "latency_ms": 5025.32,
-    "last_checked": 1794160787.5491614
-  },
-  {
     "protocol": "http",
     "ip": "37.221.202.30",
     "port": 8080,
@@ -22,11 +7,41 @@
     "country_code": "KZ",
     "city": "Urzhar",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 31.19,
     "asn": "AS43370",
     "isp": "Obit Telecommunications",
-    "latency_ms": 11809.72,
-    "last_checked": 1794160748.2666404
+    "latency_ms": 5978.49,
+    "last_checked": 1794161384.0527866
+  },
+  {
+    "protocol": "http",
+    "ip": "91.185.20.162",
+    "port": 8080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 25.05,
+    "asn": "AS41798",
+    "isp": "TTC Network",
+    "latency_ms": 533.81,
+    "last_checked": 1794161319.6928258
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.99.125.63",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.99,
+    "asn": "AS200688",
+    "isp": "Gologramma LLP",
+    "latency_ms": 3656.21,
+    "last_checked": 1794161287.6698563
   }
 ]
