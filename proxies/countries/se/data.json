@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks5",
-    "ip": "79.76.52.220",
-    "port": 1080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 24.7,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 3567.02,
-    "last_checked": 1794167949.22134
-  },
-  {
-    "protocol": "socks5",
     "ip": "46.246.12.13",
     "port": 1080,
     "country": "Sweden",
@@ -23,11 +8,41 @@
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 98.44,
+    "uptime_percent": 98.45,
     "asn": "AS42708",
     "isp": "GleSYS AB",
-    "latency_ms": 2438.41,
-    "last_checked": 1794167915.8732183
+    "latency_ms": 2992.62,
+    "last_checked": 1794168595.1881917
+  },
+  {
+    "protocol": "socks4",
+    "ip": "85.228.42.180",
+    "port": 4153,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Upplands Vasby",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.91,
+    "asn": "AS8434",
+    "isp": "Bredbandsbolaget",
+    "latency_ms": 388.4,
+    "last_checked": 1794168592.7096236
+  },
+  {
+    "protocol": "socks4",
+    "ip": "56.228.19.102",
+    "port": 9080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 8.98,
+    "asn": "AS16509",
+    "isp": "Amazon.com",
+    "latency_ms": 15108.27,
+    "last_checked": 1794168579.5544853
   },
   {
     "protocol": "http",
@@ -37,42 +52,27 @@
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 39.88,
     "asn": "AS203273",
     "isp": "NetCrafters OU",
-    "latency_ms": 15620.94,
-    "last_checked": 1794167909.3909628
-  },
-  {
-    "protocol": "socks5",
-    "ip": "171.25.158.95",
-    "port": 1080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Rottne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 93.62,
-    "asn": "AS35100",
-    "isp": "Patrik Lagerman",
-    "latency_ms": 3387.03,
-    "last_checked": 1794167895.7699058
+    "latency_ms": 14969.95,
+    "last_checked": 1794168505.127897
   },
   {
     "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 80,
+    "ip": "46.59.120.87",
+    "port": 81,
     "country": "Sweden",
     "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 66.71,
-    "asn": "AS206170",
-    "isp": "Yelles AB",
-    "latency_ms": 2974.64,
-    "last_checked": 1794167873.9423838
+    "city": "Halmstad",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 31.6,
+    "asn": "AS8473",
+    "isp": "Bahnhof Internet",
+    "latency_ms": 2045.53,
+    "last_checked": 1794168498.011583
   },
   {
     "protocol": "http",
@@ -86,7 +86,22 @@
     "uptime_percent": 67.56,
     "asn": "AS206170",
     "isp": "Yelles AB",
-    "latency_ms": 6105.22,
-    "last_checked": 1794167870.1640139
+    "latency_ms": 4432.4,
+    "last_checked": 1794168434.9509892
+  },
+  {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 80,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 66.71,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 10602.62,
+    "last_checked": 1794168375.6067772
   }
 ]
