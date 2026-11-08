@@ -1,6 +1,21 @@
 [
   {
     "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 49.22,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 2260.58,
+    "last_checked": 1794107335.51429
+  },
+  {
+    "protocol": "http",
     "ip": "165.225.66.43",
     "port": 11588,
     "country": "Switzerland",
@@ -8,11 +23,26 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 66.45,
+    "uptime_percent": 66.48,
     "asn": "AS62044",
     "isp": "Zscaler Switzerland GmbH",
-    "latency_ms": 569.18,
-    "last_checked": 1794107058.198669
+    "latency_ms": 439.02,
+    "last_checked": 1794107323.459953
+  },
+  {
+    "protocol": "socks5",
+    "ip": "91.92.155.207",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.04,
+    "asn": "AS61098",
+    "isp": "Akenes SA",
+    "latency_ms": 5749.06,
+    "last_checked": 1794107308.6798835
   },
   {
     "protocol": "http",
@@ -28,20 +58,5 @@
     "isp": "Saitis Network, N.Desir",
     "latency_ms": 1132.05,
     "last_checked": 1794106998.1760705
-  },
-  {
-    "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Tann",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 49.22,
-    "asn": "AS51395",
-    "isp": "Datasource AG",
-    "latency_ms": 32.15,
-    "last_checked": 1794106940.5634286
   }
 ]
