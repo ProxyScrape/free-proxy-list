@@ -1,36 +1,55 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,111.90.169.178,5678,India,IN,Surat,elite,true,25.86,AS45117,INPL's,3994.34,1794121740.921564
-http,122.166.79.199,80,India,IN,Hubballi,transparent,true,51.39,AS24560,Bharti Airtel Ltd.,2395.62,1794121731.5512342
-socks4,119.235.50.78,4153,India,IN,Hyderabad,elite,true,45.17,AS45582,"VAINAVI INDUSTIES LTD, INTERNET SERVICE PROVIDER, INDIA",1953.84,1794121730.3432202
-socks5,103.176.187.228,9090,India,IN,Pune,elite,true,44.65,AS138311,Limerick Technologies Pvt Ltd,1251.37,1794121725.5965889
-socks4,103.137.148.253,1080,India,IN,Kadaparai,elite,true,56.28,AS58898,Rainbow communications India Pvt Ltd,3997.46,1794121724.4577656
-socks4,136.233.136.41,43314,India,IN,Chānga,elite,true,38.04,AS55836,Reliance Jio Infocomm Limited,785.33,1794121719.9582784
-http,103.48.71.54,84,India,IN,Lal Bahadur Nagar,transparent,false,14.44,AS136290,Country Online Services PVT LTD,1704.38,1794121717.9912863
-http,103.48.68.126,83,India,IN,Hyderabad,transparent,false,12.11,AS136290,Country Online Services PVT LTD,13368.86,1794121714.6447458
-http,103.136.82.252,83,India,IN,Ranchi,transparent,true,8.89,AS137678,Protoact Digital Network Pvt. Ltd,3209.67,1794121713.6386657
-socks5,139.59.1.14,1080,India,IN,Bengaluru,elite,true,67.17,AS14061,DIGITALOCEAN,965.71,1794121713.6265156
-http,103.143.8.126,8089,India,IN,Mumbai,transparent,false,11.09,AS138296,Promptnet Broadband Pvt Ltd,4895.48,1794121713.212349
-http,182.78.36.218,84,India,IN,Madanapalle,transparent,false,12.04,AS9498,Bharti Airtel,9207.33,1794121712.8432739
-http,103.214.189.41,80,India,IN,Varanasi,transparent,false,57.97,AS134908,Ikon Broadband Private Limited,2214.08,1794121711.1844783
-http,20.40.43.171,3131,India,IN,Pune,transparent,true,40.78,AS8075,Microsoft Corporation,8073.08,1794121710.0732927
-socks4,45.249.79.190,3629,India,IN,Mārkāpur,elite,true,11.66,AS18229,Tejasri Communications,3938.68,1794121707.8341904
-http,103.171.55.34,82,India,IN,Pune,transparent,false,12.07,AS137633,Gigaline Teleservices Opc Private Limited,4365.87,1794121706.544815
-socks4,140.238.243.61,1080,India,IN,Mumbai,elite,true,96.75,AS31898,Oracle Corporation,751.5,1794121704.3634672
-http,80.225.250.95,8888,India,IN,Mumbai,anonymous,true,34.21,AS31898,Oracle Corporation,2464.69,1794121701.239464
-http,103.48.68.218,83,India,IN,Hyderabad,transparent,false,6.03,AS136290,Country Online Services PVT LTD,1407.11,1794121697.0898952
-socks5,82.180.146.251,10800,India,IN,Mumbai,elite,true,98.54,AS141995,Contabo Asia Private Limited,3209.19,1794121697.0751712
-http,111.125.242.34,80,India,IN,Mumbai,transparent,true,8.22,AS55352,Microscan Internet Limited,1398.34,1794121695.8214355
-http,203.115.123.163,1256,India,IN,Mumbai,elite,false,25.66,AS17426,PRIMENET,1730.37,1794121693.1863608
-http,202.179.93.132,58080,India,IN,Mumbai,transparent,false,12.34,AS138296,Ankhnet,3521.05,1794121687.808893
-http,202.179.69.216,58080,India,IN,Pune,transparent,false,8.19,AS138311,Ankhnet,4792.48,1794121685.0704234
-http,103.48.70.27,83,India,IN,Hyderabad,transparent,false,19.26,AS136290,Country Online Services PVT LTD,5472.42,1794121684.8185215
-http,103.209.88.72,8080,India,IN,Guntur,transparent,false,5.25,AS134892,TransMedia Technologies (AP) PVT LTD,9125.41,1794121732.5245578
-http,125.20.128.196,3129,India,IN,Howrah,transparent,true,38.21,AS9498,BHARTI,9798.61,1794121728.588772
-http,103.179.229.105,80,India,IN,Ahmedabad,transparent,false,38.72,AS141308,Bytrix Net Pvt. Ltd.,9691.57,1794121727.7997751
-socks5,117.244.114.54,1080,India,IN,Navi Mumbai,elite,true,50.48,AS9829,BSNL Internet,2286.96,1794121672.604885
-http,139.59.59.122,8118,India,IN,Bengaluru,elite,false,20.21,AS14061,"DigitalOcean, LLC",4762.29,1794121668.3747296
-http,4.240.96.243,3128,India,IN,Pune,transparent,false,42.34,AS8075,Microsoft Corporation,10989.2,1794121667.8421073
-http,103.55.106.81,8080,India,IN,Jhajjar,transparent,false,13.95,AS133989,SBR Telecom Pvt. Ltd,7490.68,1794121661.1785095
-http,103.135.189.6,84,India,IN,Tiruchirappalli,transparent,true,19.08,AS138782,Swibi Airnet Broadband Services Pvt Ltd,1462.51,1794121646.8088663
-http,103.48.69.57,84,India,IN,Hyderabad,transparent,false,2.44,AS136290,Country Online Services PVT LTD,9759.72,1794121641.8950903
-http,103.125.160.178,83,India,IN,Hyderabad,transparent,false,7.25,AS18229,CtrlS,3630.79,1794121614.528482
+socks5,140.238.243.61,1080,India,IN,Mumbai,elite,true,98.41,AS31898,Oracle Corporation,1024.06,1794122380.6979156
+socks4,111.90.169.178,5678,India,IN,Surat,elite,true,25.86,AS45117,INPL's,1673.59,1794122373.8681417
+socks5,117.244.114.54,1080,India,IN,Navi Mumbai,elite,true,50.48,AS9829,BSNL Internet,4830.21,1794122373.8539226
+socks4,119.235.50.78,4153,India,IN,Hyderabad,elite,true,45.17,AS45582,"VAINAVI INDUSTIES LTD, INTERNET SERVICE PROVIDER, INDIA",826.81,1794122371.1016576
+socks4,140.238.243.61,1080,India,IN,Mumbai,elite,true,96.76,AS31898,Oracle Corporation,782.43,1794122368.8419857
+http,103.174.161.6,8082,India,IN,Vijayawada,transparent,true,15.48,AS150008,Speed Link Communications,4840.23,1794122366.8784127
+http,103.48.71.54,84,India,IN,Lal Bahadur Nagar,transparent,false,14.46,AS136290,Country Online Services PVT LTD,6174.16,1794122362.6564415
+socks4,136.233.136.41,43314,India,IN,Chānga,elite,true,38.04,AS55836,Reliance Jio Infocomm Limited,3796.02,1794122360.778688
+socks4,43.242.227.10,9052,India,IN,Panvel,elite,true,24.56,AS146943,Tier 4 Cloud Services,6325.59,1794122360.5537415
+http,103.48.71.30,82,India,IN,Lal Bahadur Nagar,transparent,false,2.59,AS136290,Country Online Services PVT LTD,8734.16,1794122360.512925
+http,103.137.218.233,83,India,IN,Bhagalpur,transparent,false,9.74,AS132972,Nandbalaji Connecting Zone Pvt. Ltd,9393.07,1794122360.0485325
+socks5,103.176.187.228,9090,India,IN,Pune,elite,true,44.65,AS138311,Limerick Technologies Pvt Ltd,3168.03,1794122359.4992816
+http,103.48.70.28,83,India,IN,Hyderabad,transparent,false,14.83,AS136290,Country Online Services PVT LTD,10282.12,1794122358.4169037
+http,45.195.105.20,8080,India,IN,Mumbai,elite,false,30.77,AS140641,Real Time Data Services Private Limited,398.57,1794122357.383355
+http,103.48.68.220,83,India,IN,Hyderabad,transparent,false,5.9,AS136290,Country Online Services PVT LTD,2387.62,1794122356.6177993
+socks4,202.179.76.105,51951,India,IN,Mumbai,elite,true,35.7,AS138296,Juweriyah Networks Private Limited,7738.23,1794122356.3506014
+http,122.102.126.74,8080,India,IN,Chennai,transparent,true,25.92,AS133000,Arjun Wireless Solutions Private Limited,5769.16,1794122356.0585232
+http,103.48.71.6,84,India,IN,Lal Bahadur Nagar,transparent,false,4.8,AS136290,Country Online Services PVT LTD,6117.21,1794122349.2935295
+socks4,103.137.148.253,1080,India,IN,Kadaparai,elite,true,56.28,AS58898,Rainbow communications India Pvt Ltd,991.63,1794122348.4962845
+http,103.135.70.9,8080,India,IN,Jūnāgadh,elite,false,21.18,AS138788,Acushnet Communication Private Limited,5757.32,1794122347.7127738
+http,103.48.70.29,83,India,IN,Hyderabad,transparent,false,16.04,AS136290,Country Online Services PVT LTD,10076.84,1794122347.6920633
+http,111.125.242.34,80,India,IN,Mumbai,transparent,false,8.22,AS55352,Microscan Internet Limited,9095.58,1794122347.6327271
+socks4,119.235.49.121,4153,India,IN,Hyderabad,elite,true,11.87,AS45582,"VAINAVI INDUSTIES LTD, INTERNET SERVICE PROVIDER, INDIA",7826.98,1794122345.6537564
+http,125.99.248.210,8080,India,IN,Bengaluru,transparent,false,19.08,AS17488,Hathway IP over Cable Internet Access,3145.08,1794122344.9129572
+socks5,82.180.146.251,10800,India,IN,Mumbai,elite,true,98.55,AS141995,Contabo Asia Private Limited,1165.52,1794122342.5702968
+socks5,103.163.244.106,1080,India,IN,Panipat,elite,true,38.75,AS132746,Infolink System,2321.04,1794122340.1163466
+http,160.19.41.44,80,India,IN,New Delhi,transparent,false,56.82,AS142461,ATC INFOCOM SOLUTIONS PVT LTD,1291.7,1794122338.950551
+http,103.214.189.41,80,India,IN,Varanasi,transparent,false,57.98,AS134908,Ikon Broadband Private Limited,2750.83,1794122337.241218
+http,103.136.82.252,84,India,IN,Ranchi,transparent,false,3.62,AS137678,Protoact Digital Network Pvt. Ltd,14776.14,1794122331.9173067
+http,103.179.228.42,80,India,IN,Ahmedabad,transparent,false,53.73,AS141308,Bytrix Net Pvt. Ltd.,4654.9,1794122329.6144812
+http,103.48.71.138,83,India,IN,Lal Bahadur Nagar,transparent,false,8.53,AS136290,Country Online Services PVT LTD,4130.41,1794122324.4573717
+http,182.95.79.172,3128,India,IN,Chennai,transparent,true,67.57,AS9498,Bharti Airtel Limited,14253.0,1794122323.9281416
+socks5,178.92.72.205,1080,India,IN,Mumbai,elite,true,44.06,AS134926,Micro Hosting Private Limited,1563.72,1794122321.5197873
+http,103.48.71.2,83,India,IN,Lal Bahadur Nagar,transparent,false,6.4,AS136290,Country Online Services PVT LTD,6879.63,1794122320.9088516
+http,52.140.40.92,80,India,IN,Chennai,transparent,false,29.67,AS8075,Microsoft Corporation,9760.69,1794122316.2369199
+http,103.48.71.54,83,India,IN,Lal Bahadur Nagar,transparent,true,20.35,AS136290,Country Online Services PVT LTD,1710.95,1794122314.5436215
+http,103.48.68.11,83,India,IN,Hyderabad,transparent,false,9.63,AS136290,Country Online Services PVT LTD,4917.94,1794122312.5227187
+http,103.168.210.122,80,India,IN,Delhi,transparent,false,47.82,AS142461,ATC INFOCOM SOLUTIONS,4690.79,1794122284.9937384
+http,125.16.33.58,80,India,IN,New Delhi,transparent,false,55.36,AS9498,Bharti Airtel Limited,9172.45,1794122282.1196249
+http,59.145.184.190,80,India,IN,Ghaziabad,transparent,true,40.92,AS9498,Bharti Airtel Limited,1476.18,1794122279.9853878
+socks5,43.242.227.10,9051,India,IN,Panvel,elite,true,24.83,AS146943,Tier 4 Cloud Services,2399.92,1794122274.8081527
+socks5,45.195.129.91,1080,India,IN,New Delhi,elite,true,72.79,AS137643,Manage Server,12806.93,1794122273.5675943
+http,103.155.130.94,8080,India,IN,Mumbai,transparent,false,30.87,AS141480,Haash Media,3366.02,1794122271.1523895
+http,103.171.194.52,83,India,IN,Kundapura,transparent,false,10.94,AS141329,Udupi Fastnet Private Limited,4995.54,1794122266.6902988
+http,103.48.71.130,83,India,IN,Lal Bahadur Nagar,transparent,false,5.44,AS136290,Country Online Services PVT LTD,6850.81,1794122259.4305005
+http,103.48.71.34,84,India,IN,Lal Bahadur Nagar,transparent,false,4.78,AS136290,Country Online Services PVT LTD,8724.35,1794122258.0445218
+http,103.48.71.70,83,India,IN,Lal Bahadur Nagar,transparent,false,7.76,AS136290,Country Online Services PVT LTD,5706.51,1794122248.360793
+http,103.161.30.17,82,India,IN,Tadepalligudem,transparent,false,9.77,AS150611,Venkata Sai Internet Pvt Ltd,10899.45,1794122240.9371967
+http,103.177.235.194,83,India,IN,Manipal,transparent,false,15.43,AS141329,Coastal Live Channel,11546.11,1794122229.397082
+socks5,150.129.115.253,6667,India,IN,Surat,elite,true,24.66,AS45916,Gtpl Solanki Cable Network Pvt Ltd,5389.18,1794122220.287895
+http,103.55.106.81,8080,India,IN,Jhajjar,transparent,false,13.95,AS133989,SBR Telecom Pvt. Ltd,14162.32,1794122219.100338
+http,103.66.12.225,8080,India,IN,Gopālasamudram,transparent,false,14.67,AS135758,Alacriy Net System Service Private Limited,4084.57,1794122210.1634758
+http,122.176.158.103,80,India,IN,Ghaziabad,transparent,true,29.95,AS24560,Bharti Airtel,5837.13,1794122161.8091145
+http,202.62.75.38,84,India,IN,Hyderabad,transparent,false,11.38,AS17483,CityOnline Services,9709.85,1794122154.3066478
