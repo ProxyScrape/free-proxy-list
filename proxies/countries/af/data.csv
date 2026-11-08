@@ -1,3 +1,5 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,180.94.65.234,8080,Afghanistan,AF,Kabul,transparent,true,71.11,AS55330,Government Communications Network,769.19,1794173944.883324
-http,111.125.154.86,8080,Afghanistan,AF,Taloqan,transparent,false,42.63,AS45178,Telecom Development Company Afghanistan,8735.49,1794173811.9127266
+socks4,111.125.154.22,1080,Afghanistan,AF,Taloqan,elite,true,35.1,AS45178,Telecom Development Company Afghanistan,1520.98,1794174584.0651321
+http,111.125.154.86,8080,Afghanistan,AF,Taloqan,transparent,true,42.7,AS45178,Telecom Development Company Afghanistan,1669.28,1794174550.9450178
+http,149.54.16.170,8080,Afghanistan,AF,Kabul,transparent,true,26.0,AS55330,Government Communications Network,8152.93,1794174548.3736174
+socks5,103.96.233.10,1080,Afghanistan,AF,Kabul,elite,true,46.33,AS133894,Easy Connect- ISP,8562.6,1794174458.5256658
