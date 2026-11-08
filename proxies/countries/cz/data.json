@@ -1,33 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.82.238.42",
-    "port": 8888,
+    "protocol": "socks5",
+    "ip": "176.62.237.51",
+    "port": 1080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Kunovice",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 9.78,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 3866.98,
-    "last_checked": 1794152902.576861
+    "city": "Příbram",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 48.1,
+    "asn": "AS49985",
+    "isp": "IP4ISP z.s.p.o",
+    "latency_ms": 7469.46,
+    "last_checked": 1794153546.7224236
   },
   {
     "protocol": "http",
-    "ip": "217.16.183.148",
+    "ip": "46.23.61.97",
     "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Klatovy",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 45.26,
+    "asn": "AS197296",
+    "isp": "MAXTEL s.r.o. 1",
+    "latency_ms": 10339.67,
+    "last_checked": 1794153532.8477843
+  },
+  {
+    "protocol": "socks5",
+    "ip": "193.165.115.78",
+    "port": 1080,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 23.88,
-    "asn": "AS43541",
-    "isp": "VSHosting s.r.o.",
-    "latency_ms": 4528.06,
-    "last_checked": 1794152891.0455022
+    "uptime_percent": 39.16,
+    "asn": "AS30764",
+    "isp": "PODA a.s.",
+    "latency_ms": 7211.76,
+    "last_checked": 1794153526.6295774
   },
   {
     "protocol": "http",
@@ -41,8 +56,8 @@
     "uptime_percent": 72.51,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 14850.48,
-    "last_checked": 1794152943.7521307
+    "latency_ms": 9038.68,
+    "last_checked": 1794153484.9345338
   },
   {
     "protocol": "http",
@@ -52,11 +67,26 @@
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 29.67,
+    "ssl": false,
+    "uptime_percent": 29.7,
     "asn": "AS43541",
     "isp": "VSHosting s.r.o.",
-    "latency_ms": 534.54,
-    "last_checked": 1794152879.0088289
+    "latency_ms": 5570.55,
+    "last_checked": 1794153433.3169022
+  },
+  {
+    "protocol": "http",
+    "ip": "185.82.238.42",
+    "port": 8888,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Kunovice",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.78,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 1160.81,
+    "last_checked": 1794153397.3190897
   }
 ]
