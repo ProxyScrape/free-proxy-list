@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "184.70.113.34",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "24.37.245.42",
+    "port": 51056,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Calgary",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 34.64,
-    "asn": "AS6327",
-    "isp": "Shaw Communications",
-    "latency_ms": 6021.43,
-    "last_checked": 1794110068.5601368
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.11,
+    "asn": "AS5769",
+    "isp": "Le Groupe Videotron Ltee",
+    "latency_ms": 545.28,
+    "last_checked": 1794110362.4665918
   },
   {
     "protocol": "http",
@@ -26,8 +26,8 @@
     "uptime_percent": 93.61,
     "asn": "AS32489",
     "isp": "Amanah Tech Inc.",
-    "latency_ms": 630.77,
-    "last_checked": 1794110063.043399
+    "latency_ms": 288.31,
+    "last_checked": 1794110317.9540577
   },
   {
     "protocol": "http",
@@ -41,22 +41,52 @@
     "uptime_percent": 58.03,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 3283.71,
-    "last_checked": 1794110055.2592158
+    "latency_ms": 4295.9,
+    "last_checked": 1794110266.3536432
   },
   {
     "protocol": "socks5",
-    "ip": "162.254.178.133",
+    "ip": "216.144.231.108",
     "port": 1080,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Ignace",
+    "city": "Toronto",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 12.28,
-    "asn": "AS397128",
-    "isp": "Celerity Telecom",
-    "latency_ms": 1568.01,
-    "last_checked": 1794110002.6087885
+    "uptime_percent": 27.87,
+    "asn": "AS36352",
+    "isp": "HostPapa",
+    "latency_ms": 8504.6,
+    "last_checked": 1794110259.8454576
+  },
+  {
+    "protocol": "http",
+    "ip": "96.1.101.113",
+    "port": 80,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Calgary",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 34.14,
+    "asn": "AS852",
+    "isp": "TELUS Communications Inc.",
+    "latency_ms": 6439.6,
+    "last_checked": 1794110224.851797
+  },
+  {
+    "protocol": "socks5",
+    "ip": "216.144.231.111",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.18,
+    "asn": "AS36352",
+    "isp": "HostPapa",
+    "latency_ms": 12707.15,
+    "last_checked": 1794110222.9776862
   }
 ]
