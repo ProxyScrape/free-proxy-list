@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "62.220.129.81",
-    "port": 8080,
+    "ip": "185.85.111.18",
+    "port": 80,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Lausanne",
-    "anonymity": "transparent",
+    "city": "Tann",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 32.94,
-    "asn": "AS6893",
-    "isp": "Saitis Network, N.Desir",
-    "latency_ms": 6196.63,
-    "last_checked": 1794257936.0288002
+    "uptime_percent": 49.4,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 4762.71,
+    "last_checked": 1794258569.963004
+  },
+  {
+    "protocol": "socks4",
+    "ip": "195.225.116.14",
+    "port": 4145,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wädenswil",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.85,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 15740.55,
+    "last_checked": 1794258558.273984
   },
   {
     "protocol": "http",
@@ -23,10 +38,25 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 78.46,
+    "uptime_percent": 78.49,
     "asn": "AS62044",
     "isp": "Zscaler Switzerland GmbH",
-    "latency_ms": 1437.58,
-    "last_checked": 1794257935.1242135
+    "latency_ms": 383.35,
+    "last_checked": 1794258557.5777755
+  },
+  {
+    "protocol": "http",
+    "ip": "62.220.129.81",
+    "port": 8080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Lausanne",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 32.94,
+    "asn": "AS6893",
+    "isp": "Saitis Network, N.Desir",
+    "latency_ms": 1748.14,
+    "last_checked": 1794258492.4088798
   }
 ]
