@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "46.59.120.87",
-    "port": 81,
+    "protocol": "socks5",
+    "ip": "46.246.12.13",
+    "port": 1080,
     "country": "Sweden",
     "country_code": "SE",
-    "city": "Halmstad",
-    "anonymity": "transparent",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 98.17,
+    "asn": "AS42708",
+    "isp": "GleSYS AB",
+    "latency_ms": 2062.02,
+    "last_checked": 1794234590.1528857
+  },
+  {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 80,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 31.64,
-    "asn": "AS8473",
-    "isp": "Bahnhof Internet",
-    "latency_ms": 5394.67,
-    "last_checked": 1794233916.4936848
+    "uptime_percent": 66.72,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 2439.05,
+    "last_checked": 1794234574.5531754
   },
   {
     "protocol": "socks4",
@@ -26,22 +41,37 @@
     "uptime_percent": 22.24,
     "asn": "AS210644",
     "isp": "Aeza Group LLC",
-    "latency_ms": 9015.19,
-    "last_checked": 1794233910.7691
+    "latency_ms": 1376.86,
+    "last_checked": 1794234559.685121
   },
   {
-    "protocol": "socks5",
-    "ip": "46.246.12.13",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 8001,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 67.53,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 3023.28,
+    "last_checked": 1794234538.834949
+  },
+  {
+    "protocol": "socks5",
+    "ip": "171.25.158.95",
+    "port": 1080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Rottne",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 98.15,
-    "asn": "AS42708",
-    "isp": "GleSYS AB",
-    "latency_ms": 2097.11,
-    "last_checked": 1794233716.741372
+    "uptime_percent": 93.62,
+    "asn": "AS35100",
+    "isp": "Patrik Lagerman",
+    "latency_ms": 9407.03,
+    "last_checked": 1794234400.97622
   }
 ]
