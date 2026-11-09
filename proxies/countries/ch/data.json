@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "185.85.111.18",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Tann",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 49.33,
+    "asn": "AS51395",
+    "isp": "Datasource AG",
+    "latency_ms": 10059.69,
+    "last_checked": 1794197967.4462137
+  },
+  {
+    "protocol": "socks4",
+    "ip": "195.225.116.14",
+    "port": 4145,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wädenswil",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.87,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 49.33,
+    "last_checked": 1794197957.7335749
+  },
+  {
+    "protocol": "http",
     "ip": "165.225.66.40",
     "port": 11588,
     "country": "Switzerland",
@@ -8,26 +38,11 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 68.64,
+    "uptime_percent": 68.68,
     "asn": "AS62044",
     "isp": "Zscaler Switzerland GmbH",
-    "latency_ms": 1084.77,
-    "last_checked": 1794197369.8705597
-  },
-  {
-    "protocol": "http",
-    "ip": "74.242.169.16",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 20.29,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 19690.97,
-    "last_checked": 1794197350.7486951
+    "latency_ms": 299.16,
+    "last_checked": 1794197950.3795934
   },
   {
     "protocol": "http",
@@ -38,10 +53,25 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 74.34,
+    "uptime_percent": 74.38,
     "asn": "AS62044",
     "isp": "Zscaler Switzerland GmbH",
-    "latency_ms": 456.24,
-    "last_checked": 1794197223.9636586
+    "latency_ms": 457.92,
+    "last_checked": 1794197946.839029
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 20.29,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 20972.42,
+    "last_checked": 1794197902.1910927
   }
 ]
