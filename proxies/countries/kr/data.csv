@@ -1,17 +1,24 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,183.106.215.208,1080,South Korea,KR,Gyeongju,elite,true,85.39,AS4766,Korea Telecom,1754.88,1794181791.6356666
-http,183.110.216.159,8090,South Korea,KR,Seongnam-si,anonymous,false,65.05,AS4766,Korea Telecom,2083.61,1794181773.867458
-socks4,152.70.237.238,3128,South Korea,KR,Seoul,elite,true,47.08,AS31898,Oracle Corporation,2771.85,1794181771.506572
-socks4,114.108.177.104,60984,South Korea,KR,Daejeon,elite,true,33.91,AS3786,LG DACOM KIDC,4182.68,1794181752.3009267
-http,8.213.151.128,3128,South Korea,KR,Seoul,elite,true,93.6,AS45102,"Alibaba (US) Technology Co., Ltd.",4866.36,1794181745.2841947
-socks5,121.169.46.116,1090,South Korea,KR,Suwon,elite,true,89.52,AS4766,Korea Telecom,2090.75,1794181694.2768767
-socks5,8.213.134.213,9080,South Korea,KR,Seoul,elite,true,1.18,AS45102,"Alibaba (US) Technology Co., Ltd.",6476.27,1794181673.3960388
-socks5,193.122.105.251,65535,South Korea,KR,Seoul,elite,true,12.48,AS31898,Oracle Corporation,7363.03,1794181670.1527424
-socks5,8.213.134.213,3128,South Korea,KR,Seoul,elite,true,1.11,AS45102,"Alibaba (US) Technology Co., Ltd.",13641.32,1794181666.5595396
-socks5,183.106.215.208,1080,South Korea,KR,Gyeongju,elite,true,92.65,AS4766,Korea Telecom,1618.57,1794181620.3285956
-http,220.81.123.23,48678,South Korea,KR,Nam-gu,transparent,false,9.59,AS4766,Korea Telecom,6631.83,1794181585.6399186
-socks5,8.220.205.172,11443,South Korea,KR,Seoul,elite,true,1.22,AS45102,"Alibaba (US) Technology Co., Ltd.",9256.1,1794181581.1278934
-socks5,8.220.205.172,8090,South Korea,KR,Seoul,elite,true,1.2,AS45102,"Alibaba (US) Technology Co., Ltd.",14686.25,1794181575.695711
-socks5,8.213.128.6,84,South Korea,KR,Seoul,elite,true,0.71,AS45102,"Alibaba (US) Technology Co., Ltd.",8743.06,1794181530.8592312
-socks5,8.213.128.6,8123,South Korea,KR,Seoul,elite,true,0.77,AS45102,"Alibaba (US) Technology Co., Ltd.",7461.17,1794181530.4789348
-socks5,8.213.156.191,10000,South Korea,KR,Seoul,elite,true,0.98,AS45102,"Alibaba (US) Technology Co., Ltd.",9992.41,1794181491.3025641
+http,220.81.123.23,48678,South Korea,KR,Nam-gu,transparent,true,9.59,AS4766,Korea Telecom,1058.09,1794182359.1501667
+http,8.213.151.128,3128,South Korea,KR,Seoul,elite,true,93.6,AS45102,"Alibaba (US) Technology Co., Ltd.",3207.79,1794182354.2987952
+http,183.110.216.128,8091,South Korea,KR,Seongnam-si,anonymous,false,65.18,AS4766,Korea Telecom,2100.25,1794182348.9500186
+http,183.110.216.128,8090,South Korea,KR,Seongnam-si,anonymous,false,65.09,AS4766,Korea Telecom,8251.5,1794182335.8498852
+socks4,114.108.177.104,60984,South Korea,KR,Daejeon,elite,true,33.91,AS3786,LG DACOM KIDC,1477.64,1794182331.222798
+socks4,152.70.237.238,3128,South Korea,KR,Seoul,elite,true,47.08,AS31898,Oracle Corporation,1694.66,1794182330.7905395
+http,168.110.127.81,3128,South Korea,KR,Chuncheon,transparent,false,32.38,AS31898,Oracle Corporation,13396.76,1794182330.0345488
+http,140.245.66.105,8081,South Korea,KR,Chuncheon,transparent,true,15.03,AS31898,Oracle Corporation,10092.86,1794182330.0282104
+socks4,121.139.218.165,43295,South Korea,KR,Uiwang,elite,true,32.91,AS4766,Korea Telecom,1279.52,1794182325.1323721
+http,183.110.216.159,8090,South Korea,KR,Seongnam-si,anonymous,false,65.05,AS4766,Korea Telecom,8192.83,1794182322.860745
+socks5,193.122.105.251,65535,South Korea,KR,Seoul,elite,true,12.48,AS31898,Oracle Corporation,11545.18,1794182320.071219
+http,8.220.204.92,1081,South Korea,KR,Seoul,elite,false,1.03,AS45102,"Alibaba (US) Technology Co., Ltd.",6328.09,1794182304.807816
+http,112.186.12.95,3128,South Korea,KR,Yongin-si,transparent,false,19.95,AS4766,Korea Telecom,16173.2,1794182300.7168012
+socks5,8.213.156.191,12000,South Korea,KR,Seoul,elite,true,1.08,AS45102,"Alibaba (US) Technology Co., Ltd.",6449.99,1794182280.7787077
+socks5,8.213.156.191,7010,South Korea,KR,Seoul,elite,true,0.98,AS45102,"Alibaba (US) Technology Co., Ltd.",6451.83,1794182279.9102361
+socks5,8.213.156.191,85,South Korea,KR,Seoul,elite,true,1.04,AS45102,"Alibaba (US) Technology Co., Ltd.",6465.18,1794182274.8900743
+socks5,8.213.156.191,20,South Korea,KR,Seoul,elite,true,1.02,AS45102,"Alibaba (US) Technology Co., Ltd.",7331.35,1794182273.8113952
+socks5,8.213.156.191,1081,South Korea,KR,Seoul,elite,true,0.94,AS45102,"Alibaba (US) Technology Co., Ltd.",15171.95,1794182266.0011554
+socks5,8.220.204.92,80,South Korea,KR,Seoul,elite,true,1.21,AS45102,"Alibaba (US) Technology Co., Ltd.",6448.42,1794182190.9614553
+socks5,8.220.204.92,6379,South Korea,KR,Seoul,elite,true,1.15,AS45102,"Alibaba (US) Technology Co., Ltd.",8719.89,1794182186.4400244
+socks5,8.220.204.92,8888,South Korea,KR,Seoul,elite,true,1.16,AS45102,"Alibaba (US) Technology Co., Ltd.",9846.41,1794182185.28403
+socks5,8.220.204.92,100,South Korea,KR,Seoul,elite,true,1.11,AS45102,"Alibaba (US) Technology Co., Ltd.",11183.05,1794182183.904016
+socks5,8.220.204.92,9091,South Korea,KR,Seoul,elite,true,1.28,AS45102,"Alibaba (US) Technology Co., Ltd.",11354.72,1794182183.8059855

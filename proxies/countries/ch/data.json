@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks4",
-    "ip": "195.225.116.14",
+    "ip": "195.225.116.15",
     "port": 4145,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Wädenswil",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 25.87,
+    "uptime_percent": 25.52,
     "asn": "AS48971",
     "isp": "netz116",
-    "latency_ms": 297.49,
-    "last_checked": 1794181790.831463
+    "latency_ms": 1646.21,
+    "last_checked": 1794182330.7742052
+  },
+  {
+    "protocol": "http",
+    "ip": "165.225.66.43",
+    "port": 11588,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 73.3,
+    "asn": "AS62044",
+    "isp": "Zscaler Switzerland GmbH",
+    "latency_ms": 1028.84,
+    "last_checked": 1794182292.1148539
   },
   {
     "protocol": "http",
@@ -26,23 +41,8 @@
     "uptime_percent": 49.3,
     "asn": "AS51395",
     "isp": "Datasource AG",
-    "latency_ms": 1578.05,
-    "last_checked": 1794181790.1197
-  },
-  {
-    "protocol": "http",
-    "ip": "165.225.66.43",
-    "port": 11588,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 73.26,
-    "asn": "AS62044",
-    "isp": "Zscaler Switzerland GmbH",
-    "latency_ms": 1350.04,
-    "last_checked": 1794181759.5684745
+    "latency_ms": 30.62,
+    "last_checked": 1794182287.9668972
   },
   {
     "protocol": "http",
@@ -53,11 +53,11 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 67.43,
+    "uptime_percent": 67.48,
     "asn": "AS62044",
     "isp": "Zscaler Switzerland GmbH",
-    "latency_ms": 1270.21,
-    "last_checked": 1794181696.493229
+    "latency_ms": 1132.87,
+    "last_checked": 1794182263.747008
   },
   {
     "protocol": "http",
@@ -67,11 +67,11 @@
     "country_code": "CH",
     "city": "Lausanne",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 32.8,
+    "ssl": true,
+    "uptime_percent": 32.81,
     "asn": "AS6893",
     "isp": "Saitis Network, N.Desir",
-    "latency_ms": 9022.84,
-    "last_checked": 1794181658.2687378
+    "latency_ms": 1193.37,
+    "last_checked": 1794182249.6494224
   }
 ]
