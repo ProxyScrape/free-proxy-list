@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "217.64.149.146",
-    "port": 8118,
+    "protocol": "socks4",
+    "ip": "62.60.230.196",
+    "port": 1080,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 3.76,
-    "asn": "AS42675",
-    "isp": "OVPN",
-    "latency_ms": 6240.92,
-    "last_checked": 1794282559.5682857
+    "ssl": true,
+    "uptime_percent": 22.24,
+    "asn": "AS210644",
+    "isp": "Aeza Group LLC",
+    "latency_ms": 2911.3,
+    "last_checked": 1794282852.5498748
   },
   {
     "protocol": "http",
@@ -26,53 +26,8 @@
     "uptime_percent": 66.76,
     "asn": "AS206170",
     "isp": "Yelles AB",
-    "latency_ms": 2767.47,
-    "last_checked": 1794282557.346443
-  },
-  {
-    "protocol": "socks5",
-    "ip": "46.246.12.13",
-    "port": 1080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 97.83,
-    "asn": "AS42708",
-    "isp": "GleSYS AB",
-    "latency_ms": 1594.96,
-    "last_checked": 1794282548.6372151
-  },
-  {
-    "protocol": "http",
-    "ip": "109.120.131.122",
-    "port": 3128,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 38.81,
-    "asn": "AS203273",
-    "isp": "NetCrafters OU",
-    "latency_ms": 13359.98,
-    "last_checked": 1794282520.0131135
-  },
-  {
-    "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 8001,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 67.51,
-    "asn": "AS206170",
-    "isp": "Yelles AB",
-    "latency_ms": 5942.77,
-    "last_checked": 1794282487.661499
+    "latency_ms": 5998.9,
+    "last_checked": 1794282826.1831563
   },
   {
     "protocol": "socks5",
@@ -86,7 +41,37 @@
     "uptime_percent": 93.62,
     "asn": "AS35100",
     "isp": "Patrik Lagerman",
-    "latency_ms": 1106.83,
-    "last_checked": 1794282476.487601
+    "latency_ms": 1737.7,
+    "last_checked": 1794282796.7471416
+  },
+  {
+    "protocol": "socks5",
+    "ip": "46.246.12.13",
+    "port": 1080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 97.83,
+    "asn": "AS42708",
+    "isp": "GleSYS AB",
+    "latency_ms": 2268.18,
+    "last_checked": 1794282773.9048579
+  },
+  {
+    "protocol": "http",
+    "ip": "109.120.131.122",
+    "port": 3128,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 38.81,
+    "asn": "AS203273",
+    "isp": "NetCrafters OU",
+    "latency_ms": 13655.35,
+    "last_checked": 1794282673.9650028
   }
 ]
