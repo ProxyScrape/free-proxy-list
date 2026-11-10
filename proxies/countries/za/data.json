@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "160.19.112.18",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "105.214.42.69",
+    "port": 5678,
     "country": "South Africa",
     "country_code": "ZA",
-    "city": "Cape Town",
+    "city": "Johannesburg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 64.48,
+    "asn": "AS16637",
+    "isp": "MTN SA",
+    "latency_ms": 919.09,
+    "last_checked": 1794315262.6515627
+  },
+  {
+    "protocol": "http",
+    "ip": "41.78.36.250",
+    "port": 8005,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Benoni",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 32.7,
-    "asn": "AS327983",
-    "isp": "Interworks",
-    "latency_ms": 11470.84,
-    "last_checked": 1794314937.4407494
+    "uptime_percent": 29.45,
+    "asn": "AS37157",
+    "isp": "Imagine IPS",
+    "latency_ms": 9458.58,
+    "last_checked": 1794315261.0096636
   },
   {
     "protocol": "http",
@@ -22,12 +37,12 @@
     "country_code": "ZA",
     "city": "Brits",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 53.16,
+    "ssl": false,
+    "uptime_percent": 53.17,
     "asn": "AS37403",
     "isp": "Info-Gro (PTY) Ltd",
-    "latency_ms": 3064.67,
-    "last_checked": 1794314925.8169556
+    "latency_ms": 2176.68,
+    "last_checked": 1794315259.4049041
   },
   {
     "protocol": "http",
@@ -41,23 +56,38 @@
     "uptime_percent": 87.76,
     "asn": "AS8069",
     "isp": "Microsoft Corporation",
-    "latency_ms": 3289.15,
-    "last_checked": 1794314923.258064
+    "latency_ms": 6372.71,
+    "last_checked": 1794315253.374714
   },
   {
     "protocol": "http",
     "ip": "20.33.10.79",
-    "port": 443,
+    "port": 80,
     "country": "South Africa",
     "country_code": "ZA",
     "city": "Johannesburg",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 88.08,
+    "ssl": true,
+    "uptime_percent": 89.03,
     "asn": "AS8069",
     "isp": "Microsoft Corporation",
-    "latency_ms": 7940.55,
-    "last_checked": 1794314916.3640275
+    "latency_ms": 12182.36,
+    "last_checked": 1794315241.6628375
+  },
+  {
+    "protocol": "http",
+    "ip": "20.33.10.79",
+    "port": 9443,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Johannesburg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 87.46,
+    "asn": "AS8069",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 11788.03,
+    "last_checked": 1794315240.752335
   },
   {
     "protocol": "http",
@@ -71,22 +101,37 @@
     "uptime_percent": 40.18,
     "asn": "AS328471",
     "isp": "HERO TELECOMS (PTY) LTD",
-    "latency_ms": 2596.48,
-    "last_checked": 1794314892.4729576
+    "latency_ms": 908.1,
+    "last_checked": 1794315228.666475
   },
   {
     "protocol": "http",
-    "ip": "196.251.221.2",
-    "port": 8080,
+    "ip": "20.33.10.79",
+    "port": 443,
     "country": "South Africa",
     "country_code": "ZA",
-    "city": "Brits",
-    "anonymity": "transparent",
+    "city": "Johannesburg",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 14.28,
-    "asn": "AS37403",
-    "isp": "Info-Gro (PTY) Ltd",
-    "latency_ms": 4039.41,
-    "last_checked": 1794314876.665725
+    "uptime_percent": 88.08,
+    "asn": "AS8069",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 3491.64,
+    "last_checked": 1794315197.4557908
+  },
+  {
+    "protocol": "socks5",
+    "ip": "102.211.132.81",
+    "port": 1080,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Roodepoort",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.39,
+    "asn": "AS329303",
+    "isp": "Splizr Networks (Pty) Ltd",
+    "latency_ms": 6064.97,
+    "last_checked": 1794315142.4570749
   }
 ]
