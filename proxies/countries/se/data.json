@@ -1,6 +1,36 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "109.120.131.122",
+    "port": 3128,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 38.82,
+    "asn": "AS203273",
+    "isp": "NetCrafters OU",
+    "latency_ms": 21556.66,
+    "last_checked": 1794283147.860824
+  },
+  {
+    "protocol": "socks5",
+    "ip": "46.246.12.13",
+    "port": 1080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 97.84,
+    "asn": "AS42708",
+    "isp": "GleSYS AB",
+    "latency_ms": 3836.75,
+    "last_checked": 1794283109.202385
+  },
+  {
+    "protocol": "socks5",
     "ip": "62.60.230.196",
     "port": 1080,
     "country": "Sweden",
@@ -8,26 +38,11 @@
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 22.24,
+    "uptime_percent": 20.12,
     "asn": "AS210644",
     "isp": "Aeza Group LLC",
-    "latency_ms": 2911.3,
-    "last_checked": 1794282852.5498748
-  },
-  {
-    "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 80,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 66.76,
-    "asn": "AS206170",
-    "isp": "Yelles AB",
-    "latency_ms": 5998.9,
-    "last_checked": 1794282826.1831563
+    "latency_ms": 3828.43,
+    "last_checked": 1794283103.2277446
   },
   {
     "protocol": "socks5",
@@ -41,37 +56,7 @@
     "uptime_percent": 93.62,
     "asn": "AS35100",
     "isp": "Patrik Lagerman",
-    "latency_ms": 1737.7,
-    "last_checked": 1794282796.7471416
-  },
-  {
-    "protocol": "socks5",
-    "ip": "46.246.12.13",
-    "port": 1080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 97.83,
-    "asn": "AS42708",
-    "isp": "GleSYS AB",
-    "latency_ms": 2268.18,
-    "last_checked": 1794282773.9048579
-  },
-  {
-    "protocol": "http",
-    "ip": "109.120.131.122",
-    "port": 3128,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 38.81,
-    "asn": "AS203273",
-    "isp": "NetCrafters OU",
-    "latency_ms": 13655.35,
-    "last_checked": 1794282673.9650028
+    "latency_ms": 3102.01,
+    "last_checked": 1794283044.3766367
   }
 ]

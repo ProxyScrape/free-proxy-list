@@ -1,3 +1,5 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,212.200.223.89,8080,Serbia,RS,Novi Sad,transparent,false,41.69,AS8400,TELEKOM SRBIJA a.d.,7674.85,1794282811.0593693
-http,82.117.211.42,8085,Serbia,RS,Ečka,transparent,false,28.13,AS31042,Serbia BroadBand,3622.24,1794282754.4231217
+socks4,185.190.154.121,4145,Serbia,RS,Belgrade,elite,true,42.37,AS8400,TELEKOM-SRBIJA,1743.92,1794283187.8833106
+http,212.200.223.89,8080,Serbia,RS,Novi Sad,transparent,true,41.69,AS8400,TELEKOM SRBIJA a.d.,2278.24,1794283181.3545215
+socks4,95.140.118.34,1080,Serbia,RS,Belgrade,elite,true,41.39,AS9125,Orion Telekom Network,4120.27,1794283172.8713741
+http,82.117.211.42,8085,Serbia,RS,Ečka,transparent,false,28.13,AS31042,Serbia BroadBand,3312.44,1794283167.7193983
