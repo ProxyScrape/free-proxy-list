@@ -1,33 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "188.119.98.126",
-    "port": 9999,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Uherské Hradiště",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 14.94,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 5076.87,
-    "last_checked": 1794284935.3992975
-  },
-  {
-    "protocol": "http",
     "ip": "217.75.208.178",
     "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Chomutov",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 15.0,
     "asn": "AS210712",
     "isp": "Grape SC V",
-    "latency_ms": 4773.17,
-    "last_checked": 1794284913.6184244
+    "latency_ms": 1672.7,
+    "last_checked": 1794285583.998864
+  },
+  {
+    "protocol": "socks5",
+    "ip": "193.165.115.78",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.45,
+    "asn": "AS30764",
+    "isp": "PODA a.s.",
+    "latency_ms": 1753.12,
+    "last_checked": 1794285569.4215784
   },
   {
     "protocol": "http",
@@ -41,8 +41,23 @@
     "uptime_percent": 72.63,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 13420.46,
-    "last_checked": 1794284894.264722
+    "latency_ms": 7612.13,
+    "last_checked": 1794285553.0804195
+  },
+  {
+    "protocol": "socks5",
+    "ip": "176.62.237.51",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Příbram",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.38,
+    "asn": "AS49985",
+    "isp": "IP4ISP z.s.p.o",
+    "latency_ms": 1983.85,
+    "last_checked": 1794285505.016409
   },
   {
     "protocol": "socks5",
@@ -53,10 +68,25 @@
     "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 64.73,
+    "uptime_percent": 64.95,
     "asn": "AS13036",
     "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 7924.64,
-    "last_checked": 1794284877.0071058
+    "latency_ms": 1160.7,
+    "last_checked": 1794285496.876743
+  },
+  {
+    "protocol": "http",
+    "ip": "46.23.61.97",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Klatovy",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 44.61,
+    "asn": "AS197296",
+    "isp": "MAXTEL s.r.o. 1",
+    "latency_ms": 3509.46,
+    "last_checked": 1794285479.436961
   }
 ]
