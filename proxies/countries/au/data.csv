@@ -1,3 +1,5 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,114.111.151.41,80,Australia,AU,Adelaide,elite,false,73.57,AS45577,Intervolve Pty Ltd,847.71,1794362948.7012603
-http,159.196.182.72,8080,Australia,AU,St Helena,transparent,false,25.17,AS4764,Aussie Broadband,4003.09,1794362922.2472324
+socks5,103.248.47.230,1080,Australia,AU,Sydney,elite,true,32.34,AS133417,Dicker Data Ltd,2759.73,1794363548.0041165
+http,114.111.151.41,80,Australia,AU,Adelaide,elite,false,73.57,AS45577,Intervolve Pty Ltd,1548.41,1794363545.2507403
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,31.88,AS31898,Oracle Corporation,9249.92,1794363534.9050567
+http,61.29.96.146,80,Australia,AU,Melbourne,anonymous,true,10.98,AS2764,AAPT Limited,15877.76,1794363492.7385638
