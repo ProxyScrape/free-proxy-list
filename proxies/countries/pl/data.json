@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "80.51.61.1",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "37.131.164.94",
+    "port": 59341,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Bukowina Tatrzańska",
+    "city": "Krzęcin",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.28,
+    "asn": "AS35745",
+    "isp": "Provector Sp. z o.o",
+    "latency_ms": 239.43,
+    "last_checked": 1794365968.0807295
+  },
+  {
+    "protocol": "socks4",
+    "ip": "46.151.118.108",
+    "port": 5678,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Lipsko",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.5,
+    "asn": "AS197418",
+    "isp": "KONTAKT",
+    "latency_ms": 300.75,
+    "last_checked": 1794365959.0255198
+  },
+  {
+    "protocol": "http",
+    "ip": "185.32.4.210",
+    "port": 8070,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Chociwel",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 15.58,
-    "asn": "AS5617",
-    "isp": "Orange Polska Spolka Akcyjna",
-    "latency_ms": 1035.15,
-    "last_checked": 1794365368.7690687
+    "ssl": true,
+    "uptime_percent": 29.99,
+    "asn": "AS60645",
+    "isp": "AS Consulting Sp. z o. o.",
+    "latency_ms": 2445.02,
+    "last_checked": 1794365955.9887044
   },
   {
     "protocol": "http",
@@ -22,27 +52,12 @@
     "country_code": "PL",
     "city": "Wroclaw",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 71.77,
+    "ssl": false,
+    "uptime_percent": 71.78,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 8622.75,
-    "last_checked": 1794365366.2077105
-  },
-  {
-    "protocol": "http",
-    "ip": "185.32.4.210",
-    "port": 8090,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Chociwel",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 16.61,
-    "asn": "AS60645",
-    "isp": "AS Consulting Sp. z o. o.",
-    "latency_ms": 5893.85,
-    "last_checked": 1794365365.4964874
+    "latency_ms": 13304.99,
+    "last_checked": 1794365923.0524004
   },
   {
     "protocol": "socks5",
@@ -56,7 +71,22 @@
     "uptime_percent": 50.36,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 4432.69,
-    "last_checked": 1794365268.1394393
+    "latency_ms": 661.18,
+    "last_checked": 1794365890.4583077
+  },
+  {
+    "protocol": "socks5",
+    "ip": "88.218.206.170",
+    "port": 22,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Łęczyca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 51.16,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 10651.23,
+    "last_checked": 1794365782.6784563
   }
 ]
