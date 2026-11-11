@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "212.200.223.89",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "185.190.154.121",
+    "port": 4145,
     "country": "Serbia",
     "country_code": "RS",
-    "city": "Novi Sad",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.25,
+    "asn": "AS8400",
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 1177.55,
+    "last_checked": 1794419975.4176335
+  },
+  {
+    "protocol": "http",
+    "ip": "109.111.242.134",
+    "port": 6666,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 41.75,
-    "asn": "AS8400",
-    "isp": "TELEKOM SRBIJA a.d.",
-    "latency_ms": 3571.18,
-    "last_checked": 1794419652.160051
+    "uptime_percent": 14.55,
+    "asn": "AS28964",
+    "isp": "Orion Telekom Tim d.o.o.Beograd",
+    "latency_ms": 8608.56,
+    "last_checked": 1794419970.8930438
   },
   {
     "protocol": "http",
@@ -22,12 +37,27 @@
     "country_code": "RS",
     "city": "Belgrade",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 56.08,
+    "ssl": true,
+    "uptime_percent": 56.21,
     "asn": "AS9125",
     "isp": "OT 100",
-    "latency_ms": 3641.3,
-    "last_checked": 1794419586.4703248
+    "latency_ms": 6599.64,
+    "last_checked": 1794419951.3106
+  },
+  {
+    "protocol": "socks4",
+    "ip": "217.16.130.83",
+    "port": 4145,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Niš",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.15,
+    "asn": "AS197423",
+    "isp": "Jotel",
+    "latency_ms": 1404.93,
+    "last_checked": 1794419948.775847
   },
   {
     "protocol": "http",
@@ -41,7 +71,7 @@
     "uptime_percent": 28.11,
     "asn": "AS31042",
     "isp": "Serbia BroadBand",
-    "latency_ms": 6771.25,
-    "last_checked": 1794419582.3881817
+    "latency_ms": 8827.52,
+    "last_checked": 1794419888.2832556
   }
 ]
