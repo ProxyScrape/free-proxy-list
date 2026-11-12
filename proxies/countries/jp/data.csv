@@ -1,19 +1,34 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,103.13.19.219,10808,Japan,JP,Tsukuba,elite,true,89.68,AS39600,Lixium Sarl,1259.13,1794491088.9354365
-socks5,103.13.19.219,10808,Japan,JP,Tsukuba,elite,true,91.93,AS39600,Lixium Sarl,1970.08,1794491087.8219924
-http,45.43.60.220,8080,Japan,JP,Tokyo,elite,true,78.54,AS135377,Zenlayer Inc,6678.92,1794491080.0563831
-socks5,101.36.104.239,10808,Japan,JP,Tokyo,elite,true,94.63,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,7320.63,1794491071.0098705
-socks5,43.163.219.10,20000,Japan,JP,Tokyo,elite,true,20.07,AS132203,Shenzhen Tencent Computer Systems Company Limited,4932.18,1794491069.9701452
-socks4,8.221.138.111,35,Japan,JP,Tokyo,elite,true,1.58,AS45102,"Alibaba (US) Technology Co., Ltd.",3494.13,1794491069.9002905
-socks4,8.221.138.111,8192,Japan,JP,Tokyo,elite,true,1.47,AS45102,"Alibaba (US) Technology Co., Ltd.",3504.8,1794491069.6266696
-http,168.138.202.218,3128,Japan,JP,Tokyo,transparent,true,18.32,AS31898,Oracle Corporation,10551.81,1794491069.1903622
-socks4,8.221.138.111,9000,Japan,JP,Tokyo,elite,true,1.55,AS45102,"Alibaba (US) Technology Co., Ltd.",3666.9,1794491067.037462
-socks5,209.182.234.151,40000,Japan,JP,Tokyo,elite,true,31.65,AS29802,"HIVELOCITY, Inc.",12721.86,1794491062.3889163
-socks5,132.226.7.23,30277,Japan,JP,Tokyo,elite,true,37.05,AS31898,Oracle Corporation,19070.38,1794491058.6628032
-socks4,8.221.138.111,80,Japan,JP,Tokyo,elite,true,1.28,AS45102,"Alibaba (US) Technology Co., Ltd.",12650.4,1794491057.9381351
-socks4,8.221.138.111,10002,Japan,JP,Tokyo,elite,true,1.4,AS45102,"Alibaba (US) Technology Co., Ltd.",13436.72,1794491057.121533
-socks5,180.222.187.50,10800,Japan,JP,Chiyoda City,elite,true,77.01,AS131921,GMOHS-CL,5863.39,1794490740.7443943
-http,133.232.93.66,80,Japan,JP,Chiyoda City,elite,false,13.72,AS2514,"NTT PC Communications, Inc.",7607.86,1794490732.6328516
-http,8.209.255.13,3128,Japan,JP,Tokyo,elite,true,80.64,AS45102,"Alibaba (US) Technology Co., Ltd.",714.71,1794490716.0438466
-http,4.189.247.239,3128,Japan,JP,Tokyo,anonymous,false,56.27,AS8075,Microsoft Corporation,12684.65,1794490693.6282196
-socks5,202.78.167.58,9050,Japan,JP,Tokyo,elite,true,21.96,AS202422,G-Core Labs S.A.,15894.73,1794490688.3800535
+socks4,103.13.19.219,10808,Japan,JP,Tsukuba,elite,true,89.7,AS39600,Lixium Sarl,5281.71,1794491343.3551526
+http,140.238.32.108,3128,Japan,JP,Tokyo,elite,true,84.39,AS31898,Oracle Corporation,866.88,1794491341.612056
+socks4,47.91.29.151,3129,Japan,JP,Tokyo,elite,true,1.28,AS45102,Alibaba.com LLC,3508.26,1794491340.8332057
+socks4,47.91.29.151,8443,Japan,JP,Tokyo,elite,true,1.21,AS45102,Alibaba.com LLC,3510.55,1794491340.777028
+socks5,8.221.141.88,4326,Japan,JP,Tokyo,elite,true,0.81,AS45102,"Alibaba (US) Technology Co., Ltd.",7865.25,1794491338.988952
+socks5,8.221.141.88,3129,Japan,JP,Tokyo,elite,true,0.75,AS45102,"Alibaba (US) Technology Co., Ltd.",7993.94,1794491338.7317107
+socks5,8.221.141.88,50,Japan,JP,Tokyo,elite,true,0.85,AS45102,"Alibaba (US) Technology Co., Ltd.",7991.93,1794491338.592933
+socks5,103.13.19.219,10808,Japan,JP,Tsukuba,elite,true,91.95,AS39600,Lixium Sarl,1821.13,1794491338.54016
+socks5,172.105.192.212,9080,Japan,JP,Tokyo,elite,true,30.46,AS63949,Akamai Technologies,2738.29,1794491337.0693135
+socks5,8.221.141.88,9500,Japan,JP,Tokyo,elite,true,0.82,AS45102,"Alibaba (US) Technology Co., Ltd.",8414.21,1794491336.0780122
+socks4,47.91.29.151,8081,Japan,JP,Tokyo,elite,true,1.13,AS45102,Alibaba.com LLC,6824.98,1794491335.0987473
+socks4,47.91.29.151,8585,Japan,JP,Tokyo,elite,true,1.28,AS45102,Alibaba.com LLC,7660.66,1794491334.2632391
+socks5,8.221.141.88,1200,Japan,JP,Tokyo,elite,true,0.83,AS45102,"Alibaba (US) Technology Co., Ltd.",10601.81,1794491333.771832
+socks5,8.221.141.88,4301,Japan,JP,Tokyo,elite,true,0.85,AS45102,"Alibaba (US) Technology Co., Ltd.",10930.8,1794491333.414525
+socks5,8.221.141.88,544,Japan,JP,Tokyo,elite,true,0.8,AS45102,"Alibaba (US) Technology Co., Ltd.",13075.72,1794491333.2372036
+socks5,101.36.104.46,10808,Japan,JP,Tokyo,elite,true,93.56,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,5562.94,1794491331.4221046
+socks4,47.91.29.151,9080,Japan,JP,Tokyo,elite,true,1.17,AS45102,Alibaba.com LLC,11826.06,1794491330.1022434
+socks5,8.221.141.88,8048,Japan,JP,Tokyo,elite,true,0.83,AS45102,"Alibaba (US) Technology Co., Ltd.",15717.7,1794491328.764346
+socks5,151.242.164.121,80,Japan,JP,Shibuya City,elite,true,90.26,AS61112,Private Customer,20908.76,1794491327.3564625
+socks5,132.226.7.23,30277,Japan,JP,Tokyo,elite,true,37.05,AS31898,Oracle Corporation,15472.94,1794491324.335451
+http,8.209.255.13,3128,Japan,JP,Tokyo,elite,true,80.64,AS45102,"Alibaba (US) Technology Co., Ltd.",932.37,1794491318.0316606
+http,160.248.7.177,80,Japan,JP,Honchō,elite,false,29.27,AS2514,"NTT PC Communications, Inc.",1976.42,1794491316.1221242
+http,45.43.60.220,8080,Japan,JP,Tokyo,elite,true,78.54,AS135377,Zenlayer Inc,6295.96,1794491315.6316044
+socks5,202.78.167.58,9050,Japan,JP,Tokyo,elite,true,21.96,AS202422,G-Core Labs S.A.,18017.15,1794491306.4262831
+socks5,180.222.187.50,10800,Japan,JP,Chiyoda City,elite,true,77.03,AS131921,GMOHS-CL,2979.77,1794491292.8847013
+http,168.138.202.218,3128,Japan,JP,Tokyo,transparent,false,18.32,AS31898,Oracle Corporation,15719.11,1794491249.41046
+socks5,140.238.43.53,54322,Japan,JP,Tokyo,elite,true,19.81,AS31898,Oracle Corporation,6900.38,1794491230.4257698
+http,8.221.139.222,4443,Japan,JP,Tokyo,elite,false,1.96,AS45102,"Alibaba (US) Technology Co., Ltd.",2507.74,1794491222.7739382
+http,8.221.139.222,9080,Japan,JP,Tokyo,elite,false,1.06,AS45102,"Alibaba (US) Technology Co., Ltd.",2479.65,1794491222.2662425
+socks5,47.74.46.81,6379,Japan,JP,Tokyo,elite,true,1.19,AS45102,Alibaba Cloud LLC,15681.88,1794491219.96084
+http,5.104.81.203,8080,Japan,JP,Chiyoda City,transparent,false,29.93,AS141995,Contabo Asia Private Limited,14432.3,1794491189.1409757
+socks5,209.182.234.151,40000,Japan,JP,Tokyo,elite,true,31.65,AS29802,"HIVELOCITY, Inc.",12547.99,1794491180.5354493
+socks5,101.36.104.239,10808,Japan,JP,Tokyo,elite,true,94.63,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,4574.84,1794491159.3673067
