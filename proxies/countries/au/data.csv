@@ -1,3 +1,5 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,130.162.192.208,8080,Australia,AU,Melbourne,elite,false,26.65,AS31898,Oracle Corporation,6636.33,1794451164.6580722
-http,134.199.145.240,3128,Australia,AU,Sydney,elite,false,35.87,AS14061,"DigitalOcean, LLC",20751.28,1794451150.6380916
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,31.8,AS31898,Oracle Corporation,12737.35,1794451770.4580448
+socks5,103.248.47.230,1080,Australia,AU,Sydney,elite,true,32.29,AS133417,Dicker Data Ltd,2823.9,1794451768.792536
+http,61.29.96.146,80,Australia,AU,Melbourne,anonymous,false,11.0,AS2764,AAPT Limited,10732.5,1794451750.249242
+http,114.111.151.41,80,Australia,AU,Adelaide,elite,false,73.62,AS45577,Intervolve Pty Ltd,3765.12,1794451746.3959053
