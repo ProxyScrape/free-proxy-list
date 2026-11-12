@@ -1,33 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "46.10.198.10",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "213.169.33.3",
+    "port": 8001,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 43.73,
-    "asn": "AS8866",
-    "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 883.15,
-    "last_checked": 1794499188.5672584
+    "uptime_percent": 17.6,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 13090.05,
+    "last_checked": 1794499738.3410635
   },
   {
     "protocol": "http",
-    "ip": "213.169.33.12",
+    "ip": "213.169.33.10",
     "port": 8001,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 25.19,
+    "uptime_percent": 17.65,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 2730.91,
-    "last_checked": 1794499181.828945
+    "latency_ms": 3670.19,
+    "last_checked": 1794499736.0420086
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.160.97.49",
+    "port": 4145,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Rousse",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.77,
+    "asn": "AS205352",
+    "isp": "Kabelnet LTD",
+    "latency_ms": 3326.17,
+    "last_checked": 1794499722.1146784
   },
   {
     "protocol": "http",
@@ -41,22 +56,22 @@
     "uptime_percent": 17.72,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 4994.58,
-    "last_checked": 1794499151.3379283
+    "latency_ms": 1615.98,
+    "last_checked": 1794499684.356813
   },
   {
-    "protocol": "http",
-    "ip": "87.126.65.11",
-    "port": 1388,
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Stara Zagora",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 6.53,
-    "asn": "AS8866",
-    "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 9319.42,
-    "last_checked": 1794499109.5685353
+    "city": "Pleven",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.06,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 3640.31,
+    "last_checked": 1794499665.1567082
   }
 ]
