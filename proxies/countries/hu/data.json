@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "145.236.175.32",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "109.61.117.11",
+    "port": 1080,
     "country": "Hungary",
     "country_code": "HU",
-    "city": "Ajak",
-    "anonymity": "transparent",
+    "city": "Budapest",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 60.8,
-    "asn": "AS5483",
-    "isp": "Magyar Telekom",
-    "latency_ms": 3950.3,
-    "last_checked": 1794516832.2421556
+    "uptime_percent": 47.77,
+    "asn": "AS197248",
+    "isp": "Dravanet",
+    "latency_ms": 312.08,
+    "last_checked": 1794517202.9067965
   },
   {
     "protocol": "socks4",
@@ -26,7 +26,22 @@
     "uptime_percent": 29.09,
     "asn": "AS21334",
     "isp": "One Hungary Ltd.",
-    "latency_ms": 7823.15,
-    "last_checked": 1794516831.757682
+    "latency_ms": 1467.07,
+    "last_checked": 1794517194.1821613
+  },
+  {
+    "protocol": "http",
+    "ip": "145.236.175.32",
+    "port": 8080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Ajak",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 60.62,
+    "asn": "AS5483",
+    "isp": "Magyar Telekom",
+    "latency_ms": 4820.95,
+    "last_checked": 1794517081.884392
   }
 ]
