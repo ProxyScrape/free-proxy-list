@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "37.131.164.94",
-    "port": 59341,
+    "protocol": "socks5",
+    "ip": "88.218.206.170",
+    "port": 22,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Krzęcin",
+    "city": "Łęczyca",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 14.3,
-    "asn": "AS35745",
-    "isp": "Provector Sp. z o.o",
-    "latency_ms": 1229.26,
-    "last_checked": 1794456842.2727168
+    "uptime_percent": 51.06,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 581.97,
+    "last_checked": 1794457444.5285003
   },
   {
     "protocol": "socks4",
@@ -26,8 +26,8 @@
     "uptime_percent": 49.08,
     "asn": "AS215467",
     "isp": "Skhron OU",
-    "latency_ms": 14594.83,
-    "last_checked": 1794456823.024909
+    "latency_ms": 2359.28,
+    "last_checked": 1794457437.2627518
   },
   {
     "protocol": "socks4",
@@ -41,23 +41,38 @@
     "uptime_percent": 46.39,
     "asn": "AS197418",
     "isp": "KONTAKT",
-    "latency_ms": 1399.15,
-    "last_checked": 1794456802.8804734
+    "latency_ms": 905.66,
+    "last_checked": 1794457434.8569465
   },
   {
     "protocol": "http",
-    "ip": "148.253.212.68",
-    "port": 8080,
+    "ip": "145.239.80.10",
+    "port": 3128,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Warsaw",
+    "city": "Wroclaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.07,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 16352.05,
+    "last_checked": 1794457408.670238
+  },
+  {
+    "protocol": "http",
+    "ip": "51.38.129.42",
+    "port": 3169,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Wroclaw",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 47.05,
-    "asn": "AS216129",
-    "isp": "SEBEK sp. z o.o",
-    "latency_ms": 4550.19,
-    "last_checked": 1794456796.5049253
+    "uptime_percent": 71.6,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 15505.28,
+    "last_checked": 1794457397.5329387
   },
   {
     "protocol": "socks5",
@@ -88,35 +103,5 @@
     "isp": "OVH SAS",
     "latency_ms": 6803.99,
     "last_checked": 1794457060.5820098
-  },
-  {
-    "protocol": "http",
-    "ip": "51.38.129.42",
-    "port": 3169,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Wroclaw",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 71.6,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 11223.42,
-    "last_checked": 1794457060.5487483
-  },
-  {
-    "protocol": "http",
-    "ip": "145.239.80.10",
-    "port": 3128,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Wroclaw",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 31.06,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 11036.38,
-    "last_checked": 1794457052.948386
   }
 ]
