@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "159.196.182.72",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "St Helena",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.2,
-    "asn": "AS4764",
-    "isp": "Aussie Broadband",
-    "latency_ms": 8455.18,
-    "last_checked": 1794545953.4768083
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.71,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 8220.7,
+    "last_checked": 1794546560.082027
   },
   {
     "protocol": "socks5",
@@ -26,38 +26,8 @@
     "uptime_percent": 32.26,
     "asn": "AS133417",
     "isp": "Dicker Data Ltd",
-    "latency_ms": 9293.35,
-    "last_checked": 1794545944.7124312
-  },
-  {
-    "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 8000,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 11.31,
-    "asn": "AS2764",
-    "isp": "AAPT Limited",
-    "latency_ms": 7229.01,
-    "last_checked": 1794545942.4328058
-  },
-  {
-    "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Adelaide",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 73.82,
-    "asn": "AS45577",
-    "isp": "Intervolve Pty Ltd",
-    "latency_ms": 587.44,
-    "last_checked": 1794545923.5528226
+    "latency_ms": 9563.29,
+    "last_checked": 1794546493.984061
   },
   {
     "protocol": "http",
@@ -71,7 +41,22 @@
     "uptime_percent": 11.01,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 4573.06,
-    "last_checked": 1794545922.1694474
+    "latency_ms": 9500.65,
+    "last_checked": 1794546479.2580152
+  },
+  {
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Adelaide",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 73.82,
+    "asn": "AS45577",
+    "isp": "Intervolve Pty Ltd",
+    "latency_ms": 679.6,
+    "last_checked": 1794546444.7379992
   }
 ]
