@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "46.151.118.108",
+    "port": 5678,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Lipsko",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.13,
+    "asn": "AS197418",
+    "isp": "KONTAKT",
+    "latency_ms": 7474.38,
+    "last_checked": 1794567594.9004765
+  },
+  {
+    "protocol": "socks4",
     "ip": "88.218.206.170",
     "port": 5432,
     "country": "Poland",
@@ -11,38 +26,53 @@
     "uptime_percent": 48.94,
     "asn": "AS215467",
     "isp": "Skhron OU",
-    "latency_ms": 8179.65,
-    "last_checked": 1794566927.3491206
+    "latency_ms": 4179.77,
+    "last_checked": 1794567591.5371501
   },
   {
     "protocol": "socks5",
-    "ip": "57.128.249.250",
-    "port": 9052,
+    "ip": "88.218.206.170",
+    "port": 22,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Warsaw",
+    "city": "Łęczyca",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 50.37,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 756.87,
-    "last_checked": 1794566925.341368
+    "uptime_percent": 51.0,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 12005.8,
+    "last_checked": 1794567581.0018265
   },
   {
     "protocol": "http",
-    "ip": "145.239.80.10",
-    "port": 3128,
+    "ip": "78.9.234.55",
+    "port": 8080,
     "country": "Poland",
     "country_code": "PL",
     "city": "Wroclaw",
-    "anonymity": "elite",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 15.56,
+    "asn": "AS12741",
+    "isp": "Netia SA",
+    "latency_ms": 6599.09,
+    "last_checked": 1794567556.1481307
+  },
+  {
+    "protocol": "http",
+    "ip": "185.32.4.210",
+    "port": 8070,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Chociwel",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 31.11,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 11341.15,
-    "last_checked": 1794566906.018108
+    "uptime_percent": 30.16,
+    "asn": "AS60645",
+    "isp": "AS Consulting Sp. z o. o.",
+    "latency_ms": 6039.78,
+    "last_checked": 1794567547.8258233
   },
   {
     "protocol": "http",
@@ -52,11 +82,11 @@
     "country_code": "PL",
     "city": "Warsaw",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 45.46,
+    "ssl": true,
+    "uptime_percent": 45.45,
     "asn": "AS216129",
     "isp": "SEBEK sp. z o.o",
-    "latency_ms": 7136.58,
-    "last_checked": 1794566875.6235464
+    "latency_ms": 4494.48,
+    "last_checked": 1794567509.1652575
   }
 ]
