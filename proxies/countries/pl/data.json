@@ -1,21 +1,6 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "46.151.118.108",
-    "port": 5678,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Lipsko",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 46.13,
-    "asn": "AS197418",
-    "isp": "KONTAKT",
-    "latency_ms": 7474.38,
-    "last_checked": 1794567594.9004765
-  },
-  {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "88.218.206.170",
     "port": 5432,
     "country": "Poland",
@@ -23,56 +8,11 @@
     "city": "Łęczyca",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 48.94,
+    "uptime_percent": 46.94,
     "asn": "AS215467",
     "isp": "Skhron OU",
-    "latency_ms": 4179.77,
-    "last_checked": 1794567591.5371501
-  },
-  {
-    "protocol": "socks5",
-    "ip": "88.218.206.170",
-    "port": 22,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Łęczyca",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 51.0,
-    "asn": "AS215467",
-    "isp": "Skhron OU",
-    "latency_ms": 12005.8,
-    "last_checked": 1794567581.0018265
-  },
-  {
-    "protocol": "http",
-    "ip": "78.9.234.55",
-    "port": 8080,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Wroclaw",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 15.56,
-    "asn": "AS12741",
-    "isp": "Netia SA",
-    "latency_ms": 6599.09,
-    "last_checked": 1794567556.1481307
-  },
-  {
-    "protocol": "http",
-    "ip": "185.32.4.210",
-    "port": 8070,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Chociwel",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.16,
-    "asn": "AS60645",
-    "isp": "AS Consulting Sp. z o. o.",
-    "latency_ms": 6039.78,
-    "last_checked": 1794567547.8258233
+    "latency_ms": 7324.56,
+    "last_checked": 1794568147.5743415
   },
   {
     "protocol": "http",
@@ -82,11 +22,26 @@
     "country_code": "PL",
     "city": "Warsaw",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 45.45,
     "asn": "AS216129",
     "isp": "SEBEK sp. z o.o",
-    "latency_ms": 4494.48,
-    "last_checked": 1794567509.1652575
+    "latency_ms": 5147.79,
+    "last_checked": 1794568119.3647606
+  },
+  {
+    "protocol": "http",
+    "ip": "145.239.80.10",
+    "port": 3128,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Wroclaw",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 31.12,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 15124.06,
+    "last_checked": 1794568108.1993365
   }
 ]
