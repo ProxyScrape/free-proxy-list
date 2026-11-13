@@ -1,35 +1,43 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,188.226.27.24,1080,Russia,RU,Yekaterinburg,elite,true,76.57,AS12668,"LLC ""KomTehCentr""",2372.32,1794581400.7769146
-socks4,89.250.148.158,1080,Russia,RU,Tyumen,elite,true,39.9,AS41682,"JSC ""ER-Telecom Holding""",8285.21,1794581394.5445888
-socks5,194.169.163.56,1080,Russia,RU,St Petersburg,elite,true,30.5,AS214822,MT FINANCE LLC,5520.01,1794581394.3628995
-socks5,185.22.233.169,1080,Russia,RU,Moscow,elite,true,37.74,AS210079,IHC,9390.47,1794581393.803007
-socks4,94.247.241.70,51006,Russia,RU,St Petersburg,elite,true,29.58,AS41733,"JSC ""ER-Telecom Holding""",1258.15,1794581391.7381885
-socks5,37.18.73.60,5566,Russia,RU,Moscow,elite,true,76.51,AS208677,"""Cloud Technologies"" LLC trading as Cloud.ru",1188.28,1794581390.916761
-socks5,5.42.97.126,1443,Russia,RU,Moscow,elite,true,73.48,AS9123,"JSC ""TIMEWEB""",6998.31,1794581390.579437
-socks4,185.22.233.169,1080,Russia,RU,Moscow,elite,true,24.87,AS210079,IHC,11396.62,1794581390.3170233
-http,79.164.209.63,10808,Russia,RU,Moscow,elite,true,7.18,AS8615,CNT-network,208.36,1794581386.725896
-socks4,37.193.125.68,1090,Russia,RU,Novosibirsk,elite,true,56.03,AS31200,Novotelecom Ltd,7793.33,1794581382.445252
-socks5,188.226.27.24,1080,Russia,RU,Yekaterinburg,elite,true,87.11,AS12668,"LLC ""KomTehCentr""",3811.77,1794581382.1545196
-http,5.42.97.126,1443,Russia,RU,Moscow,elite,true,49.39,AS9123,"JSC ""TIMEWEB""",5989.65,1794581382.0996382
-socks5,46.72.18.145,10808,Russia,RU,Belgorod,elite,true,74.57,AS12714,Net By Net Holding LLC (Belgorod),10236.42,1794581381.0443242
-socks5,31.148.136.107,2080,Russia,RU,Moscow,elite,true,48.6,AS51685,Mikron-Media LLC,1469.4,1794581380.93622
-socks5,82.200.30.126,11080,Russia,RU,Novosibirsk,elite,true,21.98,AS21127,ZSTTK,4438.66,1794581380.6704035
-socks5,79.164.209.63,10808,Russia,RU,Moscow,elite,true,8.12,AS8615,CNT-network,510.89,1794581379.7480526
-socks5,92.101.193.58,1080,Russia,RU,Murmansk,elite,true,36.27,AS12389,Rostelecom networks,1163.39,1794581379.2222493
-socks5,88.201.248.85,1080,Russia,RU,St Petersburg,elite,true,43.48,AS35807,SkyNet Ltd.,1776.18,1794581379.081025
-socks5,176.215.179.44,1080,Russia,RU,Moscow,elite,true,34.82,AS31363,"JSC ""ER-Telecom"" Holding""",14380.11,1794581377.3501532
-http,46.72.18.145,10808,Russia,RU,Belgorod,elite,true,71.04,AS12714,Net By Net Holding LLC (Belgorod),7678.65,1794581377.3479362
-socks5,89.148.196.156,1080,Russia,RU,Perm,elite,true,39.54,AS15640,MTS PJSC,4180.79,1794581376.6178005
-socks5,188.113.171.120,1080,Russia,RU,Yuzhno-Sakhalinsk,elite,true,23.4,AS51004,Sakhalin Cable Telesystems Ltd,2846.35,1794581372.2640746
-socks5,82.116.60.184,1080,Russia,RU,Saratov,elite,true,47.67,AS30936,RENET COM Ltd.,12568.15,1794581371.451672
-http,185.103.134.4,8080,Russia,RU,Moscow,elite,false,6.45,AS215116,Address AS 57191,5744.29,1794581368.4722612
-http,82.200.30.126,13129,Russia,RU,Novosibirsk,elite,false,19.14,AS21127,ZSTTK,7330.64,1794581363.968778
-http,109.252.226.30,8080,Russia,RU,Moscow,transparent,false,25.86,AS25513,Moscow Local Telephone Network (OAO MGTS),5232.56,1794581359.583592
-http,79.164.209.63,10809,Russia,RU,Moscow,elite,true,4.62,AS8615,CNT-network,836.52,1794581355.1637075
-http,188.191.18.66,15212,Russia,RU,Sochi,transparent,false,45.61,AS28761,CrimeaCom South LLC,4831.63,1794581350.5450945
-socks5,5.130.57.25,1080,Russia,RU,Novosibirsk,elite,true,11.86,AS31200,Novotelecom Ltd.,1120.34,1794581332.2172065
-socks5,83.237.214.70,1080,Russia,RU,Moscow,elite,true,26.3,AS8359,ZAO MTU-Intel's Moscow Region Network,4329.87,1794581331.8563316
-http,87.241.198.70,8080,Russia,RU,Moscow,transparent,true,24.27,AS12772,MVP EVGENIYA,3102.02,1794581325.1417146
-socks5,95.163.85.73,1080,Russia,RU,Moscow,elite,true,32.21,AS12695,LLC Digital Network,10187.13,1794581318.5761423
-socks5,91.122.216.160,10888,Russia,RU,Arkhangelsk,elite,true,52.33,AS12389,"JSC ""North-West Telecom""",1123.83,1794581312.5641809
-http,89.151.133.216,8080,Russia,RU,Cheboksary,transparent,false,9.58,AS12389,VolgaTelecom Cheboxary,12071.5,1794581297.908758
+socks5,188.226.27.24,1080,Russia,RU,Yekaterinburg,elite,true,87.12,AS12668,"LLC ""KomTehCentr""",2447.6,1794581955.8881674
+socks4,109.106.196.250,4145,Russia,RU,Moscow,elite,true,28.6,AS31163,PJSC MegaFon,357.79,1794581955.816766
+socks4,89.250.148.158,1080,Russia,RU,Tyumen,elite,true,39.9,AS41682,"JSC ""ER-Telecom Holding""",3376.74,1794581954.5051136
+socks5,62.148.143.229,1080,Russia,RU,Kaluga,elite,true,25.2,AS15468,JSC CenterTelecom Kaluga branch,349.43,1794581954.259909
+socks4,212.46.242.185,1080,Russia,RU,Moscow,elite,true,37.42,AS3216,SOVINTEL/END broadband internet,1308.91,1794581951.73005
+socks4,94.247.241.70,51006,Russia,RU,St Petersburg,elite,true,29.58,AS41733,"JSC ""ER-Telecom Holding""",1269.69,1794581951.19801
+socks5,95.163.85.73,1080,Russia,RU,Moscow,elite,true,32.23,AS12695,LLC Digital Network,1880.42,1794581950.5550325
+socks5,86.110.194.159,1080,Russia,RU,Moscow,elite,true,48.42,AS29182,JSC IOT,6156.44,1794581947.0741541
+socks4,37.193.125.68,1090,Russia,RU,Novosibirsk,elite,true,56.03,AS31200,Novotelecom Ltd,7710.77,1794581944.842072
+socks5,95.165.108.201,1080,Russia,RU,Moscow,elite,true,9.93,AS25513,Moscow Local Telephone Network (OAO MGTS),1417.74,1794581944.615653
+socks5,31.41.228.112,2080,Russia,RU,Alekseyevskoye,elite,true,58.92,AS197499,PE Pivovar Aleksej Nikolaevich,3650.57,1794581943.6204433
+socks5,37.18.73.60,5566,Russia,RU,Moscow,elite,true,76.51,AS208677,"""Cloud Technologies"" LLC trading as Cloud.ru",993.72,1794581941.6447113
+socks5,83.234.137.154,1080,Russia,RU,Novorossiysk,elite,true,29.43,AS20485,Joint Stock Company TransTeleCom,4281.17,1794581940.2654026
+socks4,188.226.27.24,1080,Russia,RU,Yekaterinburg,elite,true,76.59,AS12668,"LLC ""KomTehCentr""",2859.35,1794581939.4299045
+socks5,88.201.248.85,1080,Russia,RU,St Petersburg,elite,true,43.48,AS35807,SkyNet Ltd.,485.35,1794581937.255189
+socks5,91.246.1.6,4433,Russia,RU,Irkutsk,elite,true,29.23,AS59616,Baikal Teleport CJSC,18566.65,1794581935.8899872
+socks5,89.148.196.156,1080,Russia,RU,Perm,elite,true,39.56,AS15640,MTS PJSC,576.79,1794581935.4347875
+socks5,31.148.136.107,2080,Russia,RU,Moscow,elite,true,48.68,AS51685,Mikron-Media LLC,3367.48,1794581934.1202793
+http,80.90.178.167,1081,Russia,RU,St Petersburg,elite,true,91.94,AS9123,Mamaev,1083.96,1794581932.984251
+socks5,79.164.209.63,10808,Russia,RU,Moscow,elite,true,9.05,AS8615,CNT-network,5828.47,1794581932.2175047
+socks5,5.189.17.23,9050,Russia,RU,Polevskoy,elite,true,39.53,AS12668,MIRALOGIC,14827.31,1794581930.3472228
+http,80.246.16.3,3128,Russia,RU,Vladivostok,elite,false,15.38,AS34434,Server-Center JSC Network,4797.82,1794581929.2542331
+socks5,95.83.152.62,1080,Russia,RU,Ryazan,elite,true,32.36,AS15774,Electro-com Ryazan clients network,1347.22,1794581925.6612113
+socks4,46.8.104.176,1080,Russia,RU,St Petersburg,elite,true,55.1,AS207952,Evro Telecom OOO,1228.15,1794581921.8474152
+http,80.252.137.246,1194,Russia,RU,Noginsk,elite,false,22.05,AS21453,for Flex Ltd,10531.47,1794581921.6055021
+http,5.42.97.126,1443,Russia,RU,Moscow,elite,false,50.71,AS9123,"JSC ""TIMEWEB""",8975.73,1794581919.3866432
+http,89.175.174.212,8080,Russia,RU,Moscow,transparent,true,19.18,AS8359,Mobile TeleSystems PJSC,4891.01,1794581918.7799637
+socks5,5.130.57.25,1080,Russia,RU,Novosibirsk,elite,true,11.93,AS31200,Novotelecom Ltd.,1772.26,1794581912.8535235
+http,62.113.114.246,8443,Russia,RU,Moscow,elite,false,18.32,AS48282,Hosting technology LTD,11974.09,1794581907.9807296
+http,89.175.174.210,8080,Russia,RU,Moscow,transparent,false,19.03,AS8359,Mobile TeleSystems PJSC,3102.33,1794581904.0087423
+socks5,176.215.179.44,1080,Russia,RU,Moscow,elite,true,34.9,AS31363,"JSC ""ER-Telecom"" Holding""",7122.54,1794581902.1770673
+http,79.164.209.63,10808,Russia,RU,Moscow,elite,false,7.82,AS8615,CNT-network,6288.28,1794581900.789476
+http,79.164.209.63,10809,Russia,RU,Moscow,elite,true,5.42,AS8615,CNT-network,11076.86,1794581898.2916248
+http,194.186.246.22,8888,Russia,RU,Moscow,elite,false,48.03,AS3216,"PJSC ""Vimpelcom""",12209.14,1794581894.0514786
+socks5,5.42.97.126,1443,Russia,RU,Moscow,elite,true,74.21,AS9123,"JSC ""TIMEWEB""",9599.68,1794581893.4235332
+socks5,79.135.226.14,1080,Russia,RU,St Petersburg,elite,true,26.85,AS12389,PJSC Rostelecom,2970.69,1794581893.130543
+socks5,37.232.218.12,1080,Russia,RU,Cheboksary,elite,true,13.43,AS12714,Net By Net Holding LLC (Cheboksary),1445.08,1794581887.28166
+socks5,93.100.133.197,1080,Russia,RU,St Petersburg,elite,true,24.16,AS35807,SkyNet LLC,1160.06,1794581878.4382515
+socks5,188.235.21.247,2080,Russia,RU,Voronezh,elite,true,12.77,AS50542,"CJSC ""ER-Telecom Holding"" Voronezh branch",2363.77,1794581869.6807532
+http,46.72.18.145,10808,Russia,RU,Belgorod,elite,false,71.27,AS12714,Net By Net Holding LLC (Belgorod),4909.94,1794581864.3523624
+socks5,94.19.13.170,1080,Russia,RU,St Petersburg,elite,true,26.57,AS35807,SkyNet LLC,235.67,1794581861.3852286
+http,193.19.190.59,8095,Russia,RU,Voronezh,transparent,true,29.72,AS43991,Voronezh Telecom LLC,2138.7,1794581834.1392245
