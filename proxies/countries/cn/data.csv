@@ -1,22 +1,29 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,36.213.79.159,1080,China,CN,Guangzhou,elite,false,81.48,AS9808,"China Mobile Communications Group Co., Ltd.",695.97,1794601128.5687516
-http,39.129.25.66,8060,China,CN,Guangzhou,elite,false,17.97,AS9808,"China Mobile Communications Group Co., Ltd",8027.76,1794601123.8877676
-http,122.246.4.30,17981,China,CN,Ningbo,elite,true,99.18,AS136188,China Telecom,1213.25,1794601119.4747818
-socks5,113.249.111.67,1080,China,CN,Chongqing,elite,true,98.35,AS134420,Chongqing Telecom,2214.1,1794601118.7332325
-socks4,61.191.119.134,10800,China,CN,Hefei,elite,true,26.34,AS4134,Chinanet,4275.5,1794601116.5569174
-socks4,222.71.205.37,1083,China,CN,Shanghai,elite,true,18.61,AS4812,China Telecom (Group),7966.39,1794601113.6249006
-socks5,116.172.234.154,1181,China,CN,Jinrongjie,elite,true,24.92,AS4837,China Unicom CHINA169 Network,1763.95,1794601102.4846654
-http,112.65.132.182,3128,China,CN,Shanghai,transparent,false,15.27,AS17621,China Unicom CHINA169 Shanghai Province Network,21266.76,1794601100.6934035
-http,61.158.175.38,9002,China,CN,Zhengzhou,elite,false,98.49,AS4837,CNC Group CHINA169 Henan Province Network,867.43,1794601100.0744543
+socks4,36.213.79.159,1080,China,CN,Guangzhou,elite,true,55.24,AS9808,"China Mobile Communications Group Co., Ltd.",1167.5,1794601447.6888993
+socks4,116.233.142.167,1080,China,CN,Shanghai,elite,true,39.8,AS4812,China Telecom (Group),2323.08,1794601446.5318668
+socks5,221.176.85.227,1080,China,CN,Guangzhou,elite,true,14.19,AS9808,China Mobile communications corporation,2025.28,1794601445.842431
+http,61.158.175.38,9002,China,CN,Zhengzhou,elite,false,98.49,AS4837,CNC Group CHINA169 Henan Province Network,868.76,1794601445.526353
+socks5,121.46.226.221,10808,China,CN,Beijing,elite,true,90.32,AS4811,ZHAOONE,1643.65,1794601439.4428487
+socks5,36.213.79.159,1080,China,CN,Guangzhou,elite,true,66.09,AS9808,"China Mobile Communications Group Co., Ltd.",1439.87,1794601434.9240847
+socks5,113.249.111.67,1080,China,CN,Chongqing,elite,true,98.35,AS134420,Chongqing Telecom,4748.72,1794601432.3064137
+socks4,180.158.166.144,4145,China,CN,Shanghai,elite,true,42.72,AS4812,China Telecom (Group),4320.2,1794601428.3692293
+socks5,221.176.85.235,1080,China,CN,Guangzhou,elite,true,12.37,AS9808,China Mobile communications corporation,1743.89,1794601426.3101673
+http,113.204.79.230,9091,China,CN,Jinrongjie,elite,false,98.08,AS4837,CHINA UNICOM China169 Backbone,992.35,1794601426.269874
+socks5,218.77.50.79,6666,China,CN,Shangli,elite,true,39.6,AS4134,Chinanet,2223.91,1794601424.3630877
+http,36.213.79.159,1080,China,CN,Guangzhou,elite,true,81.49,AS9808,"China Mobile Communications Group Co., Ltd.",3540.14,1794601409.0838614
+http,219.148.171.178,9445,China,CN,Hechi,transparent,true,86.8,AS4134,Chinanet,2810.17,1794601399.3372781
+socks5,221.225.48.89,8989,China,CN,Suzhou,elite,true,4.51,AS140292,CHINANET jiangsu province network,1848.7,1794601398.7440562
+http,36.213.79.159,1081,China,CN,Guangzhou,elite,false,81.82,AS9808,"China Mobile Communications Group Co., Ltd.",696.05,1794601384.9947634
+http,116.196.150.180,17981,China,CN,Hangzhou,elite,true,94.82,AS131516,JHWA,811.99,1794601384.2693322
+http,222.129.142.219,9000,China,CN,Beijing,transparent,false,43.04,AS4808,China Unicom Beijing Province Network,2966.02,1794601381.4780264
+http,111.199.234.107,9000,China,CN,Beijing,transparent,false,32.02,AS4808,China Unicom Beijing Province Network,3911.0,1794601381.4045393
+http,153.0.171.163,8085,China,CN,Haikou,elite,false,98.49,AS4837,China Unicom Hainan Province Network,1092.83,1794601380.7998133
+socks5,222.71.205.37,1083,China,CN,Shanghai,elite,true,26.38,AS4812,China Telecom (Group),1520.13,1794601375.2846923
+http,14.103.201.137,3128,China,CN,Beijing,transparent,false,37.78,AS137718,BITNET,10324.22,1794601374.5807767
+http,61.143.126.202,10086,China,CN,Guangzhou,transparent,false,4.12,AS4134,Chinanet,18731.62,1794601364.0151014
+http,58.246.79.38,7080,China,CN,Shanghai,transparent,false,26.6,AS17621,CNC Group CHINA169 Shanghai Province Network,10953.81,1794601361.487273
 http,123.112.214.167,9000,China,CN,Beijing,transparent,true,32.59,AS4808,China Unicom Beijing Province Network,6083.97,1794601094.373528
 http,183.45.79.102,1081,China,CN,Guangzhou,elite,true,52.54,AS4134,Chinanet,4036.28,1794601092.908854
-http,58.33.109.114,2021,China,CN,Shanghai,transparent,false,9.9,AS4812,China Telecom (Group),3799.13,1794601090.6634688
-http,116.196.150.180,17981,China,CN,Hangzhou,elite,true,94.82,AS131516,JHWA,933.53,1794601089.865177
-http,153.0.171.163,8085,China,CN,Haikou,elite,false,98.49,AS4837,China Unicom Hainan Province Network,935.66,1794601087.5186045
 http,106.12.86.76,3128,China,CN,Jinrongjie,anonymous,false,20.75,AS38365,"Beijing Baidu Netcom Science and Technology Co., Ltd.",10626.57,1794601086.7920563
 http,103.85.173.82,8088,China,CN,Huilongguan,transparent,true,27.8,AS24138,China TieTong Telecommunications Corporation,2344.51,1794601082.704978
-http,219.148.171.178,9445,China,CN,Hechi,transparent,true,86.8,AS4134,Chinanet,4667.27,1794601080.2833006
 http,14.103.200.3,3128,China,CN,Beijing,transparent,false,32.23,AS137718,BITNET,12863.52,1794601067.412929
-http,112.65.132.181,3128,China,CN,Shanghai,transparent,true,14.94,AS17621,China Unicom CHINA169 Shanghai Province Network,10480.26,1794601066.2978992
-http,59.36.239.108,21133,China,CN,Guangzhou,transparent,false,12.71,AS4134,Chinanet,9224.5,1794601064.0513165
-http,58.246.79.38,7080,China,CN,Shanghai,transparent,false,26.6,AS17621,CNC Group CHINA169 Shanghai Province Network,11884.95,1794601114.5568092
