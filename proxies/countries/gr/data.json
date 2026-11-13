@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "62.217.77.159",
-    "port": 1080,
-    "country": "Greece",
-    "country_code": "GR",
-    "city": "Nea Liosia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 16.0,
-    "asn": "AS5408",
-    "isp": "National Infrastructures for Research and Technology S.A.",
-    "latency_ms": 3398.86,
-    "last_checked": 1794589135.7062142
-  },
-  {
     "protocol": "http",
     "ip": "46.246.162.81",
     "port": 8080,
@@ -22,11 +7,26 @@
     "country_code": "GR",
     "city": "Athens",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 45.9,
+    "ssl": true,
+    "uptime_percent": 46.05,
     "asn": "AS1241",
     "isp": "FORTHnet SA address",
-    "latency_ms": 6964.27,
-    "last_checked": 1794589090.9857419
+    "latency_ms": 4431.35,
+    "last_checked": 1794589736.8607452
+  },
+  {
+    "protocol": "http",
+    "ip": "150.140.148.235",
+    "port": 80,
+    "country": "Greece",
+    "country_code": "GR",
+    "city": "Pátrai",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 71.7,
+    "asn": "AS5408",
+    "isp": "UPATRAS",
+    "latency_ms": 4644.09,
+    "last_checked": 1794589674.371319
   }
 ]
