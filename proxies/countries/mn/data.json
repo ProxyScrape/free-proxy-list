@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "202.21.101.37",
-    "port": 8088,
-    "country": "Mongolia",
-    "country_code": "MN",
-    "city": "Ulan Bator",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 32.55,
-    "asn": "AS9484",
-    "isp": "Mobinet LLC",
-    "latency_ms": 7970.66,
-    "last_checked": 1794602977.9807656
-  },
-  {
     "protocol": "socks4",
     "ip": "119.40.98.27",
     "port": 8069,
@@ -26,8 +11,23 @@
     "uptime_percent": 20.23,
     "asn": "AS10109",
     "isp": "Topica Co., Ltd",
-    "latency_ms": 844.41,
-    "last_checked": 1794602951.841544
+    "latency_ms": 850.08,
+    "last_checked": 1794603291.4626603
+  },
+  {
+    "protocol": "http",
+    "ip": "43.242.241.47",
+    "port": 8080,
+    "country": "Mongolia",
+    "country_code": "MN",
+    "city": "Ulan Bator",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.84,
+    "asn": "AS17882",
+    "isp": "MCS Com Co Ltd",
+    "latency_ms": 10023.8,
+    "last_checked": 1794603215.3487587
   },
   {
     "protocol": "http",
@@ -37,11 +37,26 @@
     "country_code": "MN",
     "city": "Ulan Bator",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 29.54,
+    "ssl": false,
+    "uptime_percent": 29.55,
     "asn": "AS9484",
     "isp": "Mobinet LLC",
-    "latency_ms": 8310.22,
-    "last_checked": 1794602935.9724045
+    "latency_ms": 4848.4,
+    "last_checked": 1794603211.2588289
+  },
+  {
+    "protocol": "http",
+    "ip": "202.21.101.37",
+    "port": 8088,
+    "country": "Mongolia",
+    "country_code": "MN",
+    "city": "Ulan Bator",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 32.55,
+    "asn": "AS9484",
+    "isp": "Mobinet LLC",
+    "latency_ms": 2876.63,
+    "last_checked": 1794603180.6213982
   }
 ]
