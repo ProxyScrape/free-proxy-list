@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "78.154.10.164",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "46.10.198.10",
+    "port": 4153,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 31.38,
+    "ssl": true,
+    "uptime_percent": 43.52,
     "asn": "AS8866",
-    "isp": "BTC-BROADBAND",
-    "latency_ms": 6939.47,
-    "last_checked": 1794668933.944765
+    "isp": "Vivacom Bulgaria EAD",
+    "latency_ms": 7364.93,
+    "last_checked": 1794669589.5853298
+  },
+  {
+    "protocol": "http",
+    "ip": "88.87.6.135",
+    "port": 3030,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Veliko Tarnovo",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 33.1,
+    "asn": "AS8866",
+    "isp": "Telnet Limited",
+    "latency_ms": 1502.55,
+    "last_checked": 1794669552.7280655
   }
 ]
