@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "195.205.134.1",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "57.128.249.250",
+    "port": 9052,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Czarna Góra",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 15.58,
-    "asn": "AS5617",
-    "isp": "Orange Polska Spolka Akcyjna",
-    "latency_ms": 5360.33,
-    "last_checked": 1794652179.4208314
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.47,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 1201.55,
+    "last_checked": 1794652772.3561747
+  },
+  {
+    "protocol": "socks5",
+    "ip": "88.218.206.170",
+    "port": 22,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Łęczyca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.94,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 8911.82,
+    "last_checked": 1794652757.6890724
   },
   {
     "protocol": "socks4",
@@ -26,38 +41,8 @@
     "uptime_percent": 48.83,
     "asn": "AS215467",
     "isp": "Skhron OU",
-    "latency_ms": 4504.23,
-    "last_checked": 1794652172.3877609
-  },
-  {
-    "protocol": "socks5",
-    "ip": "57.128.249.250",
-    "port": 9052,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.47,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 1059.56,
-    "last_checked": 1794652166.823293
-  },
-  {
-    "protocol": "socks5",
-    "ip": "109.95.175.64",
-    "port": 1080,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Kurzętnik",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 41.03,
-    "asn": "AS43420",
-    "isp": "TVK ELtronik Brodnica",
-    "latency_ms": 4475.43,
-    "last_checked": 1794652151.8127482
+    "latency_ms": 13157.5,
+    "last_checked": 1794652746.7249017
   },
   {
     "protocol": "http",
@@ -71,7 +56,7 @@
     "uptime_percent": 71.26,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 15458.77,
-    "last_checked": 1794652106.0927713
+    "latency_ms": 15267.21,
+    "last_checked": 1794652710.8742318
   }
 ]
