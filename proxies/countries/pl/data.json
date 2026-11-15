@@ -1,6 +1,21 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "145.239.80.10",
+    "port": 3128,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Wroclaw",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 30.8,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 14580.8,
+    "last_checked": 1794722351.7513916
+  },
+  {
+    "protocol": "socks5",
     "ip": "88.218.206.170",
     "port": 5432,
     "country": "Poland",
@@ -8,40 +23,10 @@
     "city": "Łęczyca",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 48.74,
+    "uptime_percent": 46.88,
     "asn": "AS215467",
     "isp": "Skhron OU",
-    "latency_ms": 11362.43,
-    "last_checked": 1794721755.1453555
-  },
-  {
-    "protocol": "http",
-    "ip": "80.51.61.1",
-    "port": 8080,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Bukowina Tatrzańska",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 15.65,
-    "asn": "AS5617",
-    "isp": "Orange Polska Spolka Akcyjna",
-    "latency_ms": 5755.13,
-    "last_checked": 1794721738.463643
-  },
-  {
-    "protocol": "http",
-    "ip": "51.38.129.42",
-    "port": 3169,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Wroclaw",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 71.2,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 9839.25,
-    "last_checked": 1794721708.9538276
+    "latency_ms": 11452.84,
+    "last_checked": 1794722285.129937
   }
 ]
