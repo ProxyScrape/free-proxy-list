@@ -1,50 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "171.25.158.95",
-    "port": 1080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Rottne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 93.68,
-    "asn": "AS35100",
-    "isp": "Patrik Lagerman",
-    "latency_ms": 4954.27,
-    "last_checked": 1794736144.5096903
-  },
-  {
-    "protocol": "socks4",
-    "ip": "62.60.230.196",
-    "port": 1080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 22.08,
-    "asn": "AS210644",
-    "isp": "Aeza Group LLC",
-    "latency_ms": 10255.57,
-    "last_checked": 1794736141.0083427
-  },
-  {
-    "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 80,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 66.69,
-    "asn": "AS206170",
-    "isp": "Yelles AB",
-    "latency_ms": 5213.61,
-    "last_checked": 1794736128.9388492
-  },
-  {
     "protocol": "http",
     "ip": "194.14.207.87",
     "port": 8001,
@@ -56,8 +11,8 @@
     "uptime_percent": 67.37,
     "asn": "AS206170",
     "isp": "Yelles AB",
-    "latency_ms": 4293.41,
-    "last_checked": 1794736092.5056605
+    "latency_ms": 3076.82,
+    "last_checked": 1794736395.361398
   },
   {
     "protocol": "http",
@@ -73,5 +28,20 @@
     "isp": "OVPN",
     "latency_ms": 6534.06,
     "last_checked": 1794736142.884299
+  },
+  {
+    "protocol": "socks4",
+    "ip": "62.60.230.196",
+    "port": 1080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.08,
+    "asn": "AS210644",
+    "isp": "Aeza Group LLC",
+    "latency_ms": 10255.57,
+    "last_checked": 1794736141.0083427
   }
 ]
