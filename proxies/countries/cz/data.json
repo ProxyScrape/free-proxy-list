@@ -1,33 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "46.23.61.97",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "91.199.137.149",
+    "port": 2000,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Klatovy",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 35.05,
-    "asn": "AS197296",
-    "isp": "MAXTEL s.r.o. 1",
-    "latency_ms": 2079.75,
-    "last_checked": 1794800624.9550047
+    "city": "Veselí nad Lužnicí",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.48,
+    "asn": "AS62212",
+    "isp": "SmartApe OU",
+    "latency_ms": 1384.72,
+    "last_checked": 1794801241.6396558
   },
   {
     "protocol": "http",
-    "ip": "185.82.238.42",
-    "port": 8888,
+    "ip": "91.139.78.174",
+    "port": 3128,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Kunovice",
+    "city": "Domažlice",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 9.92,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 2638.18,
-    "last_checked": 1794800621.0971708
+    "uptime_percent": 14.03,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 7058.49,
+    "last_checked": 1794801222.9169555
   },
   {
     "protocol": "http",
@@ -41,23 +41,8 @@
     "uptime_percent": 72.76,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 7014.0,
-    "last_checked": 1794800612.7679615
-  },
-  {
-    "protocol": "socks4",
-    "ip": "91.199.137.149",
-    "port": 2000,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Veselí nad Lužnicí",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 60.31,
-    "asn": "AS62212",
-    "isp": "SmartApe OU",
-    "latency_ms": 1710.78,
-    "last_checked": 1794800606.2198582
+    "latency_ms": 8236.72,
+    "last_checked": 1794801216.5209372
   },
   {
     "protocol": "socks5",
@@ -68,10 +53,25 @@
     "city": "Veselí nad Lužnicí",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 80.13,
+    "uptime_percent": 80.21,
     "asn": "AS62212",
     "isp": "SmartApe OU",
-    "latency_ms": 1440.44,
-    "last_checked": 1794800559.1096563
+    "latency_ms": 159.18,
+    "last_checked": 1794801213.7336438
+  },
+  {
+    "protocol": "http",
+    "ip": "185.82.238.42",
+    "port": 8888,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Kunovice",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.92,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 7914.61,
+    "last_checked": 1794801225.1928527
   }
 ]
