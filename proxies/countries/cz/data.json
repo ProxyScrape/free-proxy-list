@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "217.75.208.181",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Chomutov",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.38,
+    "asn": "AS210712",
+    "isp": "Grape SC V",
+    "latency_ms": 6131.9,
+    "last_checked": 1794787436.934946
+  },
+  {
+    "protocol": "socks5",
+    "ip": "176.62.237.51",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Příbram",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.38,
+    "asn": "AS49985",
+    "isp": "IP4ISP z.s.p.o",
+    "latency_ms": 194.73,
+    "last_checked": 1794787427.824505
+  },
+  {
+    "protocol": "http",
     "ip": "46.23.61.97",
     "port": 8080,
     "country": "Czechia",
@@ -28,20 +58,5 @@
     "isp": "MASTER",
     "latency_ms": 14198.04,
     "last_checked": 1794787083.4844105
-  },
-  {
-    "protocol": "socks5",
-    "ip": "176.62.237.51",
-    "port": 1080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Příbram",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 41.37,
-    "asn": "AS49985",
-    "isp": "IP4ISP z.s.p.o",
-    "latency_ms": 206.0,
-    "last_checked": 1794787041.259292
   }
 ]
