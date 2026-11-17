@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "151.243.236.236",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "216.144.231.111",
+    "port": 1080,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Beauharnois",
+    "city": "Toronto",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 58.24,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 5076.95,
-    "last_checked": 1794936575.3589356
+    "ssl": true,
+    "uptime_percent": 22.23,
+    "asn": "AS36352",
+    "isp": "HostPapa",
+    "latency_ms": 9091.52,
+    "last_checked": 1794937144.8363073
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.38.57",
+    "port": 9050,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Winnipeg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.3,
+    "asn": "AS394352",
+    "isp": "Fastnet Communications",
+    "latency_ms": 13536.81,
+    "last_checked": 1794937144.57121
   },
   {
     "protocol": "socks5",
@@ -26,22 +41,22 @@
     "uptime_percent": 65.06,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 773.68,
-    "last_checked": 1794936563.4229393
+    "latency_ms": 464.82,
+    "last_checked": 1794937143.9072049
   },
   {
-    "protocol": "socks5",
-    "ip": "162.254.178.133",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "184.70.113.34",
+    "port": 3128,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Ignace",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 17.0,
-    "asn": "AS397128",
-    "isp": "Celerity Telecom",
-    "latency_ms": 8099.04,
-    "last_checked": 1794936533.0154665
+    "city": "Calgary",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 34.54,
+    "asn": "AS6327",
+    "isp": "Shaw Communications",
+    "latency_ms": 3530.15,
+    "last_checked": 1794937133.6687448
   }
 ]
