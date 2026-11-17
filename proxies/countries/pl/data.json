@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "78.9.234.55",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "88.218.206.170",
+    "port": 5432,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Wroclaw",
-    "anonymity": "transparent",
+    "city": "Łęczyca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.79,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 2353.22,
+    "last_checked": 1794883764.0631595
+  },
+  {
+    "protocol": "socks4",
+    "ip": "88.218.206.170",
+    "port": 5432,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Łęczyca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 48.54,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 2086.24,
+    "last_checked": 1794883762.4996502
+  },
+  {
+    "protocol": "http",
+    "ip": "146.59.14.197",
+    "port": 8118,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 15.56,
-    "asn": "AS12741",
-    "isp": "Netia SA",
-    "latency_ms": 4783.47,
-    "last_checked": 1794883162.2448175
+    "uptime_percent": 8.46,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 881.84,
+    "last_checked": 1794883759.5122879
   },
   {
     "protocol": "socks4",
@@ -26,8 +56,23 @@
     "uptime_percent": 45.45,
     "asn": "AS197418",
     "isp": "KONTAKT",
-    "latency_ms": 7493.04,
-    "last_checked": 1794883153.2319076
+    "latency_ms": 3318.95,
+    "last_checked": 1794883755.655596
+  },
+  {
+    "protocol": "socks5",
+    "ip": "88.218.206.170",
+    "port": 22,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Łęczyca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.8,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 9663.69,
+    "last_checked": 1794883752.3190777
   },
   {
     "protocol": "http",
@@ -41,22 +86,7 @@
     "uptime_percent": 12.57,
     "asn": "AS12741",
     "isp": "Netia SA",
-    "latency_ms": 11289.94,
-    "last_checked": 1794883138.5726597
-  },
-  {
-    "protocol": "http",
-    "ip": "51.38.129.42",
-    "port": 3169,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Wroclaw",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 70.96,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 16325.01,
-    "last_checked": 1794883135.536006
+    "latency_ms": 14955.07,
+    "last_checked": 1794883734.9368243
   }
 ]
