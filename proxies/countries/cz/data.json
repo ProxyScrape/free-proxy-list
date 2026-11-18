@@ -1,33 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "46.23.61.97",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "193.165.115.78",
+    "port": 1080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Klatovy",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 32.93,
-    "asn": "AS197296",
-    "isp": "MAXTEL s.r.o. 1",
-    "latency_ms": 2081.14,
-    "last_checked": 1795033784.4065225
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.33,
+    "asn": "AS30764",
+    "isp": "PODA a.s.",
+    "latency_ms": 1142.98,
+    "last_checked": 1795034392.912327
   },
   {
     "protocol": "socks4",
     "ip": "91.199.137.149",
-    "port": 2000,
+    "port": 2010,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Veselí nad Lužnicí",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 37.48,
+    "uptime_percent": 32.84,
     "asn": "AS62212",
     "isp": "SmartApe OU",
-    "latency_ms": 3155.15,
-    "last_checked": 1795033783.8887694
+    "latency_ms": 423.32,
+    "last_checked": 1795034371.5426433
   },
   {
     "protocol": "http",
@@ -41,11 +41,26 @@
     "uptime_percent": 72.63,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 6113.42,
-    "last_checked": 1795033779.285558
+    "latency_ms": 6773.56,
+    "last_checked": 1795034352.5697331
   },
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "185.82.238.42",
+    "port": 8888,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Kunovice",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 10.0,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 4732.42,
+    "last_checked": 1795034340.9266102
+  },
+  {
+    "protocol": "socks5",
     "ip": "91.199.137.149",
     "port": 2010,
     "country": "Czechia",
@@ -53,25 +68,10 @@
     "city": "Veselí nad Lužnicí",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 32.4,
+    "uptime_percent": 52.78,
     "asn": "AS62212",
     "isp": "SmartApe OU",
-    "latency_ms": 2704.9,
-    "last_checked": 1795033777.4227016
-  },
-  {
-    "protocol": "socks5",
-    "ip": "176.62.229.17",
-    "port": 1080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Trutnov",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 38.25,
-    "asn": "AS49985",
-    "isp": "IP4ISP z.s.p.o",
-    "latency_ms": 3162.75,
-    "last_checked": 1795033678.9104378
+    "latency_ms": 1192.46,
+    "last_checked": 1795034293.072841
   }
 ]
