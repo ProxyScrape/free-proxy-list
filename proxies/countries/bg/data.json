@@ -1,17 +1,32 @@
 [
   {
     "protocol": "http",
-    "ip": "213.169.33.12",
+    "ip": "213.169.33.7",
     "port": 8001,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.33,
+    "ssl": true,
+    "uptime_percent": 13.57,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 11560.18,
-    "last_checked": 1795035826.0336976
+    "latency_ms": 12889.81,
+    "last_checked": 1795036478.780448
+  },
+  {
+    "protocol": "socks4",
+    "ip": "46.10.198.10",
+    "port": 4153,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.25,
+    "asn": "AS8866",
+    "isp": "Vivacom Bulgaria EAD",
+    "latency_ms": 1509.97,
+    "last_checked": 1795036470.389286
   }
 ]
