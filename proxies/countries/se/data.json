@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 8001,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 67.14,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 6330.07,
+    "last_checked": 1795008582.5089662
+  },
+  {
     "protocol": "socks5",
     "ip": "46.246.12.31",
     "port": 1080,
@@ -8,26 +23,26 @@
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 97.07,
+    "uptime_percent": 97.08,
     "asn": "AS42708",
     "isp": "GleSYS AB",
-    "latency_ms": 4699.56,
-    "last_checked": 1795007943.3772097
+    "latency_ms": 1984.92,
+    "last_checked": 1795008566.811644
   },
   {
-    "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "147.45.79.130",
+    "port": 1080,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 66.47,
-    "asn": "AS206170",
-    "isp": "Yelles AB",
-    "latency_ms": 6574.71,
-    "last_checked": 1795007938.2994754
+    "ssl": true,
+    "uptime_percent": 97.81,
+    "asn": "AS210644",
+    "isp": "Aeza Group LLC",
+    "latency_ms": 374.03,
+    "last_checked": 1795008550.983881
   },
   {
     "protocol": "socks5",
@@ -41,23 +56,8 @@
     "uptime_percent": 93.71,
     "asn": "AS35100",
     "isp": "Patrik Lagerman",
-    "latency_ms": 2576.81,
-    "last_checked": 1795007935.1852567
-  },
-  {
-    "protocol": "socks5",
-    "ip": "147.45.79.130",
-    "port": 1080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 97.8,
-    "asn": "AS210644",
-    "isp": "Aeza Group LLC",
-    "latency_ms": 194.84,
-    "last_checked": 1795007931.3993824
+    "latency_ms": 4251.24,
+    "last_checked": 1795008534.223863
   },
   {
     "protocol": "http",
@@ -67,11 +67,26 @@
     "country_code": "SE",
     "city": "Halmstad",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 30.35,
     "asn": "AS8473",
     "isp": "Bahnhof Internet",
-    "latency_ms": 4857.15,
-    "last_checked": 1795007824.21281
+    "latency_ms": 571.03,
+    "last_checked": 1795008526.38304
+  },
+  {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 80,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 66.47,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 6463.78,
+    "last_checked": 1795008492.3073754
   }
 ]
