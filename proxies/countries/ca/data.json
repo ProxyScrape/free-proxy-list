@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "34.47.50.163",
-    "port": 443,
+    "protocol": "socks5",
+    "ip": "38.49.210.79",
+    "port": 40000,
     "country": "Canada",
     "country_code": "CA",
     "city": "Montreal",
-    "anonymity": "anonymous",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 7.04,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 13514.47,
-    "last_checked": 1795020916.549559
+    "uptime_percent": 81.09,
+    "asn": "AS26832",
+    "isp": "Rica Web Services",
+    "latency_ms": 7690.34,
+    "last_checked": 1795021476.215611
+  },
+  {
+    "protocol": "socks5",
+    "ip": "68.233.127.229",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.01,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 17785.35,
+    "last_checked": 1795021465.0243304
   },
   {
     "protocol": "http",
@@ -26,23 +41,8 @@
     "uptime_percent": 92.95,
     "asn": "AS32489",
     "isp": "Amanah Tech Inc.",
-    "latency_ms": 1273.51,
-    "last_checked": 1795020908.6969855
-  },
-  {
-    "protocol": "http",
-    "ip": "184.70.113.34",
-    "port": 3128,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Calgary",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 34.51,
-    "asn": "AS6327",
-    "isp": "Shaw Communications",
-    "latency_ms": 12960.81,
-    "last_checked": 1795020898.3530142
+    "latency_ms": 846.57,
+    "last_checked": 1795021453.2076383
   },
   {
     "protocol": "http",
@@ -58,5 +58,20 @@
     "isp": "TELUS Communications Inc.",
     "latency_ms": 4785.21,
     "last_checked": 1795021118.4649558
+  },
+  {
+    "protocol": "http",
+    "ip": "184.70.113.34",
+    "port": 3128,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Calgary",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 34.51,
+    "asn": "AS6327",
+    "isp": "Shaw Communications",
+    "latency_ms": 16582.52,
+    "last_checked": 1795021114.9367943
   }
 ]
