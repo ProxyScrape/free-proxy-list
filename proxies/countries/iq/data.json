@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "212.237.125.216",
-    "port": 6969,
-    "country": "Iraq",
-    "country_code": "IQ",
-    "city": "Duhok",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.86,
-    "asn": "AS206206",
-    "isp": "Kurdistan Net 4",
-    "latency_ms": 709.36,
-    "last_checked": 1795086551.6849031
-  },
-  {
     "protocol": "http",
     "ip": "185.135.69.34",
     "port": 80,
@@ -26,8 +11,23 @@
     "uptime_percent": 97.2,
     "asn": "AS205889",
     "isp": "Giganet Telecom",
-    "latency_ms": 164.73,
-    "last_checked": 1795086548.1869476
+    "latency_ms": 167.94,
+    "last_checked": 1795087188.61729
+  },
+  {
+    "protocol": "http",
+    "ip": "109.224.2.58",
+    "port": 8080,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Baghdad",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 33.06,
+    "asn": "AS203214",
+    "isp": "Hulum",
+    "latency_ms": 3858.34,
+    "last_checked": 1795087150.7398267
   },
   {
     "protocol": "http",
@@ -37,11 +37,26 @@
     "country_code": "IQ",
     "city": "Kelar",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 7.57,
     "asn": "AS44217",
     "isp": "BAG",
-    "latency_ms": 3477.63,
-    "last_checked": 1795086497.4569063
+    "latency_ms": 10250.46,
+    "last_checked": 1795087148.1883807
+  },
+  {
+    "protocol": "socks5",
+    "ip": "212.237.125.216",
+    "port": 6969,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Duhok",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.86,
+    "asn": "AS206206",
+    "isp": "Kurdistan Net 4",
+    "latency_ms": 8385.59,
+    "last_checked": 1795087070.1881576
   }
 ]
