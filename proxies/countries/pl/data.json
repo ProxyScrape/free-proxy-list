@@ -1,21 +1,6 @@
 [
   {
-    "protocol": "http",
-    "ip": "195.205.134.1",
-    "port": 8080,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Czarna Góra",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 15.61,
-    "asn": "AS5617",
-    "isp": "Orange Polska Spolka Akcyjna",
-    "latency_ms": 4848.4,
-    "last_checked": 1795073317.968838
-  },
-  {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "88.218.206.170",
     "port": 5432,
     "country": "Poland",
@@ -23,11 +8,26 @@
     "city": "Łęczyca",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 46.67,
+    "uptime_percent": 48.33,
     "asn": "AS215467",
     "isp": "Skhron OU",
-    "latency_ms": 15695.91,
-    "last_checked": 1795073246.9904969
+    "latency_ms": 1884.69,
+    "last_checked": 1795073987.9112723
+  },
+  {
+    "protocol": "socks4",
+    "ip": "37.131.164.94",
+    "port": 59341,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Krzęcin",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.34,
+    "asn": "AS35745",
+    "isp": "Provector Sp. z o.o",
+    "latency_ms": 1228.01,
+    "last_checked": 1795073977.5233672
   },
   {
     "protocol": "socks5",
@@ -38,25 +38,40 @@
     "city": "Kurzętnik",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 38.46,
+    "uptime_percent": 38.45,
     "asn": "AS43420",
     "isp": "TVK ELtronik Brodnica",
-    "latency_ms": 151.38,
-    "last_checked": 1795073209.3453624
+    "latency_ms": 3340.59,
+    "last_checked": 1795073923.2107959
   },
   {
-    "protocol": "socks5",
-    "ip": "57.128.249.250",
-    "port": 9052,
+    "protocol": "http",
+    "ip": "148.253.212.68",
+    "port": 8080,
     "country": "Poland",
     "country_code": "PL",
     "city": "Warsaw",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.43,
+    "ssl": false,
+    "uptime_percent": 39.52,
+    "asn": "AS216129",
+    "isp": "SEBEK sp. z o.o",
+    "latency_ms": 4727.34,
+    "last_checked": 1795073915.6928716
+  },
+  {
+    "protocol": "http",
+    "ip": "51.38.129.42",
+    "port": 3169,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Wroclaw",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 70.12,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 11226.49,
-    "last_checked": 1795073184.8061564
+    "latency_ms": 11755.81,
+    "last_checked": 1795073904.3080606
   }
 ]
