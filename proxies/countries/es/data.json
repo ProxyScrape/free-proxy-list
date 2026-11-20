@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "195.114.209.50",
-    "port": 80,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Alcobendas",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 71.52,
-    "asn": "AS57286",
-    "isp": "Gigas Hosting SL",
-    "latency_ms": 113.87,
-    "last_checked": 1795211976.672354
-  },
-  {
     "protocol": "socks4",
     "ip": "83.56.15.57",
     "port": 5678,
@@ -26,8 +11,23 @@
     "uptime_percent": 40.5,
     "asn": "AS3352",
     "isp": "Telefonica de Espana SAU",
-    "latency_ms": 1208.83,
-    "last_checked": 1795211973.0513253
+    "latency_ms": 769.07,
+    "last_checked": 1795212559.7661235
+  },
+  {
+    "protocol": "http",
+    "ip": "37.59.138.176",
+    "port": 8080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.83,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 1678.75,
+    "last_checked": 1795212548.7183325
   },
   {
     "protocol": "socks5",
@@ -38,10 +38,25 @@
     "city": "Valencia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.62,
+    "uptime_percent": 33.57,
     "asn": "AS50926",
     "isp": "AXARNET COMUNICACIONES, S.L.",
-    "latency_ms": 6027.59,
-    "last_checked": 1795211965.1235428
+    "latency_ms": 16861.52,
+    "last_checked": 1795212528.1578681
+  },
+  {
+    "protocol": "http",
+    "ip": "195.114.209.50",
+    "port": 80,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Alcobendas",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 71.52,
+    "asn": "AS57286",
+    "isp": "Gigas Hosting SL",
+    "latency_ms": 112.77,
+    "last_checked": 1795212515.8635669
   }
 ]
