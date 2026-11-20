@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "195.114.209.50",
-    "port": 80,
+    "ip": "90.161.186.147",
+    "port": 3128,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Alcobendas",
-    "anonymity": "elite",
+    "city": "Pineda de Mar",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 71.5,
-    "asn": "AS57286",
-    "isp": "Gigas Hosting SL",
-    "latency_ms": 747.39,
-    "last_checked": 1795167849.006149
+    "uptime_percent": 10.0,
+    "asn": "AS12479",
+    "isp": "UNI2-ABI",
+    "latency_ms": 2541.39,
+    "last_checked": 1795168481.5972013
+  },
+  {
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Ciempozuelos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.5,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 3207.69,
+    "last_checked": 1795168473.75914
   },
   {
     "protocol": "socks5",
@@ -23,10 +38,40 @@
     "city": "Valencia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 29.15,
+    "uptime_percent": 29.31,
     "asn": "AS50926",
     "isp": "AXARNET COMUNICACIONES, S.L.",
-    "latency_ms": 1531.01,
-    "last_checked": 1795167758.867849
+    "latency_ms": 3072.78,
+    "last_checked": 1795168472.3437653
+  },
+  {
+    "protocol": "http",
+    "ip": "195.114.209.50",
+    "port": 80,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Alcobendas",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 71.5,
+    "asn": "AS57286",
+    "isp": "Gigas Hosting SL",
+    "latency_ms": 154.32,
+    "last_checked": 1795168460.3576021
+  },
+  {
+    "protocol": "http",
+    "ip": "90.161.220.67",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Conil de la Frontera",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 28.32,
+    "asn": "AS12479",
+    "isp": "UNI2-ABI",
+    "latency_ms": 2655.67,
+    "last_checked": 1795168437.3047338
   }
 ]
