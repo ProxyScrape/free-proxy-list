@@ -1,8 +1,23 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "47.91.120.190",
-    "port": 9098,
+    "port": 3128,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Dubai",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 1.29,
+    "asn": "AS45102",
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 5729.93,
+    "last_checked": 1795166354.2615511
+  },
+  {
+    "protocol": "socks4",
+    "ip": "47.91.120.190",
+    "port": 1234,
     "country": "United Arab Emirates",
     "country_code": "AE",
     "city": "Dubai",
@@ -11,7 +26,37 @@
     "uptime_percent": 1.48,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 6299.2,
-    "last_checked": 1795165703.0588167
+    "latency_ms": 6066.48,
+    "last_checked": 1795166353.928903
+  },
+  {
+    "protocol": "socks4",
+    "ip": "47.91.120.190",
+    "port": 9000,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Dubai",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 1.58,
+    "asn": "AS45102",
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 11774.73,
+    "last_checked": 1795166348.2186325
+  },
+  {
+    "protocol": "http",
+    "ip": "151.253.146.146",
+    "port": 8080,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Dubai",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 34.07,
+    "asn": "AS5384",
+    "isp": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+    "latency_ms": 4724.26,
+    "last_checked": 1795166301.4141076
   }
 ]
