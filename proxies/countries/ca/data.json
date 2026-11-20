@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "151.243.236.236",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "38.49.210.79",
+    "port": 40000,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Beauharnois",
+    "city": "Montreal",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 58.18,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 4495.23,
-    "last_checked": 1795196079.9501503
+    "ssl": true,
+    "uptime_percent": 81.26,
+    "asn": "AS26832",
+    "isp": "Rica Web Services",
+    "latency_ms": 569.71,
+    "last_checked": 1795196379.6768215
   },
   {
     "protocol": "socks5",
@@ -26,8 +26,38 @@
     "uptime_percent": 40.03,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 2512.83,
-    "last_checked": 1795196056.2910073
+    "latency_ms": 23954.79,
+    "last_checked": 1795196342.5364106
+  },
+  {
+    "protocol": "http",
+    "ip": "107.161.9.167",
+    "port": 8080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.64,
+    "asn": "AS22652",
+    "isp": "Videotron Ltee",
+    "latency_ms": 9120.93,
+    "last_checked": 1795196333.3308237
+  },
+  {
+    "protocol": "http",
+    "ip": "51.222.97.88",
+    "port": 8080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 1.0,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 13429.93,
+    "last_checked": 1795196333.2246673
   },
   {
     "protocol": "http",
@@ -37,26 +67,11 @@
     "country_code": "CA",
     "city": "Toronto",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 28.46,
+    "ssl": false,
+    "uptime_percent": 28.47,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 12172.46,
-    "last_checked": 1795196044.9485002
-  },
-  {
-    "protocol": "http",
-    "ip": "104.245.158.40",
-    "port": 8080,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Ayer's Cliff",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 2.64,
-    "asn": "AS11290",
-    "isp": "Cogeco Communications Holdings",
-    "latency_ms": 11205.34,
-    "last_checked": 1795196021.1712694
+    "latency_ms": 13537.11,
+    "last_checked": 1795196220.156743
   }
 ]
