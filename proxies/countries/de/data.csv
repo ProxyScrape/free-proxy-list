@@ -1,18 +1,54 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,46.232.249.209,40001,Germany,DE,Nuremberg,elite,true,30.62,AS197540,netcup GmbH,65.65,1795180159.4607928
-http,8.211.49.86,50070,Germany,DE,Frankfurt am Main,elite,false,0.99,AS45102,"Alibaba (US) Technology Co., Ltd.",2008.83,1795180154.278648
-http,8.211.49.86,10000,Germany,DE,Frankfurt am Main,elite,true,1.04,AS45102,"Alibaba (US) Technology Co., Ltd.",2006.43,1795180147.1529102
-http,47.91.65.23,3128,Germany,DE,Frankfurt am Main,elite,true,78.09,AS45102,Alibaba.com LLC,45.28,1795180146.07068
-http,91.107.248.7,80,Germany,DE,Frankfurt Am Main,elite,false,96.35,AS24940,Hetzner Online AG,49.11,1795180141.4380226
-http,80.74.54.148,3128,Germany,DE,Sonsbeck,anonymous,false,89.89,AS60294,Deutsche Glasfaser Wholesale GmbH,45.85,1795180138.7728667
-http,103.237.102.191,11111,Germany,DE,Frankfurt am Main,elite,true,98.13,AS62610,Zenlayer Inc,13.17,1795180117.825615
-http,185.166.196.89,8888,Germany,DE,Frankfurt am Main,transparent,false,43.9,AS210976,"Timeweb, LLP",14143.16,1795180115.3839674
-http,85.114.138.93,8080,Germany,DE,Düsseldorf,elite,false,16.03,AS24961,MYLOC,9345.6,1795180105.4156578
-http,130.61.148.213,8888,Germany,DE,Frankfurt am Main,anonymous,true,37.13,AS31898,Oracle Corporation,16599.98,1795180103.4119267
-http,164.90.182.187,3128,Germany,DE,Frankfurt am Main,transparent,false,19.87,AS14061,"DigitalOcean, LLC",14762.62,1795180092.58958
-http,217.154.195.87,8888,Germany,DE,Berlin,elite,true,84.76,AS8560,IONOS SE,1295.15,1795180080.3844776
-http,57.129.24.167,3128,Germany,DE,Frankfurt am Main,transparent,false,32.56,AS16276,OVH SAS,14969.04,1795180069.0840383
-http,8.211.42.167,8181,Germany,DE,Frankfurt am Main,elite,false,1.53,AS45102,"Alibaba (US) Technology Co., Ltd.",2300.33,1795180057.6168694
-http,78.31.64.152,3133,Germany,DE,Düsseldorf,transparent,false,22.26,AS24961,WIIT AG,18541.54,1795180051.4862013
-http,152.53.120.85,8080,Germany,DE,Nuremberg,transparent,true,30.74,AS197540,netcup GmbH,1501.32,1795180038.985418
-http,164.90.182.187,8080,Germany,DE,Frankfurt am Main,transparent,true,18.05,AS14061,"DigitalOcean, LLC",12824.21,1795180037.0594795
+socks5,5.75.133.113,10811,Germany,DE,Nuremberg,elite,true,83.83,AS24940,Hetzner Online GmbH,625.48,1795180781.13053
+socks5,46.232.249.209,40001,Germany,DE,Nuremberg,elite,true,43.07,AS197540,netcup GmbH,91.09,1795180772.9879515
+socks4,49.13.150.79,9050,Germany,DE,Nuremberg,elite,true,18.49,AS24940,Hetzner Online GmbH,6873.18,1795180772.7534537
+socks5,49.13.22.249,10807,Germany,DE,Falkenstein,elite,true,77.71,AS24940,Hetzner Online GmbH,2937.9,1795180772.4310606
+socks5,92.5.68.29,1080,Germany,DE,Frankfurt am Main,elite,true,98.0,AS31898,Oracle Corporation,57.2,1795180771.9942303
+socks5,159.195.62.125,9050,Germany,DE,Nuremberg,elite,true,27.84,AS197540,netcup GmbH,1253.8,1795180769.7888741
+socks5,5.75.133.113,10813,Germany,DE,Nuremberg,elite,true,72.17,AS24940,Hetzner Online GmbH,3345.1,1795180769.173612
+socks5,49.13.22.249,10805,Germany,DE,Falkenstein,elite,true,81.33,AS24940,Hetzner Online GmbH,510.56,1795180768.1667166
+socks5,138.199.222.72,9050,Germany,DE,Nuremberg,elite,true,26.21,AS24940,Hetzner Online GmbH,8798.73,1795180767.8321369
+http,80.74.54.148,3128,Germany,DE,Sonsbeck,anonymous,false,89.89,AS60294,Deutsche Glasfaser Wholesale GmbH,43.46,1795180763.3396301
+socks5,47.91.89.3,8999,Germany,DE,Frankfurt am Main,elite,true,1.32,AS45102,Alibaba.com LLC,6312.4,1795180762.571922
+socks5,49.13.22.249,10803,Germany,DE,Falkenstein,elite,true,74.17,AS24940,Hetzner Online GmbH,10183.61,1795180760.4803426
+socks5,49.13.22.249,10813,Germany,DE,Falkenstein,elite,true,71.79,AS24940,Hetzner Online GmbH,2810.73,1795180759.7236757
+socks5,47.91.89.3,4153,Germany,DE,Frankfurt am Main,elite,true,2.26,AS45102,Alibaba.com LLC,9390.97,1795180759.5219562
+socks5,5.75.133.113,10806,Germany,DE,Nuremberg,elite,true,62.35,AS24940,Hetzner Online GmbH,3552.71,1795180759.4961247
+socks5,47.91.89.3,40000,Germany,DE,Frankfurt am Main,elite,true,1.25,AS45102,Alibaba.com LLC,10041.74,1795180758.9245722
+socks5,47.91.89.3,55443,Germany,DE,Frankfurt am Main,elite,true,2.51,AS45102,Alibaba.com LLC,10189.84,1795180758.7640812
+socks5,47.91.89.3,11,Germany,DE,Frankfurt am Main,elite,true,1.27,AS45102,Alibaba.com LLC,10290.27,1795180758.6612287
+socks5,47.91.89.3,9050,Germany,DE,Frankfurt am Main,elite,true,1.25,AS45102,Alibaba.com LLC,10334.62,1795180758.560342
+socks5,91.107.179.68,10809,Germany,DE,Frankfurt Am Main,elite,true,79.95,AS24940,Hetzner Online AG,96.01,1795180757.7772787
+socks5,49.13.150.79,9050,Germany,DE,Nuremberg,elite,true,23.11,AS24940,Hetzner Online GmbH,7666.43,1795180757.4918664
+socks5,5.75.133.113,10805,Germany,DE,Nuremberg,elite,true,79.01,AS24940,Hetzner Online GmbH,3210.27,1795180756.968752
+socks5,88.198.69.51,1087,Germany,DE,Falkenstein,elite,true,18.52,AS24940,Hetzner,171.65,1795180756.0376744
+socks5,47.91.89.3,4145,Germany,DE,Frankfurt am Main,elite,true,1.22,AS45102,Alibaba.com LLC,13351.53,1795180755.4651845
+socks5,49.13.22.249,10806,Germany,DE,Falkenstein,elite,true,57.95,AS24940,Hetzner Online GmbH,1860.42,1795180755.0804837
+socks4,159.195.62.125,9050,Germany,DE,Nuremberg,elite,true,24.03,AS197540,netcup GmbH,8893.03,1795180754.3741994
+socks5,47.91.89.3,8040,Germany,DE,Frankfurt am Main,elite,true,1.29,AS45102,Alibaba.com LLC,15590.37,1795180753.3828712
+http,91.107.248.7,80,Germany,DE,Frankfurt Am Main,elite,false,96.34,AS24940,Hetzner Online AG,36.63,1795180752.8105109
+socks5,47.91.89.3,9080,Germany,DE,Frankfurt am Main,elite,true,1.29,AS45102,Alibaba.com LLC,16111.7,1795180752.7884312
+socks5,88.198.69.51,1086,Germany,DE,Falkenstein,elite,true,27.2,AS24940,Hetzner,694.52,1795180752.75669
+http,47.91.65.23,3128,Germany,DE,Frankfurt am Main,elite,true,78.09,AS45102,Alibaba.com LLC,32.61,1795180752.6508613
+socks5,88.198.69.51,1084,Germany,DE,Falkenstein,elite,true,33.03,AS24940,Hetzner,1181.94,1795180750.952568
+socks5,47.245.165.201,1080,Germany,DE,Frankfurt am Main,elite,true,92.49,AS45102,"Alibaba (US) Technology Co., Ltd.",2746.8,1795180748.3882334
+socks5,92.5.95.105,1080,Germany,DE,Frankfurt am Main,elite,true,33.1,AS31898,Oracle Corporation,7173.61,1795180747.7448034
+socks4,92.5.68.29,1080,Germany,DE,Frankfurt am Main,elite,true,96.44,AS31898,Oracle Corporation,45.53,1795180747.5278742
+socks5,51.75.68.184,9050,Germany,DE,Limburg an der Lahn,elite,true,15.35,AS16276,OVH SAS,13654.27,1795180745.0419054
+http,103.237.102.191,11111,Germany,DE,Frankfurt am Main,elite,true,98.13,AS62610,Zenlayer Inc,746.07,1795180741.5158532
+http,91.107.186.23,8081,Germany,DE,Frankfurt Am Main,elite,true,66.28,AS24940,Hetzner Online AG,611.71,1795180739.4079244
+socks5,45.92.217.106,1080,Germany,DE,Frankfurt am Main,elite,true,93.08,AS48314,Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG,14056.93,1795180735.4630494
+http,79.76.121.87,3128,Germany,DE,Frankfurt am Main,transparent,false,26.77,AS31898,Oracle Corporation,14546.17,1795180727.205557
+http,51.75.156.167,10000,Germany,DE,Limburg an der Lahn,elite,false,3.18,AS16276,OVH SAS,7936.84,1795180720.9298258
+http,185.166.196.89,8888,Germany,DE,Frankfurt am Main,transparent,false,43.89,AS210976,"Timeweb, LLP",20987.27,1795180715.8115253
+http,51.38.120.110,10016,Germany,DE,Limburg an der Lahn,elite,true,5.82,AS16276,OVH SAS,14.65,1795180711.4657257
+http,43.157.41.157,3128,Germany,DE,Frankfurt am Main,transparent,true,36.03,AS132203,Shenzhen Tencent Computer Systems Company Limited,13456.57,1795180705.5542107
+socks5,8.211.51.115,144,Germany,DE,Frankfurt am Main,elite,true,1.17,AS45102,"Alibaba (US) Technology Co., Ltd.",8723.66,1795180702.843969
+socks5,8.211.51.115,3128,Germany,DE,Frankfurt am Main,elite,true,1.06,AS45102,"Alibaba (US) Technology Co., Ltd.",9641.43,1795180702.0002618
+socks5,8.211.51.115,8080,Germany,DE,Frankfurt am Main,elite,true,1.06,AS45102,"Alibaba (US) Technology Co., Ltd.",10938.87,1795180700.6122856
+socks5,8.211.51.115,4000,Germany,DE,Frankfurt am Main,elite,true,1.1,AS45102,"Alibaba (US) Technology Co., Ltd.",12375.49,1795180697.1921089
+socks5,8.211.51.115,9098,Germany,DE,Frankfurt am Main,elite,true,1.07,AS45102,"Alibaba (US) Technology Co., Ltd.",13576.24,1795180695.8924472
+socks5,8.211.51.115,1036,Germany,DE,Frankfurt am Main,elite,true,1.1,AS45102,"Alibaba (US) Technology Co., Ltd.",16662.53,1795180692.756099
+http,165.232.67.22,3128,Germany,DE,Frankfurt am Main,elite,false,54.44,AS14061,"DigitalOcean, LLC",3538.16,1795180692.593557
+socks5,8.211.51.115,4022,Germany,DE,Frankfurt am Main,elite,true,1.13,AS45102,"Alibaba (US) Technology Co., Ltd.",19965.18,1795180689.6058576
+http,2.28.105.45,8888,Germany,DE,Falkenstein,elite,true,62.72,AS24940,Hetzner Online GmbH,322.97,1795180678.9139705
