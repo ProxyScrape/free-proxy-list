@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "150.140.148.235",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "149.210.44.175",
+    "port": 1080,
     "country": "Greece",
     "country_code": "GR",
-    "city": "Pátrai",
+    "city": "Antikyra",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 71.8,
-    "asn": "AS5408",
-    "isp": "UPATRAS",
-    "latency_ms": 4102.33,
-    "last_checked": 1795134552.0989463
+    "ssl": true,
+    "uptime_percent": 44.02,
+    "asn": "AS29247",
+    "isp": "Cosmote Mobile Telecommunication S.A.",
+    "latency_ms": 3138.51,
+    "last_checked": 1795135134.5120094
+  },
+  {
+    "protocol": "http",
+    "ip": "149.210.4.75",
+    "port": 18080,
+    "country": "Greece",
+    "country_code": "GR",
+    "city": "Athens",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 61.2,
+    "asn": "AS29247",
+    "isp": "Cosmote Mobile Telecommunication S.A.",
+    "latency_ms": 2406.78,
+    "last_checked": 1795135046.3344555
   }
 ]
