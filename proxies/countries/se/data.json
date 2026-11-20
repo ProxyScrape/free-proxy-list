@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "46.246.12.31",
+    "port": 1080,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 66.34,
-    "asn": "AS206170",
-    "isp": "Yelles AB",
-    "latency_ms": 4519.28,
-    "last_checked": 1795187729.3987904
-  },
-  {
-    "protocol": "http",
-    "ip": "177.3.209.83",
-    "port": 3128,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 28.96,
-    "asn": "AS219337",
-    "isp": "Play2go - Fzco",
-    "latency_ms": 15195.01,
-    "last_checked": 1795187715.1568604
+    "ssl": true,
+    "uptime_percent": 97.38,
+    "asn": "AS42708",
+    "isp": "GleSYS AB",
+    "latency_ms": 3202.55,
+    "last_checked": 1795188063.9182932
   },
   {
     "protocol": "socks5",
@@ -41,22 +26,37 @@
     "uptime_percent": 93.77,
     "asn": "AS35100",
     "isp": "Patrik Lagerman",
-    "latency_ms": 1879.67,
-    "last_checked": 1795187713.2085505
+    "latency_ms": 4346.26,
+    "last_checked": 1795188039.650458
   },
   {
-    "protocol": "socks5",
-    "ip": "46.246.12.31",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "217.64.149.146",
+    "port": 8118,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 97.37,
-    "asn": "AS42708",
-    "isp": "GleSYS AB",
-    "latency_ms": 9567.03,
-    "last_checked": 1795187710.4994495
+    "ssl": false,
+    "uptime_percent": 3.83,
+    "asn": "AS42675",
+    "isp": "OVPN",
+    "latency_ms": 7783.45,
+    "last_checked": 1795188034.8337953
+  },
+  {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 8001,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 66.97,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 5923.37,
+    "last_checked": 1795187989.6005588
   }
 ]
