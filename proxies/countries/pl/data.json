@@ -1,21 +1,21 @@
 [
   {
     "protocol": "http",
-    "ip": "145.239.80.10",
-    "port": 3128,
+    "ip": "185.32.4.210",
+    "port": 8070,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Wroclaw",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 31.2,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 13823.94,
-    "last_checked": 1795229901.9018238
+    "city": "Chociwel",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 29.65,
+    "asn": "AS60645",
+    "isp": "AS Consulting Sp. z o. o.",
+    "latency_ms": 3249.02,
+    "last_checked": 1795230531.6319718
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "88.218.206.170",
     "port": 5432,
     "country": "Poland",
@@ -23,11 +23,26 @@
     "city": "Łęczyca",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 46.67,
+    "uptime_percent": 48.18,
     "asn": "AS215467",
     "isp": "Skhron OU",
-    "latency_ms": 4101.88,
-    "last_checked": 1795229885.616933
+    "latency_ms": 4320.51,
+    "last_checked": 1795230529.2755394
+  },
+  {
+    "protocol": "http",
+    "ip": "145.239.80.10",
+    "port": 3128,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Wroclaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.2,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 15446.23,
+    "last_checked": 1795230518.6007922
   },
   {
     "protocol": "socks5",
@@ -41,22 +56,37 @@
     "uptime_percent": 50.6,
     "asn": "AS215467",
     "isp": "Skhron OU",
-    "latency_ms": 8910.19,
-    "last_checked": 1795229878.8914337
+    "latency_ms": 19472.74,
+    "last_checked": 1795230505.220703
   },
   {
     "protocol": "http",
-    "ip": "185.32.4.210",
-    "port": 8070,
+    "ip": "78.9.234.55",
+    "port": 8080,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Chociwel",
+    "city": "Wroclaw",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 29.65,
-    "asn": "AS60645",
-    "isp": "AS Consulting Sp. z o. o.",
-    "latency_ms": 6465.09,
-    "last_checked": 1795229845.1369693
+    "uptime_percent": 15.67,
+    "asn": "AS12741",
+    "isp": "Netia SA",
+    "latency_ms": 6720.89,
+    "last_checked": 1795230464.758932
+  },
+  {
+    "protocol": "socks5",
+    "ip": "88.218.206.170",
+    "port": 5432,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Łęczyca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.67,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 5754.3,
+    "last_checked": 1795230447.5292206
   }
 ]
