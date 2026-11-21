@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "88.119.139.237",
-    "port": 53281,
+    "protocol": "socks4",
+    "ip": "81.7.112.174",
+    "port": 4145,
     "country": "Lithuania",
     "country_code": "LT",
-    "city": "Klaipėda",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 9.54,
+    "city": "Elektrėnai",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.29,
+    "asn": "AS49602",
+    "isp": "Private Limited Liability Company \"KRENA\"",
+    "latency_ms": 147.54,
+    "last_checked": 1795290887.9249358
+  },
+  {
+    "protocol": "socks5",
+    "ip": "78.63.115.20",
+    "port": 8899,
+    "country": "Lithuania",
+    "country_code": "LT",
+    "city": "Vilnius",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.49,
     "asn": "AS8764",
     "isp": "Telia Lietuva",
-    "latency_ms": 7630.61,
-    "last_checked": 1795290447.2395122
+    "latency_ms": 3194.35,
+    "last_checked": 1795290839.4208524
   }
 ]
