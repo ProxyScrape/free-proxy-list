@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "46.246.12.31",
+    "port": 1080,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 66.33,
-    "asn": "AS206170",
-    "isp": "Yelles AB",
-    "latency_ms": 1894.15,
-    "last_checked": 1795233544.788796
+    "ssl": true,
+    "uptime_percent": 97.68,
+    "asn": "AS42708",
+    "isp": "GleSYS AB",
+    "latency_ms": 1604.22,
+    "last_checked": 1795234153.552387
   },
   {
     "protocol": "socks5",
@@ -26,22 +26,52 @@
     "uptime_percent": 93.8,
     "asn": "AS35100",
     "isp": "Patrik Lagerman",
-    "latency_ms": 1599.52,
-    "last_checked": 1795233544.688748
+    "latency_ms": 9032.43,
+    "last_checked": 1795234146.524374
   },
   {
-    "protocol": "socks5",
-    "ip": "46.246.12.31",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "172.232.155.226",
+    "port": 8118,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 97.67,
-    "asn": "AS42708",
-    "isp": "GleSYS AB",
-    "latency_ms": 2272.8,
-    "last_checked": 1795233544.1390176
+    "ssl": false,
+    "uptime_percent": 18.53,
+    "asn": "AS63949",
+    "isp": "Akamai Technologies, Inc.",
+    "latency_ms": 283.71,
+    "last_checked": 1795234145.8090432
+  },
+  {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 8001,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 66.94,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 12345.46,
+    "last_checked": 1795234047.0336707
+  },
+  {
+    "protocol": "http",
+    "ip": "177.3.209.83",
+    "port": 3128,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 36.25,
+    "asn": "AS219337",
+    "isp": "Play2go - Fzco",
+    "latency_ms": 19770.34,
+    "last_checked": 1795234046.9408166
   }
 ]
