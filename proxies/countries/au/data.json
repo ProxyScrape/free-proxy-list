@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "134.199.160.93",
-    "port": 8888,
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.93,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 9365.83,
+    "last_checked": 1795357775.3234458
+  },
+  {
+    "protocol": "socks5",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.59,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 7042.23,
+    "last_checked": 1795357771.7587245
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 55.68,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 492.69,
-    "last_checked": 1795357387.3594666
+    "uptime_percent": 31.93,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 8968.69,
+    "last_checked": 1795357696.280314
   },
   {
     "protocol": "http",
@@ -22,11 +52,11 @@
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "anonymous",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 11.45,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 3854.07,
-    "last_checked": 1795357376.7911983
+    "latency_ms": 7738.56,
+    "last_checked": 1795357679.513038
   }
 ]
