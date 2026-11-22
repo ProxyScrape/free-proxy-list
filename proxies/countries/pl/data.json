@@ -1,6 +1,36 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "178.253.38.101",
+    "port": 10809,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 20.22,
+    "asn": "AS204997",
+    "isp": "First Server Limited",
+    "latency_ms": 14046.33,
+    "last_checked": 1795325897.1225338
+  },
+  {
+    "protocol": "socks5",
+    "ip": "57.128.249.250",
+    "port": 9052,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.49,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 291.43,
+    "last_checked": 1795325895.9955168
+  },
+  {
+    "protocol": "socks5",
     "ip": "178.253.38.101",
     "port": 10808,
     "country": "Poland",
@@ -8,41 +38,11 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 15.72,
+    "uptime_percent": 28.58,
     "asn": "AS204997",
     "isp": "First Server Limited",
-    "latency_ms": 5068.83,
-    "last_checked": 1795325355.322065
-  },
-  {
-    "protocol": "http",
-    "ip": "148.253.212.68",
-    "port": 8080,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 37.69,
-    "asn": "AS216129",
-    "isp": "SEBEK sp. z o.o",
-    "latency_ms": 9044.2,
-    "last_checked": 1795325347.8990126
-  },
-  {
-    "protocol": "http",
-    "ip": "51.38.129.42",
-    "port": 3169,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Wroclaw",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 69.16,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 10884.34,
-    "last_checked": 1795325322.0401301
+    "latency_ms": 23879.71,
+    "last_checked": 1795325893.5757284
   },
   {
     "protocol": "http",
@@ -56,7 +56,37 @@
     "uptime_percent": 12.73,
     "asn": "AS12741",
     "isp": "Netia SA",
-    "latency_ms": 11922.35,
-    "last_checked": 1795325276.4173572
+    "latency_ms": 4743.64,
+    "last_checked": 1795325863.584919
+  },
+  {
+    "protocol": "http",
+    "ip": "78.9.234.55",
+    "port": 8080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Wroclaw",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 15.73,
+    "asn": "AS12741",
+    "isp": "Netia SA",
+    "latency_ms": 9128.02,
+    "last_checked": 1795325857.4019973
+  },
+  {
+    "protocol": "http",
+    "ip": "178.253.38.101",
+    "port": 10808,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 21.89,
+    "asn": "AS204997",
+    "isp": "First Server Limited",
+    "latency_ms": 13334.77,
+    "last_checked": 1795325823.491576
   }
 ]
