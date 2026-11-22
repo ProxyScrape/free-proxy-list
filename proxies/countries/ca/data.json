@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "70.38.101.182",
-    "port": 40000,
+    "protocol": "http",
+    "ip": "151.243.236.236",
+    "port": 80,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Montreal",
+    "city": "Beauharnois",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 26.79,
-    "asn": "AS32613",
-    "isp": "Leaseweb Canada Inc.",
-    "latency_ms": 498.63,
-    "last_checked": 1795358683.3173027
+    "ssl": false,
+    "uptime_percent": 57.85,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 4205.55,
+    "last_checked": 1795358975.9112592
   },
   {
     "protocol": "socks5",
@@ -26,23 +26,38 @@
     "uptime_percent": 62.71,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 498.59,
-    "last_checked": 1795358669.666334
+    "latency_ms": 1021.99,
+    "last_checked": 1795358958.6565182
   },
   {
     "protocol": "http",
-    "ip": "96.1.101.113",
-    "port": 80,
+    "ip": "34.130.92.118",
+    "port": 443,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Calgary",
+    "city": "Toronto",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 5.68,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 840.18,
+    "last_checked": 1795358953.7538981
+  },
+  {
+    "protocol": "http",
+    "ip": "149.56.110.191",
+    "port": 8118,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 34.13,
-    "asn": "AS852",
-    "isp": "TELUS Communications Inc.",
-    "latency_ms": 1861.81,
-    "last_checked": 1795358638.5485058
+    "ssl": true,
+    "uptime_percent": 6.84,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 7184.03,
+    "last_checked": 1795358935.5632129
   },
   {
     "protocol": "socks5",
@@ -56,7 +71,37 @@
     "uptime_percent": 81.42,
     "asn": "AS26832",
     "isp": "Rica Web Services",
-    "latency_ms": 591.76,
-    "last_checked": 1795358631.4764397
+    "latency_ms": 575.18,
+    "last_checked": 1795358917.1993904
+  },
+  {
+    "protocol": "http",
+    "ip": "184.70.113.34",
+    "port": 3128,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Calgary",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 34.69,
+    "asn": "AS6327",
+    "isp": "Shaw Communications",
+    "latency_ms": 13131.54,
+    "last_checked": 1795358910.0546007
+  },
+  {
+    "protocol": "http",
+    "ip": "96.1.101.113",
+    "port": 80,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Calgary",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 34.13,
+    "asn": "AS852",
+    "isp": "TELUS Communications Inc.",
+    "latency_ms": 5355.6,
+    "last_checked": 1795358871.8022258
   }
 ]
