@@ -1,33 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "146.59.14.197",
-    "port": 8118,
+    "protocol": "socks5",
+    "ip": "88.218.206.170",
+    "port": 22,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Warsaw",
+    "city": "Łęczyca",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 9.06,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 368.54,
-    "last_checked": 1795389584.6463697
+    "ssl": true,
+    "uptime_percent": 50.64,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 14939.65,
+    "last_checked": 1795390154.3494349
   },
   {
     "protocol": "socks5",
-    "ip": "109.95.175.64",
-    "port": 1080,
+    "ip": "88.218.206.170",
+    "port": 5432,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Kurzętnik",
+    "city": "Łęczyca",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 37.1,
-    "asn": "AS43420",
-    "isp": "TVK ELtronik Brodnica",
-    "latency_ms": 7414.75,
-    "last_checked": 1795389582.0544667
+    "uptime_percent": 46.66,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 777.0,
+    "last_checked": 1795390077.5460358
+  },
+  {
+    "protocol": "http",
+    "ip": "51.38.129.42",
+    "port": 3169,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Wroclaw",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 68.97,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 11838.62,
+    "last_checked": 1795390048.679517
   },
   {
     "protocol": "http",
@@ -37,11 +52,11 @@
     "country_code": "PL",
     "city": "Wroclaw",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 15.76,
     "asn": "AS12741",
     "isp": "Netia SA",
-    "latency_ms": 4644.87,
-    "last_checked": 1795389574.986032
+    "latency_ms": 2013.35,
+    "last_checked": 1795390042.2271795
   }
 ]
