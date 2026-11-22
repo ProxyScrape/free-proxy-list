@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "46.151.118.108",
-    "port": 5678,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Lipsko",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 44.48,
-    "asn": "AS197418",
-    "isp": "KONTAKT",
-    "latency_ms": 3404.94,
-    "last_checked": 1795372177.3123128
-  },
-  {
-    "protocol": "socks5",
-    "ip": "88.218.206.170",
-    "port": 22,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Łęczyca",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.64,
-    "asn": "AS215467",
-    "isp": "Skhron OU",
-    "latency_ms": 12763.61,
-    "last_checked": 1795372160.61831
-  },
-  {
     "protocol": "http",
     "ip": "51.38.129.42",
     "port": 3169,
@@ -37,12 +7,27 @@
     "country_code": "PL",
     "city": "Wroclaw",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 69.02,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 14185.5,
-    "last_checked": 1795372149.4949026
+    "latency_ms": 12817.19,
+    "last_checked": 1795372723.8990946
+  },
+  {
+    "protocol": "http",
+    "ip": "178.253.38.101",
+    "port": 10809,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.3,
+    "asn": "AS204997",
+    "isp": "First Server Limited",
+    "latency_ms": 13392.34,
+    "last_checked": 1795372703.5119388
   },
   {
     "protocol": "http",
@@ -52,26 +37,11 @@
     "country_code": "PL",
     "city": "Wroclaw",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 15.76,
     "asn": "AS12741",
     "isp": "Netia SA",
-    "latency_ms": 9847.01,
-    "last_checked": 1795372115.4089673
-  },
-  {
-    "protocol": "socks5",
-    "ip": "194.177.28.66",
-    "port": 10808,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Ustroń",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 12.58,
-    "asn": "AS48790",
-    "isp": "(USTRONET ) INVICOM Sp. z o.o",
-    "latency_ms": 1131.21,
-    "last_checked": 1795372073.8081224
+    "latency_ms": 2701.25,
+    "last_checked": 1795372679.9317636
   }
 ]
