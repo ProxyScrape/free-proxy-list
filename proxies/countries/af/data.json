@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "111.125.154.86",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "111.125.154.22",
+    "port": 1080,
     "country": "Afghanistan",
     "country_code": "AF",
     "city": "Taloqan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 36.13,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.58,
     "asn": "AS45178",
     "isp": "Telecom Development Company Afghanistan",
-    "latency_ms": 4254.96,
-    "last_checked": 1795373344.4527385
+    "latency_ms": 4380.44,
+    "last_checked": 1795373947.2739751
+  },
+  {
+    "protocol": "http",
+    "ip": "149.54.16.170",
+    "port": 8080,
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "city": "Kabul",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 25.72,
+    "asn": "AS55330",
+    "isp": "Government Communications Network",
+    "latency_ms": 1875.02,
+    "last_checked": 1795373919.5476952
   }
 ]
