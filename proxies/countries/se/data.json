@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "46.246.12.31",
+    "port": 1080,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 66.31,
-    "asn": "AS206170",
-    "isp": "Yelles AB",
-    "latency_ms": 2154.83,
-    "last_checked": 1795316076.8572495
+    "ssl": true,
+    "uptime_percent": 97.86,
+    "asn": "AS42708",
+    "isp": "GleSYS AB",
+    "latency_ms": 1498.42,
+    "last_checked": 1795316357.4323008
+  },
+  {
+    "protocol": "http",
+    "ip": "177.3.209.83",
+    "port": 3128,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 36.79,
+    "asn": "AS219337",
+    "isp": "Play2go - Fzco",
+    "latency_ms": 145.99,
+    "last_checked": 1795316347.57941
   },
   {
     "protocol": "socks5",
@@ -26,37 +41,7 @@
     "uptime_percent": 93.84,
     "asn": "AS35100",
     "isp": "Patrik Lagerman",
-    "latency_ms": 5443.33,
-    "last_checked": 1795316065.6326687
-  },
-  {
-    "protocol": "socks5",
-    "ip": "46.246.12.31",
-    "port": 1080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 97.86,
-    "asn": "AS42708",
-    "isp": "GleSYS AB",
-    "latency_ms": 1592.26,
-    "last_checked": 1795316049.3357828
-  },
-  {
-    "protocol": "http",
-    "ip": "177.3.209.83",
-    "port": 3128,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 36.68,
-    "asn": "AS219337",
-    "isp": "Play2go - Fzco",
-    "latency_ms": 17210.39,
-    "last_checked": 1795316047.8769417
+    "latency_ms": 9012.87,
+    "last_checked": 1795316337.0802062
   }
 ]
