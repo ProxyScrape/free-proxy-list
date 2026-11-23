@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "83.56.15.57",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "37.59.138.176",
+    "port": 8080,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Ciempozuelos",
+    "city": "Madrid",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.87,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 7942.16,
+    "last_checked": 1795440115.9327343
+  },
+  {
+    "protocol": "http",
+    "ip": "90.161.220.67",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Conil de la Frontera",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 28.36,
+    "asn": "AS12479",
+    "isp": "UNI2-ABI",
+    "latency_ms": 8523.61,
+    "last_checked": 1795440111.134568
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.24.44.115",
+    "port": 9050,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Valencia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 40.61,
-    "asn": "AS3352",
-    "isp": "Telefonica de Espana SAU",
-    "latency_ms": 197.94,
-    "last_checked": 1795439855.6979373
+    "uptime_percent": 35.13,
+    "asn": "AS50926",
+    "isp": "AXARNET COMUNICACIONES, S.L.",
+    "latency_ms": 16135.25,
+    "last_checked": 1795440097.713051
   },
   {
     "protocol": "http",
@@ -26,23 +56,8 @@
     "uptime_percent": 71.62,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 128.4,
-    "last_checked": 1795439855.5496373
-  },
-  {
-    "protocol": "http",
-    "ip": "185.202.165.1",
-    "port": 53281,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Mijas",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 5.57,
-    "asn": "AS200845",
-    "isp": "AVATEL TELECOM, SA",
-    "latency_ms": 3380.61,
-    "last_checked": 1795439803.5128226
+    "latency_ms": 257.46,
+    "last_checked": 1795440087.6821356
   },
   {
     "protocol": "http",
@@ -52,11 +67,11 @@
     "country_code": "ES",
     "city": "Madrid",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 9.02,
     "asn": "AS206276",
     "isp": "Citelia s.a.",
-    "latency_ms": 315.02,
-    "last_checked": 1795439739.992464
+    "latency_ms": 1053.04,
+    "last_checked": 1795440084.836746
   }
 ]
