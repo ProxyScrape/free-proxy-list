@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "185.100.85.64",
-    "port": 1080,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 41.93,
-    "asn": "AS200651",
-    "isp": "FlokiNET ehf",
-    "latency_ms": 5017.58,
-    "last_checked": 1795412372.3595428
-  },
-  {
     "protocol": "http",
     "ip": "185.128.240.2",
     "port": 3128,
@@ -26,23 +11,38 @@
     "uptime_percent": 23.56,
     "asn": "AS49052",
     "isp": "Data ZYX SRL",
-    "latency_ms": 990.49,
-    "last_checked": 1795412358.0087042
+    "latency_ms": 2044.74,
+    "last_checked": 1795412912.9627104
   },
   {
-    "protocol": "http",
+    "protocol": "socks5",
+    "ip": "185.100.85.64",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.05,
+    "asn": "AS200651",
+    "isp": "FlokiNET ehf",
+    "latency_ms": 10031.46,
+    "last_checked": 1795412910.5164933
+  },
+  {
+    "protocol": "socks4",
     "ip": "85.122.120.119",
-    "port": 20016,
+    "port": 30016,
     "country": "Romania",
     "country_code": "RO",
     "city": "Năvodari",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 8.65,
+    "ssl": true,
+    "uptime_percent": 15.94,
     "asn": "AS39347",
     "isp": "STYLISH BY A&L SRL",
-    "latency_ms": 3697.62,
-    "last_checked": 1795412347.120806
+    "latency_ms": 10147.91,
+    "last_checked": 1795412909.0898042
   },
   {
     "protocol": "http",
@@ -56,22 +56,7 @@
     "uptime_percent": 16.06,
     "asn": "AS9050",
     "isp": "Romtelecom",
-    "latency_ms": 1846.71,
-    "last_checked": 1795412343.5493093
-  },
-  {
-    "protocol": "http",
-    "ip": "188.211.30.65",
-    "port": 8787,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Făget",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 22.56,
-    "asn": "AS214529",
-    "isp": "DAM TELECOM SERVICES SRL",
-    "latency_ms": 9339.32,
-    "last_checked": 1795412289.3178148
+    "latency_ms": 6596.05,
+    "last_checked": 1795412895.7372255
   }
 ]
