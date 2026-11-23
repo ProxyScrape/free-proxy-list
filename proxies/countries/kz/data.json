@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "188.241.217.138",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "213.155.29.25",
+    "port": 1080,
     "country": "Kazakhstan",
     "country_code": "KZ",
-    "city": "Astana",
+    "city": "Almaty",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 26.03,
-    "asn": "AS207333",
-    "isp": "LLP \"Kompaniya Hoster.KZ\"",
-    "latency_ms": 8100.13,
-    "last_checked": 1795465138.6599135
+    "ssl": true,
+    "uptime_percent": 78.27,
+    "asn": "AS49791",
+    "isp": "Newserverlife LLC",
+    "latency_ms": 2285.18,
+    "last_checked": 1795465784.5024042
+  },
+  {
+    "protocol": "socks4",
+    "ip": "217.151.230.186",
+    "port": 9055,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.76,
+    "asn": "AS9123",
+    "isp": "JSC \"TIMEWEB\"",
+    "latency_ms": 12739.61,
+    "last_checked": 1795465753.6693354
   },
   {
     "protocol": "socks5",
@@ -26,23 +41,8 @@
     "uptime_percent": 14.49,
     "asn": "AS9123",
     "isp": "JSC \"TIMEWEB\"",
-    "latency_ms": 14863.39,
-    "last_checked": 1795465112.311879
-  },
-  {
-    "protocol": "socks5",
-    "ip": "213.155.29.25",
-    "port": 1080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 78.21,
-    "asn": "AS49791",
-    "isp": "Newserverlife LLC",
-    "latency_ms": 992.59,
-    "last_checked": 1795465100.4543314
+    "latency_ms": 17601.53,
+    "last_checked": 1795465724.6097908
   },
   {
     "protocol": "http",
@@ -52,11 +52,41 @@
     "country_code": "KZ",
     "city": "Atyrau",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 28.77,
     "asn": "AS35104",
     "isp": "JSC \"KazTransCom\"",
-    "latency_ms": 2213.38,
-    "last_checked": 1795465068.5956194
+    "latency_ms": 8560.02,
+    "last_checked": 1795465698.6548114
+  },
+  {
+    "protocol": "socks5",
+    "ip": "46.235.83.76",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.39,
+    "asn": "AS35104",
+    "isp": "Jusan Mobile JSC",
+    "latency_ms": 7735.65,
+    "last_checked": 1795465682.1248493
+  },
+  {
+    "protocol": "http",
+    "ip": "188.241.217.138",
+    "port": 3128,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.06,
+    "asn": "AS207333",
+    "isp": "LLP \"Kompaniya Hoster.KZ\"",
+    "latency_ms": 10054.19,
+    "last_checked": 1795465676.4396234
   }
 ]
