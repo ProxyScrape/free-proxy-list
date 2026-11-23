@@ -1,5 +1,8 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,114.111.151.41,80,Australia,AU,Adelaide,elite,false,74.83,AS45577,Intervolve Pty Ltd,8413.65,1795448963.375614
-http,159.196.182.72,8080,Australia,AU,St Helena,transparent,false,25.27,AS4764,Aussie Broadband,5753.23,1795448920.6240783
-http,209.38.24.108,3128,Australia,AU,Sydney,elite,false,23.29,AS14061,"DigitalOcean, LLC",16956.89,1795448920.1819744
-http,61.29.96.146,8000,Australia,AU,Melbourne,anonymous,false,11.48,AS2764,AAPT Limited,4467.48,1795448834.3603525
+socks5,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,28.56,AS31898,Oracle Corporation,5900.49,1795449259.2121603
+http,61.29.96.146,80,Australia,AU,Melbourne,anonymous,false,11.23,AS2764,AAPT Limited,7706.02,1795449243.2002778
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,30.87,AS31898,Oracle Corporation,1430.07,1795449235.8388982
+http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,true,29.86,AS4764,Aussie Fibre Pty Ltd,15030.77,1795449212.7487779
+http,209.38.24.108,3128,Australia,AU,Sydney,elite,true,23.3,AS14061,"DigitalOcean, LLC",13416.87,1795449209.740493
+http,134.199.160.93,8888,Australia,AU,Sydney,elite,false,57.09,AS14061,"DigitalOcean, LLC",624.87,1795449192.8732047
+http,114.111.151.41,80,Australia,AU,Adelaide,elite,false,74.83,AS45577,Intervolve Pty Ltd,506.57,1795449109.6847765
