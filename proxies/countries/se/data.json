@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "46.183.21.158",
     "port": 4444,
     "country": "Sweden",
@@ -8,11 +8,41 @@
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 63.65,
+    "uptime_percent": 46.48,
     "asn": "AS214379",
     "isp": "South Park Networks LLC",
-    "latency_ms": 4213.43,
-    "last_checked": 1795442971.0807717
+    "latency_ms": 3133.27,
+    "last_checked": 1795443534.1760614
+  },
+  {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 80,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 66.33,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 5123.65,
+    "last_checked": 1795443491.917591
+  },
+  {
+    "protocol": "socks5",
+    "ip": "46.246.12.31",
+    "port": 1080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 97.96,
+    "asn": "AS42708",
+    "isp": "GleSYS AB",
+    "latency_ms": 1980.0,
+    "last_checked": 1795443490.2948809
   },
   {
     "protocol": "socks5",
@@ -26,38 +56,8 @@
     "uptime_percent": 93.89,
     "asn": "AS35100",
     "isp": "Patrik Lagerman",
-    "latency_ms": 7023.96,
-    "last_checked": 1795442961.0548334
-  },
-  {
-    "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 80,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 66.32,
-    "asn": "AS206170",
-    "isp": "Yelles AB",
-    "latency_ms": 11344.5,
-    "last_checked": 1795442953.1194115
-  },
-  {
-    "protocol": "http",
-    "ip": "46.183.21.158",
-    "port": 4444,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 53.99,
-    "asn": "AS214379",
-    "isp": "South Park Networks LLC",
-    "latency_ms": 7350.64,
-    "last_checked": 1795442942.8009574
+    "latency_ms": 11727.32,
+    "last_checked": 1795443479.039321
   },
   {
     "protocol": "http",
@@ -71,7 +71,7 @@
     "uptime_percent": 66.9,
     "asn": "AS206170",
     "isp": "Yelles AB",
-    "latency_ms": 6189.09,
-    "last_checked": 1795442936.4793134
+    "latency_ms": 4048.81,
+    "last_checked": 1795443468.921076
   }
 ]
