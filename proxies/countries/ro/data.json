@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "185.100.85.64",
-    "port": 1080,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 42.08,
-    "asn": "AS200651",
-    "isp": "FlokiNET ehf",
-    "latency_ms": 1798.7,
-    "last_checked": 1795408199.2796497
-  },
-  {
     "protocol": "http",
     "ip": "85.122.120.119",
     "port": 20016,
@@ -22,12 +7,27 @@
     "country_code": "RO",
     "city": "Năvodari",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 8.65,
     "asn": "AS39347",
     "isp": "STYLISH BY A&L SRL",
-    "latency_ms": 6348.68,
-    "last_checked": 1795408190.3007908
+    "latency_ms": 982.68,
+    "last_checked": 1795408747.5007217
+  },
+  {
+    "protocol": "socks4",
+    "ip": "93.115.174.1",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Sfantu Gheorghe",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.47,
+    "asn": "AS39531",
+    "isp": "Alter-NET SRL",
+    "latency_ms": 3234.79,
+    "last_checked": 1795408738.8792095
   },
   {
     "protocol": "http",
@@ -37,11 +37,11 @@
     "country_code": "RO",
     "city": "Vaideeni",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 16.06,
     "asn": "AS9050",
     "isp": "Romtelecom",
-    "latency_ms": 2187.03,
-    "last_checked": 1795408174.3167396
+    "latency_ms": 10854.55,
+    "last_checked": 1795408697.5432336
   }
 ]
