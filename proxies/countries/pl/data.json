@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "57.128.249.250",
+    "port": 9052,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.73,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 868.13,
+    "last_checked": 1795510786.2034743
+  },
+  {
+    "protocol": "socks4",
+    "ip": "46.151.118.108",
+    "port": 5678,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Lipsko",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.43,
+    "asn": "AS197418",
+    "isp": "KONTAKT",
+    "latency_ms": 4868.54,
+    "last_checked": 1795510770.4830737
+  },
+  {
     "protocol": "socks4",
     "ip": "45.144.49.64",
     "port": 5443,
@@ -8,26 +38,26 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 86.45,
+    "uptime_percent": 86.13,
     "asn": "AS49791",
     "isp": "3hcloud",
-    "latency_ms": 577.35,
-    "last_checked": 1795510190.741175
+    "latency_ms": 4190.04,
+    "last_checked": 1795510765.6847785
   },
   {
     "protocol": "socks5",
-    "ip": "45.144.49.64",
-    "port": 5443,
+    "ip": "88.218.206.170",
+    "port": 22,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Warsaw",
+    "city": "Łęczyca",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 88.86,
-    "asn": "AS49791",
-    "isp": "3hcloud",
-    "latency_ms": 354.04,
-    "last_checked": 1795510179.7062976
+    "uptime_percent": 50.6,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 5171.87,
+    "last_checked": 1795510760.407922
   },
   {
     "protocol": "http",
@@ -37,11 +67,26 @@
     "country_code": "PL",
     "city": "Wroclaw",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 68.98,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 7768.53,
-    "last_checked": 1795510160.4968665
+    "latency_ms": 15814.05,
+    "last_checked": 1795510744.1327505
+  },
+  {
+    "protocol": "http",
+    "ip": "80.51.61.1",
+    "port": 8080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Bukowina Tatrzańska",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.78,
+    "asn": "AS5617",
+    "isp": "Orange Polska Spolka Akcyjna",
+    "latency_ms": 4918.8,
+    "last_checked": 1795510656.1080084
   }
 ]
