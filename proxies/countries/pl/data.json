@@ -1,6 +1,36 @@
 [
   {
     "protocol": "socks4",
+    "ip": "46.151.118.108",
+    "port": 5678,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Lipsko",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.42,
+    "asn": "AS197418",
+    "isp": "KONTAKT",
+    "latency_ms": 8365.45,
+    "last_checked": 1795543159.733202
+  },
+  {
+    "protocol": "socks5",
+    "ip": "57.128.249.250",
+    "port": 9052,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.78,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 695.17,
+    "last_checked": 1795543156.042326
+  },
+  {
+    "protocol": "socks4",
     "ip": "45.144.49.64",
     "port": 5443,
     "country": "Poland",
@@ -8,26 +38,11 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 81.72,
+    "uptime_percent": 81.77,
     "asn": "AS49791",
     "isp": "3hcloud",
-    "latency_ms": 3731.83,
-    "last_checked": 1795542874.401606
-  },
-  {
-    "protocol": "socks5",
-    "ip": "109.95.175.64",
-    "port": 1080,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Kurzętnik",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 36.88,
-    "asn": "AS43420",
-    "isp": "TVK ELtronik Brodnica",
-    "latency_ms": 1184.74,
-    "last_checked": 1795542867.2545402
+    "latency_ms": 3488.36,
+    "last_checked": 1795543148.415965
   },
   {
     "protocol": "socks5",
@@ -38,11 +53,11 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 83.63,
+    "uptime_percent": 83.67,
     "asn": "AS49791",
     "isp": "3hcloud",
-    "latency_ms": 7162.21,
-    "last_checked": 1795542864.1648974
+    "latency_ms": 4578.07,
+    "last_checked": 1795543144.0724282
   },
   {
     "protocol": "http",
@@ -52,42 +67,12 @@
     "country_code": "PL",
     "city": "Świnoujście",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 12.86,
     "asn": "AS12741",
     "isp": "Netia SA",
-    "latency_ms": 6662.54,
-    "last_checked": 1795542859.3742208
-  },
-  {
-    "protocol": "socks5",
-    "ip": "88.218.206.170",
-    "port": 22,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Łęczyca",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.59,
-    "asn": "AS215467",
-    "isp": "Skhron OU",
-    "latency_ms": 15312.14,
-    "last_checked": 1795542829.280651
-  },
-  {
-    "protocol": "http",
-    "ip": "45.144.49.64",
-    "port": 5443,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 86.57,
-    "asn": "AS49791",
-    "isp": "3hcloud",
-    "latency_ms": 7787.24,
-    "last_checked": 1795542823.4007676
+    "latency_ms": 12910.34,
+    "last_checked": 1795543139.2744777
   },
   {
     "protocol": "http",
@@ -97,11 +82,41 @@
     "country_code": "PL",
     "city": "Warsaw",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 10.0,
     "asn": "AS12876",
     "isp": "Scaleway SAS",
-    "latency_ms": 14002.88,
-    "last_checked": 1795542816.5889585
+    "latency_ms": 21723.22,
+    "last_checked": 1795543123.3207388
+  },
+  {
+    "protocol": "http",
+    "ip": "51.38.129.42",
+    "port": 3169,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Wroclaw",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 68.87,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 10335.53,
+    "last_checked": 1795543086.775463
+  },
+  {
+    "protocol": "http",
+    "ip": "195.205.134.1",
+    "port": 8080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Czarna Góra",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.73,
+    "asn": "AS5617",
+    "isp": "Orange Polska Spolka Akcyjna",
+    "latency_ms": 4211.63,
+    "last_checked": 1795543077.078498
   }
 ]
