@@ -1,33 +1,48 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "37.221.248.119",
-    "port": 10002,
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Přelouč",
+    "city": "Klatovy",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 44.05,
-    "asn": "AS204666",
-    "isp": "TLAPNET",
-    "latency_ms": 770.23,
-    "last_checked": 1795541294.447968
+    "uptime_percent": 7.14,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 3302.75,
+    "last_checked": 1795541761.5610092
   },
   {
-    "protocol": "socks5",
-    "ip": "78.80.149.106",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "46.23.61.97",
+    "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 29.65,
-    "asn": "AS13036",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 3160.82,
-    "last_checked": 1795541286.738004
+    "city": "Klatovy",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 32.57,
+    "asn": "AS197296",
+    "isp": "MAXTEL s.r.o. 1",
+    "latency_ms": 4319.0,
+    "last_checked": 1795541743.2248118
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Uherské Hradiště",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.33,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 8819.07,
+    "last_checked": 1795541736.6328356
   },
   {
     "protocol": "http",
@@ -41,7 +56,22 @@
     "uptime_percent": 72.48,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 3752.01,
-    "last_checked": 1795541263.9769707
+    "latency_ms": 2043.88,
+    "last_checked": 1795541729.6838138
+  },
+  {
+    "protocol": "socks5",
+    "ip": "37.221.248.119",
+    "port": 10002,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Přelouč",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.06,
+    "asn": "AS204666",
+    "isp": "TLAPNET",
+    "latency_ms": 6801.67,
+    "last_checked": 1795541657.6202435
   }
 ]
