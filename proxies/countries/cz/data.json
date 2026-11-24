@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "91.139.78.174",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Domažlice",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.72,
-    "asn": "AS13036",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 12856.56,
-    "last_checked": 1795508661.2243745
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 7.14,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 1786.68,
+    "last_checked": 1795508978.5194025
+  },
+  {
+    "protocol": "socks5",
+    "ip": "193.165.115.78",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.17,
+    "asn": "AS30764",
+    "isp": "PODA a.s.",
+    "latency_ms": 3275.78,
+    "last_checked": 1795508950.90651
   },
   {
     "protocol": "http",
@@ -26,22 +41,7 @@
     "uptime_percent": 72.47,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 4297.22,
-    "last_checked": 1795508619.8330991
-  },
-  {
-    "protocol": "socks5",
-    "ip": "37.221.248.119",
-    "port": 10002,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Přelouč",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.59,
-    "asn": "AS204666",
-    "isp": "TLAPNET",
-    "latency_ms": 10654.55,
-    "last_checked": 1795508616.5377617
+    "latency_ms": 10723.83,
+    "last_checked": 1795508950.6181045
   }
 ]
