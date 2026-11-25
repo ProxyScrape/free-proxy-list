@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "184.70.113.34",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "70.38.101.182",
+    "port": 40000,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Calgary",
-    "anonymity": "transparent",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 58.75,
+    "asn": "AS32613",
+    "isp": "Leaseweb Canada Inc.",
+    "latency_ms": 947.48,
+    "last_checked": 1795635535.2064934
+  },
+  {
+    "protocol": "socks4",
+    "ip": "70.38.101.182",
+    "port": 40000,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.68,
+    "asn": "AS32613",
+    "isp": "Leaseweb Canada Inc.",
+    "latency_ms": 4036.8,
+    "last_checked": 1795635526.812377
+  },
+  {
+    "protocol": "http",
+    "ip": "151.243.236.236",
+    "port": 80,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Beauharnois",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 34.7,
-    "asn": "AS6327",
-    "isp": "Shaw Communications",
-    "latency_ms": 10476.67,
-    "last_checked": 1795634824.534752
+    "uptime_percent": 58.02,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 3690.55,
+    "last_checked": 1795635480.6719062
   }
 ]
