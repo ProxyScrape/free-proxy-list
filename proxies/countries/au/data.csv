@@ -1,6 +1,7 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,134.199.160.93,8888,Australia,AU,Sydney,elite,true,55.07,AS14061,"DigitalOcean, LLC",489.05,1795655948.0797164
-http,114.111.151.41,80,Australia,AU,Adelaide,elite,false,75.21,AS45577,Intervolve Pty Ltd,9538.18,1795655905.1401644
-http,134.199.145.240,3128,Australia,AU,Sydney,elite,false,29.71,AS14061,"DigitalOcean, LLC",17108.64,1795655904.0447423
-http,61.29.96.146,80,Australia,AU,Melbourne,anonymous,false,11.28,AS2764,AAPT Limited,11196.25,1795655865.2647562
-http,61.29.96.146,8000,Australia,AU,Melbourne,anonymous,true,11.52,AS2764,AAPT Limited,2656.02,1795655864.652929
+socks5,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,28.54,AS31898,Oracle Corporation,9234.26,1795656581.3628998
+http,114.111.151.41,80,Australia,AU,Adelaide,elite,false,75.21,AS45577,Intervolve Pty Ltd,511.18,1795656577.3432434
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,30.76,AS31898,Oracle Corporation,5279.61,1795656559.2618234
+http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,false,29.86,AS4764,Aussie Fibre Pty Ltd,3725.85,1795656552.5314345
+http,61.29.96.146,80,Australia,AU,Melbourne,anonymous,true,11.29,AS2764,AAPT Limited,3816.94,1795656523.818098
+http,134.199.160.93,8888,Australia,AU,Sydney,elite,true,55.05,AS14061,"DigitalOcean, LLC",497.62,1795656492.8837204
