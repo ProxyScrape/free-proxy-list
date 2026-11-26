@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "211.22.151.163",
-    "port": 60909,
+    "protocol": "http",
+    "ip": "34.81.160.132",
+    "port": 80,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Taichung",
+    "city": "Taipei",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 62.86,
+    "ssl": false,
+    "uptime_percent": 45.13,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 646.5,
+    "last_checked": 1795694381.8150358
+  },
+  {
+    "protocol": "http",
+    "ip": "114.34.145.135",
+    "port": 8080,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taoyuan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 31.59,
     "asn": "AS3462",
     "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 4077.44,
-    "last_checked": 1795694075.762343
+    "latency_ms": 2850.07,
+    "last_checked": 1795694376.420855
+  },
+  {
+    "protocol": "socks5",
+    "ip": "37.128.252.5",
+    "port": 1080,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.52,
+    "asn": "AS61112",
+    "isp": "Akile LTD",
+    "latency_ms": 1115.27,
+    "last_checked": 1795694355.9791417
   }
 ]
