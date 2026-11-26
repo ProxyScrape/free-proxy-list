@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "80.51.61.1",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "45.144.49.64",
+    "port": 5443,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Bukowina Tatrzańska",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 15.74,
-    "asn": "AS5617",
-    "isp": "Orange Polska Spolka Akcyjna",
-    "latency_ms": 4538.88,
-    "last_checked": 1795658369.9999619
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 67.35,
+    "asn": "AS49791",
+    "isp": "3hcloud",
+    "latency_ms": 711.23,
+    "last_checked": 1795658972.143304
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.144.49.64",
+    "port": 5443,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 52.28,
+    "asn": "AS49791",
+    "isp": "3hcloud",
+    "latency_ms": 142.62,
+    "last_checked": 1795658935.2613564
+  },
+  {
+    "protocol": "http",
+    "ip": "45.144.49.64",
+    "port": 5443,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 66.35,
+    "asn": "AS49791",
+    "isp": "3hcloud",
+    "latency_ms": 118.63,
+    "last_checked": 1795658931.077907
   }
 ]
