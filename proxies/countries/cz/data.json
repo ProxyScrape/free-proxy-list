@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "37.221.248.119",
+    "port": 10002,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Brno",
+    "city": "Přelouč",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.0,
+    "asn": "AS204666",
+    "isp": "TLAPNET",
+    "latency_ms": 7231.72,
+    "last_checked": 1795813163.154188
+  },
+  {
+    "protocol": "http",
+    "ip": "46.23.61.97",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Klatovy",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 72.39,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 11428.21,
-    "last_checked": 1795812553.3711202
+    "uptime_percent": 31.5,
+    "asn": "AS197296",
+    "isp": "MAXTEL s.r.o. 1",
+    "latency_ms": 1945.81,
+    "last_checked": 1795813149.9488742
+  },
+  {
+    "protocol": "socks5",
+    "ip": "37.221.248.119",
+    "port": 10002,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Přelouč",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.53,
+    "asn": "AS204666",
+    "isp": "TLAPNET",
+    "latency_ms": 8589.66,
+    "last_checked": 1795813132.6402414
   }
 ]
