@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "37.221.248.119",
+    "port": 10002,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Přelouč",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.13,
+    "asn": "AS204666",
+    "isp": "TLAPNET",
+    "latency_ms": 8971.59,
+    "last_checked": 1795770568.9481258
+  },
+  {
     "protocol": "socks5",
     "ip": "193.165.115.78",
     "port": 1080,
@@ -8,26 +23,11 @@
     "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 31.85,
+    "uptime_percent": 31.86,
     "asn": "AS30764",
     "isp": "PODA a.s.",
-    "latency_ms": 1240.22,
-    "last_checked": 1795769954.25053
-  },
-  {
-    "protocol": "socks5",
-    "ip": "37.221.248.119",
-    "port": 10002,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Přelouč",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 43.01,
-    "asn": "AS204666",
-    "isp": "TLAPNET",
-    "latency_ms": 13471.29,
-    "last_checked": 1795769926.307245
+    "latency_ms": 3652.22,
+    "last_checked": 1795770560.9300034
   },
   {
     "protocol": "socks5",
@@ -38,11 +38,11 @@
     "city": "Trutnov",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 38.58,
+    "uptime_percent": 38.57,
     "asn": "AS49985",
     "isp": "IP4ISP z.s.p.o",
-    "latency_ms": 1274.28,
-    "last_checked": 1795769923.3284523
+    "latency_ms": 1144.66,
+    "last_checked": 1795770506.782593
   },
   {
     "protocol": "http",
@@ -56,7 +56,37 @@
     "uptime_percent": 72.43,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 5956.96,
-    "last_checked": 1795769905.1608007
+    "latency_ms": 9446.22,
+    "last_checked": 1795770505.9901721
+  },
+  {
+    "protocol": "http",
+    "ip": "91.139.78.174",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Domažlice",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.6,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 5578.88,
+    "last_checked": 1795770492.0863483
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Uherské Hradiště",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.42,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 1785.16,
+    "last_checked": 1795770475.9231002
   }
 ]
