@@ -1,6 +1,36 @@
 [
   {
     "protocol": "socks5",
+    "ip": "193.165.115.78",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.67,
+    "asn": "AS30764",
+    "isp": "PODA a.s.",
+    "latency_ms": 9268.53,
+    "last_checked": 1795740868.9584165
+  },
+  {
+    "protocol": "socks4",
+    "ip": "37.221.248.119",
+    "port": 10002,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Přelouč",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.48,
+    "asn": "AS204666",
+    "isp": "TLAPNET",
+    "latency_ms": 11556.79,
+    "last_checked": 1795740866.0436113
+  },
+  {
+    "protocol": "socks5",
     "ip": "176.62.229.17",
     "port": 1080,
     "country": "Czechia",
@@ -11,23 +41,38 @@
     "uptime_percent": 38.3,
     "asn": "AS49985",
     "isp": "IP4ISP z.s.p.o",
-    "latency_ms": 7921.92,
-    "last_checked": 1795740261.9926684
+    "latency_ms": 3193.85,
+    "last_checked": 1795740840.1884751
   },
   {
-    "protocol": "socks5",
-    "ip": "193.165.115.78",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "46.23.61.97",
+    "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "elite",
+    "city": "Klatovy",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 31.65,
-    "asn": "AS30764",
-    "isp": "PODA a.s.",
-    "latency_ms": 661.0,
-    "last_checked": 1795740234.782075
+    "uptime_percent": 31.87,
+    "asn": "AS197296",
+    "isp": "MAXTEL s.r.o. 1",
+    "latency_ms": 2584.9,
+    "last_checked": 1795740829.7229776
+  },
+  {
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 72.44,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 6892.24,
+    "last_checked": 1795740775.9564252
   },
   {
     "protocol": "http",
@@ -41,22 +86,7 @@
     "uptime_percent": 30.28,
     "asn": "AS42189",
     "isp": "Druzstvo EUROSIGNAL",
-    "latency_ms": 2834.52,
-    "last_checked": 1795740230.1650493
-  },
-  {
-    "protocol": "http",
-    "ip": "185.82.238.42",
-    "port": 8888,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Kunovice",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 10.22,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 8149.55,
-    "last_checked": 1795740150.2233386
+    "latency_ms": 1566.38,
+    "last_checked": 1795740748.5875406
   }
 ]
