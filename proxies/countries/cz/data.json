@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.40.80.143",
-    "port": 4153,
+    "protocol": "socks5",
+    "ip": "193.165.115.78",
+    "port": 1080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Klatovy",
+    "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 7.19,
-    "asn": "AS210712",
-    "isp": "Airweb",
-    "latency_ms": 72.5,
-    "last_checked": 1795819146.9414325
+    "uptime_percent": 31.68,
+    "asn": "AS30764",
+    "isp": "PODA a.s.",
+    "latency_ms": 9715.84,
+    "last_checked": 1795819747.6983318
   },
   {
     "protocol": "http",
@@ -26,22 +26,37 @@
     "uptime_percent": 72.39,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 4116.83,
-    "last_checked": 1795819145.7736917
+    "latency_ms": 5649.31,
+    "last_checked": 1795819742.4956949
   },
   {
-    "protocol": "socks5",
-    "ip": "176.62.229.17",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "80.79.29.222",
+    "port": 3128,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Trutnov",
-    "anonymity": "elite",
+    "city": "Všenory",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 38.72,
-    "asn": "AS49985",
-    "isp": "IP4ISP z.s.p.o",
-    "latency_ms": 133.76,
-    "last_checked": 1795819114.0532823
+    "uptime_percent": 33.93,
+    "asn": "AS24971",
+    "isp": "MASTER",
+    "latency_ms": 7996.12,
+    "last_checked": 1795819726.06279
+  },
+  {
+    "protocol": "http",
+    "ip": "46.23.61.97",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Klatovy",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 31.47,
+    "asn": "AS197296",
+    "isp": "MAXTEL s.r.o. 1",
+    "latency_ms": 7819.84,
+    "last_checked": 1795819721.4877875
   }
 ]
