@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "46.10.198.10",
-    "port": 4153,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 43.27,
-    "asn": "AS8866",
-    "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 148.29,
-    "last_checked": 1795748386.901915
-  },
-  {
     "protocol": "socks5",
     "ip": "31.211.142.115",
     "port": 8192,
@@ -26,8 +11,23 @@
     "uptime_percent": 43.31,
     "asn": "AS197897",
     "isp": "5KOM",
-    "latency_ms": 213.34,
-    "last_checked": 1795748375.662823
+    "latency_ms": 3292.02,
+    "last_checked": 1795748975.9024782
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.160.97.49",
+    "port": 4145,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Rousse",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.12,
+    "asn": "AS205352",
+    "isp": "Kabelnet LTD",
+    "latency_ms": 3309.83,
+    "last_checked": 1795748965.2777257
   },
   {
     "protocol": "http",
@@ -37,11 +37,41 @@
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 25.57,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 10412.66,
-    "last_checked": 1795748305.771177
+    "latency_ms": 7430.48,
+    "last_checked": 1795748952.6612241
+  },
+  {
+    "protocol": "http",
+    "ip": "88.87.6.135",
+    "port": 3030,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Veliko Tarnovo",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 32.0,
+    "asn": "AS8866",
+    "isp": "Telnet Limited",
+    "latency_ms": 7715.95,
+    "last_checked": 1795748903.2466874
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.3",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 17.99,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 5601.51,
+    "last_checked": 1795748898.7967772
   }
 ]
