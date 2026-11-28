@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "37.221.248.119",
-    "port": 10002,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Přelouč",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 27.6,
-    "asn": "AS204666",
-    "isp": "TLAPNET",
-    "latency_ms": 998.82,
-    "last_checked": 1795903146.3916674
-  },
-  {
     "protocol": "http",
     "ip": "77.240.102.149",
     "port": 800,
@@ -22,11 +7,41 @@
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.07,
+    "ssl": true,
+    "uptime_percent": 30.08,
     "asn": "AS42189",
     "isp": "Druzstvo EUROSIGNAL",
-    "latency_ms": 5082.48,
-    "last_checked": 1795903068.520742
+    "latency_ms": 5295.91,
+    "last_checked": 1795903745.5767875
+  },
+  {
+    "protocol": "socks5",
+    "ip": "176.62.229.17",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Trutnov",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.9,
+    "asn": "AS49985",
+    "isp": "IP4ISP z.s.p.o",
+    "latency_ms": 1322.76,
+    "last_checked": 1795903729.5058534
+  },
+  {
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 72.32,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 6699.56,
+    "last_checked": 1795903706.6048162
   }
 ]
