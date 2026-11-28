@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "109.160.97.49",
-    "port": 4145,
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Rousse",
+    "city": "Pleven",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 24.15,
-    "asn": "AS205352",
-    "isp": "Kabelnet LTD",
-    "latency_ms": 7574.32,
-    "last_checked": 1795826956.7581973
+    "uptime_percent": 43.29,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 951.42,
+    "last_checked": 1795827554.0677812
+  },
+  {
+    "protocol": "http",
+    "ip": "46.10.209.230",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 7.55,
+    "asn": "AS8866",
+    "isp": "BTC-BROADBAND",
+    "latency_ms": 3463.44,
+    "last_checked": 1795827480.3088112
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.10",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 18.07,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 3546.09,
+    "last_checked": 1795827479.057214
   },
   {
     "protocol": "http",
@@ -22,26 +52,11 @@
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 25.61,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 2002.77,
-    "last_checked": 1795826949.3687232
-  },
-  {
-    "protocol": "socks5",
-    "ip": "31.211.142.115",
-    "port": 8192,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Pleven",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 43.28,
-    "asn": "AS197897",
-    "isp": "5KOM",
-    "latency_ms": 7492.45,
-    "last_checked": 1795826933.998794
+    "latency_ms": 5768.09,
+    "last_checked": 1795827475.0477207
   }
 ]
