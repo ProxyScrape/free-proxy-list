@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "168.138.9.147",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
-    "anonymity": "elite",
+    "anonymity": "anonymous",
     "ssl": true,
-    "uptime_percent": 30.69,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 4967.96,
-    "last_checked": 1795831747.2307892
+    "uptime_percent": 11.55,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 11356.21,
+    "last_checked": 1795832369.9952483
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 11.33,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 2919.87,
+    "last_checked": 1795832368.3169618
   },
   {
     "protocol": "http",
@@ -26,23 +41,8 @@
     "uptime_percent": 75.43,
     "asn": "AS45577",
     "isp": "Intervolve Pty Ltd",
-    "latency_ms": 2933.25,
-    "last_checked": 1795831738.4288292
-  },
-  {
-    "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 8000,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 11.55,
-    "asn": "AS2764",
-    "isp": "AAPT Limited",
-    "latency_ms": 9072.56,
-    "last_checked": 1795831715.5967526
+    "latency_ms": 4737.82,
+    "last_checked": 1795832354.570573
   },
   {
     "protocol": "http",
@@ -53,10 +53,25 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 98.55,
+    "uptime_percent": 98.56,
     "asn": "AS7600",
     "isp": "AAPT Limited",
-    "latency_ms": 1690.93,
-    "last_checked": 1795831687.1645548
+    "latency_ms": 973.63,
+    "last_checked": 1795832349.511048
+  },
+  {
+    "protocol": "http",
+    "ip": "134.199.145.240",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 29.5,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 19735.83,
+    "last_checked": 1795832283.4327426
   }
 ]
