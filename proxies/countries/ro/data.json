@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "92.86.207.198",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Vaideeni",
-    "anonymity": "transparent",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.99,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 3493.46,
+    "last_checked": 1795871389.538885
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.100.85.64",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.94,
+    "asn": "AS200651",
+    "isp": "FlokiNET ehf",
+    "latency_ms": 511.17,
+    "last_checked": 1795871381.5691047
+  },
+  {
+    "protocol": "http",
+    "ip": "188.211.30.65",
+    "port": 8787,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Făget",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 16.15,
-    "asn": "AS9050",
-    "isp": "Romtelecom",
-    "latency_ms": 2433.92,
-    "last_checked": 1795870776.5587852
+    "uptime_percent": 22.2,
+    "asn": "AS214529",
+    "isp": "DAM TELECOM SERVICES SRL",
+    "latency_ms": 4329.53,
+    "last_checked": 1795871269.8852365
   }
 ]
